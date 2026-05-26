@@ -6,8 +6,8 @@
  *   - /<slug>/ → one-page de la ciudad <slug>
  *
  * El dominio sirve:
- *   - redtalleres.es / www.redtalleres.es  → master directorio
- *   - <slug>.redtalleres.es                → reescribe a /<slug>/ vía env.ASSETS
+ *   - red-ista.es / www.red-ista.es  → master directorio
+ *   - <slug>.red-ista.es             → reescribe a /<slug>/ vía env.ASSETS
  *
  * Importante: usamos `env.ASSETS.fetch()` (binding inyectado por CF Pages) en
  * lugar de `fetch()` global. El fetch global mantiene el hostname público y
@@ -20,13 +20,13 @@ export async function onRequest(context) {
   const hostname = url.hostname.toLowerCase();
 
   // Dominio principal sin subdominio relevante → master directorio
-  const isApex = hostname === "redtalleres.es";
-  const isWww = hostname === "www.redtalleres.es";
+  const isApex = hostname === "red-ista.es";
+  const isWww = hostname === "www.red-ista.es";
 
   if (isApex) {
     // Redirige apex a www para consolidar señales SEO
     const target = new URL(url);
-    target.hostname = "www.redtalleres.es";
+    target.hostname = "www.red-ista.es";
     return Response.redirect(target.toString(), 301);
   }
 
@@ -34,9 +34,9 @@ export async function onRequest(context) {
     return next();
   }
 
-  // Subdominio de ciudad: <slug>.redtalleres.es
-  if (hostname.endsWith(".redtalleres.es")) {
-    const subdomain = hostname.replace(/\.redtalleres\.es$/, "");
+  // Subdominio de ciudad: <slug>.red-ista.es
+  if (hostname.endsWith(".red-ista.es")) {
+    const subdomain = hostname.replace(/\.red-ista\.es$/, "");
     if (subdomain && !subdomain.includes(".") && subdomain !== "www") {
       // Assets puros (.css/.webp/.js/.svg/etc) → servir tal cual.
       // NO incluimos .txt/.xml aquí porque /llms.txt, /robots.txt, /sitemap.xml
