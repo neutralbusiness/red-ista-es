@@ -9,9 +9,9 @@ export const NETWORK = {
   brand: "Red ISTA",
   sector: "ista",
   tagline: "La red de talleres mecánicos más grande de España",
-  phone: "+34641161771‬",
-  phoneDisplay: "641161771‬",
-  whatsapp: "34641161771‬",
+  phone: "+34641161771",
+  phoneDisplay: "641 161 771",
+  whatsapp: "34641161771",
   email: "info@red-ista.es",
   heroImage: "/img/hero.webp",       // se sube vía panel /webs/redes/redtalleres
 } as const;
