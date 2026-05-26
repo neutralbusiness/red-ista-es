@@ -177,5 +177,14 @@
     }
   ],
   "closingHeadline": "La solución para tu comunidad en Madrid",
-  "closingCta": "Si eres presidente, administrador o un propietario preocupado por tu comunidad, contacta con nosotros. Explícanos tu caso por teléfono, WhatsApp o email y te daremos una valoración clara para tu edificio en Madrid."
+  "closingCta": "Si eres presidente, administrador o un propietario preocupado por tu comunidad, contacta con nosotros. Explícanos tu caso por teléfono, WhatsApp o email y te daremos una valoración clara para tu edificio en Madrid.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA · Madrid",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }
