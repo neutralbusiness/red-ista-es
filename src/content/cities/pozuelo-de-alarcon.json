@@ -6,180 +6,194 @@
   "population": 82428,
   "lat": 40.43293,
   "lng": -3.81338,
-  "metaTitle": "Taller mecánico en Pozuelo de Alarcón — Multimarca y honesto",
-  "metaDescription": "Taller multimarca en Pozuelo. Especialistas en coches de 4 a 15 años. Presupuesto cerrado para revisiones, averías y pre-ITV. Pide tu cita y evita sorpresas.",
-  "heroSubtitle": "Sabes que las cuestas de Somosaguas y el atasco diario de la A-6 no perdonan. Mantén tu coche a punto con un diagnóstico claro y un precio sin sorpresas.",
+  "metaTitle": "Taller BMW y MINI en Pozuelo — Red ISTA · Diagnóstico Oficial",
+  "metaDescription": "Especialistas en BMW y MINI en Pozuelo. Diagnóstico oficial ISTA para tu coche de segunda mano, revisiones CBS y mecánica. Pide presupuesto cerrado.",
+  "heroSubtitle": "¿Acabas de comprar un BMW o un MINI de segunda mano en Pozuelo? Averigua su estado real con un diagnóstico ISTA oficial antes de que sea tarde.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Si conduces por Pozuelo de Alarcón, sabes que tu coche no tiene una vida fácil. No es lo mismo circular por un terreno llano que enfrentarse cada día a las pendientes de zonas como Montealina, La Cabaña o la subida hacia Prado de Somosaguas. Aquí, los frenos, la suspensión y las cajas de cambio automáticas trabajan más duro de lo normal. A eso le sumas el peaje diario de los atascos en la M-40 para ir a trabajar a Madrid o el tráfico denso de la Carretera de Castilla (M-503) en hora punta. Entendemos que tu coche no es solo un medio de transporte, es la herramienta que te da libertad y que necesitas que sea fiable, ya sea para el día a día o para una escapada de fin de semana a la Sierra de Guadarrama.\n\nEl parque móvil de Pozuelo es particular. Hay muchos coches de gama alta con unos cuantos años encima, que ya han salido del servicio oficial y cuyos dueños buscan un taller de confianza que entienda la mecánica de un BMW, un Audi o un Mercedes sin cobrar precios desorbitados. También vemos muchos SUV diésel que, seamos sinceros, raramente pisan el campo. Su rutina son trayectos cortos para llevar a los niños al colegio por la Avenida de Europa o para ir al Zielo Shopping. Este tipo de uso es el peor enemigo de los filtros de partículas (DPF) y los sistemas EGR, provocando averías que se pueden prevenir con un mantenimiento adecuado y un conocimiento específico que va más allá de cambiar el aceite y los filtros.\n\nEl clima continental de Madrid es otro factor clave que no se puede ignorar. El verano en Pozuelo es seco y muy caluroso, poniendo a prueba el sistema de refrigeración y el aire acondicionado de cualquier coche. Un electroventilador que no salta a tiempo en un atasco en la M-40 en pleno julio puede significar un calentón y una avería muy seria. En invierno, el frío intenso y las heladas matutinas en zonas más abiertas como La Finca son la prueba de fuego para las baterías. ¿Cuántas veces has oído a un vecino decir que el coche no le arrancaba una mañana de enero? No es casualidad, es el resultado de un clima exigente que debilita componentes clave si no se revisan a tiempo.\n\nPor eso, un buen diagnóstico es fundamental. No se trata de cambiar piezas por cambiar. Se trata de entender por qué se ha desgastado un componente. ¿Tus frenos se gastan antes de tiempo? Quizás sea por la orografía de Pozuelo y necesites unas pastillas y discos de mayor calidad. ¿Notas que el coche consume más de la cuenta? Podría ser un problema en la inyección derivado de los trayectos cortos y el combustible. Como aficionados al motor, nos gusta ir al fondo del asunto, explicarte el porqué de las cosas con un lenguaje claro. Queremos que entiendas tu coche y que tomes decisiones informadas, sin tecnicismos vacíos ni presiones.\n\nNuestra propuesta para ti, que vives o trabajas en Pozuelo de Alarcón, es simple: un servicio de taller honesto, con un presupuesto cerrado que respetamos a rajatabla y una comunicación directa. Antes de sustituir cualquier tornillo, te llamaremos para explicarte la situación y darte el coste exacto. Se acabaron las facturas infladas y la incertidumbre. Ya vengas del pueblo, de la zona de la Estación o de urbanizaciones como Monteclaro, aquí encontrarás un equipo que habla tu idioma y trata tu coche como si fuera el suyo.",
-  "servicesIntro": "Realizamos desde la revisión oficial hasta la diagnosis electrónica más compleja, tratando cada coche que entra en nuestro taller de Pozuelo con la máxima seriedad.",
-  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado por escrito y no hacemos nada sin tu aprobación.",
+  "introLocal": "Enhorabuena, te acabas de comprar un BMW o un MINI. Has encontrado una buena unidad de segunda mano y ahora te preguntas si la compra ha sido tan buena como parece. Es una sensación muy común en Pozuelo de Alarcón. Aquí, el mercado de vehículos premium de ocasión es muy activo; muchos vecinos de zonas como La Finca, Somosaguas o Montealina cambian de coche con frecuencia, y esas unidades acaban de nuevo en circulación. El problema es que un exterior impecable puede esconder un historial de mantenimiento deficiente o averías latentes. Antes de disfrutarlo por la M-503 o aparcarlo con orgullo en la Avenida de Europa, necesitas saber la verdad. No una opinión, sino un diagnóstico objetivo con el mismo equipo que usan en la casa oficial.\n\nEl parque de BMW y MINI en Pozuelo es particular. No es como en otras ciudades de Madrid. Aquí vemos una concentración mucho mayor de gamas altas: X5, X6, Serie 5 y Serie 7, con motorizaciones potentes como los 3.0 diésel (B57) y gasolina (B58). Esto significa sistemas más complejos: suspensión neumática, dirección activa integral, cajas de transferencia xDrive que requieren un conocimiento muy específico. Comprar un X5 xDrive40i de segunda mano no es como comprar un utilitario. Sus sistemas son delicados y una avería no detectada a tiempo puede costar miles de euros. Por eso, cuando un cliente de Pozuelo nos trae su coche recién adquirido, no nos limitamos a un chequeo superficial. Profundizamos en la electrónica de cada módulo.\n\nLa forma de conducir en Pozuelo también deja su huella. Los trayectos cortos y repetidos para llevar a los niños al colegio por Prado de Somosaguas o para hacer la compra en el Zielo son el peor enemigo del filtro de partículas (DPF) de un motor diésel moderno como el B47. Sin tiempo para regenerar, el filtro se satura y provoca averías costosas. Por otro lado, el calor extremo del verano madrileño pone a prueba el sistema de refrigeración y el aire acondicionado, mientras que las heladas de invierno en zonas más abiertas como Húmera pueden ser el golpe de gracia para una batería que ya no estaba en su mejor momento. Estos son los detalles que un vendedor particular (o incluso profesional) a menudo pasa por alto, pero que nuestro equipo detecta.\n\nAquí es donde entra en juego nuestro sistema de diagnóstico oficial ISTA/Rheingold. No es una máquina de diagnosis multimarca. Es el software oficial de BMW, conectado en tiempo real a los servidores de la marca en Alemania. Cuando conectamos tu coche, accedemos a la misma información que un concesionario. Podemos ver el historial completo de averías registradas (incluso las que han sido borradas), comprobar el kilometraje real almacenado en diferentes unidades de control (como la llave o el módulo de luces) para detectar posibles manipulaciones, y realizar pruebas activas de componentes como el sistema Vanos/Valvetronic o la mecatrónica de la caja de cambios ZF 8HP. Es la única forma de tener una radiografía completa y fiable del estado real de tu BMW o MINI.\n\nSomos un taller independiente homologado por Red ISTA, la red de especialistas en BMW y MINI más grande de España. Esto significa que te ofrecemos la misma capacidad técnica y de diagnóstico que el concesionario oficial que puedas tener cerca en la A-6 o Majadahonda, pero con la estructura de costes de un taller especialista de Pozuelo. No gastamos en enormes exposiciones ni en personal de corbata. Invertimos en formación continua y en la mejor herramienta. Si acabas de invertir en un BMW o MINI de segunda mano, la mejor decisión que puedes tomar ahora es traerlo para una inspección a fondo. Te daremos un informe transparente y un presupuesto cerrado para cualquier intervención que necesite, para que conduzcas con total tranquilidad.",
+  "servicesIntro": "Desde la inspección post-compra de un Serie 4 hasta la revisión CBS de un MINI Countryman, estos son nuestros servicios especializados en Pozuelo.",
+  "processIntro": "Nuestro método es sencillo y transparente: diagnóstico oficial ISTA, presupuesto cerrado y tu autorización antes de tocar nada. Así trabajamos.",
   "processSteps": [
     {
-      "title": "Diagnóstico y análisis",
-      "body": "Escuchamos lo que notas en el coche y conectamos nuestro equipo de diagnosis para identificar el origen real del problema. No dejamos nada al azar, comprobamos todos los parámetros para asegurar un diagnóstico preciso."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado en tu móvil o email, con el coste de piezas y mano de obra desglosado. El precio que ves es el precio final que pagarás, sin extras ni sorpresas de última hora."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas en la factura final."
     },
     {
-      "title": "Tu autorización",
-      "body": "Revisa el presupuesto tranquilamente. No empezaremos ninguna reparación hasta que nos des tu confirmación explícita. Si decides no reparar, solo se cobrará el tiempo de diagnóstico si procede, y te lo habremos advertido antes."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca en tu coche sin tu OK por escrito. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación experta",
-      "body": "Utilizamos recambios de primeras marcas, equivalentes a los originales, y seguimos los procedimientos del fabricante. Todas nuestras reparaciones tienen garantía para tu total tranquilidad."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos las piezas sustituidas si lo deseas. Nos aseguramos de que todo haya quedado a tu gusto."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos de servicio del cuadro (CBS), actualizamos el libro de mantenimiento digital de tu BMW y realizamos una prueba de carretera para asegurar que todo funciona perfecto antes de entregártelo."
     }
   ],
-  "commonIssuesIntro": "La combinación de cuestas, tráfico denso en la M-40 y trayectos cortos por Pozuelo provoca un desgaste y unas averías muy características que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "Averías como la cadena del motor N47, el consumo de aceite en los B48, fallos en la mecatrónica de la caja ZF 8HP o problemas con la suspensión neumática son nuestro día a día. Sabemos exactamente dónde mirar.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos",
-      "body": "Las constantes subidas y bajadas en zonas como Somosaguas o Montealina exigen mucho a los frenos. Si además circulas habitualmente por la A-6 en hora punta, el uso intensivo es constante. Revisamos todo el sistema: discos, pastillas, latiguillos y líquido, recomendando componentes que aguanten mejor esta fatiga."
+      "title": "Inspección Post-Compra y Kilometraje Real",
+      "body": "Muchos BMW de segunda mano que vemos en Pozuelo han tenido varios dueños. Conectamos ISTA para leer el historial de fallos y, crucialmente, contrastar los kilómetros del cuadro con los almacenados en módulos como el de luces (LM) o la propia llave. Te damos un informe completo para que sepas si tu compra en la zona de Aravaca o Húmera ha sido un acierto o necesita atención inmediata."
     },
     {
-      "title": "Problemas con el filtro de partículas (DPF)",
-      "body": "Muchos diésel en Pozuelo hacen recorridos cortos: al colegio, al supermercado, a la estación de Cercanías. El motor no alcanza la temperatura para regenerar el DPF y se acaba obstruyendo. Realizamos limpiezas y regeneraciones forzadas para evitar la costosa sustitución del filtro."
+      "title": "Filtro de Partículas (DPF) por Trayectos Cortos",
+      "body": "El uso típico en Pozuelo, de casa al colegio o al centro comercial Zielo, es mortal para el DPF de los motores diésel B47 y B57. Los trayectos cortos impiden la regeneración. Con ISTA forzamos la regeneración o diagnosticamos si el sensor está fallando, evitando una costosa sustitución. Es un problema muy común en los X3 y X5 que circulan por la M-503."
     },
     {
-      "title": "Fatiga de suspensión y silentblocks",
-      "body": "Los badenes y resaltos de las zonas residenciales, sumados a las irregularidades del asfalto y las rotondas de la Avenida de Europa, pasan factura a amortiguadores y silentblocks. Un coche con la suspensión en mal estado es inestable y desgasta mal los neumáticos. Lo revisamos a fondo."
+      "title": "Fugas de Aceite en Motores B48/B58",
+      "body": "Los motores gasolina turbo modernos, muy populares en los Serie 3 y 4 de la zona, tienden a desarrollar fugas en la junta de la tapa de balancines o el soporte del filtro de aceite. El calor extremo del verano madrileño acelera el desgaste del material. Lo detectamos a tiempo, evitando que el aceite caiga sobre el alternador o correas y cause una avería mayor."
     },
     {
-      "title": "Averías en el sistema de climatización",
-      "body": "Los veranos de más de 35ºC fuerzan el compresor del aire acondicionado al máximo. La falta de gas o una fuga en el circuito son problemas comunes que detectamos y reparamos para que no te ases de calor en el atasco de la M-40 en agosto."
+      "title": "Suspensión Neumática en Modelos X",
+      "body": "Los BMW X5 y X6 son muy habituales por la zona de La Finca. Su suspensión neumática trasera es un punto débil con los años. Si ves el coche caído de un lado al aparcarlo, es una fuga en la balona. Diagnosticamos con ISTA si el fallo es de la balona, el sensor de altura o el compresor, ofreciendo recambio OE a un precio mucho más razonable que el concesionario."
     },
     {
-      "title": "Fallos de batería en invierno",
-      "body": "El frío intenso de las mañanas de invierno en Pozuelo es el remate para una batería que ya está algo tocada. Si el coche duerme en la calle, el riesgo se multiplica. Comprobamos el estado de tu batería y el alternador para que no te deje tirado en el peor momento."
+      "title": "Fallos Electrónicos en Sistema Multimedia (NBT/EVO)",
+      "body": "La pantalla se queda en negro, el iDrive no responde... Los sistemas de infoentretenimiento son complejos. Antes de cambiar la unidad entera, que cuesta una fortuna, diagnosticamos y a menudo podemos solucionar el problema con una reprogramación o codificación. Es un fallo frecuente en coches de 2014-2018 que vemos a diario en nuestro taller de Pozuelo."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu zona",
-      "body": "Entendemos perfectamente los problemas que genera conducir a diario por Pozuelo, la M-40 y la A-6. Nuestro diagnóstico y recomendaciones están basados en esa realidad local, no en manuales genéricos."
+      "title": "Diagnóstico Nivel Concesionario",
+      "body": "Usamos el mismo software ISTA que el concesionario oficial de la A-6, pero con la agilidad y el trato directo de un taller especialista de Pozuelo. Vemos lo que otros no ven."
     },
     {
-      "title": "Sin sorpresas en la factura",
-      "body": "El presupuesto que te damos es el que pagas. Si durante la reparación encontramos algo más, paramos, te llamamos, te lo explicamos y tú decides. La confianza se basa en la transparencia."
+      "title": "Especialistas, No Generalistas",
+      "body": "Solo tocamos BMW y MINI. Conocemos las manías del motor N47, los caprichos del Valvetronic y los secretos de la caja ZF 8HP. No aprendemos con tu coche, ya venimos enseñados."
     },
     {
-      "title": "Solo recambios de calidad",
-      "body": "No escatimamos en la calidad de las piezas. Usamos recambios de primeras marcas con garantía, asegurando una reparación duradera y fiable. Tu seguridad es lo primero."
+      "title": "Presupuesto Sin Sorpresas",
+      "body": "Lo que presupuestamos es lo que pagas. Si surge algo imprevisto, paramos y te llamamos. La transparencia es la base de la confianza que tenemos con nuestros clientes de Pozuelo y Aravaca."
     },
     {
-      "title": "Diagnóstico, no adivinación",
-      "body": "Invertimos en equipos de diagnosis multimarca para encontrar el origen real de la avería. No cambiamos piezas al azar, vamos a la raíz del problema para solucionarlo de forma definitiva."
+      "title": "Recambio OE o BMW Original",
+      "body": "Tú eliges. Te explicamos la diferencia entre un recambio original BMW y uno de calidad equivalente (OE) de marcas como Bosch, Sachs o Lemförder para que tomes la mejor decisión."
     },
     {
-      "title": "Hablamos claro",
-      "body": "Te explicamos la avería de tu coche de forma que la entiendas, sin tecnicismos innecesarios. Queremos que sepas qué le pasa a tu coche y por qué es necesario repararlo."
+      "title": "Homologados por Red ISTA",
+      "body": "Formar parte de una red nacional de más de 100 talleres especializados te da una garantía extra. No somos un taller cualquiera; seguimos protocolos y estándares de calidad probados."
+    },
+    {
+      "title": "Actualización del Historial Digital",
+      "body": "Registramos cada mantenimiento que hacemos directamente en el servidor de BMW. Tu historial digital queda perfectamente actualizado, manteniendo el valor de reventa de tu coche intacto."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de clientes y situaciones que atendemos cada día en Pozuelo, para que veas cómo trabajamos y qué puedes esperar de nosotros.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales con las que ayudamos a conductores de BMW y MINI en Pozuelo. Te servirán para hacerte una idea de cómo trabajamos.",
   "testimonials": [
     {
-      "name": "Javier",
+      "name": "Carlos",
       "neighborhood": "Prado de Somosaguas",
-      "car": "Audi A4 Avant 2.0 TDI 2015",
-      "body": "Notaba que el coche daba tirones a bajas revoluciones y a veces salía un aviso de motor. En otro sitio me hablaron de cambiar inyectores, un dineral. Aquí diagnosticaron un problema en la válvula EGR por los trayectos cortos a la oficina por la M-503. La limpiaron a fondo y el coche va perfecto. Me ahorraron un pastón.",
+      "car": "BMW X5 xDrive30d G05 2019",
+      "body": "Acababa de comprar el X5 de segunda mano y no me fiaba del todo. Lo traje para una revisión completa con ISTA. Me sacaron un informe detallado con un par de fallos menores que el vendedor no mencionó. Me sirvió para renegociar el precio. Un servicio que se paga solo y mucho más transparente que el concesionario oficial.",
       "rating": 5
     },
     {
       "name": "María",
-      "neighborhood": "Pozuelo Estación",
-      "car": "Toyota Yaris Hybrid 2018",
-      "body": "Llevé el coche para la revisión de los 60.000 km. Me dieron el presupuesto cerrado por WhatsApp, más barato que en el concesionario oficial. Cumplieron el plazo y me avisaron para recogerlo. Todo claro y profesional. Me explicaron que los frenos estaban bien, sin intentar venderme nada que no necesitara.",
-      "rating": 5
-    },
-    {
-      "name": "Borja",
       "neighborhood": "La Finca",
-      "car": "BMW X5 30d 2013",
-      "body": "La suspensión neumática trasera se venía abajo de un día para otro. Me dieron un diagnóstico claro: una de las balonas tenía una fuga. Me buscaron una de primera marca, no la original que es carísima, y me la montaron. El coche vuelve a ir nivelado. Trato serio y conocen bien estos coches.",
+      "car": "MINI Cooper S F56 2018",
+      "body": "El coche empezó a dar tirones y se encendió el testigo de motor. En otro taller me hablaban de cambiar medio motor. Aquí conectaron la máquina, vieron que era un fallo en el sistema Valvetronic, lo recalibraron y ajustaron. Problema resuelto por una fracción del coste. Se nota que saben lo que tocan.",
       "rating": 5
     },
     {
-      "name": "Sofía",
-      "neighborhood": "Húmera",
-      "car": "Peugeot 308 1.2 PureTech 2016",
-      "body": "Tenía que pasar la ITV y no estaba segura. Lo traje para una revisión pre-ITV. Me cambiaron unas bombillas y ajustaron la alineación de las ruedas, que las gastaba por el borde por los badenes del barrio. Pasó la ITV a la primera. Buen servicio, aunque tardaron un poco más de lo que me dijeron inicialmente.",
+      "name": "Javier",
+      "neighborhood": "Pozuelo Estación",
+      "car": "BMW 320d F30 2015",
+      "body": "Me tocaba la revisión CBS de aceite y filtros. Pedí presupuesto aquí y en el concesionario de Majadahonda y la diferencia era enorme, usando el mismo aceite Castrol LL-04 y filtros Mahle. Me sellaron el historial digital y todo perfecto. Para el mantenimiento, no vuelvo al oficial.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Aravaca",
+      "car": "BMW 118i F20 2017",
+      "body": "Se me estropeó la bomba de agua eléctrica y el coche se calentaba. Me dieron un presupuesto cerrado y cumplieron el plazo. El trato fue muy cercano, me explicaron la avería con paciencia. Aunque me queda un poco más lejos que otros talleres, la confianza que me dan merece la pena.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda la zona de Pozuelo de Alarcón y municipios colindantes. Si vives o trabajas en el casco urbano, la zona de la Estación, la Avenida de Europa o urbanizaciones como La Finca, Montealina, Prado de Somosaguas o La Cabaña, estás en nuestra área de influencia. También cubrimos zonas limítrofes como Aravaca, Húmera y Majadahonda. Nuestros talleres tienen un acceso muy cómodo desde las principales vías que vertebran la zona, como la M-40 (salidas 38, 40 y 41), la A-6 (Carretera de La Coruña) y la M-503 (Carretera de Castilla), facilitando que puedas dejarnos el coche de camino al trabajo o al volver a casa.",
+  "zoneText": "Nuestro taller especialista en BMW y MINI da servicio a todo Pozuelo de Alarcón. Tanto si vives en urbanizaciones como La Finca, Prado de Somosaguas o Montealina, como si estás en zonas más céntricas como el Pueblo o Pozuelo Estación, estamos a tu alcance. Tenemos un acceso muy cómodo desde la M-40 y la M-503 (la carretera de Castilla), lo que nos convierte en una opción ideal no solo para residentes de Pozuelo, sino también para clientes de municipios cercanos como Majadahonda, Boadilla del Monte y Aravaca, que buscan un especialista de confianza sin los precios de un concesionario oficial. Muchos de nuestros clientes vienen directamente desde el campus de Somosaguas o la Ciudad de la Imagen.",
   "zoneNeighborhoods": [
-    "Pozuelo Pueblo",
-    "Pozuelo Estación",
-    "Avenida de Europa",
-    "Prado de Somosaguas",
     "La Finca",
+    "Somosaguas",
+    "Prado de la Vega",
     "Montealina",
+    "Pozuelo Estación",
+    "Aravaca",
     "Húmera",
     "Colonia de los Ángeles",
-    "Aravaca"
+    "El Barrial",
+    "Boadilla del Monte"
   ],
   "zoneAccessRoutes": [
-    "A-6 (Autovía del Noroeste)",
     "M-40",
-    "M-503 (Carretera de Castilla)",
-    "M-502 (Carretera de Carabanchel a Pozuelo)"
+    "M-503",
+    "A-6",
+    "M-502",
+    "M-511"
   ],
   "faqLocal": [
     {
-      "q": "Conduzco un diésel para ir de Pozuelo al centro de Madrid, ¿cómo evito problemas con el DPF?",
-      "a": "Es un caso muy común. El tráfico denso de la A-6 y la M-30 impide que el filtro se regenere bien. Te recomendamos que, al menos una vez por semana, salgas a carretera (M-40 o M-50) y conduzcas durante 15-20 minutos a un régimen más alto, sobre las 2.500-3.000 rpm en 4ª o 5ª. Esto ayuda a quemar la carbonilla acumulada y alargar la vida del filtro."
+      "q": "¿Acabo de comprar un 420d de segunda mano cerca de Pozuelo, qué miráis en una inspección inicial?",
+      "a": "Conectamos el diagnóstico oficial ISTA y hacemos un barrido completo de todos los módulos. Buscamos códigos de error pasados y presentes, verificamos el kilometraje real almacenado en varias centralitas (no solo en el cuadro), revisamos el estado de la cadena de distribución del motor B47, la salud del filtro de partículas (DPF) y el estado de la caja de cambios automática. Además, hacemos una inspección visual completa de bajos, fugas, suspensión y frenos."
     },
     {
-      "q": "¿Es necesario poner neumáticos de invierno o todo tiempo en Pozuelo?",
-      "a": "No es estrictamente necesario como en la Sierra, pero sí muy recomendable. En invierno, hay muchas mañanas con heladas en zonas sombrías y húmedas, sobre todo en las urbanizaciones. Un neumático todo tiempo te dará un plus de seguridad enorme con temperaturas por debajo de 7ºC y en caso de nevada ocasional, sin el engorro de tener dos juegos de ruedas."
+      "q": "Tengo un X5 y hago muchos trayectos cortos por Pozuelo y Aravaca. ¿Cómo evito problemas con el DPF?",
+      "a": "Es el escenario perfecto para saturar el filtro de partículas. Para evitarlo, es recomendable que al menos una vez por semana hagas un trayecto más largo por la M-40 o la A-6, manteniendo el motor por encima de 2.000 rpm durante unos 20-30 minutos. Esto ayuda a que el sistema complete el ciclo de regeneración. Si ya tienes el aviso, tráelo y forzamos una regeneración en el taller o diagnosticamos el problema."
     },
     {
-      "q": "Mi coche tiene cambio automático y vivo en una zona con muchas cuestas, ¿necesita un mantenimiento especial?",
-      "a": "Absolutamente. Las cajas automáticas sufren más en orografías como la de Pozuelo. El aceite de la transmisión (ATF) se degrada más rápido por la mayor temperatura. Es vital respetar los intervalos de cambio de aceite y filtro de la caja, aunque el fabricante diga que es 'de por vida'. Es la mejor inversión para evitar una avería muy costosa."
+      "q": "Vivo en La Finca y la suspensión de mi Serie 7 hace ruidos. ¿Reparáis suspensión adaptativa?",
+      "a": "Sí, estamos totalmente familiarizados con las suspensiones adaptativas (EDC) y neumáticas de los modelos de gama alta de BMW. Con ISTA podemos diagnosticar si el fallo proviene de un amortiguador, un sensor de altura o el módulo de control. Utilizamos recambio de calidad OE (como Sachs o Bilstein, que son los fabricantes originales) para asegurar un comportamiento idéntico al de fábrica a un coste más contenido."
     },
     {
-      "q": "Paso la ITV en la estación de Pozuelo, ¿sois muy estrictos con los gases?",
-      "a": "Sí, las estaciones de ITV de la Comunidad de Madrid son rigurosas, especialmente con los diésel. En nuestra revisión pre-ITV no solo miramos luces y frenos, también hacemos una prueba de opacidad. Si los valores son altos, podemos hacer una descarbonización del motor para asegurar que pases la prueba sin problemas."
+      "q": "El concesionario oficial me pide una fortuna por cambiar el aceite de la caja ZF 8HP de mi X3. ¿Lo hacéis?",
+      "a": "Por supuesto. Realizamos el mantenimiento completo de la caja de cambios automática ZF 8HP, un servicio crucial. Usamos el kit de mantenimiento oficial de ZF (cárter-filtro nuevo y aceite específico), y realizamos el proceso a la temperatura correcta y con el reseteo de adaptaciones vía ISTA. Es vital para la longevidad de la caja y mucho más asequible que en el servicio oficial."
     },
     {
-      "q": "Trabajo en La Finca y solo uso el coche para ir y volver, ¿qué revisión me recomendáis?",
-      "a": "Para ese tipo de uso, con trayectos cortos y frecuentes arranques en frío, lo más importante es acortar los intervalos de cambio de aceite. Aunque el coche te marque 30.000 km, es mejor hacerlo cada 15.000 km o una vez al año. Así proteges el motor y evitas la formación de lodos y carbonillas."
+      "q": "Mi MINI Cooper tiene muchos 'grillos' y ruidos interiores. ¿Podéis ayudarme con eso?",
+      "a": "Sí, los ruidos interiores son un clásico en los MINI. Tenemos mucha experiencia localizando y eliminando esos molestos 'grillos' que suelen provenir de los paneles de las puertas, el salpicadero o la zona del portón trasero. Requiere paciencia y conocer los puntos débiles del ensamblaje, algo que un taller generalista no suele hacer. Tráelo y le echamos un vistazo."
     },
     {
-      "q": "Aparco en la calle en Pozuelo Pueblo, ¿qué componentes sufren más?",
-      "a": "Aparte de la batería en invierno por el frío, los plásticos exteriores, gomas de las puertas y la pintura sufren mucho con el sol intenso del verano madrileño. También los neumáticos se resecan antes. Es importante revisar el estado de los limpiaparabrisas y aplicar algún producto protector a las gomas."
+      "q": "He visto un BMW de importación de Alemania. ¿Podéis verificar su historial y adaptarlo para España?",
+      "a": "Sí, es un servicio que hacemos a menudo. Con ISTA podemos leer el historial de mantenimiento digital si está grabado en el coche y la llave. Además, podemos realizar la codificación necesaria para adaptar el vehículo al mercado español: cambiar el idioma del sistema iDrive, ajustar las unidades de medida y activar o desactivar funciones para la ITV."
     },
     {
-      "q": "Me muevo mucho por la M-40 y la A-6, ¿qué es lo primero que debería revisar en mi coche?",
-      "a": "Para un uso intensivo en autovía, la seguridad es clave. Revisa la presión y el estado de los neumáticos semanalmente, es tu único punto de contacto con el asfalto. Lo segundo, los frenos. Y tercero, asegúrate de que el sistema de refrigeración funciona perfectamente. Un calentón en pleno atasco es un problema muy serio."
+      "q": "¿Puedo esperar mientras hacéis un diagnóstico en vuestro taller de Pozuelo?",
+      "a": "Para un diagnóstico inicial con ISTA o una intervención rápida, generalmente puedes esperar en nuestra zona de clientes. Sin embargo, para revisiones CBS o reparaciones más complejas, es mejor dejar el coche. Siempre te daremos un plazo estimado y te avisaremos por móvil en cuanto esté listo para que puedas organizarte sin problemas."
+    },
+    {
+      "q": "Tengo la garantía oficial de mi BMW, ¿la pierdo si hago la revisión CBS con vosotros?",
+      "a": "No, en absoluto. Gracias al reglamento europeo, puedes realizar el mantenimiento de tu coche en un taller independiente cualificado como el nuestro, siempre que se sigan las especificaciones del fabricante y se usen recambios de calidad original o equivalente. Anotamos la revisión en el libro de mantenimiento digital de tu BMW, por lo que todo queda registrado de cara a la garantía."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Pozuelo de Alarcón",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario. Te daremos una solución clara y honesta para tu coche en Pozuelo."
+  "closingHeadline": "Tu BMW o MINI en las mejores manos en Pozuelo",
+  "closingCta": "Si acabas de comprar tu coche o simplemente buscas un taller de confianza, pide tu cita. Llámanos o envíanos un WhatsApp y te daremos un presupuesto cerrado para tu BMW o MINI en Pozuelo de Alarcón."
 }
