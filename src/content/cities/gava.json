@@ -6,176 +6,185 @@
   "population": 45994,
   "lat": 41.30605,
   "lng": 2.00123,
-  "metaTitle": "Taller Mecánico en Gavà — Presupuestos Cerrados, Sin Sorpresas",
-  "metaDescription": "Reparamos tu coche en Gavà con un presupuesto claro y cerrado. Mecánica, revisiones, neumáticos y Pre-ITV. Pide tu diagnóstico honesto hoy.",
-  "heroSubtitle": "¿Cansado de facturas infladas y de no entender qué le pasa a tu coche? En Gavà, volvemos a lo básico: un trato honesto y un precio que no cambia.",
+  "metaTitle": "Taller BMW y MINI en Gavà — Red ISTA · Sin perder garantía",
+  "metaDescription": "Taller especialista BMW y MINI en Gavà homologado por Red ISTA. Mantenimiento de tu coche en garantía sin perderla. Diagnóstico oficial ISTA. Pide tu presupuesto cerrado.",
+  "heroSubtitle": "Tu BMW o MINI tiene menos de 5 años y crees que estás atado al concesionario oficial de Sant Boi para no perder la garantía? No es así.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Seamos claros: tener coche en Gavà es una necesidad, pero llevarlo al taller no debería ser una lotería. Si estás aquí, es probable que ya sepas de lo que hablamos. De ese presupuesto que empieza siendo una cosa y acaba siendo otra. De explicaciones técnicas que nadie entiende y de esa sensación de no tener el control. Conducir a diario por la C-31 hacia Barcelona o la Zona Franca ya es suficientemente estresante, con sus atascos mañaneros y frenazos inesperados, como para sumarle la desconfianza en tu mecánico. El desgaste que sufre tu embrague en el tráfico denso de la Rambla o buscando aparcamiento por el centro no es ninguna broma, y mereces saber exactamente cuánto te va a costar solucionarlo, sin rodeos ni sorpresas de última hora.\n\nAquí el coche sufre de dos maneras muy distintas. Por un lado, la batalla urbana: los semáforos de la Avinguda d'Eramprunyà, las rotondas para ir al Barnasud o al Parc del Calamot, el constante para-arranca que castiga frenos y transmisiones. Por otro, el trote de la autopista: esos kilómetros por la C-32 para evitar el colapso de la autovía, que exigen un motor afinado y unos neumáticos en perfecto estado. Y no nos olvidemos del clima. El verano gavanense, con su humedad pegajosa, pone a prueba los sistemas de refrigeración y el aire acondicionado. Y si vives o aparcas a menudo en Gavà Mar, el salitre es un enemigo silencioso que corroe la carrocería, los bajos y los contactos eléctricos. Tu coche necesita un mantenimiento que entienda esta doble vida, la de la ciudad y la del litoral.\n\nEl parque móvil de Gavà es como la propia ciudad: diverso y trabajador. Vemos a diario el diésel de batalla con más de 150.000 kilómetros que cada día se juega el tipo en la Ronda de Dalt, el coche familiar que los fines de semana sube al Parc del Garraf y el gasolina más compacto para moverse por Les Bòbiles o Can Tintorer. Son coches que tienen entre 4 y 15 años, que ya no están en garantía oficial pero que son vitales para el día a día. Por eso, cuando algo falla, no solo es una faena, es un problema logístico y económico. Entendemos que no buscas lujos, sino soluciones. Que tu coche arranque por la mañana, que pase la ITV en Sant Boi a la primera y que no te deje tirado volviendo de Castelldefels una noche de verano.\n\nNuestra propuesta es tan directa como el trayecto de la B-210 hacia la playa: transparencia total. Tu paso por el taller no será como un atasco en la C-31 a las ocho de la mañana: lleno de parones, incertidumbre y cabreos. Aquí, el proceso es lineal y claro. Primero, un diagnóstico honesto. Segundo, un presupuesto cerrado y detallado por escrito. Tercero, y más importante, no tocamos un solo tornillo sin tu autorización explícita. Se acabó el miedo a la llamada del taller. Con nosotros, la única llamada que recibirás será para confirmar lo que ya sabes y para decirte que tu coche está listo para volver a la carretera con seguridad.",
-  "servicesIntro": "Desde la revisión anual para tu coche que circula por Gavà hasta averías complejas, cubrimos todas las necesidades de tu vehículo con claridad y sin sorpresas.",
-  "processIntro": "Trabajamos con un método simple y transparente: diagnosticamos, te presentamos un presupuesto cerrado y solo actuamos con tu visto bueno.",
+  "introLocal": "Si conduces un BMW o un MINI de última generación por Gavà, es probable que te hayas hecho esta pregunta: ¿estoy obligado a llevarlo al concesionario oficial, quizá al de Sant Boi o L'Hospitalet, para pasar la revisión y no perder la garantía? La respuesta corta es no. El Reglamento (UE) 461/2010 te ampara. Puedes realizar el mantenimiento en un taller independiente cualificado, como el nuestro, siempre que sigamos el plan del fabricante y usemos recambios de calidad original (OE) o equivalentes. En nuestro centro de Gavà, homologado por Red ISTA, no solo cumplimos con la normativa a rajatabla, sino que lo hacemos con el mismo equipo de diagnóstico oficial ISTA que usan ellos, pero con la cercanía y los costes de un taller especialista de tu ciudad.\n\nEl tipo de conducción en Gavà es un desafío para la mecánica de un BMW. Por un lado, tienes los trayectos cortos y repetitivos: ir a la estación de Rodalies, acercarse al Mercat de Pagès en la Plaça de Jaume Balmes o moverse por el núcleo urbano con su tráfico denso. Este uso provoca que los motores diésel, como los B47 y N47 tan comunes en los X1 y Serie 3, no alcancen la temperatura óptima para regenerar el filtro de partículas (DPF). Tratar el DPF de tu BMW en Gavà es como intentar correr un maratón entrenando solo en sprints de 100 metros; necesita estirarse en la autovía para no agarrotarse. Por otro lado, tenemos la vía de escape: la C-31 hacia Barcelona o Castelldefels, donde el motor puede por fin respirar, pero que somete a la transmisión ZF 8HP a un estrés diferente. Este cóctel de usos requiere un mantenimiento preventivo que un plan estándar a menudo ignora.\n\nEntendemos perfectamente el parque móvil de nuestra zona. Vemos a diario los BMW X1 y X3 de familias de Gavà Mar, cuyos componentes electrónicos sufren el ambiente salino, o los MINI Cooper y Serie 1 de quienes viven en Les Bòbiles o Can Tintorer y los usan para el día a día. Conocemos los problemas endémicos que este estilo de vida provoca: desde el desgaste prematuro de los frenos por el constante para-arranca en la C-245 en hora punta hasta el estrés que sufre la suspensión en las calles con badenes de la zona centro. No eres un número de chasis más; eres el propietario de un BMW en Gavà, y tus necesidades son específicas de esta geografía y este ritmo de vida.\n\nLa clave para mantener tu coche en garantía fuera del concesionario es la tecnología. Nuestro taller está equipado con el sistema de diagnóstico oficial BMW ISTA/Rheingold. No es una copia ni un software multimarca. Es la misma herramienta, conectada en tiempo real a los servidores de BMW AG en Múnich. Esto nos permite hacer mucho más que leer códigos de error. Podemos registrar la revisión en el historial digital de tu coche (fundamental para el valor de reventa), codificar nuevos módulos como una batería AGM tras su reemplazo —algo vital con el sistema Start-Stop— o realizar ajustes de software y campañas técnicas. Es el cerebro del concesionario, pero en un taller de Gavà.\n\nEn definitiva, elegir nuestro centro Red ISTA en Gavà significa tomar una decisión inteligente. Obtienes la misma seguridad técnica y el cumplimiento estricto de los requisitos de la garantía que en un servicio oficial, pero con la flexibilidad, la transparencia en el presupuesto y el trato personalizado de un taller especialista que conoce tu entorno. Dejas de estar atado a una única opción y ganas un aliado que entiende tanto tu BMW B48 como los atajos para evitar el tráfico de la Rambla. Te ofrecemos la tranquilidad de saber que tu inversión está protegida, tanto mecánica como legalmente, sin pagar los sobrecostes de una gran estructura.",
+  "servicesIntro": "Desde la revisión CBS según normativa para tu MINI en garantía hasta la reparación de la caja de transferencia de tu X5, te ofrecemos un servicio integral en Gavà.",
+  "processIntro": "Así es como cuidamos de tu BMW o MINI en Gavà: un proceso de 5 pasos basado en la precisión técnica y tu total tranquilidad.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos el problema, conectamos el coche a nuestros equipos de diagnosis y realizamos una inspección visual completa. Identificamos el origen real de la avería, no solo el síntoma, para que no vuelvas en dos semanas por lo mismo."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos por WhatsApp o email un presupuesto detallado con mano de obra y piezas. El precio que ves es el precio que pagas. Sin asteriscos, sin letra pequeña, sin sorpresas en la factura final. Claridad ante todo."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información. Sin letra pequeña ni sorpresas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos un cheque en blanco. Revisas el presupuesto con calma y nos das tu aprobación por escrito. Hasta que no dices \"adelante\", tu coche no se toca. Tú tienes siempre el control total sobre la reparación."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos si es necesario y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso si la reparación se alarga más de lo previsto. Eficacia y comunicación constante."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y la herramienta adecuada para cada tarea."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura, que coincide con el presupuesto. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS, actualizamos el libro digital de mantenimiento en el iDrive y en los servidores de BMW, y realizamos una prueba final para asegurar que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "La combinación de atascos en la C-31, la humedad de Gavà Mar y el calor del verano crea un cóctel de problemas mecánicos muy concretos que vemos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que diagnosticamos y reparamos en los BMW y MINI que llegan a nuestro taller de Gavà, muchos de ellos directamente relacionados con el tipo de conducción local y la climatología.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro del embrague",
-      "body": "El tráfico lento y constante para entrar a Barcelona o moverse por el centro de Gavà es un castigo para el embrague. Si notas que el pedal está duro, patina al acelerar o las marchas no entran bien, es hora de revisarlo antes de quedarte tirado en plena autovía."
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Es el problema número uno para los diésel (N47/B47) en Gavà. Los trayectos cortos al tren o a Viladecans impiden que el DPF se regenere. Con ISTA, diagnosticamos el nivel de saturación y forzamos una regeneración controlada o realizamos una limpieza profesional, evitando una costosa sustitución."
     },
     {
-      "title": "Problemas de refrigeración en verano",
-      "body": "El calor húmedo del Baix Llobregat, sumado a un atasco a 40 grados, puede hacer que tu coche se sobrecaliente. Manguitos, termostato y radiador son puntos críticos. Una revisión a tiempo evita averías graves en el motor durante la época de más calor."
+      "title": "Desgaste de frenos y cambio ZF",
+      "body": "El tráfico denso en la C-245 y las constantes paradas en el núcleo urbano aceleran el desgaste de pastillas y discos. Además, la caja ZF 8HP sufre con tanto cambio a baja velocidad. Un cambio de aceite y filtro a tiempo, que recomendamos en Gavà, puede salvar la mecatrónica."
     },
     {
-      "title": "Fallo del filtro de partículas (FAP)",
-      "body": "Muchos diésel en Gavà hacen trayectos cortos para ir a Viladecans o al trabajo localmente. Este uso no permite que el filtro se regenere, provocando obstrucciones, pérdida de potencia y averías costosas. Lo diagnosticamos y buscamos la solución más efectiva."
+      "title": "Fallos electrónicos por humedad",
+      "body": "Si vives o aparcas habitualmente en Gavà Mar, la brisa marina y la humedad salina pueden causar estragos en sensores de aparcamiento (PDC), módulos de luces (FRM) y conexiones eléctricas. Localizamos el punto exacto del fallo y lo reparamos o sustituimos con componentes sellados."
     },
     {
-      "title": "Corrosión y fallos eléctricos por salitre",
-      "body": "Si vives o aparcas en Gavà Mar, la sal del ambiente acelera la oxidación de los bajos, el escape y, sobre todo, ataca las conexiones eléctricas. Esto puede causar fallos extraños en luces, sensores o incluso en el arranque. Es un problema local muy específico."
+      "title": "Ruidos en cadena de distribución",
+      "body": "El famoso problema de los motores N47 y B47 se agrava con los arranques en frío para recorridos cortos, un patrón muy habitual aquí. Realizamos escuchas preventivas y, si es necesario, sustituimos el kit completo de distribución (cadenas, patines, tensores) con recambios OE para tu tranquilidad."
     },
     {
-      "title": "Frenos y discos cristalizados",
-      "body": "El uso intensivo de los frenos en el tráfico urbano y en las salidas de las vías rápidas como la C-32 puede sobrecalentarlos, cristalizando las pastillas. Si chirrían al frenar o notas que el coche frena menos, es un aviso de seguridad que no puedes ignorar."
+      "title": "Consumo de aceite en motores gasolina",
+      "body": "Modelos con motores N20 o B48, muy populares en los Serie 1 y MINI Cooper S, pueden desarrollar un consumo de aceite excesivo por el desgaste de los retenes de válvula. Es un problema que conocemos bien y sabemos cómo atajar antes de que cause daños mayores en el motor o el catalizador."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuestos de verdad cerrados",
-      "body": "Lo que presupuestamos es lo que pagas. Sin llamadas a mitad de reparación para añadir costes extra. Tu tranquilidad económica es nuestra prioridad."
+      "title": "Mantienes tu garantía oficial",
+      "body": "Realizamos el mantenimiento de tu BMW o MINI nuevo siguiendo el plan del fabricante y la normativa europea, para que no pierdas la garantía. Sellamos tu libro digital y usamos recambios OE."
     },
     {
-      "title": "Explicaciones que se entienden",
-      "body": "Te explicamos la avería en un lenguaje claro, sin tecnicismos para confundir. Si quieres, te enseñamos la pieza vieja. Queremos que entiendas qué le pasa a tu coche."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Nuestro equipo ISTA es el mismo que usan en el servicio oficial. No es una imitación. Accedemos a la telemetría completa de tu coche, aquí mismo en Gavà."
     },
     {
-      "title": "Centrados en coches como el tuyo",
-      "body": "Estamos acostumbrados a los coches de 4 a 15 años que circulan por Gavà y conocemos sus puntos débiles. No somos un concesionario oficial, somos un taller multimarca práctico y resolutivo."
+      "title": "Presupuestos sin sorpresas",
+      "body": "Te damos un presupuesto cerrado antes de tocar un solo tornillo. Sabrás exactamente qué pagas, sin extras de última hora. Transparencia total."
     },
     {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todas nuestras intervenciones y piezas están garantizadas por escrito. Si algo no queda bien, respondemos. Sin excusas."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo trabajamos con BMW y MINI. Conocemos los motores N47, B48, B58 y sus particularidades como la palma de nuestra mano. No somos un taller que 'también toca' BMW."
     },
     {
-      "title": "Sin citas para dentro de un mes",
-      "body": "Sabemos que necesitas tu coche. Te damos cita con agilidad para que puedas volver a tu rutina lo antes posible, ya sea ir al trabajo o llevar a los niños al colegio."
+      "title": "Ahorro inteligente, no barato",
+      "body": "No competimos por ser el más barato, sino por ofrecerte el mismo nivel técnico que el concesionario a un precio justo de taller independiente, eliminando costes superfluos."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos y que reflejan la experiencia de confiar en nosotros.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que atendemos cada día en nuestro taller de Gavà, para que te hagas una idea de cómo trabajamos.",
   "testimonials": [
     {
-      "name": "Jordi",
+      "name": "Carla",
       "neighborhood": "Gavà Mar",
-      "car": "Volkswagen Passat Variant 2015",
-      "body": "Me saltaba un chivato de motor y en otro taller me dieron un presupuesto altísimo sin explicarme bien el porqué. Aquí me hicieron un diagnóstico claro, resultó ser un sensor afectado por la humedad de la zona. Me enviaron el presupuesto cerrado, la mitad que el otro, y lo autoricé. En 24 horas tenía el coche. Se agradece la honestidad.",
+      "car": "BMW X3 xDrive20d G01 2020",
+      "body": "Mi coche todavía está en garantía y me salió un aviso de 'Fallo en el sistema de propulsión'. En el concesionario me daban cita para dentro de tres semanas. Los encontré a ellos, me lo cogieron al día siguiente, conectaron el ISTA y vieron que era un sensor del turbo. Usaron una pieza Bosch y me resetearon el historial. Mantuve la garantía y me ahorré un dineral y mucho tiempo.",
       "rating": 5
     },
     {
-      "name": "Montserrat",
-      "neighborhood": "Centre",
-      "car": "Seat Ibiza 2017",
-      "body": "El embrague empezó a patinar en pleno atasco en la C-31. Un desastre. Les llamé, me gestionaron la grúa y al día siguiente tenía el presupuesto. Me explicaron que por el tipo de conducción urbana que hago es normal. Me ofrecieron un coche de cortesía y cumplieron el plazo. Muy profesionales.",
+      "name": "Joan",
+      "neighborhood": "Centre Vila",
+      "car": "MINI Cooper F56 2018",
+      "body": "Uso el coche sobre todo por Gavà y para ir a Viladecans. Notaba que al ralentí temblaba un poco. Me dijeron que era por la carbonilla en la admisión, algo normal en estos motores por los trayectos cortos. Me hicieron una limpieza con cáscara de nuez y el coche va fino como el primer día. Se nota que saben lo que tocan.",
       "rating": 5
     },
     {
-      "name": "David",
+      "name": "Marc",
       "neighborhood": "Les Bòbiles",
-      "car": "Peugeot 308 SW 2016",
-      "body": "Tenía que pasar la ITV en Sant Boi y no estaba seguro de los humos del diésel. Les pedí una revisión pre-ITV. Me revisaron todo y me recomendaron un tratamiento para el FAP. Pasé la ITV sin un solo fallo. Me ahorraron tiempo y un segundo viaje. Buen servicio.",
+      "car": "BMW 330i F30 2017",
+      "body": "Hago cada día el trayecto Gavà-Barcelona por la C-31 y la caja de cambios automática a veces daba pequeños tirones en el atasco. En el servicio oficial me decían que era 'normal'. Aquí me recomendaron hacer el mantenimiento de la caja ZF, con su aceite y filtro. El cambio fue brutal, ahora va suave como la seda. Unos profesionales.",
       "rating": 5
     },
     {
       "name": "Laura",
-      "neighborhood": "Can Tintorer",
-      "car": "Renault Clio 2013",
-      "body": "El aire acondicionado dejó de enfriar justo en junio. Me dieron cita rápido. El diagnóstico fue claro: una pequeña fuga en el circuito. La reparación fue más barata de lo que esperaba. El único 'pero' es que tardó un día más de lo previsto porque la pieza no llegaba, pero me avisaron con tiempo.",
+      "neighborhood": "Viladecans",
+      "car": "BMW 118d F20 2016",
+      "body": "Escuchaba un seseo raro en el motor y me temía lo peor con la cadena de distribución del N47. Vine para tener una segunda opinión y me atendieron genial. Lo revisaron a fondo y me enseñaron que el ruido venía de una polea del alternador. Me la cambiaron y listo. Me quitaron un peso de encima y fueron muy honestos.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio principalmente en Gavà, pero nuestra ubicación estratégica nos permite ser el taller de confianza para muchos conductores de municipios cercanos. Si vives o trabajas en Viladecans, Castelldefels o Sant Boi, estamos a pocos minutos. Gracias al acceso directo desde la C-31 y la C-32, venir a nuestro taller es un momento, incluso si vienes desde El Prat de Llobregat. Cubrimos todos los barrios de Gavà, desde la primera línea de mar en Gavà Mar, pasando por el núcleo urbano en el Centre y Eixample, hasta zonas residenciales como Can Tintorer, La Sentiu o Les Bòbiles. Dejarnos tu coche y volver al trabajo o a casa es fácil gracias a las buenas conexiones.",
+  "zoneText": "Nuestro taller en Gavà ofrece servicio a toda la comarca del Baix Llobregat. Recibimos clientes no solo del núcleo urbano, Les Bòbiles o Gavà Mar, sino también de municipios colindantes como Viladecans, Castelldefels, Sant Climent de Llobregat y Begues, que buscan una alternativa experta y de confianza al concesionario oficial. Nuestra ubicación es de fácil acceso desde las principales vías, como la autovía C-31, la C-245 que conecta con Cornellà, o la B-210 para quienes bajan de Begues. Si vives en la zona y quieres un cuidado especializado para tu BMW o MINI, estamos a pocos minutos.",
   "zoneNeighborhoods": [
-    "Gavà Centre",
     "Gavà Mar",
+    "Centre Vila",
     "Les Bòbiles",
     "Can Tintorer",
     "La Sentiu",
-    "Ausiàs March",
     "Viladecans",
-    "Castelldefels",
-    "Sant Climent de Llobregat"
+    "Castelldefels Platja",
+    "Sant Boi de Llobregat",
+    "Sant Climent de Llobregat",
+    "Begues"
   ],
   "zoneAccessRoutes": [
-    "C-31 (Autovia de Castelldefels)",
-    "C-32 (Autopista Pau Casals)",
-    "B-210",
-    "C-245"
+    "C-31 (Autovía de Castelldefels)",
+    "C-245",
+    "B-210 (Carretera de Begues)",
+    "C-32 (Autopista Pau Casals)"
   ],
   "faqLocal": [
     {
-      "q": "Vivo en Gavà Mar, ¿el salitre del mar realmente daña tanto el coche?",
-      "a": "Sí, y más de lo que parece. El salitre es muy corrosivo. Acelera la oxidación de los bajos, el sistema de escape y los componentes de la suspensión. También puede dañar conexiones eléctricas y sensores, causando fallos intermitentes. Recomendamos un lavado frecuente de los bajos y una revisión anual específica de corrosión si tu coche 'duerme' cerca de la playa."
+      "q": "¿Si hago la revisión con vosotros en Gavà durante el periodo de garantía de mi BMW, la pierdo?",
+      "a": "No, en absoluto. El Reglamento Europeo 461/2010 te protege. Mientras sigamos el plan de mantenimiento de BMW, utilicemos recambios de calidad original (OE) o originales y lo registremos todo debidamente en el libro digital de tu coche con nuestro equipo ISTA, tu garantía permanece intacta. Es tu derecho como consumidor elegir dónde mantener tu vehículo."
     },
     {
-      "q": "Voy cada día a Barcelona por la C-31. ¿Qué mantenimiento es clave para mi coche?",
-      "a": "El trayecto en la C-31 implica mucho 'acelera y frena', lo que castiga tres elementos clave: embrague, frenos y neumáticos. Es fundamental revisar el estado de las pastillas y discos con más frecuencia, así como el nivel y estado del líquido de frenos. Un buen mantenimiento del sistema de embrague previene averías costosas y te evita quedarte tirado en el carril izquierdo."
+      "q": "Vivo en Gavà Mar, ¿el ambiente salino afecta de forma especial a mi MINI?",
+      "a": "Sí, la proximidad al mar puede acelerar la corrosión en puntos sensibles y afectar a la electrónica. En los MINI, es común ver fallos en los sensores de aparcamiento (PDC) o en el módulo de luces FRM. En nuestras revisiones prestamos especial atención a estos componentes, limpiando conexiones y aplicando protectores dieléctricos para prevenir averías costosas."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Sant Boi. ¿Vuestra Pre-ITV es completa?",
-      "a": "Sí. Nuestra revisión Pre-ITV es exhaustiva y está alineada con los puntos que más se miran en las estaciones de Applus+ de la zona, como la de Sant Boi. Nos centramos en seguridad (frenos, suspensión, neumáticos, luces) y emisiones, que es un punto crítico para los diésel que circulan por el Baix Llobregat. Nuestro objetivo es que la pases a la primera."
+      "q": "Hago muchos trayectos cortos por Gavà y Viladecans, ¿qué mantenimiento preventivo necesita mi diésel (B47/N47)?",
+      "a": "Para ese tipo de uso, recomendamos encarecidamente acortar los intervalos de cambio de aceite para proteger el motor y la cadena de distribución. Además, es crucial realizar una diagnosis periódica del estado del filtro de partículas (DPF) para forzar una regeneración en el taller si es necesario, antes de que se sature por completo y la única solución sea una costosa sustitución."
     },
     {
-      "q": "Mi coche diésel hace trayectos cortos por Gavà, ¿debo preocuparme por el filtro de partículas?",
-      "a": "Definitivamente. El filtro de partículas (FAP o DPF) necesita trayectos por carretera para autolimpiarse (regenerarse). Si solo te mueves por el pueblo, es muy probable que se sature. Esto causa pérdida de potencia, aumento del consumo y una avería cara. Te recomendamos que vengas para hacer un diagnóstico y, si es necesario, forzar una regeneración o limpiarlo."
+      "q": "Tengo que pasar la ITV en el centro de Sant Boi, ¿vuestra pre-ITV gratuita cubre los puntos específicos que miran allí?",
+      "a": "Sí. Nuestra pre-ITV es exhaustiva y sigue el mismo manual de procedimiento que usan las estaciones de ITV. Revisamos todos los puntos críticos: frenos, suspensión, neumáticos, luces, y especialmente las emisiones de gases, un punto clave para los motores diésel y gasolina modernos. Si detectamos algo, te damos un presupuesto para solucionarlo antes de que vayas."
     },
     {
-      "q": "El aire acondicionado no enfría bien en agosto, ¿es siempre una recarga de gas?",
-      "a": "No siempre. Aunque una recarga de gas es una causa común, la pérdida de frío puede deberse a una fuga en el circuito, un fallo en el compresor o un problema eléctrico. Hacer una recarga sin encontrar la fuga es tirar el dinero. Nosotros primero comprobamos la estanqueidad del circuito para darte una solución definitiva y que no vuelvas en un mes."
+      "q": "¿Podéis codificar funciones nuevas en mi BMW, como desactivar el Start-Stop o activar Apple CarPlay?",
+      "a": "Sí, nuestro equipo de diagnóstico oficial ISTA nos permite realizar codificaciones y reequipamientos. Podemos activar o desactivar funciones según el equipamiento de tu coche, como el Start-Stop, la memoria de los asientos, o incluso activar servicios como Apple CarPlay si tu unidad NBT Evo o EntryNav2 es compatible. Consúltanos tu caso concreto y te diremos las posibilidades."
     },
     {
-      "q": "Tengo un presupuesto de otro taller de la zona que no me convence, ¿hacéis segundas opiniones?",
-      "a": "Por supuesto. Es una de nuestras especialidades. Si tienes dudas sobre un diagnóstico o un presupuesto, tráenos tu coche. Haremos nuestra propia valoración desde cero y te daremos un presupuesto cerrado y sin compromiso. Creemos en la transparencia y en que tengas toda la información para decidir con confianza."
+      "q": "¿Cuál es la diferencia entre un recambio OE que montáis y uno original BMW?",
+      "a": "Un recambio OE (Original Equipment) es una pieza fabricada por la misma empresa que suministra a BMW para su línea de montaje (Bosch, ZF, Mahle, Lemförder, etc.), pero que se vende bajo la marca del fabricante. Tiene la misma calidad y especificaciones que la pieza original, pero sin el logo de BMW. Esto permite un ahorro significativo sin comprometer en absoluto la fiabilidad ni la garantía."
+    },
+    {
+      "q": "El cambio automático ZF de mi X5 a veces da tirones en el tráfico de la C-245. ¿Tiene reparación?",
+      "a": "En la mayoría de los casos, sí. Esos tirones suelen ser el primer síntoma de que el aceite y el filtro de la caja de cambios han perdido propiedades. BMW a menudo lo cataloga como 'sin mantenimiento', pero la propia ZF recomienda un cambio cada 80.000-120.000 km. Realizar este servicio a tiempo suele solucionar el problema y previene averías muy graves y caras en la mecatrónica."
     }
   ],
-  "closingHeadline": "Tu taller en Gavà, claro y directo",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y di adiós a las sorpresas en la factura de tu taller en Gavà."
+  "closingHeadline": "La alternativa al concesionario para tu BMW en Gavà",
+  "closingCta": "Si tu BMW o MINI necesita atención experta en Gavà, contacta con nosotros. Pide tu presupuesto cerrado por teléfono o WhatsApp y descubre por qué no necesitas volver al concesionario oficial."
 }
