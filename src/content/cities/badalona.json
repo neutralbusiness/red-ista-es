@@ -6,186 +6,190 @@
   "population": 217741,
   "lat": 41.45004,
   "lng": 2.24741,
-  "metaTitle": "Taller mecánico en Badalona — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Badalona. Presupuesto cerrado para revisiones, averías y neumáticos. Servimos a todos los barrios y marcas. Pide tu cita online.",
-  "heroSubtitle": "Cansado del tráfico de la C-31 y de las sorpresas en la factura del taller? Conduce tranquilo, nosotros nos ocupamos de tu coche en Badalona.",
+  "metaTitle": "Taller BMW y MINI en Badalona — Red ISTA · Diagnóstico oficial",
+  "metaDescription": "Acabas de comprar un BMW o MINI de segunda mano en Badalona? Pide una inspección completa con diagnosis oficial ISTA. Precios de taller especialista.",
+  "heroSubtitle": "Ese BMW de segunda mano parece perfecto, ¿verdad? Conectémoslo a ISTA en Badalona y veamos qué 'canta' antes de que te dé problemas.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Si vives y conduces en Badalona, sabes que tu coche no tiene una vida fácil. El día a día de muchos badaloneses implica coger la C-31 o la Ronda B-20 para ir a trabajar a Barcelona, aguantando atascos que castigan el embrague y los frenos. O quizás tu rutina es más local, subiendo y bajando las cuestas de barrios como Bufalà, La Morera o Pomar, un esfuerzo constante para la suspensión y el motor. En nuestro taller entendemos estas particularidades porque también las vivimos. Sabemos lo que significa buscar aparcamiento en calles estrechas del Centre o de Dalt de la Vila y el desgaste que eso supone para la dirección y los neumáticos. Por eso, nuestro enfoque no es genérico; es un servicio pensado por y para los conductores de Badalona.\n\nEl clima mediterráneo es fantástico para vivir, pero es un desafío para la mecánica de tu coche. La brisa marina, cargada de salitre, es una constante en los barrios más cercanos a la playa como El Progrés o Canyadó. Esta humedad salina acelera la corrosión de los bajos del coche, el sistema de escape y los discos de freno, incluso si no lo aparcas en primera línea de mar. Y qué decir del verano: el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, dos elementos que no pueden fallar cuando el asfalto quema. Realizamos revisiones específicas para mitigar estos efectos, protegiendo tu inversión y garantizando tu seguridad y confort durante todo el año.\n\nEl parque automovilístico de Badalona es tan diverso como su gente. Vemos a diario los coches que mueven la ciudad: los Seat Ibiza y León, los Peugeot 208 y 308, los Renault Clio y Mégane, que son los compañeros fieles de miles de familias y trabajadores de barrios como Llefià, La Salut o Sant Crist. También conocemos bien las furgonetas de los autónomos y pequeñas empresas que operan desde los polígonos de Montigalà o Les Guixeres. No importa si conduces un diésel con más de diez años que necesita mimos para pasar la ITV, un gasolina moderno o uno de los cada vez más comunes híbridos; tenemos la experiencia y el equipo para trabajar con todas las marcas y modelos que circulan por nuestras calles.\n\nEntendemos que tu coche es una herramienta esencial, no un lujo. Lo necesitas para llevar a los niños al colegio, para ir a comprar al Màgic Badalona o para cumplir con tus clientes. Por eso, nuestro compromiso es la total transparencia. Antes de cambiar una sola pieza, recibirás un presupuesto cerrado y detallado. No habrá sorpresas ni costes ocultos. Te explicaremos qué le pasa a tu coche en un lenguaje que entiendas, sin tecnicismos innecesarios. Queremos ser tu taller de confianza en Badalona, ese al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque sabemos lo importante que es para ti seguir en movimiento.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Badalona sin sustos hasta cambiar el embrague desgastado por el tráfico de la B-20, lo cubrimos todo.",
-  "processIntro": "Trabajamos con total claridad. Te damos un presupuesto cerrado, te explicamos cada paso y no hacemos nada sin tu visto bueno. Así de simple.",
+  "introLocal": "Enhorabuena, te acabas de comprar un BMW o un MINI. Quizás es ese Serie 3 que encontraste a buen precio de un particular en el barrio de Canyet, o un MINI Countryman impecable en un compraventa cerca del polígono de Montigalà. La sensación es increíble, pero ahora viene la pregunta clave, la que te haces mientras conduces por la C-31 de vuelta a casa: ¿cuál es el estado real del coche? Antes de empezar a disfrutarlo en las curvas de la Conreria o en escapadas por la costa del Maresme, un propietario inteligente sabe que lo primero es una inspección a fondo. Y no una cualquiera. Una inspección con el equipo de diagnóstico oficial ISTA, el mismo que usan en el concesionario, es la única forma de saber si ese motor B47 no tiene fallos ocultos en el sistema AdBlue o si la caja ZF 8HP de tu X3 ha tenido el mantenimiento que le tocaba. En Badalona, tienes la alternativa lógica al concesionario oficial: un taller homologado por Red ISTA, especialista en la marca, pero con los pies en el suelo.\n\nEl problema de comprar un coche de segunda mano, incluso uno premium, es la incertidumbre. Un mecánico generalista le puede enchufar una máquina de diagnosis genérica y decirte que 'no hay fallos'. Pero eso es como hacer una radiografía con la cámara del móvil. No sirve de nada. Un BMW o un MINI moderno tiene decenas de módulos electrónicos que registran hasta el más mínimo detalle: desde la degradación del aceite hasta cuántas veces se ha activado el control de estabilidad. Aquí es donde entra en juego nuestro equipo ISTA/Rheingold, conectado en tiempo real con los servidores de BMW en Alemania. Nosotros no solo vemos los fallos activos; vemos el historial completo, los 'shadow faults' (fallos fantasma) que alguien pudo borrar justo antes de venderlo, el estado real de la batería y del filtro de partículas. Esto es crítico en una ciudad como Badalona, donde muchos coches sufren el tráfico denso de barrios como Llefià o La Salut, con trayectos cortos que castigan los motores diésel N47 y B47, y fuerzan el sistema start-stop hasta el límite.\n\nAhora hablemos de precios. Es la parte que más duele y donde más clara es nuestra propuesta de valor. Podrías coger tu coche y llevarlo al concesionario oficial más cercano, en Sant Adrià o Barcelona. Pagarás por una recepción impecable, un café y unas instalaciones enormes. Pero ese sobrecoste no se traduce en un mejor diagnóstico ni en una mejor reparación. ¿Por qué? Porque nosotros utilizamos exactamente el mismo software ISTA, accedemos a la misma base de datos técnica de BMW y usamos recambios de calidad OE (los mismos fabricantes que suministran a BMW) o recambios originales si tú lo prefieres. La diferencia es que no tenemos que repercutirte los costes de una estructura comercial gigantesca. Somos un taller especialista, un centro técnico. Nuestra inversión está en la herramienta, la formación y el conocimiento, no en el mármol del suelo. Para el propietario de un BMW Serie 1 F20 o un X1 que vive en Bufalà, el ahorro en una revisión CBS completa o en la sustitución de la cadena de un N47 puede ser de cientos de euros, obteniendo un servicio idéntico en calidad técnica.\n\nPor eso, si acabas de dar el paso y ya tienes tu BMW aparcado en el barrio del Gorg o tu MINI en el Centre, no te la juegues. Antes de nada, tráenoslo. Le haremos un 'chequeo' completo con ISTA. Te entregaremos un informe detallado de su estado real, sin rodeos, explicándote qué hemos encontrado. A partir de ahí, tú decides. Es la mejor inversión que puedes hacer en tu nuevo coche. Una revisión a tiempo te ahorrará mucha pasta y disgustos en el futuro, sobre todo con componentes delicados que sufren con el clima húmedo y salino de nuestra costa, que a la larga afecta a conectores y módulos electrónicos. Piensa en nosotros como tu especialista de confianza en Badalona, el que te dirá la verdad sobre tu coche, con la misma tecnología que el servicio oficial pero con la cercanía y el precio de un taller de aquí.",
+  "servicesIntro": "Aquí en Badalona, tanto si necesitas una revisión CBS para tu X5 como si hay que codificar un nuevo módulo FRM en tu MINI, cubrimos todos los frentes.",
+  "processIntro": "Trabajamos con un método claro: diagnóstico oficial ISTA, presupuesto cerrado y tu autorización para cada paso. Cero sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, nuestros técnicos realizan una revisión completa para identificar el problema con precisión. Escuchamos lo que te preocupa y usamos equipos de diagnosis para encontrar la causa raíz de la avería, no solo el síntoma."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin sorpresas. Especificamos piezas, mano de obra y el IVA. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin letra pequeña."
     },
     {
-      "title": "Tu autorización",
-      "body": "El coche es tuyo y tú decides. No tocaremos ni un tornillo hasta que nos des tu aprobación explícita al presupuesto. Si durante la reparación surgiera algo imprevisto (algo muy raro), te contactaríamos de inmediato antes de continuar."
+      "title": "Tu autorización expresa",
+      "body": "No tocamos un solo tornillo sin tu visto bueno. Si durante la reparación aparece algo imprevisto, paramos, te llamamos y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Una vez aprobado, nos ponemos manos a la obra. Utilizamos piezas de primeras marcas o equivalentes de calidad garantizada. Te mantenemos informado del proceso y cumplimos los plazos acordados para que recuperes tu vehículo lo antes posible."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Al recoger tu coche, te explicamos en detalle la reparación efectuada y te entregamos la factura con la garantía correspondiente. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos de servicio del cuadro (CBS), actualizamos el historial digital de tu coche y realizamos una prueba final. Te lo entregamos listo y comprobamos que todo siga perfecto."
     }
   ],
-  "commonIssuesIntro": "El cóctel de aire salino del Mediterráneo, el tráfico denso hacia Barcelona y las cuestas de nuestros barrios provocan un desgaste muy particular en los coches de Badalona. Estos son los problemas que más vemos.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que diagnosticamos y reparamos en los BMW y MINI que nos llegan de Badalona y alrededores, muchos de ellos agravados por el tipo de conducción urbana y el clima local.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El trayecto diario por la C-31 o la Ronda B-20, con sus constantes paradas y arranques, es un castigo para el embrague. Si a eso le sumamos el tráfico interno de barrios densos como Llefià o Artigues, el resultado es un desgaste acelerado. Revisamos y sustituimos kits de embrague y sistemas de frenado para que conduzcas con seguridad."
+      "title": "DPF saturado en motores diésel",
+      "body": "Los trayectos cortos y repetidos por Badalona, como ir de Gorg al centro comercial Màgic, son veneno para el filtro de partículas de los motores B47/N47. El coche no llega a la temperatura para regenerar y el filtro se obstruye. Con ISTA forzamos la regeneración o realizamos una limpieza profesional antes de que el problema vaya a más."
     },
     {
-      "title": "Corrosión por ambiente salino",
-      "body": "Vivir cerca del mar en El Progrés, Casagemes o el Manresà tiene un precio para tu coche. La salinidad del aire ataca silenciosamente los bajos, el sistema de escape y los componentes metálicos de los frenos. Ofrecemos inspecciones específicas para detectar y frenar la corrosión a tiempo, alargando la vida de tu vehículo."
+      "title": "Estiramiento de la cadena (N47)",
+      "body": "El famoso problema del motor N47. Si has comprado un Serie 1, 3 o X3 de segunda mano, es vital comprobar el estado de la cadena. Un ruido metálico es el primer aviso. Hacemos la comprobación y sustitución del kit completo de distribución para evitar la rotura del motor, una reparación que te ahorrará miles de euros."
     },
     {
-      "title": "Problemas en el sistema de climatización",
-      "body": "Los veranos en Badalona son largos, calurosos y húmedos. Un aire acondicionado que no enfría lo suficiente es un verdadero problema. El uso intensivo y la falta de mantenimiento provocan fugas de gas, fallos en el compresor o filtros obstruidos. Nos aseguramos de que tu climatizador funcione a pleno rendimiento."
+      "title": "Bomba de agua eléctrica averiada",
+      "body": "El calor del verano en el área metropolitana de Barcelona y los atascos en la B-20 ponen a prueba el sistema de refrigeración. La bomba de agua eléctrica de muchos BMW modernos puede fallar sin previo aviso, causando un sobrecalentamiento fatal. La diagnosticamos con ISTA y la sustituimos por recambio OE para garantizar la fiabilidad."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Entre los badenes de zonas residenciales como Montigalà, los baches de algunas calles y el subir y bajar constante de las zonas altas como Canyet o Mas Ram, la suspensión sufre. Amortiguadores gastados y neumáticos mal alineados afectan a la seguridad y el confort. Revisamos todo el tren de rodaje para garantizar una pisada perfecta."
+      "title": "Fallos electrónicos por humedad salina",
+      "body": "Vivir cerca del Pont del Petroli tiene sus ventajas, pero la brisa marina es corrosiva. El ambiente salino de Badalona acelera la degradación de conexiones eléctricas, sensores del ABS o módulos como el FRM (módulo de luces), causando fallos extraños. Localizamos el punto exacto del problema y reparamos o sustituimos el componente dañado."
     },
     {
-      "title": "Averías en alternador y batería",
-      "body": "El calor del verano degrada las baterías más rápido, y el uso intensivo del aire acondicionado y otros sistemas eléctricos exige mucho al alternador. Los trayectos cortos por la ciudad no siempre son suficientes para recargar la batería por completo. Diagnosticamos fallos eléctricos para que tu coche arranque siempre a la primera."
+      "title": "Mantenimiento caja de cambios ZF 8HP",
+      "body": "BMW dice que el aceite es 'de por vida', pero la realidad es otra. El aceite y el filtro de la caja automática ZF 8HP se deben cambiar cada 80.000-100.000 km para evitar tirones o averías en la mecatrónica. Realizamos el mantenimiento completo con el aceite y filtro específicos del fabricante ZF, garantizando un funcionamiento suave."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de Badalona",
-      "body": "Sabemos qué problemas dan los coches que circulan por aquí, desde el desgaste por la sal del mar hasta el castigo del tráfico de la C-31. No aplicamos soluciones genéricas, sino adaptadas a la realidad local."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el mismo equipo oficial ISTA que el concesionario BMW de Sant Adrià. La diferencia es que nosotros te explicamos lo que vemos en pantalla, sin tecnicismos ni prisas."
     },
     {
-      "title": "Presupuesto claro y sin sorpresas",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. La confianza empieza por la transparencia en la factura, y en eso somos inflexibles."
+      "title": "El ahorro inteligente",
+      "body": "Misma tecnología, misma calidad de recambio (OE/Original), pero sin pagar los costes de una estructura de concesionario. La diferencia se queda en tu bolsillo para lo que de verdad importa."
     },
     {
-      "title": "Para todas las marcas y modelos",
-      "body": "Da igual si llevas un utilitario para moverte por el centro, un SUV familiar o la furgoneta de tu negocio. Tenemos la tecnología y la experiencia para cuidar de cualquier vehículo, sin importar la marca o la antigüedad."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo trabajamos con BMW y MINI. Conocemos cada tornillo de un motor B48 o los caprichos electrónicos de un MINI F56. No somos un taller que 'se atreve' con tu coche."
     },
     {
-      "title": "Directo a pasar la ITV",
-      "body": "Conocemos los puntos críticos que miran en la estación ITV de Badalona. Hacemos una revisión pre-ITV exhaustiva para que vayas tranquilo y la pases a la primera, ahorrándote tiempo y dinero."
+      "title": "Homologados por Red ISTA",
+      "body": "Ser parte de una red nacional garantiza nuestros procesos y nuestro acceso a la información técnica más actualizada, asegurando que reparamos tu coche como el fabricante exige."
     },
     {
-      "title": "Trato personal, no un número",
-      "body": "Somos un taller de aquí. Nos gusta hablar contigo, entender qué necesitas y explicarte las cosas de forma clara. Para nosotros, cada cliente es un vecino al que queremos ayudar."
+      "title": "Transparencia de verdad",
+      "body": "Te enseñamos lo que vemos en ISTA. Te explicamos cada fallo y te damos un presupuesto cerrado con opciones. Aquí, tú tienes siempre el control de la reparación."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Badalona que han confiado en nosotros. Sus casos, probablemente, te resulten familiares.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos de clientes de Badalona y alrededores. Te ayudarán a entender cómo trabajamos y el tipo de problemas que solucionamos cada día.",
   "testimonials": [
     {
-      "name": "Anna",
-      "neighborhood": "Centre",
-      "car": "Fiat 500 2018",
-      "body": "Tenía la ITV en dos semanas y siempre me pongo nerviosa. Me hicieron una revisión pre-ITV súper completa. Detectaron que las pastillas de freno estaban en las últimas y una luz de posición fundida. Lo arreglaron en la misma mañana y pasé la ITV sin ningún fallo. Un alivio, la verdad.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Llefià",
-      "car": "Seat León TDI 2015",
-      "body": "Voy cada día a la Zona Franca a trabajar, así que me como todo el atasco de la Ronda. El pedal del embrague empezó a ir duro y a hacer un ruido raro. Me dieron cita rápido, me confirmaron que el kit de embrague estaba para cambiar y me dieron un presupuesto cerrado. Muy profesionales y honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Montigalà",
-      "car": "Peugeot 3008 2017",
-      "body": "Con dos niños, el aire acondicionado en verano no es negociable. Dejó de enfriar de un día para otro en pleno julio. Lo llevé y encontraron una pequeña fuga en el circuito. Lo repararon y recargaron el gas. El precio fue el que me dijeron desde el principio. ¡Nos salvaron el verano!",
-      "rating": 5
-    },
-    {
       "name": "Joan",
-      "neighborhood": "El Progrés",
-      "car": "Ford Transit Connect 2016",
-      "body": "Uso la furgoneta para trabajar y no puede estar parada. Notaba que no frenaba como antes. Me revisaron todo el sistema y vieron que los discos delanteros estaban bastante mal, seguramente por la humedad y la sal. Me lo cambiaron todo en el día. Buen servicio, sobre todo para los que dependemos del vehículo.",
+      "neighborhood": "Centre",
+      "car": "BMW 320d F30 2016",
+      "body": "Acababa de coger un 320d a un particular de Canyet y quería saber si me habían colado algo. Lo conectaron a ISTA y vieron que la EGR empezaba a dar valores anómalos. Me presupuestaron la limpieza sin ningún compromiso. Me ahorré un problema gordo. Mucho más transparentes y directos que el concesionario oficial.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Montigalà",
+      "car": "MINI Cooper F56 2019",
+      "body": "El coche iba a tirones y se encendió la luz de motor. En otro taller ya me hablaban de cambiar medio motor. Aquí le hicieron una diagnosis ISTA en un momento y vieron que era solo una bobina y las bujías. Reparación rápida, precio justo y el coche va como la seda. Se nota que controlan de MINI.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Llefià",
+      "car": "BMW X1 sDrive18d E84 2014",
+      "body": "Tenía la ITV y con el motor N47 me daba pánico el tema de los gases por los trayectos cortos que hago por Badalona. Le hicieron una pre-ITV, me recomendaron una descarbonización y pasó sin un solo fallo. Me explicaron cómo cuidar el DPF, cosa que nadie había hecho antes.",
+      "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Bufalà",
+      "car": "BMW 118i F20 2017",
+      "body": "Me tocaba la revisión de aceite y filtros. Pedí presupuesto al concesionario y casi me da algo. Aquí me lo hicieron con aceite Castrol LL-04, recambios OE Mahle y me sellaron el historial digital del coche. Literalmente, la mitad de precio. El trato fue genial, muy cercano. Volveré seguro.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda Badalona, sin excepción. Tanto si vives en los barrios costeros como El Progrés o Canyadó, como si resides en las zonas más elevadas como Bufalà o La Morera, nuestro taller es tu solución de confianza. Cubrimos desde el límite con Sant Adrià de Besòs en Sant Roc y Artigues, hasta la frontera con Montgat. Muchos de nuestros clientes vienen también de municipios vecinos como Santa Coloma de Gramenet, Tiana o Sant Fost de Campsentelles, aprovechando los buenos accesos por la B-20, la C-31 y la B-500. Si te mueves por el Barcelonès Nord, estamos a tu alcance.",
+  "zoneText": "Nuestro taller en Badalona da servicio a propietarios de BMW y MINI de toda la ciudad, desde los barrios del litoral como el Front Marítim, Centre y Casagemes, hasta las zonas más altas como Canyet, Mas Ram o Bufalà. Somos el taller especialista de referencia para los barrios más poblados como Llefià, La Salut, Artigues y Sant Roc. Además, recibimos a diario clientes de municipios vecinos como Sant Adrià de Besòs, Santa Coloma de Gramenet y Montgat. Gracias a nuestra ubicación estratégica con fácil acceso desde la C-31 y la B-20, llegar a nuestro centro es cómodo y rápido vengas de donde vengas del Barcelonès Nord o el Baix Maresme.",
   "zoneNeighborhoods": [
     "Centre",
     "Llefià",
     "La Salut",
+    "Sant Roc",
     "Montigalà",
+    "Gorg",
+    "Artigues",
     "Bufalà",
-    "Pomar",
-    "Canyadó",
-    "Sant Crist",
-    "Progrés",
-    "Morera"
+    "Canyet",
+    "Sant Adrià de Besòs",
+    "Santa Coloma de Gramenet"
   ],
   "zoneAccessRoutes": [
     "C-31 (Autopista del Maresme)",
     "B-20 (Ronda de Dalt)",
     "N-II",
-    "B-500"
+    "B-500 (Carretera de la Conreria)"
   ],
   "faqLocal": [
     {
-      "q": "¿Hacéis la pre-ITV para pasarla en el centro de Badalona?",
-      "a": "Sí, por supuesto. Conocemos perfectamente la estación de ITV de Badalona y los puntos en los que suelen ser más exigentes. Hacemos una revisión completa de los elementos de seguridad, emisiones, luces y neumáticos para que vayas con la total seguridad de que la pasarás a la primera, ahorrándote un segundo viaje y las tasas correspondientes."
+      "q": "¿Sois más baratos que el concesionario oficial BMW de Sant Adrià o Barcelona?",
+      "a": "Sí, significativamente. La razón es simple: tenemos la misma tecnología de diagnóstico oficial ISTA y usamos recambios de idéntica calidad (OE o genuinos), pero no tenemos los enormes costes estructurales de un concesionario (showrooms, personal de ventas, campañas de marketing...). Ese ahorro te lo repercutimos directamente a ti en la factura final."
     },
     {
-      "q": "Mi coche duerme en la calle cerca de la playa, ¿qué revisión especial recomendáis?",
-      "a": "Para coches expuestos al ambiente salino de Badalona, recomendamos una revisión anual de los bajos del vehículo. Comprobamos el estado del chasis, el sistema de escape, los conductos de freno y la suspensión en busca de signos de corrosión. Una detección temprana puede evitar reparaciones mucho más costosas en el futuro y alargar la vida útil de tu coche."
+      "q": "Acabo de comprar un MINI de segunda mano en Badalona, ¿qué revisión recomendáis?",
+      "a": "Lo primero y más importante es una diagnosis completa con ISTA. Nos dirá el estado real de toda la electrónica, si hay fallos ocultos o si se han manipulado datos. Después, recomendamos un cambio de aceite y todos los filtros para empezar de cero con el mantenimiento. Es la mejor inversión para asegurar la fiabilidad de tu nuevo coche."
     },
     {
-      "q": "Voy cada día a Barcelona por la C-31, ¿qué mantenimiento extra necesita mi coche?",
-      "a": "Ese tipo de trayecto, con tráfico denso y repetitivo, somete a un gran estrés al embrague, los frenos y la caja de cambios. Recomendamos acortar ligeramente los intervalos de revisión del líquido de frenos y no apurar el cambio del kit de embrague. Un buen mantenimiento preventivo en estos componentes es clave para evitar averías en medio de un atasco."
+      "q": "Vivo en La Salut y solo uso el coche para trayectos cortos, ¿qué problemas puede tener mi BMW diésel (B47)?",
+      "a": "El principal problema es la saturación del filtro de partículas (DPF) y la acumulación de carbonilla en la válvula EGR. El motor no alcanza la temperatura óptima para limpiarse. Te recomendamos salir a la autopista (C-31 o B-20) una vez a la semana y conducir a revoluciones un poco más altas durante 15-20 minutos para ayudar a la regeneración."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas de autónomos de la zona del polígono de Montigalà?",
-      "a": "Totalmente. Entendemos que para un profesional, la furgoneta es su herramienta de trabajo y no puede estar parada. Tenemos experiencia con los modelos más comunes (Berlingo, Partner, Transit, Caddy...) y priorizamos estas reparaciones para que puedas volver a tu actividad lo antes posible. Conocemos el desgaste típico que sufren por la carga y el uso intensivo."
+      "q": "El aire salino de la playa de Badalona, ¿realmente afecta a mi coche?",
+      "a": "Absolutamente. La salinidad acelera la corrosión de los bajos, líneas de freno, sensores del ABS y puede provocar fallos en conexiones eléctricas y módulos electrónicos. En las revisiones que hacemos a coches de la zona del Front Marítim o Gorg prestamos especial atención a estos puntos para detectar problemas de forma prematura."
     },
     {
-      "q": "Vivo en Santa Coloma de Gramenet, ¿me compensa ir a vuestro taller en Badalona?",
-      "a": "Muchos de nuestros clientes son de Santa Coloma. Gracias a la conexión directa por la B-20 o a través de la ciudad, llegar a nuestro taller te llevará muy poco tiempo. Lo que ganas es un servicio transparente con presupuesto cerrado y la experiencia de un equipo que conoce a fondo los problemas de los coches de toda la zona del Barcelonès Nord."
+      "q": "Si hago la revisión con vosotros, ¿pierdo la garantía oficial de BMW?",
+      "a": "No, en absoluto. Según el reglamento europeo, puedes realizar el mantenimiento en cualquier taller cualificado sin perder la garantía del fabricante. Nosotros seguimos escrupulosamente los planes de mantenimiento de BMW, usamos recambios OE o originales y sellamos el historial de servicio digital de tu coche."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es una avería cara?",
-      "a": "No tiene por qué serlo. Muchas veces, una pérdida de rendimiento se debe simplemente a que el circuito de gas ha perdido presión con el tiempo y necesita una recarga. Otras causas comunes son un filtro obstruido o un fusible. Antes de hablar de averías caras como el compresor, hacemos un diagnóstico completo para encontrar la solución más económica y eficaz para ti."
+      "q": "¿Podéis codificar funciones nuevas en mi BMW, como desactivar el Start-Stop?",
+      "a": "Sí, realizamos codificaciones y programaciones. Podemos activar o desactivar funciones como el Start-Stop, memorizar el modo de conducción, activar el vídeo en movimiento (NBT/EVO) y muchas otras personalizaciones. Lo hacemos de forma segura, accediendo a los módulos del vehículo como lo haría el concesionario."
+    },
+    {
+      "q": "Tengo un BMW con motor N47, he oído hablar de la cadena de distribución. ¿Podéis revisarla?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Conocemos perfectamente el problema de la cadena en los motores N47. Podemos hacer una comprobación auditiva y mediante diagnóstico para evaluar su estado. Si es necesario, realizamos la sustitución del kit completo de distribución con recambios de primera calidad para evitar la avería."
+    },
+    {
+      "q": "Mi BMW X5 tiene suspensión neumática y a veces se baja de un lado, ¿reparáis esto?",
+      "a": "Sí, reparamos sistemas de suspensión neumática. Generalmente el problema reside en una balona perforada o una fuga en el circuito. Conectamos ISTA para comprobar el sistema, localizamos la fuga y sustituimos el componente dañado. Es una avería común que tiene solución y es más económica de lo que parece si se coge a tiempo."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Badalona",
-  "closingCta": "No dejes que una avería te detenga. Pide tu presupuesto cerrado para tu coche en Badalona. Llámanos o envíanos un WhatsApp y te daremos cita sin compromiso.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Badalona",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@tallerbarcelona.com",
-    "addressStreet": ""
-  }
+  "closingHeadline": "La alternativa inteligente para tu BMW en Badalona",
+  "closingCta": "Pide tu cita para una diagnosis completa en Badalona. Llámanos o envíanos un WhatsApp y te daremos hora para conectar tu coche a ISTA y ofrecerte la tranquilidad que necesitas."
 }
