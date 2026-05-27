@@ -6,177 +6,182 @@
   "population": 72987,
   "lat": 41.49226,
   "lng": 2.03305,
-  "metaTitle": "Taller mecánico en Rubí — Especialistas en coches de uso ocasional",
-  "metaDescription": "Mantenimiento y reparación para el coche que usas los fines de semana en Rubí. Presupuesto cerrado para que disfrutes de tu tiempo libre sin sorpresas. Pide cita.",
-  "heroSubtitle": "Ese coche que descansa en el garaje toda la semana en Rubí es el que más mimos necesita antes de una escapada. Lo sabemos.",
+  "metaTitle": "Taller MINI y BMW en Rubí — Red ISTA · Especialistas homologados",
+  "metaDescription": "Taller especialista en MINI y BMW en Rubí. Diagnóstico oficial ISTA, mecánica avanzada y electrónica. La alternativa al concesionario. Pide tu presupuesto.",
+  "heroSubtitle": "¿Buscas un taller en Rubí que de verdad entienda la mecánica de tu MINI Cooper S o JCW? Aquí hablamos tu mismo idioma.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "En Rubí, muchos tenemos un segundo coche. No es el que batalla cada día en la C-58 para ir a Barcelona o el que se mueve por los polígonos de La Llana o Can Jardí. Es el otro. El que duerme de lunes a viernes en un garaje de Ca n'Oriol o aparcado en una calle tranquila de Can Fatjó. Es el coche de las escapadas, el de cargar los bártulos para ir a la playa en la Costa Daurada o el de subir a la nieve por la C-16. Y ese coche, precisamente por estar parado, es el que más atención necesita. La inactividad es el peor enemigo de la mecánica: las baterías se descargan, los líquidos pierden propiedades y los neumáticos se deforman. No es una cuestión de kilómetros, sino de tiempo y de los contrastes a los que se somete.\n\nEl problema es que a este coche se le exige el máximo rendimiento en el peor momento. Le pedimos que, tras cinco días de quietud, se enfrente a la subida de Montserrat sin quejarse o que aguante un atasco en la AP-7 un domingo de agosto volviendo de Calafell. La geografía del Vallès no perdona. Las cuestas para salir de la ciudad hacia zonas como Sant Muç o las carreteras sinuosas que llevan a Sant Llorenç del Munt i l'Obac ponen a prueba frenos y suspensiones que han estado 'fríos' toda la semana. Es el contraste entre la humedad de las rieras de Rubí y el calor seco del interior de Cataluña en un mismo día lo que puede hacer que un manguito resentido finalmente 'cante' y te deje tirado.\n\nEste uso intermitente pero intenso genera un tipo de desgaste muy particular. No es el desgaste lineal del comercial que hace 50.000 km al año por autopista. Es un envejecimiento por ciclos de estrés. El motor pasa de la temperatura ambiente del garaje a su máximo rendimiento en pocos minutos para incorporarse a la autopista. El sistema de refrigeración, que apenas ha trabajado en meses, de repente tiene que gestionar el calor de una caravana en la C-58 volviendo a casa. Los frenos, que apenas se usan para ir al Mercadona, se calientan al rojo vivo bajando un puerto de montaña. Son estos picos de exigencia los que revelan las debilidades de un mantenimiento que a veces se pasa por alto porque 'el coche apenas se usa'.\n\nPor eso nuestro enfoque en Rubí se centra en la prevención para este tipo de vehículo. Entendemos que tu prioridad es la fiabilidad para tu tiempo de ocio. Quieres coger el coche un sábado por la mañana y saber que va a responder, ya sea para ir a la Festa Major de Terrassa o para una excursión improvisada. Analizamos los puntos críticos de un coche con poco uso: el estado de la batería, la cristalización de los neumáticos, la densidad del líquido de frenos y anticongelante, y el estado de correas y manguitos que se resecan con el tiempo, no con los kilómetros. Es un chequeo distinto, más profundo en ciertos aspectos que el de un coche de uso diario.\n\nEn definitiva, no tratamos tu coche como un número más. Entendemos su contexto, el tuyo. Sabemos lo que significa vivir en Rubí y querer aprovechar al máximo los fines de semana sin que una avería te arruine el plan. Antes de esa escapada a la Costa Brava o esa calçotada en el Penedès, pásate y le echamos un ojo. Te daremos un diagnóstico honesto y un presupuesto cerrado para que la única sorpresa sea el paisaje que descubras. Tu tranquilidad no tiene precio, y un coche fiable es el primer paso para conseguirla.",
-  "servicesIntro": "Desde una revisión completa antes de las vacaciones hasta esa avería que te preocupa, estos son los servicios que más nos piden los conductores de Rubí.",
-  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin sorpresas ni letra pequeña.",
+  "introLocal": "Si tienes un MINI Cooper S, un John Cooper Works o un BMW con carácter, sabes que no es un coche cualquiera. No lo usas solo para ir del polígono de La Llana al centro de Rubí. Lo disfrutas en las curvas de la carretera de Ullastrell o subiendo hacia Terrassa por la C-1413a. Por eso, cuando algo no va fino —un tirón del turbo, un ruido metálico en frío, una dirección que se endurece de repente—, no puedes dejarlo en manos de cualquiera. Necesitas a alguien que entienda la diferencia entre un motor B48 y un N18, que sepa qué es el \"death rattle\" de la cadena de un Cooper S R56 y por qué la bomba de agua eléctrica en un BMW Serie 3 F30 es un componente crítico. En nuestro taller de Rubí, miembro homologado de Red ISTA, vivimos para esta mecánica. No somos un concesionario oficial, y eso es una ventaja: te ofrecemos la misma tecnología de diagnóstico ISTA conectada a Múnich, pero con la cercanía y los costes de un taller especialista de tu ciudad.\n\nEl parque de BMW y MINI en Rubí y el Vallès Occidental es muy particular. Vemos a diario los coches de quienes viven en urbanizaciones como Can Mir o Sant Muç y necesitan un vehículo fiable para el día a día. Abundan los BMW X1 E84 y X3 F25 con el motor diésel N47, perfectos para coger la AP-7 cada mañana, pero también muy expuestos a problemas con la cadena de distribución. También son muy comunes los MINI Cooper, tanto diésel como los gasolina B38 de tres cilindros, que se mueven con agilidad por el centro. Y, por supuesto, está el grupo de entusiastas, con los Cooper S y JCW F56 (motor B48) y los R56 (N14/N18), coches que piden una conducción más exigente y, por tanto, un mantenimiento más riguroso. Esta mezcla de uso urbano intensivo con trayectos cortos y la necesidad de fiabilidad para viajes largos define los problemas que solucionamos: desde la regeneración forzada de un DPF en un 320d B47 que apenas sale de la ciudad, hasta el ajuste preciso de un sistema Vanos en un 135i que ha perdido respuesta.\n\nEl clima del Vallès, con veranos que aprietan de verdad y mañanas de invierno húmedas y frías, también deja su huella en la mecánica. El calor extremo pone a prueba los sistemas de refrigeración. Una bomba de agua eléctrica que empieza a fallar en un BMW o MINI moderno no avisa con el típico charco; simplemente, un día el coche te deja tirado por sobrecalentamiento en plena C-58. Con el diagnóstico ISTA podemos anticiparnos, leyendo los códigos de error internos que indican un funcionamiento anómalo antes del fallo catastrófico. Lo mismo ocurre con el sistema de aire acondicionado o las juntas de goma del motor, que se resecan y agrietan con los cambios de temperatura, provocando fugas de aceite en la tapa de balancines o en el soporte del filtro, averías típicas tanto en motores N20 de BMW como en los N18 de MINI.\n\nEntendemos que, viviendo en Rubí, tienes el concesionario oficial de Sant Cugat o Terrassa a un paso. Pero también sabemos lo que eso implica: listas de espera, presupuestos elevados y, a veces, una comunicación impersonal. Nuestra propuesta como taller de la Red ISTA es diferente. Te ofrecemos un trato directo, de mecánico a propietario. Conectamos tu coche a la misma plataforma que usan en Alemania, accedemos a los mismos boletines técnicos y seguimos los mismos procedimientos de reparación. La diferencia es que no tenemos una estructura de costes gigantesca. Eso nos permite ofrecerte recambios de calidad OE (los mismos fabricantes que suministran a BMW: Bosch, Mahle, ZF) o recambio original si lo prefieres, a un precio justo y con un presupuesto cerrado. Para tu MINI o BMW de más de cuatro años, somos la opción lógica y experta en Rubí.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu BMW o MINI en Rubí, desde la revisión oficial CBS hasta la electrónica más compleja.",
+  "processIntro": "Trabajamos con un proceso claro en 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico inicial",
-      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una primera valoración visual y mecánica para entender el origen del problema, sin desmontar nada todavía."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado y por escrito. Verás el coste de las piezas y la mano de obra por separado. Es un precio final, sin sustos de última hora."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin compromiso."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Te llamamos, te explicamos el presupuesto y tú nos das luz verde para proceder con la reparación. Tú mandas."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos si hace falta y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos de los plazos. Todas nuestras reparaciones y piezas cuentan con la garantía legal para tu total tranquilidad. Te avisamos en cuanto esté listo."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Cuando vengas a por el coche, te explicamos con detalle el trabajo realizado. Guardamos el historial de tu vehículo para futuras revisiones y estamos a tu disposición para cualquier duda que te surja."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos de servicio del cuadro (CBS), actualizamos el historial digital de tu coche si lo tiene y hacemos una prueba final. Te lo entregamos listo y con la tranquilidad de un trabajo bien hecho."
     }
   ],
-  "commonIssuesIntro": "El uso esporádico, la humedad del Vallès y las escapadas de fin de semana por carreteras exigentes provocan una serie de problemas recurrentes en los coches de Rubí.",
+  "commonIssuesIntro": "Conocemos las averías recurrentes que afectan a los BMW y MINI en nuestra zona, desde problemas con la cadena en los motores N47 hasta los fallos en la dirección eléctrica de los MINI más veteranos.",
   "commonIssues": [
     {
-      "title": "Baterías que fallan sin avisar",
-      "body": "Un coche parado cinco días en un invierno húmedo como el de Rubí es la receta perfecta para una batería débil. Los pequeños consumos residuales y la autodescarga hacen que el lunes no arranque. Comprobamos su estado real con un densímetro y te aconsejamos si es momento de cambiarla antes de que te deje tirado."
+      "title": "Fallo de la dirección electrohidráulica (EPS) en MINI",
+      "body": "En los MINI de la generación R56, es habitual que la bomba de la dirección asistida falle, endureciendo el volante de repente. Ocurre por sobrecalentamiento, algo que el callejeo y las maniobras para aparcar en zonas densas de Rubí como El Pinar o el centro aceleran. Diagnosticamos el sistema y reemplazamos la unidad por una de calidad OE para que recuperes el tacto 'go-kart'."
     },
     {
-      "title": "Frenos y suspensiones fatigados",
-      "body": "Las escapadas a zonas como el Montseny o simplemente subir y bajar las cuestas de urbanizaciones como Can Mir fuerzan mucho los frenos y la suspensión. Si notas que el coche 'flanea' en las curvas de la carretera de Ullastrell o que los frenos chirrían, es hora de una revisión. La seguridad en carreteras secundarias es vital."
+      "title": "Cadena de distribución en motores MINI N14/N18",
+      "body": "El famoso \"sonido de carraca\" en frío en un Cooper S R56 es un aviso serio. La cadena y los tensores de los motores N14 y N18 son un punto débil conocido. Ignorarlo puede acabar con el motor. En nuestro taller realizamos la sustitución del kit completo, usando recambios reforzados y calando la distribución con la herramienta específica para evitar males mayores."
     },
     {
-      "title": "Neumáticos cuarteados o deformados",
-      "body": "El sol intenso del verano en el Vallès sobre un coche aparcado en la calle y la falta de movimiento agrietan la goma de los neumáticos, aunque el dibujo esté bien. Esto es muy peligroso. Revisamos la fecha de fabricación y buscamos signos de cristalización para evitar un reventón en plena AP-7."
+      "title": "Consumo de aceite en motores turbo (BMW N20 y MINI N14)",
+      "body": "Si tienes que rellenar aceite cada dos por tres, es probable que haya un problema en los retenes de válvulas o en la ventilación del cárter (PCV). El uso intensivo y los cambios de temperatura del Vallès agravan este desgaste. Realizamos un diagnóstico de compresión y fugas para localizar el origen exacto y solucionarlo, evitando daños en el catalizador."
     },
     {
-      "title": "Problemas de refrigeración en atascos",
-      "body": "El coche funciona bien en carretera, pero al volver a Rubí un domingo por la tarde y pillar el típico atasco en la C-58, la temperatura se dispara. Un circuito de refrigeración con líquido viejo o un electroventilador que no salta a tiempo puede provocar una avería muy grave. Lo revisamos a fondo."
+      "title": "Filtro de partículas (DPF) saturado en diésel",
+      "body": "Muchos propietarios de BMW 118d o X1 20d en Rubí usan el coche para trayectos cortos, como ir a la estación de FGC o al centro comercial. Esto impide que el DPF se regenere, provocando pérdida de potencia y averías costosas. Con ISTA, forzamos la regeneración o realizamos una limpieza profesional si es necesario."
     },
     {
-      "title": "Filtros de habitáculo y motor saturados",
-      "body": "Vivir cerca de zonas verdes como el Parc de Ca n'Oriol o moverse por caminos de tierra en los alrededores de Rubí llena los filtros de polvo y polen. Esto reduce el rendimiento del motor y la calidad del aire que respiras. Es un cambio económico que mejora mucho el confort y la mecánica."
+      "title": "Bomba de agua eléctrica y termostato",
+      "body": "En casi todos los BMW y MINI post-2007, la bomba de agua es eléctrica y su vida útil es limitada. El calor de los veranos de Rubí, con atascos frecuentes en la C-16 o la AP-7, fuerza el sistema. Un fallo repentino causa un sobrecalentamiento grave. Recomendamos su revisión y sustitución preventiva en mantenimientos programados."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico honesto",
-      "body": "No cambiamos piezas por cambiar. Buscamos el origen real del problema para que no gastes de más. Si una reparación puede esperar, te lo decimos claramente."
+      "title": "Especialización real en MINI",
+      "body": "No solo reparamos BMW. Entendemos las particularidades de los MINI, desde la suspensión hasta la electrónica específica de los modelos S y JCW. Conocemos sus puntos débiles y cómo solucionarlos de forma definitiva."
     },
     {
-      "title": "Pensado para tu coche",
-      "body": "Entendemos que un coche de 12 años no necesita el mismo trato que uno nuevo. Usamos recambios de calidad equivalentes al original, perfectos para alargar su vida útil sin arruinarte."
+      "title": "Diagnóstico a nivel de fabricante",
+      "body": "Nuestro equipo ISTA/Rheingold es el mismo que utilizan en la fábrica de Múnich. Nos permite ver lo que otros escáneres genéricos no ven, codificar módulos y solucionar averías electrónicas complejas sin rodeos."
     },
     {
-      "title": "Conocemos la zona",
-      "body": "Sabemos lo que sufre un coche en Rubí y alrededores. Nuestro consejo de mantenimiento está basado en la realidad local, desde el tráfico de la C-58 hasta las carreteras de montaña cercanas."
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Detallamos cada pieza y cada hora de trabajo. Si surge un imprevisto, paramos y te consultamos. La transparencia es la base de la confianza."
     },
     {
-      "title": "Sin tecnicismos absurdos",
-      "body": "Te explicamos la avería de forma que la entiendas, sin usar un lenguaje complicado para impresionarte. Queremos que sepas qué le pasa a tu coche y por qué hay que arreglarlo."
+      "title": "Recambios de calidad OE o BMW Original",
+      "body": "Tú eliges. Podemos montar piezas originales de BMW o recambios de calidad equivalente de fabricantes como Bosch, Lemförder o Sachs, los mismos que suministran a la marca, pero con un coste más ajustado."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surgiera algo imprevisto (algo muy poco común), paramos y te llamamos. Nunca te llevarás un susto en la factura final."
+      "title": "Red nacional, taller local",
+      "body": "Formamos parte de Red ISTA, una red de más de 100 talleres en toda España. Eso nos da acceso a formación continua y soporte técnico, pero mantenemos la cercanía y el trato directo de un taller de Rubí."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas de las situaciones reales con las que ayudamos a conductores de Rubí cada día.",
+  "testimonialsIntro": "Estas son algunas experiencias de clientes de Rubí y alrededores que ya han confiado en nuestro servicio especializado para su BMW o MINI.",
   "testimonials": [
     {
-      "name": "Jordi",
-      "neighborhood": "Ca n'Oriol",
-      "car": "Renault Scénic 2011",
-      "body": "Tengo el coche para los fines de semana y las vacaciones. Antes de irnos en agosto a la Costa Brava, lo traje para una revisión. Me detectaron una pequeña fuga en el radiador que en el viaje nos habría dejado tirados seguro. Me salvaron las vacaciones. Muy profesionales y honestos, me explicaron todo perfecto.",
+      "name": "Joan",
+      "neighborhood": "Can Fatjó",
+      "car": "MINI Cooper S F56 2018",
+      "body": "Llevé el MINI porque en el concesionario de Sant Cugat me daban cita para dentro de tres semanas y un presupuesto que me pareció una pasada para la revisión CBS. Aquí me lo cogieron rápido, usaron el aceite Castrol que toca y me sellaron el historial digital. Trato directo y mucho más razonable de precio. Volveré seguro.",
       "rating": 5
     },
     {
       "name": "Marta",
-      "neighborhood": "Les Torres",
-      "car": "Volkswagen Polo 2014",
-      "body": "Uso el coche poco y la batería me había dejado tirada dos veces. Pensaba que era mala suerte, pero aquí me explicaron que podía ser el alternador. Lo comprobaron y, efectivamente, no cargaba bien. Me lo cambiaron a un precio razonable y con presupuesto cerrado desde el principio. Ahora arranca siempre a la primera.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "El Pinar",
-      "car": "Ford Focus 2009",
-      "body": "Notaba un ruido raro en la suspensión al pasar por los badenes de la urbanización. En otro sitio me querían cambiar los cuatro amortiguadores. Aquí lo miraron bien y vieron que era solo una copela. Una reparación mucho más barata. Se agradece que no intenten 'colarte' lo más caro. Me han ganado como cliente.",
-      "rating": 5
-    },
-    {
-      "name": "Sílvia",
       "neighborhood": "Centre",
-      "car": "Seat Ibiza 2012",
-      "body": "Tenía que pasar la ITV en la estación de Sant Cugat y me daba pánico por el tema de los humos. Lo traje para una pre-ITV y me hicieron una puesta a punto del motor y la inyección. Pasó sin problemas. El servicio fue rápido, aunque tuve que llamar yo para saber si estaba listo. Por lo demás, todo bien.",
+      "car": "BMW X1 xDrive20d E84 2014",
+      "body": "Mi X1 empezó a hacer un ruido metálico horrible. Estaba asustada pensando en la cadena del N47. En este taller de Rubí me lo confirmaron con el diagnóstico y me explicaron todo el proceso de cambio del kit. Me dieron un presupuesto cerrado y lo cumplieron. Ahora el coche va perfecto, fino y silencioso. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Les Torres",
+      "car": "BMW 330i G20 2019",
+      "body": "Tenía un aviso de fallo en el sistema de llamada de emergencia. En otros sitios no sabían qué hacer. Aquí conectaron el coche al sistema oficial ISTA y vieron que era un problema de software del módulo. Lo reprogramaron y quedó solucionado en una mañana. Se nota que controlan de electrónica BMW.",
+      "rating": 5
+    },
+    {
+      "name": "Laia",
+      "neighborhood": "El Pinar",
+      "car": "MINI One R56 2012",
+      "body": "El coche perdía potencia y se encendía el testigo de motor. Lo llevé y detectaron un fallo en una bobina de encendido. Me recomendaron cambiar las cuatro para evitar problemas futuros, me explicaron por qué y me pareció lógico. El precio fue correcto y el trato muy cercano. Lo único, que tardó un día más de lo previsto.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller da servicio a toda la ciudad de Rubí, desde el núcleo urbano en el Centre y el Mercat hasta barrios residenciales como Ca n'Oriol, Can Fatjó, El Pinar o Les Torres. Si vives en urbanizaciones de los alrededores como Sant Muç, también estás en nuestra área de influencia. Además, por nuestra ubicación y buenos accesos, somos el taller de confianza para muchos conductores de municipios vecinos como Sant Cugat del Vallès, Les Fonts, Terrassa y Castellbisbal. Nos encontrarás fácilmente tanto si vienes por la autopista AP-7 o la C-58 como si te mueves por carreteras locales como la BP-1503, que conecta con Sant Cugat.",
+  "zoneText": "Nuestro taller especialista en BMW y MINI en Rubí da servicio a toda la ciudad y sus alrededores. Tanto si vienes del centro, de urbanizaciones como Can Mir, El Pinar o Sant Muç, como de los barrios de Ca n'Oriol o Les Torres, estamos a tu disposición. También somos el taller de confianza para muchos propietarios de BMW y MINI de municipios cercanos como Sant Cugat del Vallès, Castellbisbal, Terrassa y Sant Quirze del Vallès, que buscan un servicio de nivel de concesionario sin sus precios. Nuestro acceso es sencillo desde las principales vías, como la AP-7, la C-16 o la C-58, lo que facilita que nos traigas tu coche cómodamente desde cualquier punto del Vallès Occidental.",
   "zoneNeighborhoods": [
-    "Ca n'Oriol",
-    "Can Fatjó",
     "Centre",
+    "Ca n'Oriol",
     "El Pinar",
+    "Can Fatjó",
     "Les Torres",
-    "Mercat",
     "Sant Muç",
+    "Mercat",
+    "Rubí 2000",
     "Sant Cugat del Vallès",
-    "Terrassa",
     "Castellbisbal"
   ],
   "zoneAccessRoutes": [
     "AP-7",
-    "C-58",
     "C-16",
+    "C-58",
+    "C-1413a",
     "BP-1503"
   ],
   "faqLocal": [
     {
-      "q": "Vivo en una urbanización de Rubí con muchas cuestas, ¿qué debería revisar más a menudo?",
-      "a": "Sin duda, los frenos y el embrague. El uso constante en pendiente acelera el desgaste de las pastillas, los discos y el líquido de frenos. En coches manuales, el embrague sufre mucho al arrancar en cuesta. Te recomendamos una revisión del sistema de frenado al menos una vez al año y estar atento a cualquier ruido o vibración."
+      "q": "Tengo un MINI John Cooper Works con algunas modificaciones, ¿realmente entendéis este modelo?",
+      "a": "Totalmente. No solo entendemos los JCW, nos encantan. Sabemos las diferencias en frenos, suspensión, gestión del motor (DME) y turbo respecto a un Cooper S. Si tienes modificaciones, lo primero que hacemos es evaluar cómo afectan a la mecánica. Con el diagnóstico ISTA podemos ver si alguna de ellas está generando conflictos electrónicos. Somos el taller en Rubí donde puedes hablar de 'performance' y te vamos a entender."
     },
     {
-      "q": "Mi coche duerme en la calle en Rubí todo el año. ¿Cómo le afecta el clima del Vallès?",
-      "a": "El principal problema es el contraste de temperatura y la humedad. En invierno, las mañanas frías y húmedas son duras para la batería. En verano, el sol intenso castiga la pintura, los plásticos exteriores y, sobre todo, los neumáticos, que pueden cristalizarse. Te aconsejamos usar parasol y revisar la presión y el estado de las ruedas con frecuencia."
+      "q": "¿La pre-ITV que ofrecéis me sirve para la estación de Sant Cugat o Terrassa?",
+      "a": "Sí, por supuesto. Nuestra revisión pre-ITV gratuita con cualquier mantenimiento cubre todos los puntos que miran en las estaciones de Applus+ de Sant Cugat, Terrassa o cualquier otra. Comprobamos frenos, suspensión, niveles de opacidad (para los diésel), neumáticos y luces. El objetivo es que vayas a la inspección con la total tranquilidad de que tu BMW o MINI la pasará sin defectos."
     },
     {
-      "q": "Uso el coche casi solo para ir a la playa por la AP-7, ¿le afecta la sal del mar?",
-      "a": "Sí, aunque no vivas en primera línea de mar. El ambiente salino se transporta por el aire y se deposita en la carrocería y, lo que es peor, en los bajos del coche, acelerando la corrosión. Es muy recomendable darle un manguerazo a los bajos del coche en un lavadero a presión después de pasar unos días en la costa, especialmente en invierno."
+      "q": "Vivo en Castellbisbal, ¿por qué debería traeros el coche a Rubí en vez de ir al concesionario oficial?",
+      "a": "Muchos de nuestros clientes de Castellbisbal nos eligen por tres motivos: especialización, transparencia y precio. Ofrecemos el mismo nivel de diagnóstico y conocimiento técnico que un concesionario, pero con un trato mucho más personal y unos precios significativamente más bajos, al no tener los enormes costes de una estructura oficial. Para un BMW o MINI fuera de garantía, la elección es clara."
     },
     {
-      "q": "¿Es necesario un mantenimiento especial si suelo circular por caminos de tierra cerca de Can Solà?",
-      "a": "Sí. El polvo es el principal enemigo. El filtro de aire del motor se saturará mucho antes, lo que aumenta el consumo y reduce la potencia. La suspensión también sufre más. Te recomendamos revisar y cambiar el filtro de aire con más frecuencia de la que indica el fabricante y hacer una inspección visual de los bajos y amortiguadores anualmente."
+      "q": "¿Hacéis codificaciones? Quiero activar algunas funciones en mi MINI F56.",
+      "a": "Sí, realizamos codificaciones y programaciones. Con nuestro equipo oficial ISTA podemos reequipar y activar funciones originales que tu coche no traía de serie pero que su hardware permite, como el control de crucero, cambiar la interfaz del sistema multimedia o ajustar parámetros de luces y confort. Siempre lo hacemos de forma segura, como si se hiciera en fábrica."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Sant Cugat, ¿hay algo en lo que se fijen especialmente?",
-      "a": "Las estaciones de ITV del área metropolitana de Barcelona suelen ser muy estrictas con las emisiones, tanto en diésel como en gasolina. Si tu coche es antiguo o hace principalmente trayectos cortos por Rubí, es fácil que acumule carbonilla. Un servicio pre-ITV con diagnosis de gases y una limpieza de inyectores suele ser clave para pasarla sin problemas."
+      "q": "¿Qué diferencia real de precio hay con el concesionario BMW de Sant Cugat para una revisión normal?",
+      "a": "No podemos darte una cifra exacta porque los precios varían, pero la diferencia es notable. Nuestro ahorro viene de dos vías: un precio por hora de mano de obra más competitivo y la opción de montar recambios de calidad OE (fabricante de equipo original) en lugar de recambio empaquetado por BMW, que suele ser más caro. En una revisión CBS, el ahorro puede ser muy significativo sin sacrificar calidad."
     },
     {
-      "q": "Antes de un viaje largo en verano, ¿cuál es el punto más crítico a revisar en un coche de más de 10 años?",
-      "a": "El sistema de refrigeración, sin ninguna duda. Un manguito reseco, un termostato que no abre bien o un radiador obstruido pueden causar un sobrecalentamiento y destrozar el motor. Es una avería muy cara que se puede prevenir con una simple revisión del estado de los componentes y la calidad del líquido anticongelante. Es lo primero que miramos."
+      "q": "Tengo un BMW i3 y vivo en un piso en el centro de Rubí sin garaje. ¿Qué mantenimiento específico necesita?",
+      "a": "El mantenimiento de un i3 es más sencillo, pero tiene puntos críticos. Revisamos el estado de la batería de alto voltaje con ISTA, comprobamos el nivel y estado del líquido refrigerante del circuito de la batería (clave para su vida útil), la salud del REX (el motor de gasolina extensor de autonomía) si tu modelo lo lleva, y el desgaste de los neumáticos, que son específicos. Para alguien sin cargador propio, asegurar la máxima eficiencia es fundamental."
     }
   ],
-  "closingHeadline": "Deja tu coche a punto en Rubí",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para que puedas seguir disfrutando de tus escapadas desde Rubí con total tranquilidad."
+  "closingHeadline": "Tu especialista BMW y MINI en Rubí",
+  "closingCta": "Pídenos un presupuesto cerrado para tu coche sin compromiso. Puedes llamarnos, enviarnos un WhatsApp o contactar por email para reservar tu cita en nuestro taller de Rubí."
 }
