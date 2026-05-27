@@ -6,185 +6,190 @@
   "population": 14329,
   "lat": 40.50353,
   "lng": -3.52775,
-  "metaTitle": "Taller mecánico en Paracuellos de Jarama — Híbridos y Eléctricos",
-  "metaDescription": "Mantenimiento y reparación para coches híbridos y eléctricos en Paracuellos de Jarama. Presupuesto cerrado y diagnóstico avanzado. Pide tu cita.",
-  "heroSubtitle": "Tu híbrido o eléctrico necesita un taller que entienda su tecnología. Deja de dar vueltas por la M-50 y ven a vernos en Paracuellos.",
+  "metaTitle": "Taller BMW y MINI en Paracuellos de Jarama — Red ISTA Oficial",
+  "metaDescription": "Especialistas en BMW y MINI en Paracuellos de Jarama. Revisión CBS, diagnóstico oficial ISTA y mecánica avanzada sin pagar precios de concesionario.",
+  "heroSubtitle": "¿Cansado de cruzar la M-50 para la revisión CBS de tu BMW y pagar de más? El especialista que buscas está aquí, en Paracuellos.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Conducir por Paracuellos de Jarama es vivir entre dos mundos. Por un lado, la tranquilidad de sus urbanizaciones como Miramadrid o Altos de Jarama; por otro, la cercanía a uno de los nudos logísticos más importantes de Europa: el aeropuerto Adolfo Suárez Madrid-Barajas. Esta dualidad define tu día a día al volante. Probablemente combines trayectos cortos para llevar a los niños al colegio con el uso intensivo de vías rápidas como la M-50 o la M-111 para ir a trabajar a Madrid, Alcobendas o al propio aeropuerto. Esta mezcla de recorridos, con arranques en frío en invierno y el motor eléctrico gestionando el tráfico lento, exige un mantenimiento específico. Un coche moderno, ya sea híbrido o eléctrico, no es solo un motor y cuatro ruedas; es un sistema complejo donde la electrónica y la gestión de la batería son tan cruciales como la mecánica tradicional, y en Paracuellos, ese sistema se pone a prueba a diario.\n\nLa historia de la movilidad en esta zona está indisolublemente ligada a la aeronáutica. No es casualidad que muchos vecinos trabajen en el sector aéreo o en la industria auxiliar que lo rodea. Esta cultura de la alta tecnología y la precisión se ha trasladado a las expectativas que tenemos sobre nuestros vehículos. Ya no nos conformamos con un simple cambio de aceite. Esperamos un diagnóstico preciso, un entendimiento profundo de la electrónica de un Toyota C-HR Hybrid o la gestión térmica de la batería de un Tesla. El conductor de Paracuellos, acostumbrado a los estándares de la aviación, busca un taller que hable su mismo idioma: el de la fiabilidad, la tecnología y la anticipación a los problemas. Entendemos que tu coche es una herramienta esencial, no un lujo, y que su correcto funcionamiento depende de un mantenimiento que esté a la altura de la tecnología que incorpora.\n\nEl clima continental de la meseta, con su crudeza, es otro factor determinante. Los veranos secos y tórridos de Madrid, con temperaturas que superan los 35 grados, son un desafío para cualquier vehículo, pero especialmente para los electrificados. El sistema de climatización no solo garantiza tu confort, sino que es vital para la refrigeración de la batería de alto voltaje, un componente clave para el rendimiento y la vida útil del coche. En invierno, las heladas matutinas y las bajas temperaturas afectan tanto a la batería de 12V como a la eficiencia del sistema de propulsión híbrido, que puede requerir más uso del motor de combustión hasta alcanzar su temperatura óptima de funcionamiento. Un mantenimiento preventivo adaptado a estas condiciones climáticas no es una opción, es una necesidad para asegurar la fiabilidad de tu coche durante todo el año.\n\nEl parque automovilístico de Paracuellos ha evolucionado rápidamente. Las calles de las nuevas urbanizaciones como Berrocales del Jarama reflejan una clara apuesta por vehículos más eficientes y tecnológicos. Cada vez más, los diésel y gasolina que durante años han sido la norma, comparten garaje con híbridos enchufables (PHEV) y eléctricos puros (BEV). Esta transición plantea nuevos retos. Un taller debe ser capaz de realizar una distribución en un motor TDI con la misma solvencia que diagnostica un fallo en el inversor de un Kia Niro. Esta versatilidad es nuestro compromiso: ofrecer un servicio multimarca real, que abarca desde la mecánica más tradicional hasta la electrónica más avanzada, garantizando que sea cual sea tu coche, reciba la atención experta que necesita.\n\nPor eso, si vives en Paracuellos de Jarama, Belvis de Jarama o trabajas en el Polígono Industrial, necesitas un taller que comprenda este entorno único. Un lugar donde no solo se cambien piezas, sino que se entienda cómo tu rutina diaria por la M-113 hacia Daganzo o tus trayectos por la M-50 afectan a cada componente de tu vehículo. Nuestra propuesta es sencilla: un servicio técnico honesto, con presupuestos cerrados y una comunicación clara, adaptado a la nueva realidad de la automoción. Porque cuidar de tu coche es cuidar de tu tranquilidad, ya sea en un atasco en la A-2 o disfrutando de una escapada de fin de semana.",
-  "servicesIntro": "Ofrecemos un servicio integral para tu coche en Paracuellos, con especial atención a los sistemas de vehículos híbridos y eléctricos.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto cerrado y detallado, y no hacemos nada sin tu aprobación previa.",
+  "introLocal": "Conduces un BMW Serie 3 o Serie 5. Vives en Miramadrid, en los Altos de Jarama o en el casco antiguo de Paracuellos. Cada mañana, la misma rutina: arrancas tu 320d G20, dejas a los niños en el colegio y te incorporas a la M-111 o a la M-50 para ir a trabajar a Madrid, Alcobendas o alguna de las empresas cerca de Barajas. Haces kilómetros, sí, pero también muchos trayectos cortos. El clima continental de Paracuellos no ayuda: el motor B47 sufre en los arranques en frío a bajo cero en invierno, y el sistema de refrigeración trabaja a destajo para mantener la temperatura en los atascos de la A-2 en pleno julio. Un día, el iDrive te avisa: 'Servicio de aceite de motor necesario'. Y empieza el dilema: ¿pido cita en el concesionario oficial de la A-1, pierdo media mañana en el desplazamiento y pago el sobrecoste de sus instalaciones, o busco una alternativa inteligente aquí mismo, en casa?\n\nEsa alternativa inteligente es un taller de la Red ISTA. Entendemos perfectamente tu situación porque es la de muchos de nuestros clientes en Paracuellos de Jarama. Sabes que una revisión CBS no es un simple cambio de aceite. Es un protocolo que exige el aceite correcto —un Longlife-04 (LL-04) con la especificación exacta de BMW—, filtros de calidad OE (Mahle, Mann) y, sobre todo, el reseteo del intervalo de servicio a través del sistema oficial. El concesionario te vende la tranquilidad de que lo hacen 'bien'. Lo que no te cuenta es que esa tranquilidad tiene un precio inflado por costes que no tienen nada que ver con la calidad técnica de la operación. Nosotros te ofrecemos exactamente la misma calidad técnica, el mismo aceite homologado y el mismo rigor en el procedimiento, pero con la estructura de costes de un taller especialista independiente. No pagas por una sala de espera con café de diseño, pagas por la pericia del técnico y la precisión del diagnóstico.\n\nAquí es donde entra en juego nuestra conexión directa con BMW. Nuestro equipo de diagnóstico ISTA/Rheingold no es una copia ni una versión genérica; es el software oficial, conectado en tiempo real a los servidores de BMW AG en Múnich. Para tu BMW, somos indistinguibles de un servicio oficial. Cuando conectamos tu coche, vemos cada módulo, cada sensor, cada código de error con la misma profundidad. Somos como la torre de control de Barajas para tu coche: vemos cada parámetro, cada comunicación interna, y guiamos la reparación con una precisión milimétrica, sin el ruido ni el coste de la terminal principal. Esto nos permite no solo realizar una revisión CBS perfecta y actualizar tu libro de mantenimiento digital, sino también diagnosticar averías complejas en el motor, la caja de cambios ZF 8HP o la electrónica que otros talleres genéricos ni siquiera pueden detectar.\n\nAunque el perfil del Serie 3 diésel es el más común en las carreteras que rodean Paracuellos como la M-113 hacia Daganzo, nuestra especialización abarca todo el espectro. Desde el MINI Cooper S con motor B48 que se usa para escapadas de fin de semana por la sierra, hasta el X3 o X5 familiar que necesita una puesta a punto de la suspensión neumática antes de las vacaciones. O el Serie 1 de gasolina (B38/B48) que hace recorridos más urbanos por Ajalvir o Cobeña. Para cada uno, aplicamos el mismo principio: conocimiento profundo de la marca, herramientas oficiales y un presupuesto cerrado y honesto. Somos el eslabón perdido para el propietario de un BMW o MINI en la zona del Jarama: la competencia de un concesionario, pero con la cercanía, el trato y el precio de un taller de confianza local. De tu taller.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Paracuellos, con la misma tecnología y garantía de un concesionario, pero con precios de taller local.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Al llegar tu coche, conectamos nuestros equipos de diagnosis avanzada para identificar con precisión el origen de la avería o las necesidades de mantenimiento. Escuchamos tus impresiones para entender el contexto completo."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, elaboramos un presupuesto detallado y sin sorpresas. Te lo enviamos por el medio que prefieras (WhatsApp, email) para que lo revises con calma, explicando cada punto."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin letra pequeña."
     },
     {
-      "title": "Tu autorización",
-      "body": "El coche no se toca hasta que nos das tu visto bueno explícito. Para nosotros, tu confianza es lo primero. Si surge cualquier imprevisto, contactamos contigo antes de continuar con la reparación."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca en tu coche sin tu visto bueno. Si durante la reparación aparece algo imprevisto, paramos, te llamamos, te enviamos fotos si es necesario y te explicamos las opciones."
     },
     {
-      "title": "Reparación",
-      "body": "Procedemos con la reparación utilizando recambios de primeras marcas y siguiendo las especificaciones del fabricante. Todas nuestras intervenciones y piezas están garantizadas para tu total tranquilidad y seguridad."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos herramienta específica."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos CBS del cuadro, actualizamos el libro digital de mantenimiento en tu iDrive y realizamos una prueba de rodaje. Unos días después, te contactamos para confirmar que todo va perfecto."
     }
   ],
-  "commonIssuesIntro": "El uso diario en Paracuellos, combinando autovía con trayectos cortos y el clima extremo de Madrid, genera problemas específicos, sobre todo en coches híbridos y eléctricos.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que solucionamos en los BMW y MINI que vemos a diario en nuestra zona, muchos de ellos agravados por el tipo de conducción y el clima de Paracuellos y sus alrededores.",
   "commonIssues": [
     {
-      "title": "Salud de la batería (12V y alto voltaje)",
-      "body": "El calor extremo del verano en Paracuellos acelera la degradación de las baterías. La de 12V, esencial en híbridos y eléctricos para arrancar el sistema, sufre especialmente. Revisamos su estado y el del sistema de refrigeración de la batería principal para prevenir fallos costosos y pérdidas de autonomía."
+      "title": "DPF saturado en motores B47/N47",
+      "body": "La combinación de trayectos cortos por Paracuellos y luego trayectos rápidos por la M-50 es la receta perfecta para saturar el filtro de partículas. Detectamos el nivel de saturación con ISTA y realizamos regeneraciones forzadas o limpiezas profesionales antes de que el problema escale a una costosa sustitución."
     },
     {
-      "title": "Mantenimiento del sistema de frenos",
-      "body": "Los coches electrificados usan mucho la frenada regenerativa, por lo que los frenos mecánicos actúan menos. La falta de uso, unida a la humedad de las mañanas de invierno cerca del Jarama, puede provocar oxidación y gripado de pinzas. Realizamos una limpieza y lubricación preventiva para asegurar su eficacia."
+      "title": "Fugas de aceite por juntas",
+      "body": "Los cambios bruscos de temperatura entre el invierno y el verano de Madrid resecan las juntas de la tapa de balancines y del enfriador de aceite. Es una avería común en casi todos los motores BMW. La localizamos en las revisiones CBS y la reparamos para evitar manchas en el garaje y problemas mayores."
     },
     {
-      "title": "Desgaste irregular de neumáticos",
-      "body": "El mayor peso y el par motor instantáneo de los eléctricos e híbridos causan un desgaste diferente en los neumáticos. Los trayectos por la M-50 a alta velocidad y las rotondas de Miramadrid acentúan este efecto. Es clave una correcta alineación y elegir neumáticos específicos para estos vehículos."
+      "title": "Problemas con la cadena de distribución",
+      "body": "El famoso problema de los motores N47 sigue presente en muchos coches que circulan por Paracuellos. Realizamos la sustitución preventiva del kit completo de distribución (cadenas, patines, tensores) utilizando recambio OE de primera calidad para garantizar la fiabilidad del motor durante miles de kilómetros."
     },
     {
-      "title": "Averías en el sistema de climatización",
-      "body": "En un eléctrico, el A/C o la bomba de calor no solo enfrían el habitáculo, sino también la batería. El intenso calor de Madrid somete al sistema a un estrés máximo. Un fallo no solo te hace pasar calor, sino que puede limitar la potencia del coche para proteger la batería. Lo revisamos a fondo."
+      "title": "Averías en el sistema de refrigeración",
+      "body": "La bomba de agua eléctrica y el termostato son puntos débiles, especialmente con el calor extremo del verano madrileño. Un fallo puede provocar un sobrecalentamiento grave. En las pre-ITV o revisiones de verano, comprobamos su funcionamiento para que no te deje tirado en la A-2."
     },
     {
-      "title": "Problemas de suspensión y silentblocks",
-      "body": "El sobrepeso de las baterías exige más a la suspensión. Los badenes de las zonas residenciales de Paracuellos y los firmes irregulares en algunas carreteras comarcales aceleran el desgaste de amortiguadores y silentblocks. Una revisión a tiempo evita ruidos y comportamientos extraños en carretera."
+      "title": "Desgaste de suspensión y neumáticos Run-Flat",
+      "body": "Los badenes de urbanizaciones como Miramadrid y el estado de algunas carreteras comarcales pasan factura a silentblocks, amortiguadores y neumáticos. Estamos equipados para sustituir neumáticos run-flat sin dañar la llanta y realizar una alineación 3D con las cotas exactas que especifica BMW."
+    },
+    {
+      "title": "Fallos en la caja de cambios ZF 8HP",
+      "body": "Aunque es una caja muy fiable, con el tiempo puede presentar tirones o fugas por la mecatrónica. Realizamos el mantenimiento con el aceite y filtro específicos de ZF, y diagnosticamos con ISTA cualquier anomalía electrónica para asegurar un cambio suave y preciso como el primer día."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en la nueva movilidad",
-      "body": "Entendemos la tecnología de tu coche híbrido o eléctrico. No nos limitamos a la mecánica tradicional; estamos formados en electrónica, baterías y sistemas de gestión para dar un servicio completo y actual."
+      "title": "Tecnología de concesionario",
+      "body": "Usamos el mismo sistema de diagnóstico oficial ISTA que el concesionario BMW. La diferencia es que no te cobramos por el lujo de sus instalaciones, solo por el trabajo técnico."
     },
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "El precio que te damos es el que pagas. Sin asteriscos ni letra pequeña. Si durante la reparación encontramos algo nuevo, paramos y te consultamos. Tú siempre tienes el control sobre el gasto."
+      "title": "Ahorro real y transparente",
+      "body": "Nuestros presupuestos son cerrados y detallados. El ahorro frente al servicio oficial es significativo, permitiéndote mantener tu BMW o MINI en perfecto estado sin desequilibrar tu presupuesto."
     },
     {
-      "title": "Conocemos Paracuellos y sus coches",
-      "body": "Sabemos cómo afecta a tu vehículo vivir aquí: el clima, el tipo de trayectos hacia Madrid y el aeropuerto. Este conocimiento local nos permite hacer un mantenimiento preventivo más eficaz."
+      "title": "Comodidad y cercanía",
+      "body": "Estamos en Paracuellos de Jarama. No necesitas perder horas cruzando Madrid. Nos dejas el coche por la mañana y lo recoges por la tarde, sin complicaciones y con un trato personal."
     },
     {
-      "title": "Transparencia total en el proceso",
-      "body": "Te explicamos cada paso de la reparación en un lenguaje claro. Queremos que entiendas qué le pasa a tu coche y por qué hacemos cada intervención. La confianza se basa en la comunicación honesta."
+      "title": "Especialización exclusiva",
+      "body": "Solo trabajamos con BMW y MINI. Conocemos sus motores, su electrónica y sus puntos débiles. No somos un taller genérico; somos especialistas dedicados a tu marca."
     },
     {
-      "title": "Servicio multimarca real",
-      "body": "Nuestra capacidad técnica nos permite trabajar con la misma calidad en un coche de combustión de hace diez años que en un híbrido enchufable recién salido del concesionario. Tu coche está en buenas manos."
+      "title": "Garantía sellada y actualizada",
+      "body": "Realizamos las revisiones según el plan de mantenimiento oficial (CBS) y actualizamos el historial de servicio digital en el iDrive de tu coche, manteniendo intacta la garantía del fabricante."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones típicas que hemos resuelto, contadas por clientes como podrías ser tú. Son ejemplos de nuestro trabajo diario.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que atendemos cada día en nuestro taller de Paracuellos, reflejando las situaciones de nuestros clientes.",
   "testimonials": [
     {
-      "name": "Javier",
+      "name": "Carlos",
       "neighborhood": "Miramadrid",
-      "car": "Tesla Model 3 2021",
-      "body": "Empecé a oír un ruido en la suspensión delantera, sobre todo en los badenes. En otros sitios no sabían muy bien qué mirar. Aquí dieron con el problema enseguida: un brazo de suspensión con holgura. Me explicaron que es algo relativamente común por el peso del coche. Presupuesto claro y reparación rápida. Muy profesionales.",
+      "car": "BMW 320d G20 2020",
+      "body": "Me saltó el aviso de la revisión y el presupuesto que me dieron en el concesionario de la A-1 me pareció una barbaridad. Los encontré a través de Red ISTA y fue un acierto. Mismo aceite, mismos filtros, me actualizaron el historial en la pantalla del coche y me ahorré un buen pico. Trato directo y profesional.",
       "rating": 5
     },
     {
       "name": "Laura",
-      "neighborhood": "Casco Antiguo",
-      "car": "Toyota C-HR Hybrid 2019",
-      "body": "El aire acondicionado dejó de enfriar en pleno junio. Con el calor que hace en Madrid, era un suplicio. Además, me preocupaba que afectara a la batería. Lo llevé y detectaron una pequeña fuga en el circuito. Lo repararon y recargaron el gas en el mismo día. Un alivio. El trato, excelente.",
+      "neighborhood": "Casco Urbano",
+      "car": "MINI Cooper F56 2018",
+      "body": "La dirección se puso dura de repente. En otro taller no sabían qué era. Aquí lo conectaron al ISTA y vieron que era un fallo del módulo de la dirección asistida. Me lo cambiaron y codificaron en un día. Saben perfectamente lo que tocan en estos coches, se nota la especialización.",
       "rating": 5
     },
     {
-      "name": "David",
+      "name": "Javier",
       "neighborhood": "Altos de Jarama",
-      "car": "Peugeot 3008 1.6 BlueHDi 2018",
-      "body": "Me tocaba hacer la distribución y el mantenimiento completo. Pedí varios presupuestos y el suyo fue el más claro y competitivo. Me gustó que me llamaran para confirmar un par de detalles antes de empezar. El coche va perfecto. Se nota que saben lo que hacen, sin historias raras.",
+      "car": "BMW X5 xDrive30d G05 2019",
+      "body": "Tenía un aviso de avería del sistema AdBlue. Me temía lo peor. Me explicaron el problema, que era un sensor, y me dieron un presupuesto cerrado. Cumplieron con el plazo y el precio. Mucha más transparencia que en el servicio oficial, donde siempre parece que estás firmando un cheque en blanco.",
       "rating": 5
     },
     {
-      "name": "Sofía",
+      "name": "Ana",
       "neighborhood": "Ajalvir",
-      "car": "Kia Niro PHEV 2020",
-      "body": "Notaba que la autonomía en modo eléctrico había bajado un poco y el coche daba tirones a veces al cambiar de eléctrico a gasolina. Hicieron una diagnosis completa del sistema híbrido y una actualización de software. El coche vuelve a ir suave como el primer día. Tardaron un poco más de lo previsto, pero me mantuvieron informada.",
+      "car": "BMW 118d F20 2016",
+      "body": "Lo llevé para la pre-ITV y me detectaron holgura en un brazo de suspensión. Me enseñaron la pieza y me explicaron por qué no pasaría la inspección. Me lo cambiaron en el mismo día y pasó la ITV sin problemas. Muy cómodo no tener que ir hasta Madrid para esto.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda la zona de Paracuellos de Jarama y sus alrededores. Si vives en el casco urbano, Miramadrid, Altos de Jarama o Belvis de Jarama, estamos a tu lado. Nuestra ubicación nos permite atender también a clientes de municipios cercanos como Ajalvir, Cobeña y Daganzo de Arriba, que utilizan diariamente las vías de conexión. Gracias al fácil acceso desde la M-50, la M-111 y la M-113, llegar a nuestro taller es muy sencillo. Muchos de nuestros clientes trabajan en el Polígono Industrial de Paracuellos o en las zonas logísticas cercanas al aeropuerto, y valoran nuestra agilidad para tener su vehículo, su herramienta de trabajo, siempre a punto y con la máxima fiabilidad. Si te mueves habitualmente por el corredor del Henares o la zona norte de Madrid, somos tu taller de confianza.",
+  "zoneText": "Nuestro taller en Paracuellos de Jarama da servicio a toda la zona noreste de Madrid. Si vives en el propio Paracuellos, ya sea en Miramadrid, el casco urbano o Altos de Jarama, estamos a pocos minutos. Además, somos el taller especialista en BMW y MINI de referencia para municipios colindantes como Ajalvir, Daganzo de Arriba, Cobeña y Belvis de Jarama. Gracias a nuestro fácil acceso desde las vías principales como la M-111, la M-113 y la M-50, muchos clientes de San Sebastián de los Reyes e incluso del Corredor del Henares nos eligen por nuestra especialización y precios competitivos.",
   "zoneNeighborhoods": [
     "Miramadrid",
-    "Casco Urbano",
+    "Casco Urbano de Paracuellos",
     "Altos de Jarama",
-    "Berrocales del Jarama",
-    "Belvis de Jarama",
+    "Polígono Industrial de Paracuellos",
     "Ajalvir",
     "Daganzo de Arriba",
     "Cobeña",
-    "Polígono Industrial Paracuellos"
+    "Belvis de Jarama",
+    "Berrocales del Jarama",
+    "Polígono Industrial de Ajalvir"
   ],
   "zoneAccessRoutes": [
     "M-50",
     "M-111",
     "M-113",
-    "A-2 (vía M-111)",
-    "R-2 (vía M-50)"
+    "M-108",
+    "A-2 (vía M-111)"
   ],
   "faqLocal": [
     {
-      "q": "¿Tenéis experiencia con la revisión pre-ITV de un coche híbrido o eléctrico en Paracuellos?",
-      "a": "Sí. Además de los puntos habituales, en un vehículo electrificado prestamos especial atención al estado de los cables de alta tensión (revestimiento naranja), el sistema de frenado regenerativo y la ausencia de fallos en el cuadro de instrumentos relacionados con el sistema híbrido, que son motivo de rechazo directo. Nos aseguramos de que todos los sistemas específicos de tu coche funcionen correctamente para que pases la ITV sin contratiempos."
+      "q": "¿Tengo que ir hasta Madrid o Alcobendas para pasar la revisión oficial de mi BMW?",
+      "a": "No, en absoluto. Como taller homologado por Red ISTA, realizamos la revisión CBS siguiendo estrictamente el protocolo de BMW, con aceite LL-04 y recambios OE. Usamos el terminal de diagnóstico oficial ISTA para resetear los intervalos y actualizar el historial digital de tu coche. Mantienes la garantía y te ahorras el viaje y el sobrecoste del concesionario."
     },
     {
-      "q": "Mi coche es nuevo y vivo en Miramadrid, ¿pierdo la garantía oficial si hago el mantenimiento con vosotros?",
-      "a": "No, en absoluto. Según la normativa europea, puedes realizar el mantenimiento de tu coche en cualquier taller cualificado sin perder la garantía del fabricante. Utilizamos recambios de calidad original o equivalente y seguimos escrupulosamente el plan de mantenimiento de la marca, sellando el libro de revisiones. Es tu derecho elegir taller."
+      "q": "Mi BMW diésel hace muchos trayectos cortos por Paracuellos, ¿debo preocuparme por el filtro de partículas (DPF)?",
+      "a": "Sí, es una preocupación muy fundada. La combinación de arranques en frío y trayectos cortos donde el motor no alcanza la temperatura óptima para regenerar (como ir de Miramadrid al polígono) es la principal causa de saturación del DPF en los motores B47/N47. Te recomendamos una revisión periódica con nuestro equipo ISTA para forzar una regeneración si es necesario y evitar una avería muy costosa."
     },
     {
-      "q": "¿Cómo afecta el clima de Madrid a la batería de mi coche eléctrico y qué podéis hacer?",
-      "a": "El calor extremo del verano acelera la degradación química de las celdas de la batería, mientras que el frío intenso del invierno reduce su rendimiento y autonomía puntualmente. Realizamos diagnósticos del estado de salud de la batería (SOH) y revisamos el sistema de refrigeración/calefacción líquida, que es clave para mantenerla en su rango de temperatura óptimo y alargar su vida útil."
+      "q": "¿Actualizáis el historial de servicio digital en el iDrive de mi coche?",
+      "a": "Sí. Al estar conectados a los servidores de BMW, cada intervención (revisiones, cambio de líquido de frenos, etc.) queda registrada en el historial digital de tu vehículo, accesible desde la pantalla del iDrive. A todos los efectos, es como si hubieras pasado la revisión en el concesionario, manteniendo el valor de reventa de tu coche."
     },
     {
-      "q": "Voy todos los días por la M-50 a trabajar, ¿qué neumáticos recomendáis para un coche pesado como un SUV híbrido?",
-      "a": "Para un uso intensivo en autovía con un coche de mayor peso, recomendamos neumáticos de tipo \"touring\" de marcas premium, que ofrecen un buen equilibrio entre durabilidad, agarre en seco y mojado, y eficiencia de rodadura. Para vehículos eléctricos, existen gamas específicas que soportan mejor el par motor instantáneo y son más silenciosos, mejorando el confort."
+      "q": "Vivo en Daganzo de Arriba, ¿me merece la pena traeros el coche?",
+      "a": "Totalmente. Estás a menos de 10 minutos por la M-113. Muchos de nuestros clientes son de Daganzo, Ajalvir y Cobeña porque no existe un especialista de nuestro nivel en esa zona. El ahorro de tiempo y dinero en comparación con ir a un concesionario en Madrid o Alcalá de Henares es considerable, y obtienes la misma calidad técnica."
     },
     {
-      "q": "¿Por qué mi híbrido parece consumir más gasolina en invierno aquí en Paracuellos?",
-      "a": "Es normal. En invierno, con las bajas temperaturas de Madrid, el motor de combustión necesita funcionar más tiempo para alcanzar su temperatura óptima y para alimentar el sistema de calefacción del habitáculo, que en muchos híbridos depende de él. Esto reduce el tiempo que el coche puede operar en modo 100% eléctrico, incrementando el consumo medio de combustible."
+      "q": "El frío de Paracuellos en invierno puede afectar a mi BMW?",
+      "a": "Sí, el frío intenso del invierno continental de aquí pone a prueba la batería, los calentadores en los diésel y la densidad del aceite. En las revisiones de invierno, comprobamos el estado de la batería y el sistema de carga para evitar que te deje tirado en una mañana helada. Es una de las averías más comunes que atendemos entre diciembre y febrero."
     },
     {
-      "q": "¿Realizáis mantenimiento a vehículos VTC que operan en la zona del aeropuerto de Barajas?",
-      "a": "Sí, entendemos las necesidades de los profesionales del transporte. Sabemos que vuestro coche es vuestra oficina y necesita estar operativo el máximo tiempo posible. Ofrecemos un servicio ágil para mantenimientos y reparaciones, centrándonos en la durabilidad y fiabilidad de los componentes para minimizar el tiempo de inactividad de vuestro vehículo."
+      "q": "¿Qué diferencia de precio real hay entre vuestra revisión CBS y la del concesionario oficial?",
+      "a": "No podemos dar una cifra exacta porque varía según el modelo, pero el ahorro suele ser muy significativo, a menudo entre un 30% y un 40%. La diferencia no está en la calidad de los materiales (usamos los mismos aceites y filtros OE) ni en la tecnología (usamos ISTA), sino en nuestros costes de estructura, que son mucho más ajustados que los de una gran concesión."
     },
     {
-      "q": "Vivo en una zona con bastantes cuestas en Paracuellos, ¿cómo afecta esto a la autonomía de mi coche eléctrico?",
-      "a": "La orografía afecta directamente. Subir cuestas consume mucha más energía, reduciendo la autonomía de forma notable. Sin embargo, la ventaja de un eléctrico es que al bajar esas mismas cuestas, el sistema de frenada regenerativa recupera una parte importante de esa energía, cargando la batería. Una conducción suave y anticipativa maximiza esta recuperación."
-    },
-    {
-      "q": "¿Es complicado encontrar puntos de carga públicos en Paracuellos o en las rutas habituales hacia Madrid?",
-      "a": "La infraestructura está mejorando, pero aún no es tan densa como en Madrid capital. En Paracuellos hay algunos puntos, pero es fundamental planificar. Nosotros podemos revisar el sistema de carga de tu coche (cables, conector) para asegurar que funciona perfectamente y aprovechas al máximo cada recarga, sea en casa o en un punto público."
+      "q": "Uso neumáticos run-flat, ¿tenéis el equipo para cambiarlos y hacer la geometría 3D?",
+      "a": "Sí, por supuesto. Sabemos que la mayoría de BMW y MINI que salen de fábrica montan neumáticos RSC (run-flat). Contamos con desmontadoras específicas para no dañar el flanco reforzado ni la llanta, y con un sistema de alineación 3D para ajustar la geometría a las cotas exactas que BMW especifica para tu modelo, algo crucial para evitar desgastes irregulares."
     }
   ],
-  "closingHeadline": "Cuida la tecnología de tu coche en Paracuellos",
-  "closingCta": "Pide tu cita previa y deja tu coche en manos de profesionales que entienden la automoción de hoy. Contacta con nosotros por teléfono, WhatsApp o email y te daremos una solución para tu vehículo en Paracuellos de Jarama."
+  "closingHeadline": "Tu especialista BMW y MINI en Paracuellos de Jarama",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp para reservar tu cita y descubre por qué cada vez más propietarios de BMW y MINI de Paracuellos confían en nosotros."
 }
