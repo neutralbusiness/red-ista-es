@@ -6,176 +6,186 @@
   "population": 75912,
   "lat": 40.55555,
   "lng": -3.62733,
-  "metaTitle": "Taller mecánico en San Sebastián de los Reyes | Para coches con años",
-  "metaDescription": "¿Tu coche ya tiene unos años y temes cada visita al taller? En San Sebastián de los Reyes te damos un presupuesto cerrado y sin sorpresas. Pide tu cita.",
-  "heroSubtitle": "Si cada vez que tu coche entra al taller en Sanse cruzas los dedos, respira. Te damos un diagnóstico claro y un precio cerrado.",
+  "metaTitle": "Taller BMW y MINI en San Sebastián de los Reyes · Red ISTA",
+  "metaDescription": "Especialistas en BMW y MINI en San Sebastián de los Reyes. Diagnóstico oficial ISTA, mecánica y revisiones CBS. La alternativa al concesionario. Pide cita.",
+  "heroSubtitle": "¿Acabas de recibir un presupuesto desorbitado en el concesionario para tu BMW diésel? Existe una alternativa especialista en San Sebastián de los Reyes.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Entendemos perfectamente esa sensación. Tienes un coche con más de diez años, que te ha llevado y te ha traído mil veces por la A-1 para ir a trabajar a Madrid, que ha subido y bajado la Avenida de Europa incontables ocasiones y que te conoce las calles del centro de San Sebastián de los Reyes mejor que nadie. Funciona, te lleva, pero cada ruido nuevo, cada luz que se enciende en el cuadro, te provoca un nudo en el estómago. Piensas: 'a ver qué es esta vez y cuánto me va a costar'. No estás solo. La mayoría de coches que vemos a diario en nuestros talleres de Sanse son como el tuyo: vehículos fiables pero con una década de servicio, que necesitan un mecánico que entienda su edad y tus preocupaciones, no uno que solo quiera venderte una reparación carísima o, peor, que te sugiera cambiar de coche.\n\nEl clima de la Comunidad de Madrid es especialmente duro con la mecánica, y en Sanse lo sabemos bien. No es lo mismo un coche que duerme en un garaje de Tempranales que uno que pasa las noches a la intemperie en Los Arroyos. Los veranos son un horno: el asfalto quema y el sol castiga los plásticos, manguitos y el sistema de refrigeración, sobre todo en los atascos de la A-1 en julio. Luego llega el invierno, con esas heladas secas que te dejan la batería tiritando por la mañana. Ese cambio radical de más de 40 grados entre estaciones pasa factura a juntas, líquidos y componentes electrónicos. Un coche de 2010 no está fabricado con los mismos materiales que uno actual; el desgaste por los extremos climáticos de nuestra zona es acumulativo y requiere un ojo experto que sepa dónde mirar para prevenir la avería gorda, no solo para repararla cuando ya es tarde y te ha dejado tirado cerca del Plaza Norte 2.\n\nAdemás del clima, está el uso que le das. San Sebastián de los Reyes ha crecido mucho, pero sigue teniendo esa mezcla de ciudad dormitorio y núcleo con vida propia. Eso se traduce en un patrón de uso muy concreto: trayectos cortos y frecuentes. Ir al Mercadona de La Dehesa Vieja, llevar a los niños al colegio, acercarse a Alcobendas... Esos arranques en frío y viajes de menos de 15 minutos son veneno para un motor diésel con filtro de partículas y provocan un desgaste prematuro en el motor de arranque y el embrague. No es lo mismo hacer 30 kilómetros de autovía del tirón que ocho trayectos de 4 kilómetros a lo largo del día. Tu coche sufre un desgaste muy específico, diferente al de un coche que solo pisa carretera. Nosotros conocemos ese patrón y sabemos qué componentes revisar para que esos trayectos cortos no acaben en una avería seria y costosa.\n\nPor eso, nuestro enfoque es radicalmente distinto. Cuando traes tu coche a nuestro taller de San Sebastián de los Reyes, lo primero que hacemos es escucharte a ti. ¿Qué ruido hace? ¿Cuándo lo hace? ¿Qué notaste? Después, hacemos un diagnóstico completo, sí, pero te lo explicamos en un lenguaje que entiendes. Sin tecnicismos para abrumarte. Y lo más importante: te damos un presupuesto cerrado. Cerrado significa cerrado. El precio que te damos es el que pagas, ni un euro más. Si durante la reparación encontramos algo más —algo que puede pasar en un coche con años—, paramos, cogemos el móvil, te llamamos, te lo explicamos con fotos si hace falta y te damos un nuevo presupuesto para esa pieza. Nunca, jamás, tocaremos nada sin tu aprobación explícita. Se acabó el miedo a la factura al recoger el coche.\n\nNuestra misión no es cambiar piezas sin más. Es darte la tranquilidad de que tu coche, aunque ya no sea un chaval, puede seguir siendo tu compañero de viaje fiable durante mucho más tiempo. Queremos que puedas seguir moviéndote por Sanse y sus alrededores con la seguridad de que la mecánica está en buen estado y, sobre todo, con la paz mental de que tienes un taller de confianza que no te va a buscar las vueltas. Desde una revisión pre-ITV para que vayas sobre seguro al centro de la A-1, hasta una distribución o un cambio de embrague, estamos aquí para cuidar de tu coche y de tu bolsillo. Porque un coche con años bien mantenido es mucho más inteligente que una letra nueva cada mes.",
-  "servicesIntro": "Realizamos desde la revisión anual hasta la mecánica más compleja para tu coche en San Sebastián de los Reyes, siempre con precios claros.",
-  "processIntro": "Trabajamos para que no tengas sorpresas: te explicamos todo y te damos un presupuesto cerrado antes de empezar la reparación.",
+  "introLocal": "Si conduces un BMW o un MINI por San Sebastián de los Reyes, es probable que tu situación te resulte familiar. Acudes al concesionario oficial, quizá el que está cerca de la A-1 en la zona de Las Tablas o Alcobendas, para la revisión CBS de tu 320d F30 o para investigar ese testigo que se ha encendido en tu X3 G01. Y entonces llega el presupuesto. Una cifra elevada que te hace dudar, especialmente si se trata de una intervención mayor como la cadena de distribución del motor N47 o el sistema de EGR del más moderno B47. Sabes que tu coche requiere un cuidado especializado, pero te preguntas si esa es la única opción. Aquí es donde un taller de la Red ISTA en San Sebastián de los Reyes representa la alternativa lógica: un centro independiente, homologado y equipado con la misma tecnología de diagnóstico oficial ISTA que el concesionario, pero con una estructura de costes que nos permite ser mucho más competitivos.\n\nComprendemos perfectamente el tipo de uso que recibe un BMW en nuestra zona. El trayecto diario desde urbanizaciones como Dehesa Vieja o Tempranales hacia los parques empresariales de Alcobendas o el norte de Madrid implica un patrón de conducción que no siempre es el ideal para los motores diésel. Esos recorridos, a menudo con el motor aún frío y en el tráfico denso de la A-1, son la causa directa de la saturación prematura del filtro de partículas (DPF) y de la acumulación de carbonilla en la válvula EGR. No es un fallo de tu coche; es una consecuencia directa de su entorno. Lo vemos a diario en los BMW X1 y X3 que nos llegan de toda la zona norte, vehículos familiares excelentes cuyo ciclo de vida se ve afectado por la rutina urbana. Nuestra aproximación no es solo reparar la avería, sino diagnosticarla con precisión mediante ISTA y aconsejarte sobre cómo mitigar estos problemas en el futuro.\n\nEl clima continental de Madrid añade otra capa de complejidad. Los veranos de San Sebastián de los Reyes, con temperaturas que superan los 35°C, ponen a prueba el sistema de refrigeración de cualquier motor, especialmente los B48 y B58 de gasolina. Un fallo en la bomba de agua eléctrica o en el termostato puede pasar de ser un aviso en el iDrive a una avería grave en un atasco en la M-40. En invierno, el frío intenso exige el máximo a la batería y al sistema de arranque, sobre todo en los diésel. Estos no son problemas genéricos; son fallos específicos que conocemos y sabemos cómo diagnosticar con exactitud. Con el software ISTA/Rheingold conectado a los servidores de BMW AG en Alemania, no interpretamos códigos de error genéricos: accedemos a los planes de actuación y a los boletines técnicos que el propio fabricante utiliza para resolverlos.\n\nLa confianza es la clave. Entendemos la reticencia a salir del circuito oficial. Por eso, nuestro centro está homologado por redista.com, una red nacional de especialistas independientes en BMW y MINI. Esta homologación garantiza que seguimos los procedimientos del fabricante, que utilizamos recambio de calidad OE (el mismo que montan fabricantes como Bosch, ZF o Mahle para BMW) o recambio original si así lo prefieres, y que registramos cada intervención en el historial de servicio digital de tu coche. Mantienes tu garantía oficial intacta. La diferencia es que hablarás directamente con el técnico que trabaja en tu coche, te explicaremos cada paso del proceso y te daremos un presupuesto cerrado y transparente, sin las sorpresas que a veces encuentras en estructuras más grandes. Somos tu taller especialista BMW en San Sebastián de los Reyes, la opción inteligente para el cuidado de tu vehículo.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu BMW o MINI en San Sebastián de los Reyes, desde el mantenimiento oficial CBS hasta las reparaciones más complejas.",
+  "processIntro": "Trabajamos con total transparencia. Este es nuestro proceso en cinco pasos, diseñado para que tengas el control y la información en todo momento.",
   "processSteps": [
     {
-      "title": "Diagnóstico y escucha",
-      "body": "Cuando llegas, no solo conectamos el coche a la máquina. Primero te escuchamos a ti. Nos cuentas qué notas y cuándo. Tu experiencia es la primera pista para un buen diagnóstico."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Analizamos el problema y calculamos el coste de la reparación, incluyendo piezas y mano de obra. Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Si durante el proceso surge un imprevisto, paramos y volvemos a contactar contigo. Tú tienes el control."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos y te explicamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos, herramienta especializada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos CBS en el cuadro y actualizamos el libro digital de mantenimiento. Realizamos una prueba de rodaje y contactamos contigo para confirmar que todo funciona perfecto."
     }
   ],
-  "commonIssuesIntro": "El calor extremo del verano, las heladas de invierno y el tipo de conducción en Sanse provocan averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que diagnosticamos y resolvemos en los BMW y MINI que nos llegan a nuestro taller de San Sebastián de los Reyes, muchos de ellos directamente relacionados con el uso y el clima de la zona.",
   "commonIssues": [
     {
-      "title": "Baterías que fallan en invierno",
-      "body": "En San Sebastián de los Reyes, las mañanas de invierno bajo cero son la prueba de fuego para cualquier batería, sobre todo si el coche duerme en la calle. El frío intenso reduce su capacidad de entrega de corriente. Si tu coche tiene más de 4 años, es probable que un día no arranque. Comprobamos su estado real y te aconsejamos si es momento de cambiarla antes de que te deje tirado."
+      "title": "Cadena de distribución (N47/B47)",
+      "body": "El famoso seseo en los motores diésel N47 y, en menor medida, B47. El uso intensivo en los trayectos por la A-1 y la M-50 puede acelerar el desgaste. Realizamos la sustitución del kit completo con recambios de calidad OE, siguiendo el procedimiento de BMW para asegurar la longevidad del motor y evitar una avería catastrófica. Un diagnóstico a tiempo es crucial."
     },
     {
-      "title": "Sobrecalentamiento en atascos de la A-1",
-      "body": "Llega junio y la A-1 se convierte en un infierno. El calor, sumado al tráfico lento, fuerza al máximo el sistema de refrigeración. Un termostato perezoso o un radiador sucio pueden provocar un sobrecalentamiento. Revisamos el circuito completo para asegurar que tu coche aguanta el verano de Madrid sin sustos."
+      "title": "DPF y EGR en motores diésel",
+      "body": "Es la avería más común en los BMW diésel de Sanse y Alcobendas. Los trayectos cortos para ir al trabajo o a centros como Plaza Norte 2 impiden que el filtro de partículas se regenere correctamente. Con ISTA, forzamos regeneraciones, realizamos limpiezas y diagnosticamos fallos en el sistema EGR para restaurar la eficiencia y evitar costosas sustituciones."
     },
     {
-      "title": "Filtro de partículas (FAP) obstruido",
-      "body": "El uso típico en Sanse, con muchos trayectos cortos para ir a la compra o al trabajo en Alcobendas, es el peor enemigo de los diésel modernos. El motor no alcanza la temperatura para regenerar el filtro de partículas, que acaba obstruyéndose y provocando una avería cara. Realizamos diagnosis y limpiezas forzadas para evitar su sustitución."
+      "title": "Fugas de aceite (Tapa de balancines / enfriador)",
+      "body": "El olor a aceite quemado es un síntoma claro. Las juntas, especialmente la de la tapa de balancines y la del soporte del filtro de aceite, se resecan con los ciclos de calor extremo del clima de Madrid. Localizamos la fuga con precisión y sustituimos las juntas por componentes OE que garantizan una estanqueidad duradera."
     },
     {
-      "title": "Silentblocks y suspensión castigados",
-      "body": "La proliferación de badenes en zonas residenciales como Dehesa Vieja o Tempranales, junto con el asfalto a veces irregular de las calles más antiguas, pasa factura a la suspensión. Los silentblocks se agrietan y los amortiguadores pierden eficacia, causando ruidos y un mal comportamiento. Revisamos el tren de rodaje en busca de holguras."
+      "title": "Fallo de la caja de transferencia xDrive",
+      "body": "Muchos de los BMW X1, X3 y X5 de la zona son xDrive. Un desgaste desigual de los neumáticos o la falta de mantenimiento del aceite de la caja de transferencia provoca tirones y averías. Diagnosticamos el sistema, cambiamos el aceite con la especificación correcta y calibramos el módulo VTG para un funcionamiento suave."
     },
     {
-      "title": "Manguitos y plásticos del motor resecos",
-      "body": "El vano motor de un coche aparcado al sol en verano en Sanse puede alcanzar temperaturas altísimas. Este calor extremo acelera el envejecimiento de los componentes de goma y plástico, como los manguitos del refrigerante o de la admisión. Una inspección visual a tiempo puede detectar una fisura antes de que cause una avería mayor."
+      "title": "Averías en la suspensión neumática",
+      "body": "Los badenes en urbanizaciones como El Encinar de los Reyes y las irregularidades del asfalto pasan factura a los sistemas de suspensión neumática de modelos como el X5 o el Serie 5 Touring. Diagnosticamos fugas en las balonas, fallos del compresor y problemas con los sensores de altura, ofreciendo una reparación eficaz y más económica que en el servicio oficial."
+    },
+    {
+      "title": "Problemas con el módulo FRM en MINI",
+      "body": "Un clásico en los MINI. De repente, las luces o los elevalunas dejan de funcionar. Es un fallo del módulo de espacio reposapiés (FRM). En lugar de sustituirlo por uno nuevo a un coste muy elevado, en la mayoría de los casos podemos repararlo y reprogramarlo, recuperando toda la funcionalidad por una fracción del precio."
     }
   ],
   "whyUs": [
     {
-      "title": "Expertos en coches con años",
-      "body": "Nos centramos en alargar la vida de tu coche, no en venderte reparaciones innecesarias. Conocemos los puntos débiles de los modelos con más de una década y sabemos cómo cuidarlos."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el mismo sistema ISTA/Rheingold que la casa oficial, conectado a BMW Alemania. No hay fallo que no podamos identificar con total precisión. No hay adivinanzas, solo datos."
     },
     {
-      "title": "Presupuesto a prueba de sustos",
-      "body": "Nuestra regla de oro es el presupuesto cerrado. El importe que apruebas es el importe que pagas. Se acabó la incertidumbre y el miedo a la factura final al recoger tu coche."
+      "title": "Especialización exclusiva",
+      "body": "Solo trabajamos con BMW y MINI. Nuestros técnicos viven y respiran estas marcas, conociendo en profundidad las peculiaridades de los motores N47, B48, B58 y la electrónica de los modelos F y G."
     },
     {
-      "title": "Diagnóstico claro y honesto",
-      "body": "Te explicamos la avería en un lenguaje que entiendes, separando lo urgente de lo recomendable. No te cambiaremos una pieza 'por si acaso'. Solo reparamos lo que es necesario."
+      "title": "Ahorro sin comprometer calidad",
+      "body": "Al ser un taller independiente, nuestra estructura de costes es más ágil. Te beneficias de precios más competitivos utilizando recambios de calidad OE (los mismos proveedores que fábrica) y manteniendo la garantía."
     },
     {
-      "title": "Conocemos tu entorno",
-      "body": "Sabemos cómo afecta a tu coche conducir a diario por San Sebastián de los Reyes: el clima, el tráfico, los badenes... Nuestro diagnóstico tiene en cuenta el desgaste local real."
+      "title": "Trato directo y transparente",
+      "body": "Hablas directamente con el responsable técnico. Te explicamos la avería, te mostramos las piezas sustituidas si lo deseas y te damos un presupuesto cerrado antes de hacer nada. Sin intermediarios ni sorpresas."
     },
     {
-      "title": "Comunicación directa y constante",
-      "body": "Te mantenemos informado durante todo el proceso. Cualquier imprevisto, te llamamos. Cualquier duda, nos preguntas. Eres parte del proceso de reparación de tu coche, no un espectador."
+      "title": "Homologación Red ISTA",
+      "body": "Pertenecer a redista.com es una garantía de calidad y profesionalidad. Compartimos conocimientos y estándares con más de 100 talleres especialistas en toda España, asegurando un servicio de primer nivel."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en nuestro taller de Sanse.",
+  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de San Sebastián de los Reyes y alrededores nos confían cada día. Sus casos podrían ser el tuyo.",
   "testimonials": [
     {
-      "name": "Carlos",
-      "neighborhood": "Dehesa Vieja",
-      "car": "Seat León TDI 2012",
-      "body": "Tenía la luz del motor encendida y el coche no tiraba. En otro sitio me hablaron de cambiar el filtro de partículas y me dieron un presupuesto que me asustó. Aquí me explicaron que era por hacer solo ciudad por Sanse y Alcobendas. Hicieron una regeneración forzada y el coche vuelve a ir perfecto por una fracción del coste. Muy honestos.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "Los Arroyos",
-      "car": "Renault Clio 2009",
-      "body": "Mi coche tiene sus años y siempre voy con miedo al taller. Me tocaba la distribución y pedí presupuesto aquí. Me lo dieron cerrado y por escrito. Cumplieron con el precio y el plazo. Te explican todo de forma que lo entiendes y te dan mucha tranquilidad. Volveré para la revisión sin dudarlo.",
-      "rating": 5
-    },
-    {
       "name": "Javier",
-      "neighborhood": "Centro",
-      "car": "Ford Focus 2011",
-      "body": "Notaba un ruido metálico en los baches y estaba preocupado. Lo revisaron y vieron que era un silentblock del brazo de suspensión. Me enseñaron la pieza rota y la nueva. El presupuesto fue muy razonable y el ruido ha desaparecido por completo. Se agradece que no intenten 'colarte' cosas.",
+      "neighborhood": "Dehesa Vieja",
+      "car": "BMW X3 xDrive20d G01 2019",
+      "body": "Me saltó el aviso de 'propulsión' y en el concesionario me hablaban de cambiar medio sistema de escape por un problema con el AdBlue, con un presupuesto que asustaba. Aquí conectaron el coche al ISTA delante de mí, vieron que era un sensor NOx y me explicaron el problema real. Lo solucionaron por menos de un tercio del presupuesto inicial. Profesionalidad y honestidad.",
       "rating": 5
     },
     {
-      "name": "Ana",
+      "name": "Marta",
       "neighborhood": "Alcobendas",
-      "car": "Opel Astra 2014",
-      "body": "Me recomendaron este taller y, aunque vivo en Alcobendas, me animé a probar. El trato es muy cercano y profesional. Tenía un problema con el aire acondicionado y lo solucionaron rápido. Lo que más me gustó fue que me llamaron para confirmar el presupuesto antes de hacer nada. Buen servicio.",
+      "car": "MINI Cooper F56 2018",
+      "body": "Llevaba el MINI a las revisiones oficiales, pero fuera de garantía me pareció un abuso. Vine para un cambio de aceite y pastillas (revisión CBS) y el trato fue genial. Me explicaron que el aceite era el homologado por MINI, resetearon el aviso y todo quedó registrado. El precio, mucho más razonable. Ya tengo taller de confianza.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Tempranales",
+      "car": "BMW 320d F30 2015",
+      "body": "Empecé a oír el famoso 'seseo' de la cadena de mi N47. Estaba muy preocupado por la posible rotura. Me dieron un presupuesto cerrado, me detallaron todas las piezas del kit que iban a montar (calidad Febi Bilstein) y me tuvieron el coche listo en el plazo acordado. El motor ahora suena perfecto. Me ahorré un dineral y un disgusto.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel",
+      "neighborhood": "Ciudalcampo",
+      "car": "BMW 530d G30 2017",
+      "body": "Tenía un problema eléctrico complejo que afectaba al navegador y los sensores de aparcamiento. Después de dar palos de ciego en otro taller, aquí lo diagnosticaron en una mañana con el equipo oficial. Requirió una codificación de un módulo. Se nota que saben lo que tocan. No fue barato, pero fue una solución definitiva y más económica que cambiar la unidad entera.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller da servicio principalmente a conductores de San Sebastián de los Reyes, cubriendo todos sus barrios, desde los más nuevos como Tempranales y Dehesa Vieja hasta zonas más consolidadas como Los Arroyos, Rosa Luxemburgo o el casco urbano. Entendemos las necesidades de los que se mueven por los polígonos industriales como el Polígono Norte o el de Moscatelares. Además, por nuestra ubicación y excelentes comunicaciones, somos una opción muy cómoda para vecinos de Alcobendas. El acceso es sencillo y rápido a través de las grandes vías que nos rodean, como la autovía A-1, la M-50 y arterias principales como la Avenida de Europa, facilitando que puedas dejarnos tu coche y seguir con tu día sin complicaciones.",
+  "zoneText": "Nuestro taller especialista en BMW y MINI da servicio a toda la zona norte de Madrid, con un acceso muy cómodo desde San Sebastián de los Reyes y sus alrededores. Recibimos diariamente clientes de todos los barrios de la ciudad, desde el Casco Histórico y Moscatelares hasta las nuevas urbanizaciones como Dehesa Vieja y Tempranales. Nuestra ubicación es ideal para quienes viven o trabajan en Alcobendas, La Moraleja, El Encinar de los Reyes o Soto de la Moraleja y buscan una alternativa experta al concesionario oficial. A través de la A-1, la M-50 y la M-40, estamos perfectamente comunicados para darte un servicio rápido y eficiente.",
   "zoneNeighborhoods": [
     "Dehesa Vieja",
-    "Los Arroyos",
     "Tempranales",
-    "Rosa Luxemburgo",
-    "Centro Urbano",
-    "Polígono Industrial Norte",
+    "Moscatelares",
+    "Casco Histórico (Sanse)",
     "Alcobendas",
     "La Moraleja",
-    "El Juncal"
+    "El Encinar de los Reyes",
+    "Soto de la Moraleja",
+    "Fuente del Fresno",
+    "Ciudalcampo"
   ],
   "zoneAccessRoutes": [
     "A-1 (Autovía del Norte)",
     "M-50",
-    "R-2 (Radial 2)",
-    "Avenida de Europa"
+    "M-40",
+    "M-12 (Eje Aeropuerto)",
+    "Carretera de Fuencarral (M-603)"
   ],
   "faqLocal": [
     {
-      "q": "Mi coche duerme en la calle en Sanse, ¿necesita algún cuidado extra por el clima?",
-      "a": "Sí. El clima continental de Madrid es muy agresivo. En invierno, el frío intenso debilita la batería y espesa los aceites, dificultando el arranque. En verano, el sol y el calor extremo resecan plásticos y gomas del motor. Te recomendamos revisar la batería antes del invierno y el sistema de refrigeración antes del verano para evitar sorpresas desagradables."
+      "q": "Vivo en La Moraleja, ¿sois una alternativa real al concesionario oficial de Las Tablas?",
+      "a": "Absolutamente. Contamos con el mismo equipo de diagnóstico oficial ISTA conectado a BMW AG. La única diferencia es que somos un taller independiente, lo que nos permite ofrecer precios más competitivos en mano de obra y recambios (tanto OE como originales) para el mantenimiento y reparación de tu BMW o MINI, sin que pierdas la garantía oficial y con un trato mucho más cercano y directo."
     },
     {
-      "q": "Hago solo trayectos cortos por Sanse y Alcobendas, ¿es malo para mi coche diésel?",
-      "a": "Sí, es uno de los usos más perjudiciales para un diésel moderno. Estos trayectos no permiten que el filtro de partículas (FAP/DPF) se regenere correctamente, lo que provoca su obstrucción y una posible avería costosa. Si este es tu caso, es vital hacer una revisión periódica del sistema y, si es posible, realizar un trayecto más largo por autovía (como la A-1 o M-50) una vez a la semana."
+      "q": "Mi BMW diésel solo hace trayectos cortos por Sanse y Alcobendas, ¿qué recomendáis?",
+      "a": "Es un caso muy común aquí. Esos trayectos cortos son perjudiciales para el filtro de partículas (DPF) y el sistema EGR. Recomendamos realizar, al menos una vez cada dos semanas, un trayecto por autopista (como la A-1 o M-50) de unos 20-30 minutos a un régimen sostenido de 2.000-2.500 rpm para facilitar la regeneración del DPF. Además, en tu revisión CBS, podemos verificar el estado de saturación y aconsejarte sobre mantenimientos preventivos."
     },
     {
-      "q": "Tengo que pasar la ITV en el centro de la A-1, ¿me ayudáis a prepararlo?",
-      "a": "Por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Comprobamos los puntos clave que miran en la inspección: frenos, suspensión, neumáticos, luces y, muy importante, la emisión de gases. Si detectamos cualquier problema, te damos un presupuesto cerrado para solucionarlo y que vayas a la ITV con la total tranquilidad de que vas a pasarla a la primera."
+      "q": "¿Mantenéis la garantía oficial de mi BMW si hago la revisión CBS con vosotros?",
+      "a": "Sí, la mantienes íntegramente. El reglamento europeo (UE 461/2010) permite realizar el mantenimiento en talleres independientes siempre que se sigan las especificaciones del fabricante. Nosotros utilizamos aceites homologados (LL-04), recambios de calidad OE o superior y sellamos el historial de servicio digital de tu BMW, cumpliendo todos los requisitos para que la garantía oficial no se vea afectada."
     },
     {
-      "q": "Vivo en Dehesa Vieja y hay muchísimos badenes, ¿cómo afecta a mi coche?",
-      "a": "Los badenes son un castigo para la suspensión. Cada golpe, por suave que sea, se transmite a los amortiguadores, muelles, silentblocks y rótulas. Con el tiempo, esto provoca holguras, ruidos y un desgaste prematuro. En tu revisión, prestamos especial atención a estos componentes para detectar cualquier signo de fatiga y evitar problemas mayores de seguridad y confort."
+      "q": "¿Podéis codificar un módulo nuevo o reequipar funciones en mi coche?",
+      "a": "Sí. Nuestro sistema ISTA nos permite no solo diagnosticar, sino también programar y codificar módulos. Si necesitas sustituir una unidad (DME, EGS, FRM, etc.), podemos codificarla para que funcione con tu vehículo. También realizamos reequipamientos, como la activación de Apple CarPlay, la instalación de una cámara trasera o la adaptación de nuevas funcionalidades, siempre que el hardware de tu coche lo permita."
     },
     {
-      "q": "Vuestro presupuesto es cerrado, ¿qué pasa si encontráis otra avería durante la reparación?",
-      "a": "Si al reparar el problema presupuestado descubrimos otra anomalía, detenemos el trabajo inmediatamente. Te llamaremos, te explicaremos con detalle qué hemos encontrado (incluso con fotos o vídeos si lo necesitas), te diremos la urgencia que tiene y te daremos un segundo presupuesto independiente para esa nueva tarea. Nunca repararemos nada extra sin tu consentimiento explícito."
+      "q": "El presupuesto que me dais, ¿incluye recambio original BMW o de otra marca?",
+      "a": "Por defecto, presupuestamos con recambio de calidad OE (Equipamiento Original). Son piezas fabricadas por las mismas marcas que suministran a BMW (Bosch, ZF, Lemförder, Mahle, etc.), por lo que la calidad es idéntica a la original, pero con un coste más ajustado. Si lo prefieres, podemos presupuestar y montar recambio original BMW. Siempre te daremos las opciones de forma transparente para que tú decidas."
     },
     {
-      "q": "Trabajo en el Polígono Industrial Norte, ¿tenéis facilidades para dejar y recoger el coche?",
-      "a": "Sí, entendemos perfectamente la logística de trabajar en los polígonos de Sanse. Ofrecemos flexibilidad en los horarios de entrega y recogida, y si lo necesitas y tenemos disponibilidad, podemos valorar opciones como un coche de cortesía (consulta condiciones) para que no pierdas tu jornada laboral. Llámanos y vemos cómo podemos adaptarnos a tu caso particular."
+      "q": "Tengo un BMW X5 con suspensión neumática, ¿tenéis experiencia con estos sistemas?",
+      "a": "Sí, tenemos amplia experiencia. La suspensión neumática es común en los X5, X6, Serie 5 y Serie 7 que vemos en la zona. Diagnosticamos con ISTA fugas en las balonas, fallos del compresor y problemas con los sensores de altura. Ofrecemos tanto la reparación como la sustitución de componentes, siendo una de nuestras especialidades para los modelos de gama alta de BMW."
     }
   ],
-  "closingHeadline": "Deja tu coche en buenas manos en Sanse",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de San Sebastián de los Reyes para que vuelvas a conducir con total tranquilidad."
+  "closingHeadline": "Tu especialista BMW y MINI en San Sebastián de los Reyes",
+  "closingCta": "Si buscas un diagnóstico preciso y una reparación honesta para tu coche, has llegado al lugar adecuado. Contacta con nosotros por teléfono, WhatsApp o email para pedir tu cita en nuestro taller de San Sebastián de los Reyes."
 }
