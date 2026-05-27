@@ -6,181 +6,189 @@
   "population": 13843,
   "lat": 41.41702,
   "lng": 1.9197,
-  "metaTitle": "Taller mecánico en Corbera de Llobregat — Presupuesto cerrado",
-  "metaDescription": "¿Nuevo en Corbera de Llobregat y buscas un taller honesto? Entendemos el desgaste de sus cuestas. Presupuesto cerrado y sin sorpresas. Pide tu cita.",
-  "heroSubtitle": "¿Acabas de mudarte a Corbera y no sabes en qué mecánico confiar? Entendemos las cuestas, la humedad y el desgaste real que sufre tu coche aquí.",
+  "metaTitle": "Taller BMW y MINI en Corbera de Llobregat · Red ISTA",
+  "metaDescription": "Inspección y diagnóstico oficial ISTA para tu BMW o MINI en Corbera de Llobregat. Especialistas en vehículos de segunda mano, híbridos y eléctricos.",
+  "heroSubtitle": "¿Acabas de comprar un BMW o MINI de segunda mano en Corbera? Asegura tu inversión con un diagnóstico oficial ISTA que revela todo lo que no se ve.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Si acabas de instalarte en Corbera de Llobregat, bienvenido. Seguramente ya te has dado cuenta de que conducir aquí no tiene nada que ver con moverse por el llano de Barcelona o el Baix Llobregat. Aquí, el coche no es un lujo, es una necesidad para subir a urbanizaciones como Can Margarit o la Creu de l’Aragall, o simplemente para hacer la compra. Y con esa necesidad, llega la pregunta del millón para cualquier recién llegado: ¿dónde encuentro un taller que entienda de verdad cómo se vive y se conduce en este pueblo? Un sitio donde no te traten como a un turista y comprendan que el trayecto diario por la BV-2421 hacia La Palma o la rotonda para coger la A-2 no es un paseo, sino un desgaste constante para la mecánica. Aquí, un embrague, unos frenos o una suspensión no sufren lo mismo que en un terreno plano. Nosotros partimos de esa realidad: tu coche tiene un estrés mecánico específico por el simple hecho de vivir en Corbera, y tu taller debe saberlo.\n\nVamos a ser claros. La orografía de Corbera es el principal factor que determina la salud de tu vehículo. Cada vez que subes desde Corbera Baixa hacia las urbanizaciones de arriba, tu motor trabaja a un régimen más alto y durante más tiempo para vencer la gravedad. El sistema de refrigeración se pone a prueba, sobre todo en los atascos de verano para salir del pueblo. Al bajar, son los frenos los que se llevan la peor parte. No es un desgaste lineal; es un abuso constante que sobrecalienta los discos y cristaliza las pastillas si no son de la calidad adecuada. Lo mismo ocurre con el embrague en los coches manuales. Cada arranque en cuesta, cada maniobra para aparcar en una rampa empinada en zonas como Can Rialb, es un pequeño mordisco a la vida útil del disco. Un mecánico que no tenga esto en cuenta te montará un recambio estándar que durará la mitad de lo que debería. Nosotros no solo reparamos la avería; te explicamos por qué ha ocurrido y qué tipo de pieza es la más adecuada para el trote que le das a tu coche en estas carreteras.\n\nAl factor geográfico se suma el clima pre-litoral de la zona. En invierno, la humedad que sube del valle del Llobregat se asienta en el pueblo, generando una condensación que puede ser letal para los componentes electrónicos y, sobre todo, para la batería. Un coche que duerme en la calle en una urbanización como Cases Pairals sufre más que uno en un garaje del Eixample. Esas mañanas frías y húmedas son la prueba de fuego para un sistema de arranque que ya tiene unos años. En verano, el calor intenso pone al límite el circuito del aire acondicionado, un elemento que aquí no es de confort, sino de seguridad. El contraste térmico y las vibraciones constantes en carreteras secundarias con asfalto irregular son la receta perfecta para microfugas en el circuito que un taller genérico puede tardar horas en encontrar. Entender esta estacionalidad nos permite anticiparnos a los problemas más comunes y aconsejarte en mantenimientos preventivos que te ahorrarán una buena pasta a largo plazo.\n\nPor eso, si eres nuevo en Corbera, no estás buscando simplemente un 'cambiapiezas'. Necesitas un equipo que funcione como ese vecino de toda la vida que te da una buena recomendación, pero con la garantía y profesionalidad de una red nacional. Un taller que cuando le digas que 'el coche hace un ruido raro al bajar la cuesta de la farmacia' sepa exactamente a qué te refieres. Que entienda que tus neumáticos necesitan un buen agarre para las curvas mojadas de la carretera de Gelida y que tu aceite debe tener la viscosidad correcta para proteger un motor que trabaja forzado. Dejamos de lado el marketing vacío para centrarnos en el diagnóstico honesto y la reparación duradera, pensada por y para las condiciones únicas de Corbera de Llobregat. Queremos ser ese primer contacto de confianza para el cuidado de tu coche, ahora que has elegido este increíble pero exigente lugar para vivir.",
-  "servicesIntro": "Desde la revisión anual hasta esa avería compleja que te ha dejado tirado en una cuesta, cubrimos todas las necesidades de tu coche en Corbera.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un presupuesto cerrado y detallado por WhatsApp o email, y no movemos un tornillo sin tu aprobación explícita.",
+  "introLocal": "Adquirir un BMW o MINI de segunda mano es una decisión importante, especialmente en un entorno como Corbera de Llobregat. Tal vez has encontrado un X3 G01 perfecto para la vida familiar en la urbanización de Can Rigol, o un ágil Serie 1 F40 ideal para bajar cada día a Barcelona por la A-2. La satisfacción inicial, sin embargo, debe ir acompañada de una certeza técnica. Un vehículo con unos años a sus espaldas, que ha circulado por las curvas de la carretera de La Creu de l'Aragall (BV-2421) y ha afrontado el clima húmedo del Baix Llobregat, acumula un historial electrónico que no aparece en un informe de tráfico. Aquí es donde una inspección post-compra con el sistema de diagnóstico oficial BMW ISTA se convierte en una herramienta fundamental, no en un gasto. Se trata de obtener una radiografía completa y precisa del estado real de cada módulo electrónico, desde la gestión del motor B47 o B48 hasta el complejo sistema de la caja de transferencia xDrive, que tanto sufre en las pendientes de nuestra orografía.\n\nEl procedimiento que seguimos está diseñado para ofrecer una total transparencia al nuevo propietario. Al conectar tu coche a nuestro equipo ISTA/Rheingold, accedemos en tiempo real a los servidores de BMW AG en Múnich. Esto nos permite no solo leer los códigos de error superficiales que detectaría un escáner genérico, sino también los fallos esporádicos, las adaptaciones de componentes y el historial de servicio digital almacenado en la propia llave y en la unidad central. Para un BMW comprado de segunda mano, esta información es crucial. Podemos identificar si la cadena de distribución de un motor N47 muestra los primeros síntomas de estiramiento, si el sistema Valvetronic de un motor de gasolina presenta valores anómalos o si la caja de cambios automática ZF 8HP necesita un mantenimiento preventivo antes de que derive en una avería costosa. Este análisis exhaustivo te proporciona un plan de acción claro para disfrutar de tu vehículo en las carreteras de Corbera y sus alrededores con total tranquilidad.\n\nUn factor cada vez más relevante en zonas residenciales como Corbera, donde proliferan las viviendas unifamiliares con puntos de carga privados en barrios como Bon Repòs o Can Margarit, es la creciente presencia de modelos BMW híbridos enchufables (330e, X5 45e) y 100% eléctricos (iX1, i4, iX3). Comprar uno de estos vehículos de segunda mano introduce una nueva capa de complejidad: el estado de la batería de alto voltaje. Un taller convencional no dispone de la herramienta ni de la formación para diagnosticar la salud real (State of Health - SoH) de estas baterías. Nuestro centro, como parte de Red ISTA, está equipado para realizar este diagnóstico específico. Verificamos cada celda, el sistema de refrigeración de la batería y el historial de carga, ofreciéndote un informe detallado que es vital para entender la autonomía real que puedes esperar y la vida útil restante del componente más caro del coche. Esta especialización es una garantía para tu inversión en la movilidad del futuro.\n\nEn definitiva, nuestro servicio en Corbera de Llobregat va más allá de una simple reparación; es un servicio de asesoramiento técnico para el propietario exigente. Entendemos que tu BMW o MINI no es solo un medio de transporte para ir de Corbera a Pallejà o Sant Andreu de la Barca, sino una inversión en ingeniería y placer de conducción. Por ello, te ofrecemos la misma capacidad de diagnóstico que un concesionario oficial, pero con la estructura de costes, la agilidad y el trato personalizado de un taller independiente homologado por Red ISTA. Antes de empezar a invertir en personalizaciones o en el primer mantenimiento, permítenos realizar un chequeo completo. Sabrás exactamente qué has comprado, qué necesita atención a corto y medio plazo y cómo planificar su cuidado para asegurar miles de kilómetros de disfrute por las carreteras del Ordal y más allá.",
+  "servicesIntro": "Ofrecemos un catálogo completo de servicios para tu BMW o MINI en Corbera de Llobregat, desde el diagnóstico post-compra hasta el mantenimiento más complejo.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre sepas qué le ocurre a tu coche y cuánto va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Analizamos tanto los fallos electrónicos como los síntomas mecánicos que nos describes para encontrar el origen real del problema."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado con el coste de las piezas y la mano de obra. Lo que ves es lo que pagas, sin sorpresas ni costes ocultos de última hora. Todo claro desde el principio."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin compromiso."
     },
     {
-      "title": "Tu autorización",
-      "body": "Revisas la propuesta tranquilamente. Si tienes cualquier duda, nos llamas y te la resolvemos. La reparación solo comienza cuando nos das tu visto bueno de forma explícita. Tú tienes siempre el control."
+      "title": "Tu autorización expresa",
+      "body": "No realizamos ninguna intervención sin tu consentimiento explícito. Si durante la reparación surge un imprevisto, detenemos el proceso, te contactamos y te explicamos la situación antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros técnicos realizan la reparación siguiendo los estándares del fabricante y te mantenemos informado si surgiera cualquier imprevisto, aunque no es lo habitual."
+      "title": "Reparación especializada",
+      "body": "Intervenimos siguiendo los protocolos de BMW, con recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos herramienta específica para la marca."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio (CBS) en el cuadro, actualizamos el libro de mantenimiento digital y realizamos un seguimiento para confirmar que la intervención ha sido un éxito y tu coche funciona perfectamente."
     }
   ],
-  "commonIssuesIntro": "La combinación de cuestas, humedad y el tipo de trayectos diarios en Corbera de Llobregat provoca una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "Incluso los BMW y MINI mejor mantenidos presentan problemas recurrentes que conocemos bien, muchos de ellos acentuados por la orografía y el tipo de uso en el área de Corbera de Llobregat.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos",
-      "body": "Bajar cada día desde urbanizaciones como Creu de l'Aragall o Can Montmany obliga a un uso intensivo del freno. Este sobrecalentamiento constante provoca que las pastillas se cristalicen y los discos se deformen mucho antes de lo normal. Revisamos todo el sistema y te recomendamos componentes más resistentes a la fatiga térmica."
+      "title": "Saturación del Filtro de Partículas (DPF)",
+      "body": "Los trayectos cortos dentro de Corbera o el tráfico lento en la BV-2421 impiden que los motores diésel (B47/N47) completen la regeneración del DPF. Realizamos diagnósticos con ISTA para forzar la regeneración o proceder a una limpieza profesional, evitando la costosa sustitución del filtro."
     },
     {
-      "title": "Embragues que patinan y bimasa",
-      "body": "Los arranques en las empinadas rampas de Corbera son el peor enemigo del embrague. El esfuerzo extra para iniciar la marcha quema el disco y fuerza el volante bimasa. Si notas que el coche se revoluciona pero no coge velocidad al subir, es un síntoma claro. Lo diagnosticamos y sustituimos el kit completo."
+      "title": "Desgaste prematuro de suspensión y frenos",
+      "body": "Las constantes pendientes y curvas en las urbanizaciones de Corbera y las carreteras de montaña circundantes aceleran el desgaste de silentblocks, amortiguadores y sistema de frenado. Una inspección post-compra es clave para evaluar su estado y evitar sustos."
     },
     {
-      "title": "Problemas de suspensión y silentblocks",
-      "body": "Las carreteras sinuosas y el asfalto a veces irregular de las zonas más apartadas castigan los amortiguadores y los silentblocks. Un 'clonk' al pasar un bache o inestabilidad en curva son señales de alerta. Unos amortiguadores en mal estado, además, aumentan la distancia de frenado, algo crítico en nuestras bajadas."
+      "title": "Diagnóstico de baterías en híbridos y eléctricos",
+      "body": "Para los crecientes X5 45e o MINI Eléctrico de segunda mano en la zona, es vital verificar la salud de la batería de alto voltaje. Con ISTA, podemos determinar su capacidad real y detectar posibles celdas defectuosas, un servicio que pocos talleres independientes ofrecen."
     },
     {
-      "title": "Fugas en el sistema de refrigeración",
-      "body": "En verano, el motor de tu coche sufre el doble en las subidas prolongadas para volver a casa. La presión extra en el circuito de refrigeración puede revelar pequeñas fugas en manguitos o en el radiador que en llano pasarían desapercibidas. Una revisión a tiempo evita un sobrecalentamiento grave."
+      "title": "Fugas de aceite en tapa de balancines y cárter",
+      "body": "Los cambios de temperatura y la humedad del clima local pueden degradar las juntas de goma de motores como el N20 o el B48. Detectamos y reparamos estas fugas, que a menudo pasan desapercibidas, previniendo daños mayores en el motor por falta de lubricación."
     },
     {
-      "title": "Baterías que mueren sin avisar",
-      "body": "La humedad invernal de Corbera, combinada con trayectos cortos dentro del pueblo que no permiten una recarga completa del alternador, agota las baterías prematuramente. Si notas que al coche le cuesta arrancar por la mañana, es mejor comprobar su estado antes de que te deje tirado."
+      "title": "Averías en el sistema xDrive",
+      "body": "El sistema de tracción total xDrive, muy popular en los modelos X de la zona, sufre en las carreteras con fuerte desnivel. Diagnosticamos problemas en la caja de transferencia (VTG) y realizamos el mantenimiento del aceite específico para asegurar su correcto funcionamiento y longevidad."
     },
     {
-      "title": "Fallo en el filtro de partículas (FAP/DPF)",
-      "body": "Muchos coches diésel no llegan a alcanzar la temperatura óptima para la regeneración del filtro de partículas en los trayectos cortos por el pueblo. Esto provoca obstrucciones y averías costosas. Realizamos limpiezas forzadas y te damos pautas para evitar que vuelva a ocurrir en tus rutas habituales."
+      "title": "Fallos en la dirección eléctrica (EPS) de MINI",
+      "body": "Los MINI, especialmente los de generaciones anteriores, son propensos a fallos en la bomba de la dirección electrohidráulica. Si notas la dirección dura de forma intermitente, es crucial revisarla. Diagnosticamos el sistema para encontrar el origen exacto del problema."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos la geografía local",
-      "body": "Sabemos lo que una cuesta del 15% le hace a tu embrague. Nuestro diagnóstico parte del conocimiento real de las carreteras y el clima de Corbera."
+      "title": "Diagnóstico Post-Compra exhaustivo",
+      "body": "Te entregamos un informe completo del estado electrónico real de tu nuevo BMW o MINI. Una radiografía precisa para que sepas qué has comprado y planifiques su mantenimiento sin sorpresas."
     },
     {
-      "title": "Presupuesto sin letra pequeña",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que aceptas es lo que pagas. Se acabaron los sustos en la factura final."
+      "title": "Especialización en Híbridos y Eléctricos",
+      "body": "Estamos preparados para la nueva generación de BMW. Diagnosticamos y mantenemos los sistemas de alto voltaje de modelos como el iX1, i4 o 330e, una capacidad poco común fuera del concesionario oficial."
     },
     {
-      "title": "Reparamos, no solo cambiamos piezas",
-      "body": "Buscamos el origen del problema. No te haremos cambiar medio coche si la avería se puede solucionar con un diagnóstico preciso y una reparación honesta."
+      "title": "Acceso al Historial de BMW AG",
+      "body": "Nuestra conexión directa con los servidores de BMW nos permite, en muchos casos, verificar el historial de mantenimiento digital del vehículo, detectando posibles inconsistencias o manipulaciones."
     },
     {
-      "title": "Pensado para el día a día",
-      "body": "Si necesitas el coche para ir a trabajar a Sant Andreu de la Barca o llevar los niños al colegio, lo entendemos. Ofrecemos soluciones ágiles y coche de cortesía (sujeto a disponibilidad)."
+      "title": "Alternativa real al Concesionario",
+      "body": "Ofrecemos la misma tecnología de diagnóstico y el mismo nivel de especialización que el servicio oficial, pero con la flexibilidad, el trato directo y los precios de un taller independiente."
     },
     {
-      "title": "Garantía en todas las intervenciones",
-      "body": "Todas nuestras reparaciones y piezas instaladas tienen garantía por escrito. Tu tranquilidad es lo primero para nosotros."
+      "title": "Plan de Mantenimiento a Medida",
+      "body": "Basándonos en el diagnóstico ISTA y el uso que le das al coche en Corbera y alrededores, diseñamos un plan de mantenimiento preventivo para anticiparnos a las averías comunes y alargar la vida del vehículo."
     }
   ],
-  "testimonialsIntro": "Aquí tienes algunos ejemplos de situaciones reales que nos encontramos cada día, contadas por conductores de Corbera como tú.",
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día, casos de clientes que, como tú, buscaban seguridad y transparencia para su BMW o MINI.",
   "testimonials": [
     {
-      "name": "Anna",
-      "neighborhood": "Can Rialb",
-      "car": "Seat León 1.9 TDI 2010",
-      "body": "Me mudé hace un año y mi coche empezó a perder fuerza subiendo la cuesta a casa. En mi antiguo taller no daban con la tecla. Aquí lo diagnosticaron rápido: un manguito del turbo con una pequeña fisura. Se notó que sabían de lo que hablaban y no intentaron venderme un turbo nuevo. Muy honestos.",
+      "name": "Jordi",
+      "neighborhood": "Urbanización Can Margarit",
+      "car": "BMW X5 45e G05 2020",
+      "body": "Acababa de comprar el X5 híbrido de segunda mano y no estaba tranquilo con la batería. En Red ISTA me hicieron un diagnóstico completo con el software oficial y me dieron un informe detallado de su estado de salud. Ahora sé que la autonomía es correcta y que la inversión fue segura. Imprescindible para un coche así.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Nucli Antic",
+      "car": "MINI Cooper F56 2019",
+      "body": "Compré el MINI para moverme por Corbera y bajar a Sant Feliu. Lo traje aquí para una revisión general post-compra. Detectaron con la máquina ISTA que una bobina de encendido empezaba a fallar de forma esporádica, algo que yo no notaba aún. Lo solucionaron antes de que me dejara tirada. Muy profesionales.",
       "rating": 5
     },
     {
       "name": "Carles",
-      "neighborhood": "Corbera Alta",
-      "car": "Renault Clio 2015",
-      "body": "Tenía que pasar la ITV y estaba preocupado por los frenos, que chirriaban al bajar hacia el Pont de les Lletres. Lo traje para una pre-ITV y, efectivamente, las pastillas estaban cristalizadas. Me explicaron por qué pasa esto aquí en Corbera y me montaron unas de mejor calidad. Pasé la ITV sin problemas.",
-      "rating": 5
-    },
-    {
-      "name": "Mireia",
-      "neighborhood": "Creu de l'Aragall",
-      "car": "Peugeot 3008 2018",
-      "body": "Soy nueva en el pueblo y no conocía a nadie. El coche empezó a hacer un ruido metálico en la rueda delantera. Me daba pánico que fuera algo grave. El trato fue súper cercano, me explicaron que era una tontería, una piedrecita entre el disco y el protector. No me cobraron nada. Así se gana un cliente.",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
       "neighborhood": "La Palma de Cervelló",
-      "car": "Volkswagen Golf 2016",
-      "body": "Aunque soy del pueblo de al lado, vengo aquí porque un amigo me los recomendó. El aire acondicionado no enfriaba y ya me lo habían 'cargado' en otro sitio. Aquí se tomaron el tiempo de buscar la fuga con un detector. Era una junta minúscula. La reparación tardó un día más de lo previsto, pero me avisaron y el resultado fue perfecto.",
+      "car": "BMW 320d F30 2016",
+      "body": "Tenía dudas sobre el famoso tema de la cadena del motor N47 en mi 320d recién comprado. Aquí no solo me explicaron en qué consistía, sino que comprobaron los tensores y el estado general. Me quedé mucho más tranquilo. El presupuesto fue cerrado y el trato, excelente. No lo llevo a otro sitio.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Urbanización Creu de l'Aragall",
+      "car": "BMW X1 xDrive20d F48 2018",
+      "body": "Vivimos en la parte alta y el coche sufre bastante en las cuestas. Después de comprarlo, lo traje para una inspección. Me recomendaron hacer el mantenimiento del aceite de la caja de transferencia xDrive, algo que el vendedor ni mencionó. Se nota que conocen estos coches a fondo. Un servicio muy necesario.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a todo el término municipal de Corbera de Llobregat, sin importar en qué urbanización vivas. Conocemos perfectamente los accesos y las particularidades de zonas como Corbera Alta, Corbera Baixa, Can Margarit, Can Montmany, Creu de l'Aragall, Can Rialb o Cases Pairals. Si vives en municipios colindantes como La Palma de Cervelló o Pallejà y buscas un taller especializado en las condiciones de conducción de esta zona del Ordal, también eres bienvenido. Nuestro taller está estratégicamente situado para un acceso rápido desde la carretera principal, la BV-2421, y a pocos minutos de los enlaces con vías rápidas como la A-2 y la B-24, facilitando que puedas dejar tu coche de camino al trabajo.",
+  "zoneText": "Nuestro taller en Corbera de Llobregat ofrece servicio especializado BMW y MINI a toda la zona del Baix Llobregat Nord. Damos cobertura no solo al núcleo urbano y a todas las urbanizaciones de Corbera (Can Rigol, Bon Repòs, Creu de l'Aragall, Can Margarit), sino también a propietarios de municipios colindantes como La Palma de Cervelló, Pallejà y Sant Andreu de la Barca. Muchos de nuestros clientes vienen desde Cervelló o incluso Gelida, buscando un especialista de confianza. Nuestra ubicación es de fácil acceso a través de la carretera BV-2421, que conecta rápidamente con la autovía A-2 y la antigua N-340, facilitando el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Corbera Alta",
-    "Corbera Baixa",
-    "Can Margarit",
-    "Creu de l'Aragall",
-    "Can Montmany",
-    "Can Rialb",
-    "Cases Pairals",
+    "Corbera de Llobregat",
     "La Palma de Cervelló",
     "Pallejà",
-    "Sant Andreu de la Barca"
+    "Sant Andreu de la Barca",
+    "Cervelló",
+    "Gelida",
+    "Urbanización Can Rigol",
+    "Urbanización Bon Repòs",
+    "Urbanización Creu de l'Aragall",
+    "Vallirana"
   ],
   "zoneAccessRoutes": [
     "BV-2421",
     "A-2",
-    "B-24",
+    "AP-7",
     "N-340"
   ],
   "faqLocal": [
     {
-      "q": "¿Qué tipo de neumáticos recomendáis para conducir todo el año en Corbera?",
-      "a": "Dada la variabilidad, con inviernos húmedos y veranos secos, un neumático 'all-season' de buena calidad es una opción muy equilibrada. Ofrece buen agarre en las mañanas frías y mojadas sin desgastarse excesivamente con el calor. Si usas el coche para viajes largos por autopista, un buen neumático de verano y mayor precaución en invierno también es viable. Lo crucial es vigilar la presión y la profundidad del dibujo."
+      "q": "Acabo de comprar un BMW de importación en Corbera, ¿podéis verificar su historial con ISTA?",
+      "a": "Sí. Nuestro sistema ISTA, conectado a los servidores de BMW, nos permite acceder al historial de mantenimiento digital registrado en la red oficial europea. Podemos contrastar la información, leer los kilómetros almacenados en diferentes módulos (no solo en el cuadro) y detectar posibles inconsistencias. Es el paso más fiable para verificar un vehículo importado."
     },
     {
-      "q": "Mi coche huele a embrague quemado al aparcar en la rampa de mi garaje. ¿Es normal?",
-      "a": "Puede ser relativamente común si la maniobra es exigente, pero no es una buena señal. Indica que el disco de embrague está patinando y sufriendo un desgaste acelerado. Si te ocurre a menudo, te recomendamos que te pases para que le echemos un vistazo rápido y gratuito. Es mejor revisar el ajuste del cable o el estado del kit antes de que te deje tirado en una cuesta."
+      "q": "Mi BMW 330e de segunda mano parece tener menos autonomía eléctrica. ¿Podéis diagnosticarlo?",
+      "a": "Absolutamente. Es una de nuestras especialidades. Conectamos el coche a ISTA y realizamos un test completo a la batería de alto voltaje. Medimos su capacidad real (SoH o Estado de Salud) y te damos un informe detallado. Así sabrás si la degradación es normal para su edad y uso o si existe algún problema en alguna celda o en el sistema de gestión."
     },
     {
-      "q": "Al pasar la ITV, ¿en qué os fijáis especialmente para coches de esta zona?",
-      "a": "Además de los puntos estándar, en nuestra pre-ITV ponemos especial atención a los elementos que más sufren en Corbera. Revisamos a fondo todo el sistema de frenado (discos, pastillas, latiguillos y líquido), el estado de los silentblocks y los amortiguadores, y las posibles holguras en la dirección. También comprobamos las emisiones, ya que un motor que trabaja forzado tiende a generar más carbonilla."
+      "q": "Vivo en la urbanización Creu de l'Aragall. ¿Recomendáis alguna revisión específica por el tipo de carreteras?",
+      "a": "Sí. Para vehículos que circulan a diario por carreteras con pendientes y curvas pronunciadas como las de tu zona, recomendamos una inspección más frecuente del sistema de frenos (discos y pastillas), los amortiguadores y los silentblocks de la suspensión. En modelos xDrive, también es crucial revisar y mantener el aceite de la caja de transferencia para evitar un desgaste prematuro."
     },
     {
-      "q": "¿Cada cuánto debo revisar el líquido de frenos si conduzco a diario por aquí?",
-      "a": "El manual de tu coche probablemente diga cada dos años, pero nosotros recomendamos comprobarlo anualmente. El uso intensivo de los frenos en las bajadas de Corbera genera más calor, lo que puede degradar el líquido más rápido. Un líquido en mal estado pierde eficacia y puede darte un buen susto. Es una revisión barata que aporta mucha seguridad."
+      "q": "El vendedor me ha dado un informe de Carfax. ¿Qué información adicional aporta vuestro diagnóstico ISTA?",
+      "a": "Carfax y otros informes se basan en registros administrativos (ITVs, seguros, bajas). Son útiles, pero no ven el estado mecánico o electrónico. Nuestro diagnóstico ISTA es una inspección técnica profunda: leemos la memoria de averías de todos los módulos, vemos datos en tiempo real de inyectores, turbo o FAP, y analizamos el estado de componentes electrónicos que un informe administrativo jamás podría reflejar."
     },
     {
-      "q": "Uso el coche solo para trayectos cortos dentro de Corbera, ¿necesita un mantenimiento especial?",
-      "a": "Sí, totalmente. El uso exclusivo en trayectos cortos es muy perjudicial. El motor no llega a calentarse, lo que crea depósitos de carbonilla, la batería no se recarga bien y el filtro de partículas en los diésel no se regenera. Te aconsejamos usar un aceite de mayor calidad y, de vez en cuando, hacer un trayecto más largo por la A-2 para 'limpiar' el motor."
+      "q": "He comprado un Serie 1 y lo uso a diario para bajar a Sant Vicenç dels Horts. ¿Qué puntos clave revisáis?",
+      "a": "En un coche de uso diario para commuting, además de la diagnosis electrónica completa, nos centramos en puntos críticos para la fiabilidad: estado del filtro de partículas (DPF) si es diésel, posible carbonilla en la admisión en motores de gasolina de inyección directa, estado de la batería y el sistema de carga (IBS), y por supuesto, neumáticos y frenos. El objetivo es asegurar que el coche sea fiable para el día a día."
     },
     {
-      "q": "Si os dejo el coche, ¿cómo vuelvo a casa si vivo en una urbanización sin transporte público?",
-      "a": "Entendemos perfectamente el problema. Por eso, además de nuestro servicio de coche de cortesía (siempre sujeto a disponibilidad, por lo que es mejor reservarlo con antelación), en casos de reparaciones rápidas o mantenimientos programados, siempre intentamos buscar una solución para acercarte a tu domicilio si es dentro del mismo municipio. Consúltanos tu caso al pedir cita."
+      "q": "La revisión en vuestro taller de Corbera, ¿mantiene la garantía oficial de un BMW recién comprado?",
+      "a": "Sí. Según el reglamento europeo 461/2010, puedes realizar el mantenimiento de tu coche en un taller independiente sin perder la garantía del fabricante. Utilizamos recambios de calidad original (OE) o recambios originales BMW y seguimos escrupulosamente los planes de mantenimiento de la marca, sellando y actualizando el historial digital de servicio de tu vehículo."
+    },
+    {
+      "q": "Mi yerno me dice que con un lector OBD de 20 euros puedo ver los fallos, ¿qué diferencia hay con ISTA?",
+      "a": "Un lector OBD genérico solo accede a una pequeña parte de los códigos de error del módulo de motor, generalmente los relacionados con emisiones. El sistema ISTA de BMW se comunica con TODOS los módulos del coche (ABS, airbag, climatizador, navegación, caja de cambios, etc.), permite realizar diagnósticos guiados, codificaciones, adaptaciones y programaciones. La diferencia es como comparar una linterna con un equipo de resonancia magnética."
     }
   ],
-  "closingHeadline": "Cuida tu coche como se merece en Corbera",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y te responderemos lo antes posible para darte una cita en nuestro taller de Corbera de Llobregat."
+  "closingHeadline": "Tu BMW o MINI, analizado al detalle en Corbera de Llobregat",
+  "closingCta": "Asegura tu inversión y conduce con total tranquilidad. Contacta con nosotros y solicita una cita para una inspección post-compra completa en nuestro centro de Corbera de Llobregat."
 }
