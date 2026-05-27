@@ -6,179 +6,183 @@
   "population": 41896,
   "lat": 40.60092,
   "lng": -3.70806,
-  "metaTitle": "Taller mecánico en Tres Cantos — Para tu coche del día a día",
-  "metaDescription": "Mantenimiento y reparación para coches con uso intensivo en Tres Cantos. Presupuesto cerrado y sin sorpresas para tu diésel o gasolina. Pide tu cita.",
-  "heroSubtitle": "Para ti, que cada mañana coges la M-607 y necesitas que tu coche, simplemente, no te falle. Ni en el atasco de El Goloso ni en la vuelta a casa.",
+  "metaTitle": "Taller BMW y MINI en Tres Cantos — Red ISTA · Diagnóstico oficial",
+  "metaDescription": "Inspección y diagnóstico ISTA para tu BMW o MINI en Tres Cantos. ¿Acabas de comprar uno de segunda mano? Te damos un informe completo y transparente.",
+  "heroSubtitle": "¿Dudas del historial real de ese BMW de segunda mano que acabas de comprar? Conectamos el ISTA oficial y te contamos toda la verdad.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Entendemos lo que significa conducir en Tres Cantos. No es solo vivir aquí; es la rutina diaria de la M-607, ese termómetro que mide la salud de tu coche. Sabes de lo que hablamos: el tramo de velocidad constante hasta que te acercas a El Goloso y empieza el juego de acelerar y frenar hasta la M-40. Ese castigo diario para el embrague, los frenos y la caja de cambios no es una anécdota, es el día a día de miles de tricantinos que trabajan en Madrid o, a la inversa, de quienes vienen al Parque Tecnológico. Tres Cantos se diseñó en los 70 como una ciudad para el coche, con avenidas amplias y rotondas que hoy, con casi 50.000 habitantes, ponen a prueba la dirección y los neumáticos de una forma muy particular. Un coche en esta ciudad no es un lujo, es la herramienta que conecta tu vida en los Sectores o en Nuevo Tres Cantos con tu trabajo, y sabemos que su fiabilidad no es negociable.\n\nEl coche de un profesional que trabaja en el PTM o en las sedes de grandes empresas de la zona tiene un ciclo de vida distinto. Acumula kilómetros a un ritmo que asustaría a un conductor ocasional. No es raro hacer 80 o 100 kilómetros diarios, y eso significa que el mantenimiento no puede medirse solo en años, sino en meses y en el tipo de uso. El diésel sigue siendo el rey de este trayecto por su consumo, pero también es el que más sufre con la carbonilla si los atascos impiden que el filtro de partículas se regenere bien. El polvo fino de la dehesa de Soto de Viñuelas, especialmente en primavera y verano, se cuela en los filtros de aire y habitáculo, y exige una atención que en un entorno urbano más denso no sería tan crítica. Por eso, cuando nos traes tu coche, no vemos solo un modelo y un año; vemos una historia de trayectos por la Avenida de la Industria y kilómetros de autovía.\n\nLuego está el clima. Aquí, al pie de la Sierra de Guadarrama, el tiempo no se anda con tonterías. Los inviernos en Tres Cantos son fríos y secos, con heladas que ponen a prueba las baterías cada mañana. Una batería que ya va justa, 'cantando' un poco al arrancar, es una avería segura en la primera ola de frío de noviembre. Y qué decir de los veranos: 35 grados a la sombra y el asfalto de la M-607 ardiendo. En esas condiciones, un sistema de aire acondicionado que no enfría como debe no es una incomodidad, es un problema serio. Y un sistema de refrigeración del motor que no esté impecable puede darte el susto del viaje. Este contraste térmico tan bestia, de bajo cero a casi cuarenta grados, acelera el envejecimiento de manguitos, juntas y otros componentes de goma y plástico. Hay que echarle un ojo de vez en cuando, porque estos detalles son los que marcan la diferencia entre un coche que da guerra y uno en el que confías.\n\nPor todo esto, nuestro enfoque es diferente. No nos limitamos a seguir el manual del fabricante. Lo complementamos con la realidad de conducir aquí. Analizamos el desgaste de tus neumáticos pensando en las rotondas de la Avenida de Viñuelas y en la velocidad de la autovía. Revisamos tu sistema de frenos sabiendo la paliza que se lleva en el tráfico de hora punta. Te preguntamos cuántos kilómetros haces y por dónde, porque no es lo mismo usar el coche para ir de casa en el Sector Pintores a la estación de Cercanías que cruzar Madrid a diario. Te ofrecemos un diagnóstico honesto y un presupuesto cerrado porque, igual que tú necesitas saber a qué hora vas a llegar a tu reunión, también necesitas saber cuánto te va a costar la reparación, sin sorpresas. Somos tu taller de confianza en Tres Cantos porque hablamos tu mismo idioma: el de la carretera.",
-  "servicesIntro": "Desde la revisión anual para quedarte tranquilo hasta esas averías más complejas que aparecen por el uso intensivo de tu coche en la zona norte de Madrid.",
-  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin letra pequeña, así de simple.",
+  "introLocal": "Acabas de encontrarlo. Ese BMW X3 xDrive20d G01 que llevaba meses en tu radar, o quizás un MINI Cooper S F56 con el acabado que querías. El vendedor, particular o profesional, te asegura que está impecable. Lo has probado por las avenidas de Tres Cantos, has subido hasta Soto de Viñuelas y parece que va fino. Pero la vida de un coche en la zona norte de Madrid es exigente, y su historial real no siempre se ve a simple vista. El propietario anterior puede que te haya dicho que solo lo usaba los fines de semana, pero la memoria de la centralita DDE o DME cuenta una historia diferente, una de arranques en frío en las heladas de enero y atascos diarios en la M-607 para bajar a Madrid a trabajar.\n\nEn Tres Cantos, la conducción tiene dos caras muy marcadas. Por un lado, tienes la M-607, la autovía de Colmenar, donde un motor B47 o B58 puede rodar a su temperatura óptima. Pero esa misma carretera se convierte en una ratonera en hora punta a la altura de El Goloso o la entrada a la M-40. Este ciclo diario de velocidad-frenada-ralentí es un castigo silencioso para componentes clave. La caja de cambios automática ZF 8HP sufre con los cambios constantes y el sobrecalentamiento en atascos. El filtro de partículas de un 320d apenas tiene tiempo de completar una regeneración en el trayecto de vuelta a casa desde el Parque Tecnológico de Madrid. El sistema de frenos y el embrague bimasa de un Serie 1 manual se llevan la peor parte en el stop-and-go urbano de la ciudad. Comprar un BMW de segunda mano aquí sin un chequeo a fondo es una lotería.\n\nAhí es donde entramos nosotros. Antes de que firmes o justo después de hacerlo, tráenos ese coche. No nos limitamos a una inspección visual. Conectamos nuestro equipo de diagnóstico oficial ISTA, el mismo que usan en el concesionario, directamente a los servidores de BMW en Alemania. Nuestro diagnóstico es como un TAC del coche: vemos cada módulo electrónico, cada registro de fallo, cada parámetro de funcionamiento que el vendedor 'olvidó' mencionar. Es la única forma de saber si ese consumo de aceite en el motor N20 es algo normal o el presagio de una avería, o si la cadena de distribución de ese motor N47 ha sido revisada. En una ciudad tan planificada y tecnológica como Tres Cantos, no tiene sentido dejar la mayor inversión después de la vivienda al azar.\n\nSomos tu alternativa lógica y transparente. No tenemos los enormes costes estructurales de un concesionario oficial de la A-1, pero sí su misma capacidad tecnológica. Formamos parte de Red ISTA, una red nacional de talleres independientes homologados y especializados exclusivamente en BMW y MINI. Te ofrecemos un informe completo y un presupuesto cerrado para cualquier corrección que sea necesaria, ya sea con recambio original BMW o con primeras marcas OE como Bosch, Mahle o Sachs. Para que tu única preocupación sea disfrutar de la conducción por la sierra de Guadarrama, sabiendo exactamente lo que hay bajo el capó.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu BMW o MINI, desde la inspección pre-compra más exhaustiva hasta el mantenimiento CBS y las reparaciones más complejas.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre tengas el control total sobre lo que le ocurre a tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos qué le notas al coche y lo conectamos a nuestros equipos de diagnosis. No nos quedamos en la superficie; buscamos la causa real del problema, pensando en tu tipo de conducción habitual."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y claro. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Si surge algo nuevo, paramos y volvemos a hablar contigo."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones, especialmente en una inspección pre-compra, para que decidas con total información y puedas incluso negociar."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tú tienes el control total. Puedes darnos el visto bueno por teléfono o mensaje, como te sea más cómodo."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos con fotos o vídeos si es necesario y te explicamos antes de continuar. La confianza es clave."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener el coche listo en el plazo que te hemos indicado, informándote si hubiera cualquier imprevisto."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para motores B47, B58 y cajas ZF."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo para recoger. Te explicamos en persona qué hemos hecho y por qué. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borrado de avisos CBS en el cuadro, prueba de rodaje cuando procede, actualización del libro digital de mantenimiento y seguimiento posterior para confirmar que todo funciona perfecto en tu día a día."
     }
   ],
-  "commonIssuesIntro": "Los coches en Tres Cantos sufren un desgaste muy específico, marcado por los kilómetros en la M-607, el clima continental y el tráfico de entrada y salida al Parque Tecnológico.",
+  "commonIssuesIntro": "En una inspección pre-compra en Tres Cantos, nos centramos en los problemas endémicos agravados por el uso local: desde el estiramiento de la cadena en los diésel por los ciclos de arranque hasta la saturación del DPF o fallos en la mecatrónica de la caja ZF por los atascos de la M-607.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El acordeón diario en la M-607, especialmente en el tramo de El Goloso a Madrid, machaca el embrague y los frenos. Este uso intensivo en atascos acorta su vida útil. Realizamos una revisión exhaustiva del sistema y te asesoramos sobre kits de embrague reforzados si tu kilometraje es muy alto."
+      "title": "Cadena de distribución (N47/B47)",
+      "body": "Es el primer punto a revisar en cualquier diésel de segunda mano. Los arranques en frío del invierno madrileño y los ciclos de aceite pueden acortar su vida. Con el ISTA y nuestra experiencia, detectamos el estiramiento antes de que cause una avería catastrófica, dándote un argumento de negociación clave o la tranquilidad que buscas."
     },
     {
-      "title": "Averías en el sistema FAP/EGR en diésel",
-      "body": "Aunque hagas autovía, los tramos de baja velocidad y los atascos impiden que el filtro de partículas se regenere correctamente. Esto provoca obstrucciones y pérdida de potencia. Realizamos limpiezas químicas y regeneraciones forzadas, además de diagnosticar el estado de la válvula EGR para evitar averías mayores."
+      "title": "Saturación del Filtro de Partículas (DPF)",
+      "body": "El trayecto típico de Tres Cantos a un polígono cercano o a la estación de Cercanías es el enemigo del DPF. Las regeneraciones se interrumpen constantemente. Verificamos el nivel de saturación y la presión diferencial para saber si el coche ha sufrido mucho trayecto corto y evitarte una costosa sustitución."
     },
     {
-      "title": "Fallos de batería en invierno",
-      "body": "Las heladas de Tres Cantos son el examen final para cualquier batería. Las mañanas bajo cero exigen un extra de potencia para el arranque. Si tu coche duerme en la calle en zonas como Nuevo Tres Cantos, es vital comprobar el estado de la batería antes de que llegue el frío para no quedarte tirado."
+      "title": "Tirones en caja automática ZF 8HP",
+      "body": "Los atascos continuos en la M-607 sobrecalientan el aceite de la caja automática, degradándolo y afectando a la mecatrónica. Si notas pequeños tirones que el vendedor atribuye a que 'es así', nosotros podemos diagnosticar el estado real del convertidor de par y la caja, y recomendar un mantenimiento preventivo."
     },
     {
-      "title": "Problemas con el aire acondicionado",
-      "body": "El verano aquí es seco y muy caluroso. Un climatizador que no rinde al 100% es un suplicio. Las fugas de gas o un compresor débil son habituales por el contraste térmico. Hacemos cargas de gas con detector de fugas y comprobamos todo el circuito para que el calor no sea un problema."
+      "title": "Fugas de aceite por juntas resecas",
+      "body": "La junta de la tapa de balancines o del soporte del filtro de aceite son víctimas del contraste térmico de Madrid: veranos de 40°C e inviernos bajo cero. El material se endurece y aparecen fugas. Es una reparación sencilla si se detecta a tiempo en una inspección pre-compra."
     },
     {
-      "title": "Desgaste irregular de neumáticos y holguras",
-      "body": "La combinación de kilómetros a alta velocidad en la M-607 con la infinidad de rotondas dentro de la ciudad (Avenida de los Artesanos, Viñuelas...) provoca un desgaste particular en los flancos de los neumáticos y fuerza silentblocks y rótulas. Un buen alineado y la revisión de la suspensión son claves."
+      "title": "Holgura y ruidos en la dirección (MINI)",
+      "body": "Los MINI son sensibles de la dirección. El uso urbano intensivo, badenes y rotondas de Tres Cantos pueden causar holguras prematuras en la cremallera o fallos en el motor de la asistencia eléctrica (EPS). Es un punto de seguridad crítico que comprobamos a fondo."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu rutina",
-      "body": "Sabemos lo que es el atasco de la M-607 y cómo afecta a tu coche. Nuestro diagnóstico va más allá del manual, se basa en la realidad de conducir en la zona norte de Madrid."
+      "title": "Diagnóstico de verdad",
+      "body": "Usamos ISTA oficial conectado a BMW AG. No es una máquina multimarca. Vemos lo que otros no ven, dándote una ventaja decisiva al comprar un coche de segunda mano."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el precio que pagas. Si durante la reparación encontramos algo más, te llamamos, te lo explicamos y tú decides. Sin sustos en la factura."
+      "title": "Inspección Pre-Compra Real",
+      "body": "Te entregamos un informe claro con los puntos débiles y virtudes del coche que quieres comprar. Una herramienta objetiva para decidir o renegociar el precio."
     },
     {
-      "title": "Solo recambios de calidad",
-      "body": "No nos la jugamos con piezas de dudosa procedencia. Montamos recambios de primeras marcas que cumplen o superan las especificaciones del fabricante. Tu seguridad es lo primero."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo reparamos BMW y MINI. Conocemos cada motor, cada módulo, cada tornillo. No aprendemos con tu coche, aplicamos años de experiencia en la marca."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Estamos disponibles por teléfono y WhatsApp para resolver cualquier duda durante el proceso."
+      "title": "Transparencia total",
+      "body": "Te explicamos cada paso y cada coste. Si una pieza tiene alternativa de calidad OE más económica, te la ofrecemos. Tú decides siempre con toda la información."
     },
     {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todas nuestras intervenciones y piezas están cubiertas por la garantía legal. Si algo no va bien, respondemos. Queremos ser tu taller a largo plazo, no una solución puntual."
+      "title": "La alternativa inteligente en Tres Cantos",
+      "body": "Ofrecemos la misma capacidad técnica que un concesionario pero con la agilidad, el trato personal y los precios de un taller especialista e independiente."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos compañeros de carretera. Estas son algunas de sus experiencias, que podrían ser perfectamente la tuya.",
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que nos encontramos cada día con clientes de Tres Cantos y alrededores que buscan seguridad para su BMW o MINI.",
   "testimonials": [
     {
-      "name": "Javier",
-      "neighborhood": "Sector Foresta",
-      "car": "Volkswagen Passat TDI 2016",
-      "body": "Hago 90 km diarios para ir a trabajar a Las Tablas. El coche empezó a dar tirones y a perder fuerza. Pensé que era el turbo. Aquí vieron que era el filtro de partículas, que estaba hasta arriba de carbonilla por los atascos. Me hicieron una limpieza y ahora va como la seda. Se nota que saben lo que tocan.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Nuevo Tres Cantos",
-      "car": "Peugeot 3008 2018",
-      "body": "Llevé el coche para la revisión antes de irme de vacaciones. Además de lo típico, me dijeron que las ruedas de delante estaban fatal por los bordes, seguramente de las rotondas. Me enseñaron el desgaste y me cuadró. Me buscaron unos neumáticos buenos para autovía y me alinearon la dirección. Muy profesionales.",
-      "rating": 5
-    },
-    {
       "name": "Carlos",
-      "neighborhood": "Soto de Viñuelas",
-      "car": "Ford Focus 2015",
-      "body": "El aire acondicionado dejó de enfriar justo en junio. En otros sitios me daban cita para dos semanas. Aquí me lo cogieron rápido, encontraron una pequeña fuga en un manguito, lo cambiaron y recargaron el gas. Me salvaron el verano. Y el presupuesto, clavado al que me dieron.",
+      "neighborhood": "Nuevo Tres Cantos",
+      "car": "BMW X3 xDrive20d G01 2019",
+      "body": "Acababa de encontrar un X3 de segunda mano que parecía perfecto. Los traje para una inspección pre-compra y me salvaron. El ISTA detectó un fallo intermitente en la caja de transferencia que el vendedor no mencionó. Con su informe, pude negociar una rebaja de precio considerable que cubrió la reparación. Imprescindibles.",
       "rating": 5
     },
     {
-      "name": "Elena",
-      "neighborhood": "Sector Pintores",
-      "car": "Renault Clio 2013",
-      "body": "Uso el coche sobre todo por Tres Cantos y para ir a Colmenar. Me tocaba la ITV y no estaba segura de si la pasaría. Lo traje para una pre-ITV y me ajustaron las luces y un par de tonterías más. La pasó a la primera. Me ahorraron tiempo y el viaje de volver a la estación de ITV. Buen servicio.",
+      "name": "Marta",
+      "neighborhood": "Soto de Viñuelas",
+      "car": "MINI Cooper S F56 2018",
+      "body": "Compré mi MINI a un particular y quería empezar con buen pie. Les pedí una revisión completa y cambio de todos los líquidos. Me lo revisaron de arriba abajo, actualizaron el libro digital y me explicaron un par de cosas sobre el motor B48 que desconocía. Ahora conduzco mucho más tranquila. Trato genial.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Colmenar Viejo",
+      "car": "BMW 330d F30 2016",
+      "body": "El coche iba bien, pero oía un siseo muy leve al ralentí. En otro taller me dijeron que era normal. Aquí, solo con oírlo, ya sospecharon de la cadena. Lo confirmaron con el diagnóstico y la medición. Cambiaron todo el kit a tiempo. Evitar una rotura de motor no tiene precio. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Sofía",
+      "neighborhood": "Primera Fase",
+      "car": "BMW 118i F20 2017",
+      "body": "El servicio técnico fue impecable. Detectaron con el ISTA unos códigos de error del sistema Valvetronic que habían sido borrados recientemente en el coche que iba a comprar. Me evitaron un problema gordo. El proceso fue un poco más lento de lo que esperaba, pero la tranquilidad que me dieron valió la pena la espera.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda la ciudad de Tres Cantos y sus alrededores. Tanto si vives en los Sectores más consolidados (Foresta, Pintores, Oficios) como en las zonas más nuevas como Nuevo Tres Cantos o el área de Soto de Viñuelas, estamos a tu disposición. Nuestra ubicación es ideal para quienes trabajan en el Parque Tecnológico de Madrid (PTM) o en las empresas de la Avenida de la Industria. Además, cubrimos las necesidades de los conductores de municipios cercanos como Colmenar Viejo, que utilizan la M-607 a diario, y también de quienes se desplazan desde Alcobendas o San Sebastián de los Reyes por la M-616. Conocemos perfectamente las rutas y los atajos de la zona, entendiendo el desgaste que cada una de ellas provoca en tu vehículo.",
+  "zoneText": "Nuestro taller en Tres Cantos da servicio a toda la ciudad, desde la Primera y Segunda Fase hasta las zonas más nuevas de Nuevo Tres Cantos y el área residencial de Soto de Viñuelas. Por nuestra ubicación y especialización, somos el taller de referencia para muchos propietarios de BMW y MINI de municipios cercanos. Clientes de Colmenar Viejo acceden fácilmente por la M-607, y también recibimos a conductores de la zona norte de Madrid, como Alcobendas y San Sebastián de los Reyes, que buscan un servicio especializado fuera del entorno del concesionario oficial. Si trabajas en el Parque Tecnológico de Madrid o en las empresas del Polígono Industrial de Tres Cantos, estamos a un paso para que puedas dejar tu coche por la mañana y recogerlo al salir.",
   "zoneNeighborhoods": [
-    "Tres Cantos",
     "Nuevo Tres Cantos",
-    "Sector Foresta",
-    "Sector Pintores",
-    "Sector Oficios",
     "Soto de Viñuelas",
+    "Primera Fase",
+    "Segunda Fase",
     "Colmenar Viejo",
-    "Parque Tecnológico de Madrid"
+    "Alcobendas",
+    "San Sebastián de los Reyes",
+    "Polígono Industrial de Tres Cantos"
   ],
   "zoneAccessRoutes": [
     "M-607 (Autovía de Colmenar Viejo)",
-    "M-616",
     "M-40",
+    "M-616 (Carretera de El Goloso)",
     "M-104"
   ],
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta el 'maltrato' que sufre mi coche en la M-607 a diario?",
-      "a": "Totalmente. Es nuestro punto de partida. Sabemos que el tramo Tres Cantos-Madrid combina alta velocidad con frenadas bruscas y atascos. Por eso, en cada revisión prestamos especial atención a elementos como el embrague, los frenos, el FAP en los diésel y el desgaste de los neumáticos, que sufren mucho más que en un uso exclusivamente urbano. Nuestro mantenimiento es preventivo y adaptado a esa realidad."
+      "q": "¿Hacéis inspecciones pre-compra si voy a comprar un BMW en Tres Cantos?",
+      "a": "Sí, es uno de nuestros servicios más demandados. Puedes traer el coche a nuestro taller para una revisión completa con diagnóstico ISTA oficial. Te entregamos un informe detallado con el estado real de la mecánica y la electrónica para que puedas comprar con total seguridad o negociar el precio con datos objetivos."
     },
     {
-      "q": "Mi coche diésel trabaja en el PTM, ¿debo preocuparme por la carbonilla?",
-      "a": "Es una de las averías más comunes que vemos. Aunque hagas kilómetros por autovía, si parte de tu trayecto es a baja velocidad o en atascos, el filtro de partículas (FAP) puede no alcanzar la temperatura para regenerarse. Esto causa acumulaciones y averías. Recomendamos una revisión periódica del sistema y, si es necesario, una limpieza profesional para evitar problemas mayores y costosos."
+      "q": "Mi MINI lo uso sobre todo para ir a la estación de Cercanías de Tres Cantos, ¿es perjudicial?",
+      "a": "Esos trayectos cortos son muy exigentes. El motor diésel no llega a su temperatura óptima, lo que dificulta la regeneración del filtro de partículas (DPF) y puede generar carbonilla. En los gasolina, puede provocar condensación en el aceite. Te recomendamos revisiones de aceite más frecuentes y, de vez en cuando, un trayecto más largo por la M-607 para limpiar el sistema."
     },
     {
-      "q": "Con las heladas de Tres Cantos, ¿qué puedo hacer para proteger la batería?",
-      "a": "El frío es el enemigo número uno de las baterías. Si tu coche duerme en la calle, te recomendamos que, antes de que empiece el invierno, vengas a que comprobemos su estado de carga y salud. Una batería con más de 4-5 años tiene muchas papeletas para fallar con la primera helada. Es una revisión rápida que te puede ahorrar el mal trago de no poder arrancar por la mañana."
+      "q": "El coche que compré tiene el libro sellado en un concesionario de la A-1, ¿puedo seguir con vosotros?",
+      "a": "Por supuesto. Realizamos el mantenimiento siguiendo estrictamente el plan CBS de BMW, utilizando aceites homologados LL-04 y recambios de calidad original (OE) o BMW. Sellamos y actualizamos tu libro de mantenimiento digital, por lo que tu garantía oficial permanece intacta. Somos la alternativa profesional al concesionario."
     },
     {
-      "q": "Vivo en Nuevo Tres Cantos y el coche se llena de polvo, ¿afecta a la mecánica?",
-      "a": "Sí, y más de lo que parece. Ese polvo fino, especialmente en primavera y verano por la cercanía del campo, obstruye el filtro del aire del motor y el del habitáculo. Un filtro de aire sucio hace que el motor 'respire' peor, aumentando el consumo. El del habitáculo, si está obstruido, fuerza el sistema de climatización y empeora la calidad del aire que respiras. Recomendamos cambiarlos según el uso, no solo por kilómetros."
+      "q": "Con el frío de la sierra, a la batería de mi X1 a veces le cuesta arrancar. ¿Lo podéis revisar?",
+      "a": "Claro. El frío intenso de los inviernos en la zona norte de Madrid es una prueba de fuego para las baterías, especialmente las AGM de los coches con sistema Start-Stop. Con el ISTA podemos verificar el estado de salud de la batería, su registro y el correcto funcionamiento del alternador y el sensor IBS."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Colmenar, ¿revisáis los puntos críticos?",
-      "a": "Por supuesto. Ofrecemos un servicio de pre-ITV muy completo donde revisamos exactamente los mismos puntos que miran en la inspección: luces, frenos, holguras en la suspensión, niveles de opacidad en diésel, emisiones de gases, estado de los neumáticos... Nuestro objetivo es que la pases a la primera y no pierdas tiempo ni dinero en una segunda inspección. Conocemos bien los criterios de las estaciones de nuestra zona."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico ISTA y el de un taller genérico de Colmenar?",
+      "a": "La diferencia es total. Una máquina multimarca lee códigos de error genéricos. Nuestro sistema ISTA/Rheingold es el software oficial de BMW, conectado a sus servidores. Nos permite leer todos los módulos del coche, ver historiales de fallos borrados, realizar codificaciones, programar componentes y seguir los planes de reparación guiados por el propio fabricante. Es ver el coche en alta definición frente a verlo en blanco y negro."
     },
     {
-      "q": "¿Qué tipo de neumáticos recomendáis para el clima y las carreteras de aquí?",
-      "a": "Para el perfil de conductor de Tres Cantos, recomendamos neumáticos 'all-season' (todo tiempo) de buena calidad. Ofrecen un gran rendimiento en el asfalto seco y caliente del verano de la M-607, pero también dan un plus de seguridad en mojado y con las heladas del invierno, sin llegar a ser un neumático de nieve. Es la solución más equilibrada y segura para nuestro clima continental sin tener que cambiar de gomas cada temporada."
+      "q": "Acabo de comprar un X5 de segunda mano con 120.000 km, ¿es necesario hacerle el mantenimiento a la caja de cambios automática?",
+      "a": "Aunque BMW a veces lo califica como 'de por vida', el fabricante de la caja (ZF) recomienda un cambio de aceite y filtro cada 80.000-120.000 km, sobre todo con un uso con mucho tráfico como el de la M-607. Es una operación preventiva clave para evitar averías muy costosas en la mecatrónica o el convertidor de par. Lo recomendamos sin dudarlo."
     },
     {
-      "q": "¿Podéis recoger o llevar el coche a mi oficina en el Parque Tecnológico?",
-      "a": "Entendemos que tu tiempo es oro. Consulta con nosotros la disponibilidad del servicio de recogida y entrega para empresas ubicadas en el PTM y alrededores. Buscamos siempre ofrecer soluciones que se adapten a la jornada laboral de nuestros clientes para que el mantenimiento del coche interfiera lo mínimo posible en tu día a día. Llámanos y vemos tu caso concreto."
+      "q": "Vivo en la Avenida de Viñuelas y trabajo en el Parque Tecnológico. ¿Los trayectos tan cortos dañan el DPF de mi 420d?",
+      "a": "Sí, es el escenario menos favorable para el filtro de partículas. Un trayecto tan corto no permite que el sistema de escape alcance la temperatura necesaria para iniciar o completar el ciclo de regeneración. La ceniza y el hollín se acumulan. Te aconsejamos que al menos una vez por semana realices un trayecto de 20-30 minutos por autovía a un régimen sostenido para forzar esa limpieza."
     }
   ],
-  "closingHeadline": "Deja tu coche en manos de quien entiende tu día a día en Tres Cantos",
-  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o rellenando el formulario. Te daremos una cita para revisar tu coche y que puedas volver a la carretera con total tranquilidad."
+  "closingHeadline": "Tu BMW o MINI, diagnosticado con precisión en Tres Cantos",
+  "closingCta": "Pide tu cita para una inspección o revisión. Llámanos o envíanos un WhatsApp y te daremos un presupuesto cerrado para tu coche en Tres Cantos."
 }
