@@ -6,177 +6,184 @@
   "population": 63418,
   "lat": 41.32784,
   "lng": 2.09472,
-  "metaTitle": "Taller Mecánico en El Prat de Llobregat | Mantenimiento Local",
-  "metaDescription": "Taller multimarca en El Prat de Llobregat. Presupuestos cerrados para revisiones y averías. Cuidamos tu coche del salitre y el uso diario. Pide cita.",
-  "heroSubtitle": "Tu coche lo usa toda la familia para ir al aeropuerto, a Mercabarna o a la playa. ¿Seguro que está preparado para todo y para el salitre del Prat?",
+  "metaTitle": "Taller BMW y MINI en El Prat de Llobregat — Red ISTA Oficial",
+  "metaDescription": "Especialistas en BMW y MINI en El Prat. Diagnóstico oficial ISTA, revisión CBS y mecánica. La alternativa al concesionario. Pide tu presupuesto cerrado.",
+  "heroSubtitle": "¿Buscas un especialista para la revisión CBS de tu BMW Serie 3 o Serie 5 en El Prat sin pagar los precios de un concesionario oficial?",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "En El Prat de Llobregat, un coche no es solo un vehículo; es el centro logístico de la familia. Es la herramienta que te permite dejar a un hijo en el colegio antes de coger la C-31 hacia Barcelona, con el sol del Mediterráneo de frente y el rugido de los aviones despegando a tu derecha. Es el que te lleva al polígono Pratenc para una jornada de trabajo y el que, por la tarde, conduce otra persona de la casa para hacer la compra semanal en el Carrefour o acercarse a por productos frescos al Parc Agrari. Este coche familiar, a menudo el único del hogar, soporta un desgaste invisible pero constante, un desafío que va más allá de los kilómetros. Es un vehículo sometido a un estrés dual: los trayectos cortos y urbanos por el centro del Prat, que castigan la batería y el filtro de partículas, y los viajes por autovía hacia Gavà, Viladecans o el centro comercial Splau en Cornellà, que exigen el máximo al motor y a los neumáticos.\n\nEl principal enemigo de tu coche en El Prat no es el tráfico de la Ronda Litoral, sino el aire que respira. La marinada, esa brisa que en verano alivia el calor, es una portadora constante de salitre y humedad desde el mar y el Delta del Llobregat. Este ataque salino es implacable y silencioso. Se adhiere a los bajos del coche, corroyendo el sistema de escape, los conductos de freno y las suspensiones mucho antes de lo que indican los manuales del fabricante. Acelera la oxidación de cualquier pequeño golpe en la chapa, convirtiendo un rasguño insignificante en un problema mayor. En nuestro taller, entendemos esta realidad climática. No vemos un coche, vemos un vehículo que lucha a diario contra la corrosión. Por eso, nuestras revisiones van más allá de un simple cambio de aceite; son un chequeo de la salud estructural de tu coche frente a las condiciones específicas de vivir junto al mar.\n\nEste uso compartido y diverso del coche familiar define nuestras prioridades. Quizás tú conduces de forma suave por la autovía B-22 para ir a trabajar al aeropuerto, pero tu pareja lo utiliza para callejear por Sant Cosme y aparcar en espacios reducidos, forzando más el embrague y la dirección. El fin de semana, el coche se carga hasta los topes para una escapada, poniendo a prueba los amortiguadores en las carreteras secundarias. Cada conductor tiene sus hábitos, y el coche los sufre todos. Esta variedad de usos exige un mantenimiento predictivo, no solo reactivo. Se trata de anticipar que los frenos sufrirán más por la combinación de ciudad y autovía, o que los neumáticos necesitarán una alineación más frecuente debido a los diferentes estilos de conducción y a los badenes de nuestras calles. Nuestro trabajo es unificar el criterio y asegurar que el coche sea seguro y fiable para todos, sin importar quién coja las llaves.\n\nPor todo esto, nuestro enfoque es local y personal. Un coche en El Prat necesita un mantenimiento tan riguroso como el de un avión que despega a nuestro lado. Nosotros somos, por así decirlo, los mecánicos de tierra de tu familia. Comprendemos que necesitas el coche para ir a una visita médica en Bellvitge, para recoger un paquete en el polígono Mas Blau o simplemente para disfrutar de una tarde en la playa del Prat. No te tratamos como un número de matrícula más. Escuchamos cómo usas tu coche, quién lo conduce y qué esperas de él. A partir de ahí, te ofrecemos un diagnóstico honesto y un plan de mantenimiento adaptado no solo al modelo de tu vehículo, sino a la vida que lleva en El Prat de Llobregat. Porque un presupuesto cerrado y un trabajo bien hecho es lo mínimo que se puede pedir; entender de verdad tu necesidad es lo que nos diferencia.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV de Sant Boi sin sustos, hasta cambiar un embrague castigado por el tráfico de acceso a Barcelona, lo cubrimos todo.",
-  "processIntro": "Te damos un diagnóstico claro y un presupuesto que no se mueve. No aflojamos un solo tornillo sin tu visto bueno, así de transparente.",
+  "introLocal": "Si conduces un BMW Serie 3, Serie 5 o un X3 por El Prat de Llobregat y sus alrededores, sabes que es una herramienta excepcional para el día a día. Ya sea para el trayecto diario hacia la Zona Franca o Barcelona por la C-31, o para una escapada de fin de semana por las costas del Garraf, tu BMW responde. Pero cuando el sistema Condition Based Service (CBS) te avisa en el iDrive de que la próxima revisión es inminente, surge la duda: ¿acudo al concesionario oficial de L'Hospitalet o Sant Boi, asumiendo sus tarifas, o existe una alternativa que ofrezca la misma rigurosidad técnica a un coste más racional? Comprendemos perfectamente esta disyuntiva. Quieres lo mejor para tu coche, pero también valoras una gestión inteligente de su mantenimiento, sin costes superfluos derivados de estructuras comerciales sobredimensionadas.\n\nAquí es donde nuestro centro, homologado por Red ISTA, ofrece una solución lógica y profesional para los conductores de BMW y MINI del Baix Llobregat. No somos un taller genérico. Somos un centro especializado, parte de una red nacional con más de 100 talleres, que invierte exclusivamente en la tecnología y el conocimiento que tu coche necesita. Disponemos del mismo sistema de diagnóstico oficial, ISTA/Rheingold, que utiliza el concesionario. Nuestra consola está conectada en tiempo real a los servidores de BMW AG en Múnich, permitiéndonos realizar diagnósticos, codificaciones y programaciones con total precisión y seguridad, garantizando que cada intervención sigue los protocolos del fabricante. Es la capacidad técnica de un servicio oficial, pero con la agilidad, el trato directo y la estructura de costes de un taller especialista independiente aquí, en El Prat.\n\nEl núcleo de una revisión CBS bien ejecutada, especialmente en un motor moderno como el B47 diésel de tu 320d o el B48 de gasolina, es el aceite. Utilizamos exclusivamente aceites que cumplen o superan la estricta normativa BMW Longlife-04 (LL-04). Esta especificación es crítica para la protección del filtro de partículas (DPF) y del catalizador. En un entorno como El Prat, con una combinación de trayectos cortos por el núcleo urbano y recorridos a velocidad sostenida por la Autovía de Castelldefels, el DPF se somete a un estrés considerable. Un aceite inadecuado puede colapsarlo prematuramente, generando una avería costosa. Nuestro compromiso es garantizar que cada componente, desde el aceite hasta los filtros Mahle o Mann, cumple con la calidad de Equipo Original (OE), protegiendo tu motor y manteniendo intacta la garantía oficial.\n\nNuestra experiencia en El Prat de Llobregat nos permite conocer los patrones de uso y las averías más recurrentes en los BMW y MINI de la zona. Vemos los efectos de la humedad y el ambiente salino en ciertos componentes electrónicos, el desgaste de silentblocks y suspensiones por el paso constante sobre los badenes del Eixample o las calles de los polígonos industriales como el Pratenc. Atendemos problemas específicos como el estiramiento de la cadena de distribución en los motores N47, el consumo de aceite en los primeros N20 o fallos en el sistema Valvetronic. Este conocimiento local, sumado a la potencia del diagnóstico ISTA, nos permite ir directamente al origen del problema, ahorrándote tiempo y dinero en diagnósticos inciertos.\n\nEn definitiva, te ofrecemos una relación de confianza basada en la transparencia. Antes de cualquier intervención, recibirás un presupuesto cerrado y detallado, donde podrás elegir entre recambio original BMW o recambio de calidad OE. Te explicaremos cada punto para que tomes una decisión informada. El técnico que trabaja en tu coche es el mismo que habla contigo, sin intermediarios. Somos tu alternativa especialista de confianza en El Prat, una opción que combina la máxima competencia técnica con una estructura de precios justa, para que seguir disfrutando de la conducción de tu BMW o MINI no suponga una preocupación financiera.",
+  "servicesIntro": "Ofrecemos un portfolio completo de servicios para tu BMW o MINI en El Prat, desde el mantenimiento CBS hasta las reparaciones electrónicas más complejas.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos, garantizando que siempre tengas el control y conozcas el estado de tu vehículo.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección inicial para entender el origen del problema. Conectamos nuestros equipos de diagnosis para tener una visión completa, sin especulaciones."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y por escrito. Especificamos piezas, mano de obra y el IVA. El precio que ves es el que pagas, sin sorpresas de última hora."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas."
     },
     {
-      "title": "Tu autorización",
-      "body": "Te explicamos qué hemos encontrado y las opciones que tienes. No empezamos ninguna reparación hasta que nos das tu confirmación explícita por teléfono o WhatsApp. Tú siempre tienes el control total del proceso."
+      "title": "Tu autorización expresa",
+      "body": "No realizamos ninguna operación sin tu consentimiento explícito. Si durante la reparación surge un imprevisto, detenemos el proceso, te contactamos y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero. Te mantenemos informado de los plazos."
+      "title": "Reparación especializada",
+      "body": "Ejecutamos la reparación siguiendo los protocolos de BMW, con utillaje específico y recambios de calidad OE o BMW Original, según tu elección. Usamos aceites homologados LL-04 y respetamos todos los pares de apriete."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los intervalos de servicio CBS en el cuadro y actualizamos el historial digital en tu iDrive. Realizamos una prueba final y te entregamos el coche listo para volver a la carretera con total garantía."
     }
   ],
-  "commonIssuesIntro": "El calor húmedo, el salitre del mar y el uso mixto entre el centro del Prat y la C-31 provocan en los coches una serie de averías muy características que conocemos bien.",
+  "commonIssuesIntro": "Conocemos las averías endémicas de cada motorización BMW y MINI. Estos son algunos de los problemas más habituales que diagnosticamos y resolvemos en nuestro taller de El Prat:",
   "commonIssues": [
     {
-      "title": "Corrosión prematura en bajos y escape",
-      "body": "La brisa marina del Delta del Llobregat es muy agresiva con las partes metálicas inferiores del coche. Detectamos y tratamos la oxidación en líneas de escape, suspensiones y chasis antes de que se convierta en una reparación costosa o un fallo en la ITV. Una revisión a tiempo es la mejor prevención."
+      "title": "Saturación del filtro de partículas (DPF)",
+      "body": "Los trayectos mixtos, combinando la C-31 con el tráfico urbano de El Prat, a menudo impiden que los motores diésel B47/N47 completen la regeneración del DPF. Con ISTA, forzamos la regeneración o realizamos una limpieza profesional, evitando la costosa sustitución del filtro."
     },
     {
-      "title": "Fallos y bajo rendimiento del aire acondicionado",
-      "body": "El calor húmedo de los veranos en El Prat obliga al sistema de climatización a trabajar al máximo. Esto, sumado a los atascos en las Rondas, provoca fugas o agotamiento del gas. Realizamos cargas, detectamos fugas y reparamos compresores para que el calor no sea un problema."
+      "title": "Fugas en el sistema de refrigeración",
+      "body": "El calor intenso de los veranos en el Baix Llobregat y los atascos en las rondas fuerzan el sistema de refrigeración. Diagnosticamos y reparamos fugas en manguitos, radiadores y las conocidas bombas de agua eléctricas, un fallo común en muchos modelos BMW post-2012."
     },
     {
-      "title": "Desgaste acelerado de embrague y frenos",
-      "body": "El uso combinado del coche —callejear por El Prat o L'Hospitalet y luego coger la C-31 a velocidad de crucero— somete a embragues y frenos a un estrés constante. Diagnosticamos el desgaste real y te asesoramos sobre el mejor momento para sustituirlos, garantizando tu seguridad."
+      "title": "Desgaste de suspensión y silentblocks",
+      "body": "La combinación de badenes en zonas residenciales de El Prat y el asfalto irregular de polígonos como el Estruch o Mas Blau acelera el desgaste de silentblocks, trapecios y amortiguadores. Realizamos sustituciones con material OE Lemförder o Sachs para devolver el aplomo original a tu coche."
     },
     {
-      "title": "Avisos del filtro de partículas (FAP/DPF)",
-      "body": "Muchos diésel se usan para trayectos cortos dentro del Prat, impidiendo que el filtro se regenere. Esto causa averías y pérdida de potencia. Hacemos limpiezas y regeneraciones forzadas para alargar la vida del filtro y evitar una sustitución que puede ser muy cara."
+      "title": "Averías eléctricas por humedad",
+      "body": "La proximidad al mar y la humedad ambiental de El Prat pueden causar corrosión en conectores y módulos electrónicos, provocando fallos intermitentes difíciles de detectar. Nuestro diagnóstico ISTA nos permite localizar con precisión el origen de estos fallos fantasmas en módulos como el FRM o el JBE."
     },
     {
-      "title": "Cristalización de pastillas de freno",
-      "body": "La humedad ambiental y el salitre pueden afectar a los componentes del sistema de frenado, causando la cristalización de las pastillas. Esto provoca ruidos agudos al frenar y una pérdida de eficacia. Revisamos y sustituimos los componentes necesarios para asegurar una frenada potente y segura."
+      "title": "Mantenimiento de la caja ZF 8HP",
+      "body": "BMW no especifica un intervalo, pero el uso intensivo en el área metropolitana de Barcelona degrada el aceite de la caja de cambios automática ZF 8HP. Recomendamos un mantenimiento con cambio de aceite y filtro sobre los 100.000 km para garantizar su suavidad y fiabilidad a largo plazo."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en el clima del Delta",
-      "body": "Conocemos el efecto del salitre y la humedad en tu coche. No es lo mismo mantener un coche en el interior que aquí, y aplicamos ese conocimiento en cada revisión."
+      "title": "Tecnología de concesionario",
+      "body": "Utilizamos el sistema de diagnóstico oficial BMW ISTA, el mismo que emplean los servicios oficiales. Esto nos permite una precisión total en la detección de averías y en la codificación de nuevos componentes."
     },
     {
-      "title": "Entendemos el uso familiar",
-      "body": "Sabemos que tu coche lo conducen varias personas con distintos hábitos. Adaptamos el mantenimiento a ese uso mixto para garantizar la fiabilidad y seguridad para todos."
+      "title": "Homologación Red ISTA",
+      "body": "Formar parte de redista.com certifica nuestros procesos, formación y equipamiento. Es una garantía de calidad y especialización en BMW y MINI reconocida a nivel nacional."
+    },
+    {
+      "title": "Mantenimiento de la garantía",
+      "body": "Realizamos las revisiones y reparaciones siguiendo escrupulosamente las directrices del fabricante y utilizando recambios de calidad OE, por lo que la garantía oficial de tu BMW o MINI permanece intacta."
     },
     {
       "title": "Presupuestos sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides siempre."
+      "body": "Te proporcionamos un presupuesto cerrado antes de iniciar cualquier trabajo. La transparencia es total: sabes lo que se va a hacer y cuánto va a costar desde el primer momento."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Solo reparamos lo que es necesario. Te explicamos claramente cuál es el problema y te damos opciones, sin intentar venderte reparaciones que no necesitas."
-    },
-    {
-      "title": "Cercanía y agilidad",
-      "body": "Estamos en El Prat, cerca de ti. Entendemos que necesitas tu coche y trabajamos de forma ágil para que lo tengas de vuelta lo antes posible."
+      "title": "Trato directo y personal",
+      "body": "Hablas directamente con el técnico especialista que se encarga de tu vehículo. Sin intermediarios, para una comunicación más clara, ágil y de confianza."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores que, como tú, usan su coche cada día en El Prat y sus alrededores. Sus historias podrían ser la tuya.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que atendemos a diario, reflejando la confianza que nuestros clientes de El Prat depositan en nosotros.",
   "testimonials": [
     {
       "name": "Jordi",
       "neighborhood": "Centre",
-      "car": "SEAT Ateca 1.5 TSI 2019",
-      "body": "Usamos el coche toda la familia y me preocupaba un óxido que vi en el tubo de escape. En el taller me explicaron que es normal por el salitre del Prat y me lo trataron para protegerlo. Se nota que conocen la zona. Muy transparentes con el presupuesto, lo que se agradece.",
+      "car": "BMW 320d F30 2017",
+      "body": "Me tocaba la revisión CBS con cambio de aceite y todos los filtros. El presupuesto del concesionario oficial en L'Hospitalet era desorbitado. Aquí me lo hicieron con aceite Castrol LL-04, filtros Mann y me actualizaron el historial en el iDrive. Profesionalidad impecable y un ahorro considerable.",
       "rating": 5
     },
     {
-      "name": "Laia",
-      "neighborhood": "Les Palmeres",
-      "car": "Peugeot 308 HDI 2015",
-      "body": "Se me encendió la luz del filtro de partículas. Uso el coche sobre todo para ir a comprar y llevar a los niños al cole, trayectos cortos. Me explicaron por qué pasaba y me hicieron una limpieza del filtro, ahorrándome una pasta. Ahora ya sé que tengo que sacarlo a la autovía de vez en cuando.",
+      "name": "Marta",
+      "neighborhood": "La Ribera",
+      "car": "MINI Cooper F56 2018",
+      "body": "El coche daba tirones y en otro taller no encontraban el fallo. Lo traje aquí, lo conectaron al ISTA y en una hora detectaron una bobina de encendido defectuosa. Cambiaron las cuatro por unas Bosch OE y el coche va perfecto. Se nota que controlan de la marca.",
       "rating": 5
     },
     {
       "name": "Carlos",
       "neighborhood": "Sant Cosme",
-      "car": "Ford Focus 1.6 2012",
-      "body": "Una semana antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Un drama. Les llamé, me dieron cita rápido y en un día tenía el gas recargado y el circuito revisado. Nos salvaron el viaje. Muy profesionales y eficientes.",
+      "car": "BMW X5 xDrive30d E70 2012",
+      "body": "Tenía el famoso problema de la cadena de distribución del motor N57. Me dieron un presupuesto cerrado, mucho más competitivo que el oficial, y me explicaron todo el proceso. Usaron recambios de primera calidad. El coche ha quedado perfecto, muy agradecido por la transparencia.",
       "rating": 5
     },
     {
-      "name": "Montserrat",
-      "neighborhood": "Viladecans",
-      "car": "Renault Clio 2017",
-      "body": "Aunque soy de Viladecans, me los recomendaron. Llevé el coche para la revisión pre-ITV y me detectaron las pastillas de freno delanteras muy gastadas. Me dieron presupuesto al momento y lo hicieron sobre la marcha. La ITV la pasé sin problemas. El trato fue bueno, aunque tardaron un poco más de lo que me dijeron.",
+      "name": "Anna",
+      "neighborhood": "Polígon Pratenc",
+      "car": "BMW 530d G30 2019",
+      "body": "El coche me marcaba un fallo en el sistema de suspensión. El diagnóstico fue rápido y preciso: un sensor de altura estaba fallando. Lo sustituyeron y calibraron el sistema. El trato es muy directo y profesional, te explican las cosas de forma que las entiendas. Lo recomiendo.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio principalmente en El Prat de Llobregat, cubriendo todos sus barrios, desde el Centre y el Eixample hasta La Ribera, Sagnier o Sant Cosme. Si trabajas en los polígonos industriales como el Pratenc o Mas Blau, somos tu taller de confianza.\n\nNuestra ubicación, con acceso rápido a las principales vías, nos permite atender también a clientes de municipios vecinos. Muchos de nuestros clientes vienen de Sant Boi de Llobregat, Viladecans y Cornellà. También cubrimos la zona sur de L'Hospitalet de Llobregat, especialmente barrios como Bellvitge y Gornal. Si te mueves habitualmente por la C-31, la B-20 (Ronda de Dalt) o la B-22 de acceso al aeropuerto, estamos en tu ruta.",
+  "zoneText": "Nuestro taller especialista BMW y MINI en El Prat de Llobregat da servicio a toda la ciudad y a los municipios colindantes. Recibimos diariamente clientes de todos los barrios, desde el Centre y el Eixample hasta La Ribera y Sant Cosme. Nuestra ubicación estratégica nos convierte en la opción ideal para conductores de Sant Boi, Cornellà, Viladecans y Gavà, que pueden llegar fácilmente a través de la C-31, la B-22 o la Ronda Litoral (B-10). Si trabajas en el Aeropuerto de El Prat, en el Polígon Pratenc o en la Zona Franca, somos tu taller de confianza para el mantenimiento y reparación de tu BMW o MINI.",
   "zoneNeighborhoods": [
-    "El Prat Centre",
-    "Sant Cosme",
-    "La Ribera",
-    "Sagnier",
-    "Les Palmeres",
-    "Viladecans",
+    "El Prat de Llobregat",
     "Sant Boi de Llobregat",
     "Cornellà de Llobregat",
-    "L'Hospitalet (Bellvitge)"
+    "Viladecans",
+    "Gavà",
+    "L'Hospitalet de Llobregat",
+    "Sant Climent de Llobregat",
+    "Begues"
   ],
   "zoneAccessRoutes": [
-    "C-31 (Autovia de Castelldefels)",
-    "B-22 (Acceso Aeropuerto T1)",
-    "B-20 (Ronda de Dalt)",
-    "B-250 (Carretera de la Marina)",
-    "Ronda Litoral (B-10)"
+    "C-31 (Autovía de Castelldefels)",
+    "B-22 (Acceso al Aeropuerto)",
+    "B-10 (Ronda Litoral)",
+    "A-2 (Autovía del Nordeste)",
+    "C-32 (Autopista Pau Casals)"
   ],
   "faqLocal": [
     {
-      "q": "¿De verdad el salitre del mar en El Prat daña tanto el coche?",
-      "a": "Sí, y mucho más de lo que la gente piensa. La brisa marina transporta partículas de sal que se depositan en la carrocería y, sobre todo, en los bajos del coche. Acelera la corrosión del escape, suspensiones, conductos de freno y cualquier parte metálica expuesta. Por eso en nuestras revisiones ponemos especial atención a estos puntos, algo que un taller no costero podría pasar por alto."
+      "q": "¿Cuál es la diferencia real entre vuestro taller en El Prat y un concesionario oficial BMW de Barcelona o L'Hospitalet?",
+      "a": "La diferencia fundamental no está en la capacidad técnica, ya que usamos el mismo software de diagnóstico oficial ISTA y recambios de calidad OE. La diferencia reside en la estructura y el precio. Somos un taller especialista con costes operativos más bajos, lo que nos permite ofrecer tarifas significativamente más competitivas. Además, el trato es directo con el técnico, sin intermediarios."
     },
     {
-      "q": "Mi coche es diésel y casi solo lo muevo por el pueblo, ¿qué debo vigilar?",
-      "a": "El principal riesgo es el filtro de partículas (FAP/DPF). Necesita trayectos por carretera (como por la C-31) para calentarse y limpiarse automáticamente. Si solo haces trayectos cortos por El Prat, se obstruye, causando averías caras. Te recomendamos sacarlo a la autovía al menos una vez por semana durante 20 minutos. Si ya tienes avisos, tráelo para una regeneración forzada."
+      "q": "Vivo en Gavà, ¿me compensa desplazarme hasta El Prat para el mantenimiento?",
+      "a": "Absolutamente. Estamos a menos de 10 minutos por la C-31. Muchos de nuestros clientes de Gavà y Viladecans valoran el ahorro económico y la especialización que ofrecemos. El tiempo de desplazamiento es mínimo en comparación con el beneficio de dejar tu BMW o MINI en manos expertas a un precio justo, evitando además el tráfico para entrar en Barcelona."
     },
     {
-      "q": "En verano, el aire acondicionado no enfría lo suficiente en los atascos para ir a Barcelona, ¿es normal?",
-      "a": "No es normal, pero sí es un síntoma común aquí. Con el calor y la humedad del Prat, el sistema trabaja al límite. En un atasco, al no haber flujo de aire, el rendimiento baja. Puede deberse a falta de gas, un filtro sucio o un problema en el compresor. Te recomendamos una revisión del sistema de climatización antes de que llegue el calor fuerte de julio y agosto."
+      "q": "Tengo un BMW Serie 3 G20 en garantía. ¿Puedo hacer la revisión CBS con vosotros sin perderla?",
+      "a": "Sí, sin ningún problema. El reglamento europeo MVBER (UE) 461/2010 te protege. Al seguir los planes de mantenimiento del fabricante, usar recambios de calidad original (OE) o equivalentes y aceite con la homologación correcta (LL-04), tu garantía oficial se mantiene completamente intacta. Sellamos y actualizamos tu historial digital de servicio."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Sant Boi, ¿qué miráis en la Pre-ITV para evitar problemas?",
-      "a": "En nuestra Pre-ITV revisamos todos los puntos críticos que miran en la estación de Sant Boi: luces, frenos (eficacia y desequilibrio), holguras en la suspensión y dirección, estado de los neumáticos y, muy importante, las emisiones. Al estar en El Prat, prestamos especial atención a la corrosión en los bajos, un motivo común de rechazo."
+      "q": "¿Afecta realmente la proximidad al mar y la humedad de El Prat a mi BMW?",
+      "a": "Sí, a largo plazo. La atmósfera salina puede acelerar la corrosión en puntos de la carrocería con la pintura dañada y, más importante, en conexiones eléctricas y módulos electrónicos. Esto puede generar fallos intermitentes. Realizar revisiones periódicas nos permite detectar y proteger estos puntos vulnerables antes de que se conviertan en una avería."
     },
     {
-      "q": "Vivo en Viladecans, ¿me compensa traer el coche a vuestro taller en El Prat?",
-      "a": "Muchos clientes de Viladecans y Gavà nos eligen porque compartimos los mismos problemas climáticos. Entendemos perfectamente cómo el ambiente salino afecta a los coches de toda la zona del Delta. La cercanía por la C-31 hace que estemos a pocos minutos, y te aseguras de que tu coche lo revisa alguien que conoce los desafíos específicos de esta área."
+      "q": "Trabajo en el Aeropuerto de El Prat con horarios rotativos, ¿sois flexibles con la entrega y recogida del coche?",
+      "a": "Sí, entendemos perfectamente la situación de los trabajadores del aeropuerto y de las empresas logísticas del Polígon Pratenc. Contacta con nosotros y buscaremos la forma de adaptarnos a tus horarios para la recepción y entrega del vehículo, facilitándote al máximo el proceso."
     },
     {
-      "q": "El coche lo usamos mi pareja y yo, con estilos de conducción muy diferentes. ¿Afecta esto al mantenimiento?",
-      "a": "Totalmente. Un conductor más agresivo desgastará más rápido frenos y neumáticos, mientras que uno que hace muchos trayectos cortos forzará más la batería y el embrague. Al saber que el coche tiene un uso compartido, ajustamos nuestras revisiones para buscar un equilibrio y vigilar los componentes que sufren el doble castigo, asegurando que el coche sea fiable para ambos."
+      "q": "¿Es necesario cambiar el aceite de la caja de cambios automática ZF de mi Serie 5?",
+      "a": "Aunque BMW lo califica como 'de por vida', la experiencia nos dice que es altamente recomendable. El uso en el tráfico denso de las rondas y accesos a Barcelona degrada el aceite. Un cambio de aceite y filtro de la caja ZF 8HP entre los 80.000 y 120.000 km previene averías costosas en la mecatrónica y asegura un funcionamiento suave y preciso por muchos más años."
+    },
+    {
+      "q": "Si compro un módulo de segunda mano para mi MINI, ¿podéis codificarlo?",
+      "a": "Sí, gracias a nuestro equipo oficial ISTA podemos realizar codificaciones y programaciones de la mayoría de módulos, tanto nuevos como de segunda mano (siempre que sean compatibles). Podemos adaptar módulos de luces (FRM), confort (JBE), navegadores NBT/EVO y muchos otros, una operación que a menudo solo está al alcance del concesionario."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para El Prat",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y cuéntanos qué necesita tu coche. Estamos en El Prat para ayudarte a mantenerlo en perfecto estado."
+  "closingHeadline": "Tu especialista BMW y MINI en El Prat de Llobregat",
+  "closingCta": "Contacta con nosotros por teléfono o WhatsApp para solicitar tu presupuesto cerrado. Deja tu BMW o MINI en las manos expertas que merece, aquí mismo en El Prat."
 }
