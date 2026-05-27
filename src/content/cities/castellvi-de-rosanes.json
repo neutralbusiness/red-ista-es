@@ -1,0 +1,186 @@
+{
+  "slug": "castellvi-de-rosanes",
+  "name": "Castellví de Rosanes",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 1757,
+  "lat": 41.44969,
+  "lng": 1.91679,
+  "metaTitle": "Taller BMW y MINI en Castellví de Rosanes · Red ISTA Diagnóstico",
+  "metaDescription": "Inspección post-compra para tu BMW o MINI de segunda mano en Castellví de Rosanes. Diagnóstico oficial ISTA y presupuesto cerrado. Pide cita.",
+  "heroSubtitle": "¿Acabas de comprar un BMW o MINI de segunda mano y quieres saber su estado real? Conectamos ISTA y te damos la verdad, sin rodeos.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
+    }
+  ],
+  "introLocal": "Enhorabuena, ya lo tienes. Después de buscar, comparar y negociar, ese BMW Serie 3 o ese MINI Cooper que querías por fin está aparcado en tu casa de Castellví de Rosanes. Quizás lo compraste a un particular en Gelida o en un compraventa de Martorell. Lo conduces cada día por la BV-2421 para enlazar con la A-2 y ahora te asalta la duda lógica: ¿estará tan bien como parecía? Antes de empezar a invertir en él, lo más inteligente es saber exactamente qué has comprado. Aquí es donde entramos nosotros. Somos el taller especialista en BMW y MINI de la red nacional Red ISTA, tu alternativa lógica y cercana al concesionario oficial, al que tendrías que ir hasta Sant Boi o más lejos, perdiendo una mañana entera.\n\nComprar un coche de segunda mano, especialmente uno tan avanzado como un BMW o un MINI, es un acto de fe. El vendedor te ha asegurado que está perfecto, pero ¿qué sabe un taller genérico de los códigos de avería ocultos en el módulo FRM de un MINI o del estado real de la cadena de un motor N47? En nuestra zona, vemos muchos BMW X3 y Serie 1 diésel con el motor B47, ideales para subir y bajar a Barcelona, y MINI Countryman perfectos para las escapadas de fin de semana. El problema es que estos coches guardan un historial electrónico muy detallado. Con nuestro equipo de diagnóstico oficial ISTA, el mismo que usan en la fábrica de Múnich, accedemos a todos los módulos: DDE, DME, EGS, DSC... Te entregamos un informe completo que revela si ese pequeño tirón en la caja ZF 8HP es una tontería o el inicio de un problema en la mecatrónica.\n\nLa gran pregunta: ¿por qué nosotros y no el concesionario oficial? La respuesta es sencilla: misma tecnología, misma precisión, pero sin los costes de estructura de una franquicia de lujo. Un concesionario en una gran ciudad tiene que pagar un showroom enorme, personal de ventas, marketing… costes que, inevitablemente, acaban en tu factura. Nosotros, como taller homologado por Red ISTA en Castellví de Rosanes, nos centramos en lo que importa: la mecánica y la electrónica. Usamos el mismo software ISTA conectado a BMW, seguimos los mismos procedimientos y podemos usar recambio original BMW o de calidad OE (Bosch, ZF, Mahle). La diferencia es que nuestra factura es la de un taller de aquí, de pueblo. Es la opción inteligente para quien valora tanto su coche como su dinero.\n\nEl tipo de conducción en el Baix Llobregat Nord tiene sus particularidades. Las cuestas de urbanizaciones como Can Sunyer o Els Àngels exigen más a las cajas de transferencia xDrive y a los convertidores de par. Los trayectos cortos y frecuentes a Martorell para hacer la compra son el escenario perfecto para saturar un filtro de partículas (DPF) si no se le da la oportunidad de regenerar. El calor del verano mediterráneo pone a prueba el sistema de refrigeración, especialmente la bomba de agua eléctrica y el termostato, puntos débiles conocidos. Una inspección con ISTA no solo encuentra fallos presentes, sino que nos permite ver parámetros en tiempo real para anticipar futuros problemas. Es una radiografía completa de tu nueva adquisición.\n\nAsí que, si acabas de dar el paso y tienes tu BMW o MINI en el garaje, hazte un favor: tráelo para un chequeo completo. Considera esta primera visita como la mejor inversión que harás en tu coche. Te daremos un diagnóstico transparente, te explicaremos cada punto del informe y te ofreceremos un presupuesto cerrado para cualquier mantenimiento o reparación que necesite, desde una simple revisión CBS con aceite LL-04 hasta una codificación de un módulo o la actualización del navegador. Empieza tu nueva etapa con la tranquilidad de saber que tu coche está en las mejores manos, aquí mismo, en Castellví de Rosanes.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita, con la misma tecnología que el concesionario pero con la cercanía y precios de Castellví.",
+  "processIntro": "Trabajamos con total transparencia. Este es nuestro proceso para que sepas en todo momento qué le pasa a tu coche y cuánto te va a costar.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas en la factura final."
+    },
+    {
+      "title": "Tu autorización expresa",
+      "body": "No hacemos absolutamente nada sin tu aprobación por escrito. Si durante la reparación detectamos algo imprevisto, paramos el trabajo, te contactamos y te explicamos la situación antes de continuar."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo los protocolos oficiales de BMW, con recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y utilizamos herramienta específica para la marca."
+    },
+    {
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio (CBS) en el cuadro y el iDrive, actualizamos el libro de mantenimiento digital y realizamos una prueba de carretera. Te contactamos días después para confirmar que todo funciona a la perfección."
+    }
+  ],
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que detectamos con ISTA en los BMW y MINI de segunda mano que llegan a nuestro taller de Castellví, muchos de ellos indetectables en una prueba de conducción superficial.",
+  "commonIssues": [
+    {
+      "title": "Cadena de distribución en motores N47/B47",
+      "body": "El famoso seseo en los diésel es un aviso. En coches usados para el trayecto diario por la A-2, el desgaste puede ser prematuro. Lo diagnosticamos midiendo el estiramiento con ISTA y te damos un presupuesto cerrado para el kit completo (cadenas, patines, tensores), evitando una rotura de motor."
+    },
+    {
+      "title": "Tirones en la caja automática ZF 8HP",
+      "body": "Las cuestas de las urbanizaciones de Castellví y el tráfico intermitente hacia Martorell fuerzan la caja. Si notas pequeños tirones al cambiar, puede ser la mecatrónica o simplemente aceite degradado. Realizamos diálisis y cambio de aceite y filtro según especificaciones de ZF para recuperar la suavidad."
+    },
+    {
+      "title": "Fugas de aceite (tapa de balancines, cárter)",
+      "body": "Es un clásico en los motores de gasolina N20 y B48 tras varios años. Una pequeña fuga en la junta del soporte del filtro de aceite puede parecer menor, pero mancha la correa de accesorios y causa averías graves. Lo detectamos en nuestra inspección visual y lo reparamos con juntas de calidad OE."
+    },
+    {
+      "title": "Módulos electrónicos que fallan (FRM, CAS)",
+      "body": "Un cambio de batería incorrecto o una bajada de tensión pueden desprogramar el módulo de luces (FRM) en un MINI o el de acceso (CAS) en un BMW. El coche arranca, pero las ventanillas no suben o las luces no van. Con ISTA podemos reprogramarlos o codificar uno nuevo, una operación imposible para un taller no especializado."
+    },
+    {
+      "title": "Filtro de partículas (DPF) y sistema AdBlue",
+      "body": "Los trayectos cortos son el enemigo del DPF. Si el coche que has comprado se usaba solo para ir de Castellví a Sant Andreu de la Barca, es probable que esté parcialmente obstruido. Forzamos una regeneración con ISTA y si no es posible, ofrecemos limpieza profesional o sustitución."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA, precios de aquí",
+      "body": "Te ofrecemos la misma capacidad de diagnóstico y programación que un concesionario oficial en Barcelona, pero con los precios competitivos y el trato cercano de un taller de Castellví de Rosanes."
+    },
+    {
+      "title": "La alternativa inteligente al concesionario",
+      "body": "Ahorra tiempo y dinero. No tienes que desplazarte a grandes ciudades ni pagar los sobrecostes de una gran estructura. Misma calidad técnica, más comodidad y mejor precio."
+    },
+    {
+      "title": "Especialistas solo en BMW y MINI",
+      "body": "No somos un taller que 'toca de todo'. Respiramos BMW y MINI. Conocemos los motores B47, B48, N57, sus puntos débiles y sus soluciones. Tu coche no será un experimento."
+    },
+    {
+      "title": "Homologados por Red ISTA",
+      "body": "Pertenecer a una red nacional de más de 100 talleres especialistas nos da acceso a formación continua, soporte técnico y la garantía de seguir protocolos estandarizados de máxima calidad."
+    },
+    {
+      "title": "Transparencia total en tu inspección",
+      "body": "Si vienes a revisar un coche que acabas de comprar, te enseñamos en la pantalla del ordenador los informes de ISTA. Te explicamos qué significa cada código para que tomes decisiones informadas."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que nos encontramos cada día con clientes de Castellví y alrededores. Tu caso seguro que se parece a alguno de ellos.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Can Sunyer",
+      "car": "BMW X3 xDrive20d G01 2018",
+      "body": "Compré el X3 en un concesionario de Abrera y, aunque me dieron garantía, no me fiaba. Lo traje aquí para una revisión completa. Conectaron el ISTA y vieron un código oculto de fallo en la caja de transferencia. Con el informe, fui al vendedor y me lo repararon sin coste. ¡Menos mal que vine!",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Sant Andreu de la Barca",
+      "car": "MINI Cooper S F56 2019",
+      "body": "Acababa de comprar el MINI a un particular y notaba que a veces le costaba arrancar en caliente. En otro taller no veían nada. Aquí, en diez minutos con la máquina, detectaron un fallo intermitente en la bomba de alta presión de gasolina. Presupuesto claro y problema solucionado. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Gelida",
+      "car": "BMW 420d Gran Coupé F36 2017",
+      "body": "El coche marcaba la revisión de los 100.000 km. Pedí presupuesto en el concesionario oficial y casi me da un infarto. Aquí me hicieron lo mismo, con aceite Castrol LL-04, todos los filtros Mahle y me actualizaron el iDrive. Me ahorré una pasta y el trato fue mucho más personal y cercano.",
+      "rating": 5
+    },
+    {
+      "name": "Mireia",
+      "neighborhood": "Castellví de Rosanes Centre",
+      "car": "BMW 116d F20 2015",
+      "body": "Mi Serie 1 de segunda mano hacía un ruidito metálico al arrancar, el famoso 'seseo' del N47. Estaba muy preocupada. Me explicaron con calma en qué consistía la reparación de la cadena, me dieron un presupuesto cerrado y me dejaron el coche perfecto. Ahora voy tranquila. Se nota que saben lo que hacen.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a propietarios de BMW y MINI de Castellví de Rosanes y sus urbanizaciones, como Can Sunyer, Els Àngels y Valldaina. Por nuestra ubicación y facilidad de acceso, también somos el taller de referencia para muchos clientes de municipios cercanos como Gelida, Sant Andreu de la Barca, Corbera de Llobregat y Martorell. Si vives en la zona y buscas un especialista de confianza para tu coche sin tener que desplazarte a Barcelona, estamos a tu lado. Nos encontrarás fácilmente tomando la BV-2421, con conexión rápida a las principales vías como la A-2 y la AP-7.",
+  "zoneNeighborhoods": [
+    "Castellví de Rosanes",
+    "Can Sunyer",
+    "Els Àngels",
+    "Valldaina",
+    "Gelida",
+    "Sant Andreu de la Barca",
+    "Martorell",
+    "Corbera de Llobregat",
+    "Sant Esteve Sesrovires",
+    "La Palma de Cervelló"
+  ],
+  "zoneAccessRoutes": [
+    "BV-2421",
+    "A-2 (Autovía del Nordeste)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "BV-2249"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Vale la pena traer mi BMW recién comprado para un chequeo si no le noto nada raro?",
+      "a": "Totalmente. Es la mejor inversión que puedes hacer. Muchos problemas graves, como un estiramiento inicial de la cadena, fugas de aceite incipientes o fallos electrónicos esporádicos, no dan síntomas evidentes al principio. Con ISTA, podemos detectarlos y darte un plan de acción, dándote poder de negociación con el vendedor o simplemente tranquilidad para ti."
+    },
+    {
+      "q": "Vivo en Castellví, ¿cuánto me ahorro realmente respecto al concesionario oficial de Sant Boi?",
+      "a": "No podemos darte una cifra exacta, pero el ahorro es significativo. Piensa que nuestros costes fijos son mucho menores: no tenemos un gran showroom ni un equipo comercial. Esa diferencia se refleja directamente en el precio de la mano de obra. En recambios y tecnología, la calidad es la misma. Pídenos presupuesto y compara tú mismo."
+    },
+    {
+      "q": "El MINI de segunda mano que he comprado tiene el historial de mantenimiento en el iDrive, ¿podéis actualizarlo?",
+      "a": "Sí, por supuesto. Al ser un taller de la Red ISTA y usar el equipo oficial conectado a los servidores de BMW AG, cada revisión o mantenimiento que realizamos queda registrado en el historial digital de tu coche. Aparecerá en tu pantalla del iDrive exactamente igual que si lo hubieras llevado al concesionario oficial."
+    },
+    {
+      "q": "El coche tiene una luz encendida y el vendedor me dijo que 'es solo un sensor', ¿lo podéis confirmar?",
+      "a": "Claro. Esa frase es un clásico. Conectamos ISTA y en cinco minutos te decimos exactamente qué sensor es, de qué sistema (ABS, motor, airbag...) y cuál es el código de error específico de BMW. No trabajamos con suposiciones, solo con los datos que nos da el sistema oficial de la marca. Así sabrás si es una reparación de 50€ o de 500€."
+    },
+    {
+      "q": "Mi X5 es de segunda mano y vivo en una urbanización con muchas cuestas. ¿Recomendáis alguna revisión especial?",
+      "a": "Buena pregunta. En coches con xDrive usados en zonas como Can Sunyer, es crucial revisar el estado del aceite de la caja de transferencia (VTG) y de los diferenciales. También ponemos especial atención al estado de la suspensión y al convertidor de par de la caja de cambios. Un chequeo preventivo de estos elementos puede evitarte una avería muy costosa a largo plazo."
+    },
+    {
+      "q": "Tengo un taller de confianza, pero su máquina de diagnosis no encuentra el fallo. ¿La vuestra es diferente?",
+      "a": "Es la noche y el día. Un equipo multimarca lee códigos de error genéricos del motor y poco más. Nuestro sistema ISTA/Rheingold es el software oficial de BMW y MINI. Accede a todos y cada uno de los módulos electrónicos del coche, nos permite ver datos en tiempo real, ejecutar planes de test guiados por la marca y realizar programaciones y codificaciones complejas."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, en buenas manos en Castellví",
+  "closingCta": "Pide tu cita para una inspección post-compra o para tu mantenimiento habitual. Llámanos o envíanos un WhatsApp y te daremos presupuesto sin compromiso para tu coche aquí, en Castellví de Rosanes."
+}
