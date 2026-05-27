@@ -6,186 +6,184 @@
   "population": 9560,
   "lat": 40.56253,
   "lng": -3.43988,
-  "metaTitle": "Taller mecánico en Daganzo de Arriba — Diagnóstico y reparación",
-  "metaDescription": "Taller multimarca en Daganzo de Arriba. Presupuestos cerrados para mecánica, revisiones y pre-ITV. Entendemos tu coche y las carreteras locales. Pide cita.",
-  "heroSubtitle": "Para ti, que usas el coche a diario por la M-113 y la A-2 y necesitas que responda. Sin excusas. Sin sorpresas en la factura.",
+  "metaTitle": "Taller BMW y MINI en Daganzo de Arriba — Red ISTA · Diagnóstico",
+  "metaDescription": "Especialistas en BMW y MINI en Daganzo. Diagnóstico oficial ISTA para coches de segunda mano, revisiones CBS y mecánica. Pide presupuesto cerrado.",
+  "heroSubtitle": "¿Acabas de comprar un BMW o MINI de segunda mano en Daganzo? Averigua su estado real y evita sorpresas con un diagnóstico oficial ISTA.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Conducir en Daganzo de Arriba no es simplemente moverse del punto A al B. Es entender que tu coche es una herramienta de precisión sometida a un estrés constante y particular. Es la rutina diaria de coger la M-113 para incorporarse a la A-2 o la M-50, un trayecto donde la fiabilidad no es negociable. Es saber que el calor que se acumula en el asfalto del Polígono Industrial Gitesa en julio no es el mismo que el hielo que te encuentras a primera hora en invierno en cualquier calle del casco urbano. Para quien valora la mecánica y entiende su vehículo, mantenerlo en estado óptimo aquí requiere un conocimiento que va más allá del manual del fabricante. Se trata de anticipar cómo el entorno castiga a cada componente, desde los silentblocks hasta la gestión electrónica del motor, en un coche que lo mismo hace kilómetros a alta velocidad por la R-2 que callejea por Ajalvir o Cobeña.\n\nEl clima continental de esta zona del Corredor del Henares es un factor determinante y un enemigo silencioso para la mecánica. La oscilación térmica diaria y anual es extrema. En verano, el motor trabaja bajo un calor sofocante que puede superar los 40°C, poniendo a prueba cada manguito del sistema de refrigeración y forzando al compresor del aire acondicionado a funcionar sin descanso. Los plásticos interiores y los salpicaderos sufren una degradación acelerada por el sol implacable, algo visible en muchos coches que duermen en la calle. En invierno, el escenario es el opuesto: arranques en frío con temperaturas bajo cero que exigen el máximo a la batería y a los calentadores en los motores diésel, que son mayoría en el parque móvil de la zona. A esto se suma el polvo en suspensión, procedente de los campos que rodean Daganzo, que satura los filtros de aire y habitáculo mucho antes de lo que indican los intervalos de servicio oficiales.\n\nEl perfil de uso del vehículo es igualmente exigente. El conductor de Daganzo no suele hacer trayectos cortos y urbanos, sino un uso mixto intensivo. El desgaste del embrague se acelera en las retenciones matutinas para acceder a Madrid, mientras que el sistema de frenos y la suspensión se fatigan tanto en las curvas de la carretera hacia Paracuellos de Jarama como en los innumerables badenes de las nuevas zonas residenciales. El parque automovilístico local, con una edad media que supera los diez años, está dominado por mecánicas diésel probadas —TDI, HDI, dCi— que requieren un mantenimiento específico para sistemas como la válvula EGR o el filtro de partículas (FAP), muy sensibles a los patrones de conducción de un 'pueblo dormitorio'. Un mantenimiento genérico no es suficiente; se necesita un enfoque que considere si el coche circula principalmente por la M-100 o si realiza trayectos cortos hasta el colegio.\n\nPor eso, nuestro enfoque de trabajo se basa en el diagnóstico y la transparencia. No cambiamos piezas por cambiar. Analizamos el problema desde la raíz, entendiendo cómo el uso específico que le das a tu coche en el entorno de Daganzo ha podido causar la avería. Cuando te entregamos un presupuesto, es cerrado y detallado. Te explicamos qué vamos a hacer y por qué, usando un lenguaje técnico pero comprensible. Sabemos que tu tiempo es limitado y que necesitas tu vehículo para trabajar o para tu vida familiar. Nuestro objetivo es que vuelvas a la carretera con la certeza de que tu coche ha sido tratado por profesionales que conocen tan bien la mecánica como las carreteras por las que circulas cada día.",
-  "servicesIntro": "Realizamos desde la revisión oficial hasta la diagnosis electrónica más compleja, con un enfoque específico para los coches que circulan por Daganzo y el Corredor del Henares.",
-  "processIntro": "Trabajamos con un método claro y honesto en cinco pasos. Sabrás en todo momento qué le pasa a tu coche, cuánto cuesta y solo actuaremos con tu aprobación.",
+  "introLocal": "Acabas de dar el paso. Después de buscar, has encontrado ese BMW Serie 3 G20 o ese MINI Countryman que encaja perfectamente con tu vida en Daganzo de Arriba. El vendedor te ha asegurado que está impecable, pero la procesión va por dentro. Sabes que la vida de un coche en esta zona es una prueba de fuego constante: el arranque en frío para bajar a la A-2 por la M-100, el tráfico denso a la altura de Torrejón, y luego, al volver a casa, los trayectos cortos por el pueblo para hacer la compra o llevar a los niños al colegio. Esa dualidad entre la autopista y el callejeo es precisamente lo que más exige a la mecánica de un BMW. Por eso, antes de dar nada por sentado, la primera parada inteligente no es presumir de coche, sino conectarlo a un sistema de diagnóstico oficial ISTA. Es la única forma de obtener un informe de salud completo y objetivo, un mapa detallado que te confirme si has hecho una buena compra o si hay alguna factura inesperada esperándote a la vuelta de la esquina.\n\nEl motor de tu BMW o MINI, ya sea un diésel B47 o un gasolina B48, está diseñado para rendir, pero sufre con los patrones de conducción de Daganzo. Un trayecto corto hasta el polígono industrial no permite que el filtro de partículas (DPF) de tu 320d regenere correctamente, provocando una saturación progresiva que un vendedor particular nunca te mencionará. Por otro lado, el viaje diario a Madrid por la A-2, con sus acelerones y frenadas, pone a prueba la caja de cambios automática ZF 8HP y el sistema de frenado. El aceite de la transmisión se degrada, el embrague bimasa sufre, y el sistema Start-Stop castiga la batería AGM en los semáforos de la M-113 hacia Paracuellos. Un chequeo genérico no ve estas cosas. Nosotros, con ISTA, leemos los datos de uso real registrados en los módulos del coche: número de regeneraciones del DPF, temperatura máxima alcanzada por la caja de cambios, ciclos de la batería… Te damos una radiografía real, no una opinión.\n\nComprar un coche de segunda mano es un acto de fe. Nuestra misión es convertir esa fe en certeza. Cuando traes tu recién adquirido BMW X1 F48, no nos limitamos a buscar fallos activos. Analizamos el historial de errores borrados, el estado de los inyectores, la salud del turbo y la sincronización de la cadena de distribución en motores críticos como el N47. Comprobamos si la batería que lleva montada es la correcta y si fue registrada en la DME, un detalle que el 90% de los talleres no especialistas pasa por alto y que acorta drásticamente su vida útil, especialmente con los inviernos secos y fríos de la meseta. Comparamos los kilómetros del cuadro con los registrados en otros módulos, como el de la llave o la centralita de la caja de cambios (EGS), para detectar posibles manipulaciones. Es el mismo nivel de análisis que te ofrecería el concesionario oficial de Alcalá de Henares, pero con la cercanía y la estructura de costes de un taller especialista de Daganzo.\n\nEsta inspección inicial con ISTA es la mejor inversión que puedes hacer en tu nuevo coche. Te entregamos un informe claro y te explicamos punto por punto lo que hemos encontrado. Con esa información, puedes tomar decisiones: desde negociar una rebaja con el vendedor si aún estás a tiempo, hasta planificar con antelación el mantenimiento correctivo que necesitará. Quizás descubrimos que le toca un cambio de aceite a la caja de transferencia del xDrive, o que las bobinas del motor de gasolina N20 están a punto de fallar. Saberlo de antemano te da el control. En Red ISTA Daganzo, no solo reparamos coches; te damos la información transparente y profesional que necesitas para disfrutar de tu BMW o MINI con total tranquilidad en las carreteras del Corredor del Henares, desde Ajalvir hasta el último rincón de nuestro pueblo.",
+  "servicesIntro": "Realizamos cualquier operación en tu BMW o MINI en Daganzo con la misma precisión que un servicio oficial, desde revisiones CBS hasta complejas codificaciones.",
+  "processIntro": "Trabajamos con un método claro y transparente en cinco pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos los síntomas que describes y realizamos una inspección técnica completa. Conectamos nuestros equipos de diagnosis para obtener un mapa preciso del estado electrónico y mecánico de tu vehículo, sin especulaciones."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, elaboramos un presupuesto detallado y sin sorpresas. Especifica la mano de obra, las piezas necesarias (calidad original o equivalente) y el IVA. Lo que ves es lo que pagas."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información. Sin letra pequeña ni sorpresas en la factura final."
     },
     {
-      "title": "Tu autorización",
-      "body": "Te llamamos y explicamos el presupuesto punto por punto. No movemos una sola tuerca ni pedimos una sola pieza sin tu confirmación explícita. Tienes el control total sobre la reparación de tu coche."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos si es necesario y te explicamos las opciones antes de continuar. Tú siempre tienes el control."
     },
     {
-      "title": "Reparación",
-      "body": "Nuestros técnicos ejecutan la reparación siguiendo los estándares del fabricante. Utilizamos recambios con garantía y te mantenemos informado si surgiera cualquier imprevisto, aunque nuestro diagnóstico inicial busca evitarlo."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE (Bosch, Mahle, ZF) o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos la herramienta específica para cada motor."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para confirmar que todo funciona a la perfección y tu satisfacción es completa."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el cuadro y en el iDrive, actualizamos el historial digital y realizamos una prueba de carretera. Te entregamos el coche listo para que sigas disfrutando de la conducción."
     }
   ],
-  "commonIssuesIntro": "El clima extremo y el uso intensivo en las carreteras de Daganzo y sus alrededores provocan una serie de averías recurrentes que conocemos bien y sabemos cómo solucionar de raíz.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que diagnosticamos y resolvemos en los BMW y MINI que circulan por Daganzo, muchos de ellos directamente relacionados con el tipo de conducción mixta de la zona.",
   "commonIssues": [
     {
-      "title": "Fallo del sistema de climatización",
-      "body": "El verano en Daganzo pone al límite el A/C. Las altas temperaturas fuerzan al compresor y pueden provocar fugas en un circuito debilitado por los años. Diagnosticamos el problema real, ya sea una fuga, un fallo del compresor o un problema eléctrico, para que no pases calor en los atascos de la A-2."
+      "title": "DPF y EGR saturados en motores diésel",
+      "body": "Los trayectos cortos por Daganzo o el tráfico lento en la M-100 impiden que los motores N47 y B47 completen la regeneración del filtro de partículas. Con ISTA forzamos la regeneración, limpiamos el sistema o sustituimos componentes si es necesario, evitando averías mayores en el turbo y el motor."
     },
     {
-      "title": "Desgaste prematuro de embrague",
-      "body": "La combinación de recorridos por el pueblo con el tráfico denso de la M-113 y la M-50 para ir a Madrid es la receta perfecta para acortar la vida del embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de una revisión antes de que te deje tirado."
+      "title": "Desgaste del embrague y volante bimasa",
+      "body": "El constante para-arranca en los atascos de la A-2 para ir a Madrid o en el polígono industrial castiga duramente el conjunto de embrague. Detectamos vibraciones y tirones prematuros, ofreciendo un reemplazo con recambio OE de Sachs o LUK para restaurar la suavidad de marcha original."
     },
     {
-      "title": "Problemas de arranque en invierno",
-      "body": "Con temperaturas que bajan de cero, las baterías con varios años sufren y los calentadores en los motores diésel son cruciales. Un fallo en cualquiera de ellos significa que el coche no arrancará. Verificamos el estado de todo el sistema de arranque para asegurar la fiabilidad en las mañanas más frías de Daganzo."
+      "title": "Mantenimiento de la caja automática ZF 8HP",
+      "body": "BMW dice que el aceite es 'de por vida', pero la experiencia en zonas de tanto contraste térmico y de uso como Daganzo demuestra que no es así. Un cambio de aceite y filtro cada 80.000-100.000 km previene tirones, averías en la mecatrónica y alarga la vida de la transmisión."
     },
     {
-      "title": "Obstrucción de filtros de aire y FAP",
-      "body": "El polvo de los campos agrícolas que nos rodean y el polen en primavera saturan el filtro de aire, afectando al rendimiento y consumo. En los diésel, los trayectos cortos para recados por el pueblo impiden la correcta regeneración del filtro de partículas (FAP), provocando averías costosas que podemos prevenir."
+      "title": "Fugas de aceite por juntas resecas",
+      "body": "El clima continental de Madrid, con veranos muy calurosos e inviernos fríos, provoca que las juntas (tapa de balancines, soporte del filtro de aceite) se cristalicen y fuguen. Es una avería común en motores N20, N55 y B48 que localizamos y reparamos para evitar manchas en el garaje y problemas más graves."
     },
     {
-      "title": "Holguras en suspensión y dirección",
-      "body": "El paso constante por badenes en las urbanizaciones y el estado variable de algunas carreteras comarcales como la M-118 hacia Alcalá, castigan silentblocks, rótulas y amortiguadores. Ruidos, imprecisión en la dirección o desgaste irregular de neumáticos son síntomas claros de que algo necesita atención."
+      "title": "Fallos eléctricos en módulos FRM y CAS",
+      "body": "Especialmente en los MINI, los módulos de luces (FRM) o de acceso (CAS) pueden fallar por picos de tensión o degradación, dejando de funcionar elevalunas o intermitentes. Podemos diagnosticarlos, repararlos o codificar uno nuevo, una solución mucho más económica que la sustitución directa en el concesionario."
+    },
+    {
+      "title": "Ruidos en la cadena de distribución (N47)",
+      "body": "El infame 'seseo' de la cadena en los motores N47 es algo que cualquier comprador de un BMW de segunda mano teme. Realizamos una diagnosis acústica y con ISTA para verificar el estado de los tensores y patines, y ofrecemos el kit de sustitución completo como medida preventiva o correctiva."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico, no adivinación",
-      "body": "Invertimos en equipos de diagnosis y en formación para encontrar la causa raíz del problema. No cambiamos piezas hasta estar seguros, ahorrándote tiempo y dinero."
+      "title": "Diagnóstico para tu tranquilidad",
+      "body": "Nuestro informe ISTA post-compra te da una visión clara y sin rodeos del estado real de tu coche. Es la mejor herramienta para saber qué has comprado y planificar su futuro."
     },
     {
-      "title": "Presupuestos sin letra pequeña",
-      "body": "Nuestro presupuesto es una propuesta cerrada. El importe que apruebas es el que pagas. Si durante la reparación surge un imprevisto (algo poco común), paramos y te consultamos."
+      "title": "La alternativa local al concesionario",
+      "body": "Estamos en Daganzo. No tienes que desplazarte hasta Alcalá de Henares para tener un servicio de nivel oficial. Ahorras tiempo y dinero sin renunciar a la calidad ni a la garantía."
     },
     {
-      "title": "Conocemos tu entorno",
-      "body": "Entendemos por qué un coche de Daganzo sufre de una manera particular. Este conocimiento local nos permite hacer un mantenimiento preventivo más inteligente y eficaz."
+      "title": "Especialistas en el uso real de tu coche",
+      "body": "Conocemos los problemas que genera la conducción en el Corredor del Henares. No aplicamos soluciones genéricas; vamos directos a los puntos débiles que sufre tu BMW o MINI aquí."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos las averías sin tecnicismos innecesarios. Queremos que entiendas qué le ocurre a tu coche y por qué recomendamos una reparación concreta. Valoramos tu confianza."
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Detallamos cada concepto para que entiendas perfectamente la reparación. La transparencia es la base de la confianza, especialmente al empezar con un coche nuevo."
     },
     {
-      "title": "Garantía total en reparaciones",
-      "body": "Todo nuestro trabajo, tanto en mano de obra como en piezas, está garantizado por escrito. Respondemos por lo que hacemos, ofreciéndote total tranquilidad tras pasar por nuestro taller."
+      "title": "Homologados por una red nacional",
+      "body": "Formar parte de Red ISTA significa seguir unos estándares de calidad, formación continua y equipamiento. No somos un taller cualquiera, somos un centro especializado y auditado."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día en nuestro taller, reflejando las experiencias de conductores como tú en nuestra zona.",
+  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Sirven como ejemplo del tipo de ayuda que ofrecemos a conductores de BMW y MINI en Daganzo.",
   "testimonials": [
     {
-      "name": "José",
-      "neighborhood": "Daganzo Casco",
-      "car": "Volkswagen Passat 2.0 TDI 2013",
-      "body": "Hago Daganzo-Madrid por la A-2 a diario. El coche empezó a dar tirones y a perder fuerza. En el taller diagnosticaron un problema con la EGR, algo típico por lo visto en este uso. Me explicaron la avería, me dieron un presupuesto cerrado y lo solucionaron rápido. Ahora el coche va fino otra vez. Se nota que saben lo que tocan.",
+      "name": "Carlos",
+      "neighborhood": "Daganzo Centro",
+      "car": "BMW 320d F30 2016",
+      "body": "Lo compré a un particular y parecía nuevo. Lo traje aquí para una revisión completa por si acaso. Conectaron la máquina ISTA y vieron que la caja de transferencia del xDrive empezaba a dar valores anómalos. Me enseñaron los datos y me recomendaron cambiar el aceite. El vendedor no tenía ni idea, claro. Me ahorraron una avería de miles de euros.",
       "rating": 5
     },
     {
       "name": "Laura",
+      "neighborhood": "Polígono Industrial",
+      "car": "MINI Cooper S F56 2018",
+      "body": "El coche iba genial, pero a veces el intermitente derecho se quedaba fijo. En el taller donde lo compré me decían que no veían nada. Aquí diagnosticaron en 15 minutos un fallo en el módulo FRM. Lo reprogramaron y quedó perfecto. Se nota que saben de la electrónica de estos coches.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
       "neighborhood": "Ajalvir",
-      "car": "Nissan Qashqai 1.5 dCi 2016",
-      "body": "Uso el coche para todo: llevar a los niños, la compra, escapadas de fin de semana... Notaba un ruido raro al frenar. Pensé que sería una fortuna. Lo llevé y me dijeron que eran solo las pastillas traseras. Fueron honestos, podrían haber intentado cambiar también los discos. El presupuesto, clavado. Buen servicio.",
+      "car": "BMW X3 xDrive20d G01 2019",
+      "body": "Trabajo en Madrid y hago muchos kilómetros por la A-2. Quería un taller especialista cerca de casa para las revisiones. El trato fue mucho más personal que en el concesionario y el presupuesto para la revisión CBS con todos los filtros fue bastante más ajustado. Ya sé dónde volver.",
       "rating": 5
     },
     {
-      "name": "Carlos",
-      "neighborhood": "Polígono Industrial Gitesa",
-      "car": "Citroën Berlingo 1.6 HDI 2018",
-      "body": "Mi furgoneta es mi oficina. El embrague empezó a patinar y no podía permitirme tenerla parada. Me entendieron perfectamente, me dieron prioridad y cumplieron el plazo que me dijeron. El precio fue el pactado desde el principio. Muy profesionales, para un autónomo eso es oro.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
+      "name": "Ana",
       "neighborhood": "Cobeña",
-      "car": "Renault Clio 0.9 TCe 2017",
-      "body": "En pleno julio, el aire acondicionado dejó de enfriar. Con el calor que hace por aquí, era insoportable. Me lo miraron, encontraron una pequeña fuga en un conducto y lo recargaron. No intentaron venderme un compresor nuevo ni nada raro. El trato fue muy correcto y el precio razonable. Volveré para la revisión.",
+      "car": "MINI Countryman Cooper D 2017",
+      "body": "Me tocaba cambiar pastillas y discos de freno. Pedí presupuesto aquí y en el servicio oficial. La diferencia era considerable usando recambio de primera marca (ATE, que es el original). El trabajo fue rápido y el reseteo del servicio en el ordenador de a bordo, perfecto. Muy profesionales.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller en Daganzo de Arriba da servicio a toda la zona noreste del Corredor del Henares. Si vives o trabajas en Daganzo, Ajalvir, Cobeña o Paracuellos de Jarama, estamos a pocos minutos. También cubrimos municipios cercanos como Fresno de Torote y Valdeavero. Nuestra ubicación es de fácil acceso desde las vías principales que vertebran la comarca. Puedes llegar cómodamente a través de la M-113, que conecta directamente con la A-2, o por la M-100 si vienes desde la zona de Alcalá de Henares o San Sebastián de los Reyes. El acceso a la M-50 y la R-2 también es rápido, lo que nos convierte en una opción conveniente para cualquier conductor que se mueva por este eje de Madrid.",
+  "zoneText": "Nuestro taller da servicio principalmente a propietarios de BMW y MINI de Daganzo de Arriba, tanto del casco urbano como de las urbanizaciones de los alrededores. Gracias a nuestra ubicación estratégica y excelentes comunicaciones, somos el taller de referencia para muchos conductores de municipios cercanos como Ajalvir, Cobeña, Valdeolmos-Alalpardo y Fresno de Torote. Estamos perfectamente conectados a través de la M-100, la M-113 y la M-118, lo que permite un acceso rápido y cómodo desde cualquier punto del Corredor del Henares norte sin necesidad de entrar en los atascos de Alcalá o Torrejón.",
   "zoneNeighborhoods": [
     "Daganzo de Arriba",
     "Ajalvir",
     "Cobeña",
-    "Paracuellos de Jarama",
+    "Valdeolmos-Alalpardo",
+    "Polígono Industrial de Daganzo",
     "Fresno de Torote",
-    "Valdeavero",
-    "Polígono Industrial Gitesa",
-    "Polígono Industrial de Ajalvir",
-    "Miramadrid (Paracuellos)",
-    "Polígono Industrial Las Matillas (Alcalá)"
+    "Paracuellos de Jarama",
+    "Ribatejada"
   ],
   "zoneAccessRoutes": [
-    "A-2 (Autovía de Aragón)",
-    "M-50 (Circunvalación de Madrid)",
-    "M-113 (Carretera de Daganzo)",
-    "M-100 (Carretera de la Presa)",
-    "R-2 (Autopista Radial 2)"
+    "M-100",
+    "M-113",
+    "A-2 (Autovía del Nordeste)",
+    "M-118",
+    "R-2"
   ],
   "faqLocal": [
     {
-      "q": "¿La revisión pre-ITV que hacéis está adaptada a la estación de ITV de Alcalá de Henares?",
-      "a": "Sí, completamente. Conocemos los puntos que los inspectores de la ITV de Alcalá y Guadalajara revisan con más atención. Nuestra pre-ITV no es un simple chequeo de luces y neumáticos; es una inspección a fondo de los elementos que suelen generar más rechazos en nuestra zona, como la opacidad en los diésel o el estado de los silentblocks, asegurando que vayas con la máxima garantía de pasarla a la primera."
+      "q": "Acabo de comprar un BMW de segunda mano en la zona, ¿qué revisáis exactamente con el diagnóstico ISTA?",
+      "a": "Hacemos una lectura completa de todos los módulos electrónicos del coche. No solo buscamos códigos de error activos, sino también los 'ocultos' o borrados recientemente. Verificamos parámetros en tiempo real del motor (inyección, turbo, DPF), la caja de cambios y el sistema xDrive. Comprobamos la coherencia de los kilómetros y el historial de la batería. Es un chequeo exhaustivo para darte una imagen fiel del estado real de tu coche."
     },
     {
-      "q": "Mi coche diésel duerme en la calle en Daganzo. ¿Qué mantenimiento extra necesita para el invierno?",
-      "a": "Es una pregunta clave. El frío intenso de Daganzo afecta mucho a los diésel. Recomendamos una comprobación del estado de la batería antes de que llegue el frío, ya que es el componente que más sufre. También es vital verificar el correcto funcionamiento de los calentadores y usar un gasóleo de buena calidad que no se solidifique. Un anticongelante con el punto de congelación adecuado es, por supuesto, imprescindible."
+      "q": "Vivo en Daganzo y cojo la A-2 a diario. ¿Qué mantenimiento es clave para mi diésel B47?",
+      "a": "Para ese tipo de uso, es vital vigilar tres cosas: el filtro de partículas (DPF), la válvula EGR y el aceite del motor. Te recomendamos usar siempre aceite de baja ceniza con homologación BMW LL-04 y no estirar los cambios más allá de lo que indica el CBS. También es buena idea realizar una descarbonización del sistema de admisión cada cierto tiempo para evitar que la carbonilla acumulada por el tráfico lento afecte al rendimiento."
     },
     {
-      "q": "Voy y vuelvo a diario a Madrid por la A-2, ¿qué componentes del coche sufren más?",
-      "a": "Ese trayecto implica un uso intensivo de motor a altas revoluciones y frenadas constantes en atascos. Los componentes que más se resienten son el sistema de refrigeración, los frenos, el embrague y el filtro de partículas (FAP) en los diésel. Recomendamos acortar ligeramente los intervalos de cambio de aceite y revisar con más frecuencia el estado de pastillas y discos de freno."
+      "q": "Vuestra pre-ITV, ¿tiene en cuenta las pruebas de opacidad para diésel que circulan por Madrid?",
+      "a": "Sí, por supuesto. Sabemos que las estaciones de ITV de la Comunidad de Madrid son exigentes con las emisiones, especialmente en los diésel. Nuestra pre-ITV incluye una prueba de gases y opacidad con equipamiento profesional. Si detectamos valores altos, te asesoramos sobre las posibles causas (EGR, DPF, inyectores) y las soluciones antes de que vayas a la inspección."
     },
     {
-      "q": "En agosto el aire acondicionado de mi coche no enfría como debería, ¿es normal por el calor de aquí?",
-      "a": "Aunque el rendimiento baja con calor extremo, no es normal que deje de enfriar de forma notable. Puede ser síntoma de falta de gas por una pequeña fuga, un filtro de habitáculo sucio que obstruye el flujo de aire o un problema en el compresor. Con el calor de Daganzo en verano, tener el A/C al 100% es una necesidad, no un lujo. Conviene revisarlo."
+      "q": "¿Es realmente más barato hacer la revisión con vosotros que en el concesionario de Alcalá?",
+      "a": "Sí, nuestros precios son significativamente más competitivos. La razón es nuestra estructura de costes: no tenemos las enormes instalaciones ni los gastos de marketing de un concesionario oficial. Usamos el mismo equipo de diagnóstico y podemos montar tanto recambio original BMW como recambio de calidad OE (fabricado por las mismas marcas que proveen a BMW) con una mano de obra más ajustada. El ahorro es real."
     },
     {
-      "q": "Vivo en una urbanización con muchas cuestas y badenes, ¿cómo afecta a mi coche?",
-      "a": "Afecta directamente a tres sistemas: frenos, por el uso constante en pendientes; embrague, por los arranques en cuesta; y suspensión (amortiguadores, silentblocks, rótulas), por los badenes. Es muy probable que estos elementos sufran un desgaste superior a la media. Es aconsejable una revisión anual del tren de rodaje para evitar holguras y problemas de seguridad."
+      "q": "Mi MINI tiene un fallo eléctrico que solo aparece cuando hace frío. ¿Podéis encontrarlo?",
+      "a": "Los fallos intermitentes son nuestra especialidad. El sistema ISTA registra los errores aunque no estén activos en el momento de la diagnosis, guardando datos sobre las condiciones en que ocurrieron (temperatura, voltaje, etc.). Esto nos da pistas cruciales para reproducir el fallo y localizar la causa, ya sea un mal contacto, un sensor defectuoso o un módulo que empieza a fallar."
     },
     {
-      "q": "A menudo paso por caminos de tierra cerca de Fresno de Torote. ¿Debo hacer algún mantenimiento especial?",
-      "a": "Sí. El polvo es el principal enemigo. El filtro de aire del motor se saturará mucho más rápido, lo que aumenta el consumo y reduce el rendimiento. Recomendamos revisarlo y cambiarlo con más frecuencia de la que indica el fabricante. También la suspensión y los bajos del coche sufren más, por lo que una inspección visual en cada revisión es muy importante."
-    },
-    {
-      "q": "¿El presupuesto cerrado cubre también averías electrónicas complejas?",
-      "a": "Sí. Nuestro proceso es el mismo. La primera fase es el diagnóstico, que en averías electrónicas es más largo y tiene un coste inicial que te comunicamos. Una vez identificada la centralita o el sensor afectado, te damos un presupuesto cerrado para su reparación o sustitución. Nunca procederemos con una reparación costosa sin tu aprobación explícita."
-    },
-    {
-      "q": "Necesito el coche para trabajar. ¿Tenéis coche de cortesía en vuestro taller de Daganzo?",
-      "a": "Sí, disponemos de vehículos de cortesía para nuestros clientes. Entendemos que en una localidad como Daganzo el coche es indispensable. Este servicio está sujeto a disponibilidad y se asigna principalmente para reparaciones de más de una jornada. Te recomendamos solicitarlo al pedir tu cita para poder garantizar su reserva y que no te quedes parado."
+      "q": "¿Recomendáis cambiar el aceite de la caja de cambios automática ZF de mi X5?",
+      "a": "Rotundamente sí. Aunque el fabricante a veces lo califica como 'de por vida', la experiencia nos dice que es una de las mejores operaciones preventivas que existen. El aceite se degrada con el tiempo y los kilómetros, especialmente con el uso mixto de autopista y ciudad de Daganzo. Un cambio de aceite, filtro y conector de la caja ZF cada 80.000-100.000 km asegura un funcionamiento suave y previene averías muy costosas en la mecatrónica."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Daganzo de Arriba",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp para concertar una cita y deja que cuidemos de tu coche como se merece aquí, en Daganzo."
+  "closingHeadline": "Tu especialista BMW y MINI en Daganzo de Arriba",
+  "closingCta": "Pide tu cita previa para un diagnóstico o revisión. Llámanos o escríbenos por WhatsApp y te daremos un presupuesto cerrado para tu coche aquí, en Daganzo."
 }
