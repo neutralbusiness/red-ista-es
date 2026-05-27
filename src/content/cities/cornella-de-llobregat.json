@@ -6,177 +6,190 @@
   "population": 87173,
   "lat": 41.35,
   "lng": 2.08333,
-  "metaTitle": "Taller mecánico en Cornellà de Llobregat — Multimarca y honesto",
-  "metaDescription": "Taller en Cornellà para conductores que usan el coche a diario. Presupuestos cerrados para revisión, mecánica y averías. Pide tu cita ahora.",
-  "heroSubtitle": "Para ti, que cada mañana coges la B-20 o la A-2 y tu coche no es un capricho, es tu herramienta de trabajo. Aquí lo entendemos.",
+  "metaTitle": "Taller MINI y BMW en Cornellà — Red ISTA · Diagnóstico oficial",
+  "metaDescription": "Especialistas en MINI y BMW en Cornellà de Llobregat. Diagnóstico oficial ISTA, mecánica avanzada y precios justos. Pide tu presupuesto cerrado. Cerca de la A-2 y B-20.",
+  "heroSubtitle": "Tu MINI Cooper S da tirones y en el taller de siempre no saben qué es. ¿Te suena? Aquí hablamos el mismo idioma, sin rodeos.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Revisión Pre-ITV"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Cornellà de Llobregat no es solo una ciudad; es un nudo de comunicaciones vital para miles de conductores que cada día se mueven por el Baix Llobregat y el área metropolitana de Barcelona. Vivir aquí significa conocer el ritmo de la A-2 a primera hora, decidir si la Ronda de Dalt (B-20) estará colapsada a la altura de Esplugues o si es mejor rodear por la C-31 para llegar al aeropuerto o a la Zona Franca. Este uso intensivo del vehículo, a menudo superando los 50 o 60 kilómetros diarios, no es una opción, es una necesidad laboral y familiar. El coche deja de ser un objeto de ocio para convertirse en una herramienta fundamental que debe ser fiable, segura y no dar sorpresas. Es el coche que te permite llegar a tu puesto en el polígono Pedrosa de L'Hospitalet, visitar a un cliente en Sant Boi o simplemente volver a casa en la Riera o Almeda después de un día largo. Entendemos que cuando tu coche falla, no solo es una molestia, es un problema que afecta directamente a tu día a día.\n\nEl parque móvil de Cornellà refleja esta realidad. No predominan los coches de fin de semana, sino los diésel y gasolina de batalla, esos Seat Ibiza, Renault Clio o Volkswagen Golf que acumulan kilómetros con una constancia admirable. Son vehículos de entre 4 y 15 años que soportan el estrés diario del tráfico interurbano: el constante juego de embrague y freno en los accesos a Barcelona, la suspensión trabajando en los badenes de barrios como Sant Ildefons o La Gavarra, y los motores forzados a regenerar filtros de partículas en trayectos que a veces no son lo suficientemente largos. El clima de la zona, con la humedad que aporta la cercanía del delta del Llobregat, también hace su parte, afectando a componentes electrónicos y acelerando la corrosión en puntos sensibles de la carrocería o el escape, sobre todo en coches que duermen en la calle, algo común en zonas densamente pobladas de la ciudad.\n\nDesde nuestra perspectiva como profesionales de la mecánica, vemos un patrón claro. Los problemas más comunes no son fruto de la casualidad, sino consecuencia directa de este ecosistema. El desgaste prematuro de embragues, la acumulación de carbonilla en los sistemas de admisión o los fallos en el sistema de refrigeración durante los atascos de julio y agosto son el pan de cada día. No es lo mismo mantener un coche que circula por carreteras abiertas que uno que pasa gran parte de su vida útil en el cinturón de Barcelona. Por eso, nuestro enfoque va más allá de la simple reparación. Se trata de un mantenimiento preventivo y un diagnóstico que tiene en cuenta cómo y por dónde conduces. Entendemos el coste de oportunidad que supone tener el coche inmovilizado y la importancia de un presupuesto cerrado para una economía familiar o de autónomo.\n\nAquí no encontrarás promesas vacías. Lo que ofrecemos es un servicio de taller mecánico anclado en la realidad de Cornellà. Conocemos las ITV de la zona, sabemos lo que implica la ZBE de Barcelona para los coches de nuestros clientes y entendemos la urgencia cuando surge una avería imprevista el día antes de un desplazamiento importante. Nuestro compromiso es la transparencia total: un diagnóstico claro, una explicación de las opciones disponibles y un precio final sin asteriscos. Porque tu tranquilidad al volante, ya sea en la carretera de Esplugues o aparcando en el barrio Centre, es el resultado de un trabajo bien hecho en el taller. Tu coche es tu herramienta, y nosotros nos encargamos de que esté siempre a punto.",
-  "servicesIntro": "Desde la revisión anual para tu coche de trabajo hasta la mecánica compleja que necesitas para seguir en la carretera, cubrimos todas las necesidades en Cornellà.",
-  "processIntro": "Trabajamos con un proceso claro y sin sorpresas. Sabrás qué le pasa a tu coche, cuánto cuesta y solo haremos lo que tú autorices.",
+  "introLocal": "Conduces un MINI, probablemente un Cooper S o un John Cooper Works, y sabes que no es un coche cualquiera. Lo disfrutas en las curvas de la carretera de l'Aigües o escapándote por la C-31 hacia Sitges, pero la realidad del día a día en Cornellà de Llobregat es otra: el tráfico para entrar a la Ronda de Dalt (B-20), los semáforos de la Carretera d'Esplugues, o buscar aparcamiento por La Gavarra. Tu MINI necesita un taller que entienda tanto su ADN deportivo como el desgaste que sufre en un entorno urbano como el del Baix Llobregat. Un sitio donde no te miren raro cuando hablas de la bomba de alta presión de tu N18 o del tacto gomoso de la dirección. Un especialista que sepa que tu coche no es simplemente un utilitario, sino una máquina precisa que requiere un cuidado igual de preciso.\n\nEl parque de BMW y MINI en Cornellà y municipios vecinos como L'Hospitalet o Sant Joan Despí es muy característico. No estamos en Pedralbes; aquí lo que más se ve es el MINI Hatch (muchos R56 y los primeros F56), el Countryman de primera generación y BMWs que son auténticos caballos de batalla: Serie 1 (F20), Serie 3 (E90 y F30) y los primeros X1. Predominan los diésel N47 y B47, motores fiables pero con el talón de Aquiles de la distribución si no se cuida. Y, por supuesto, los gasolina turbo de inyección directa como el B38 y B48 de los MINI más nuevos o el problemático N18 de la generación anterior, que tiende a acumular carbonilla y a dar guerra con el consumo de aceite. Son coches con una media de 8 a 12 años que ya están fuera de la garantía oficial y cuyos propietarios buscan una alternativa sensata al concesionario.\n\nEste uso intensivo y mixto —atascos en la A-2 para ir a Barcelona entre semana, escapadas de fin de semana— genera problemas muy concretos. La humedad del clima mediterráneo, especialmente notable cerca del río Llobregat, acelera el desgaste de componentes eléctricos y puede afectar a los módulos electrónicos. Los trayectos cortos y repetitivos, como ir de Almeda al centro comercial Splau, son la receta perfecta para saturar un filtro de partículas (DPF) o para que la carbonilla ahogue un motor de gasolina. La dirección electrohidráulica de los MINI R56 empieza a 'cantar' y a endurecerse, un fallo clásico que en un taller no especializado puede acabar en un cambio de cremallera innecesario y carísimo. Sabemos que tu coche es una parte importante de tu vida, y también que el presupuesto no es infinito.\n\nPor eso existimos. Somos tu taller especialista BMW y MINI en Cornellà, homologado por Red ISTA. No somos un concesionario oficial, y eso es una ventaja. Disponemos del mismo equipo de diagnóstico oficial ISTA/Rheingold, conectado en tiempo real a los servidores de BMW en Alemania, pero con la estructura de costes de un taller independiente. Esto se traduce en presupuestos cerrados, transparentes y mucho más competitivos. Conocemos a fondo la mecánica de tu MINI, desde el sistema Vanos hasta la última codificación del módulo FRM. Entendemos qué significa tener un coche de altas prestaciones y te ofrecemos la tranquilidad de que está en manos de gente que no solo sabe lo que hace, sino que comparte tu pasión.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Cornellà, con la misma tecnología y precisión que el concesionario oficial.",
+  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
   "processSteps": [
     {
-      "title": "Diagnóstico inicial",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnóstico para identificar la raíz del problema, no solo los síntomas. Tu experiencia como conductor es clave."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y por escrito. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas de última hora. Te lo explicamos punto por punto."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información. El precio que te damos es el que pagas, sin más."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes el control total. Puedes darnos el visto bueno por teléfono, WhatsApp o en persona. Tú decides si seguimos adelante."
+      "title": "Tu autorización expresa",
+      "body": "No movemos un solo tornillo sin tu visto bueno. Si durante la reparación detectamos algo imprevisto, paramos, te llamamos, te enviamos fotos si hace falta y te explicamos la situación antes de seguir."
     },
     {
-      "title": "Reparación y piezas",
-      "body": "Procedemos con la reparación utilizando recambios de calidad y siguiendo las especificaciones del fabricante. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por Cornellà y más allá."
+      "title": "Reparación especializada",
+      "body": "Seguimos los protocolos de BMW a rajatabla. Usamos recambios de calidad OE (Bosch, Mahle, ZF) o BMW original si lo prefieres, y siempre aceites homologados como Castrol LL-04. Cada tornillo con su par de apriete."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, podemos contactarte para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los intervalos de servicio CBS, actualizamos el historial digital de tu coche si lo tiene y te lo entregamos listo. Nos gusta echarle un ojo después para confirmar que todo va perfecto."
     }
   ],
-  "commonIssuesIntro": "Los coches en Cornellà no sufren averías al azar. El uso intensivo en las rondas y el clima local generan problemas muy específicos que conocemos y sabemos solucionar.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que vemos en los BMW y MINI que llegan a nuestro taller de Cornellà, averías que conocemos y sabemos solucionar de raíz.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague en atascos",
-      "body": "El trayecto diario por la B-20 o los accesos a Barcelona implica miles de cambios de marcha en tráfico lento. Este 'pisa-suelta' constante fatiga el disco de embrague y el sistema hidráulico. Detectamos los primeros síntomas, como un pedal duro o tirones al salir, para evitar que te deje tirado en plena ronda."
+      "title": "Fallo en la dirección EPS de MINI",
+      "body": "Especialmente en la generación R56 (hasta 2013), la bomba de dirección electrohidráulica falla, dejando la dirección dura y peligrosa. El uso urbano intensivo en zonas como el centro de Cornellà acelera su desgaste. Diagnosticamos si es la bomba, el cableado o el motor y la reparamos o sustituimos por una unidad reacondicionada o nueva, ahorrándote mucho dinero frente a cambiar todo el sistema."
     },
     {
-      "title": "Filtro de partículas (FAP) obstruido",
-      "body": "Muchos diésel que circulan por Cornellà combinan trayectos cortos por la ciudad con autovía. Esta mezcla a menudo impide que el FAP se regenere correctamente, provocando pérdida de potencia y costosas averías. Realizamos limpiezas forzadas y diagnosticamos el sistema para mantenerlo en óptimas condiciones."
+      "title": "Cadena de distribución N47 y N18",
+      "body": "El famoso 'seseo' metálico al ralentí en los diésel N47 es un aviso que no hay que ignorar. También afecta a los motores gasolina N18 de los Cooper S. En nuestro taller realizamos la sustitución preventiva del kit completo (cadenas, patines, tensores) con recambio de calidad OE para evitar una rotura de motor catastrófica. Lo hemos hecho cientos de veces."
     },
     {
-      "title": "Problemas de suspensión y silentblocks",
-      "body": "Pasar cada día por los badenes del barrio Centre o las calles del polígono Famades castiga la suspensión. Los ruidos sordos al girar o una sensación de inestabilidad suelen ser silentblocks o amortiguadores gastados. Una revisión a tiempo mejora la seguridad y evita un desgaste irregular de los neumáticos."
+      "title": "Carbonilla en admisión (Inyección Directa)",
+      "body": "Los motores gasolina turbo de inyección directa (MINI B38/B48/N18, BMW N20/B48/B58) sufren acumulación de carbonilla en las válvulas de admisión por los trayectos cortos, como los que se hacen para ir al trabajo en el Polígon Almeda. Esto provoca tirones y pérdida de potencia. Realizamos limpieza por cáscara de nuez, un método no invasivo que devuelve el rendimiento original."
     },
     {
-      "title": "Sistema de refrigeración bajo estrés",
-      "body": "El calor del verano en el área metropolitana, sumado a un atasco en la A-2 volviendo del trabajo, pone al límite el sistema de refrigeración. Un termostato que no abre bien o un electroventilador que falla puede causar un sobrecalentamiento grave. Verificamos todo el circuito para evitar sustos."
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "El uso constante por la B-20 o la A-2 en hora punta impide que los motores diésel hagan regeneraciones completas del DPF. Cuando el testigo se enciende, no siempre hay que cambiarlo. Conectamos el ISTA, forzamos una regeneración controlada y, si es necesario, realizamos una limpieza profesional del filtro, una solución mucho más económica."
     },
     {
-      "title": "Fallos electrónicos por humedad",
-      "body": "La proximidad al Llobregat genera un ambiente húmedo que, con los años, puede afectar a centralitas y conexiones eléctricas, sobre todo en coches que duermen en la calle. Testigos que se encienden sin motivo o fallos intermitentes son síntomas que diagnosticamos con precisión para dar con el componente afectado."
+      "title": "Consumo de aceite y fugas",
+      "body": "Muchos motores turbo, como el N20 de BMW o el N14/N18 de MINI, tienden a consumir aceite. No es 'normal'. Localizamos el origen: retenes de válvulas, junta de tapa de balancines, enfriador de aceite... Solucionamos la fuga o el consumo excesivo de raíz. Una junta que empieza a sudar en tu garaje de la zona Riera es una avería esperando a pasar."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos tu rutina",
-      "body": "Sabemos que tu coche es esencial para tu trabajo y tu familia. Nos adaptamos para que la reparación sea rápida y afecte lo menos posible a tu día a día en Cornellà."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el mismo software ISTA oficial que BMW. No adivinamos: leemos los códigos de error, interpretamos los datos en tiempo real y vamos directos al origen del problema. Ahorras tiempo y dinero en piezas cambiadas 'a ver si suena la flauta'."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Sin extras inesperados ni letra pequeña. Planifica tus gastos con la certeza de que no habrá imprevistos en la factura final."
+      "title": "Especialización real en MINI",
+      "body": "Conocemos las manías y puntos débiles de cada generación de MINI, desde la dirección del R56 hasta la electrónica del F56. No eres 'un cliente más con un coche raro', eres un propietario de MINI y hablamos tu idioma."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Te explicamos la avería de forma clara. Si algo puede esperar, te lo diremos. Nuestra prioridad es la seguridad y la confianza, no cambiar piezas innecesariamente."
+      "title": "Presupuestos cerrados y claros",
+      "body": "Lo que presupuestamos es lo que pagas. Te explicamos cada línea, te damos opciones entre recambio OE de primeras marcas o BMW original, y tú decides. Cero sorpresas en la factura final."
     },
     {
-      "title": "Comunicación directa",
-      "body": "Cualquier imprevisto o consulta, te llamamos. No tomamos decisiones sin tu consentimiento. Estarás informado durante todo el proceso de reparación de tu vehículo."
+      "title": "Ahorro inteligente, no recortes",
+      "body": "Nuestros precios son de taller independiente porque no tenemos la estructura de costes de un concesionario. El ahorro viene de ahí, no de usar recambios de mala calidad ni de saltarnos pasos. Es la misma calidad, pero más ajustada."
     },
     {
-      "title": "Conocimiento local",
-      "body": "Conocemos los problemas típicos de los coches que circulan por el Baix Llobregat. Este conocimiento nos permite ir directos al grano, ahorrándote tiempo y dinero."
+      "title": "Trato directo y cercano",
+      "body": "Hablas directamente con el mecánico que va a tocar tu coche. Te explicamos las cosas de forma que las entiendas, sin tecnicismos innecesarios. Somos un taller de Cornellà, para la gente de Cornellà y alrededores."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que hemos resuelto para conductores de Cornellà, como podrías ser tú.",
+  "testimonialsIntro": "No tenemos clientes, tenemos fans de la marca que confían en nosotros. Estos son algunos ejemplos de casos que hemos resuelto en nuestro taller.",
   "testimonials": [
     {
-      "name": "Jordi",
+      "name": "Joan",
       "neighborhood": "Almeda",
-      "car": "Seat León ST TDI 2016",
-      "body": "Hago cada día el trayecto hasta el WTC Almeda Park y luego a Barcelona. El coche empezó a dar tirones en los atascos de la Ronda. Pensé que sería algo grave del motor. Aquí dieron rápido con el problema: el embrague estaba en las últimas. Me dieron un presupuesto cerrado y cumplieron el plazo. Fundamental para no perder días de trabajo.",
+      "car": "MINI Cooper S F56 2018",
+      "body": "El coche empezó a dar tirones en bajas y el Start-Stop dejó de funcionar. En otro taller me querían cambiar medio motor. Aquí conectaron el ISTA y vieron que era un sensor del Valvetronic. Me explicaron el problema, me dieron un presupuesto cerrado y en 24 horas estaba listo. Profesionales que saben lo que tocan. Volveré seguro.",
       "rating": 5
     },
     {
       "name": "María",
       "neighborhood": "La Gavarra",
-      "car": "Peugeot 308 1.6 HDI 2013",
-      "body": "Se me encendió el testigo de fallo motor. En otro sitio me hablaron de cambiar el filtro de partículas, una pasta. Aquí lo revisaron a fondo, vieron que solo necesitaba una regeneración forzada y limpiar un sensor. Me ahorré un dineral y el coche va perfecto. Se agradece la honestidad, sobre todo con los diésel y sus historias.",
+      "car": "BMW X1 sDrive18d F48 2017",
+      "body": "Tenía que pasar la revisión CBS (aceite y todos los filtros) y la ITV. El presupuesto del concesionario oficial era una locura. Aquí me lo hicieron con aceite Castrol LL-04 y filtros Mahle, me sellaron el historial digital y me hicieron la pre-ITV gratis. Pasó la inspección sin problemas. Ahorré bastante pasta y el trato fue genial.",
       "rating": 5
     },
     {
       "name": "Carlos",
       "neighborhood": "Sant Ildefons",
-      "car": "Ford Focus 1.8 TDCI 2008",
-      "body": "Mi furgoneta de trabajo empezó a hacer un ruido metálico en la rueda delantera, sobre todo por los baches del barrio. Me preocupaba la seguridad. Lo revisaron y eran las copelas del amortiguador. Me lo explicaron con la pieza vieja en la mano para que lo entendiera. Buen trato y directos al problema.",
+      "car": "BMW 320d E90 2010",
+      "body": "Mi Serie 3 tiene ya sus años y empezó a hacer el ruido de la cadena de distribución. Estaba asustado por lo que había leído. Les llamé, me tranquilizaron y me dieron un precio para cambiar el kit completo. Ahora el motor suena redondo, como nuevo. Se nota que controlan un montón de estos motores N47. Muy recomendables.",
       "rating": 5
     },
     {
-      "name": "Laura",
-      "neighborhood": "Riera",
-      "car": "Renault Clio 1.2 2015",
-      "body": "Tenía que pasar la ITV y el coche no frenaba bien. Estaba un poco nerviosa porque lo uso para todo. Me ajustaron los frenos traseros y me hicieron una revisión pre-ITV completa. Pasó a la primera sin problemas. El coche de cortesía me vino genial para poder ir a buscar a los niños al cole. Buen servicio.",
+      "name": "Anna",
+      "neighborhood": "Centre",
+      "car": "MINI One R56 2012",
+      "body": "La dirección se puso durísima de un día para otro. Pensé que me había quedado sin coche. Me diagnosticaron que era la bomba de la dirección EPS, un fallo típico de este modelo. Me ofrecieron una reacondicionada con garantía y me ahorré un pico. Ahora va perfecta otra vez. Gracias por la honestidad.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda Cornellà de Llobregat y sus alrededores. Si vives o trabajas en barrios como Centre, Riera, Almeda, La Gavarra, Sant Ildefons o Fontsanta-Fatjó, estamos a tu lado. Nuestra ubicación es estratégica para quienes se mueven a diario por el Baix Llobregat. Muchos de nuestros clientes vienen de municipios cercanos como L'Hospitalet de Llobregat, Sant Boi de Llobregat, Esplugues de Llobregat y Sant Joan Despí, aprovechando los rápidos accesos. Estamos conectados por las vías principales que vertebran la comarca, como la A-2, la Ronda de Dalt (B-20) y la C-31, lo que facilita enormemente dejar y recoger tu vehículo sin desviarte demasiado de tu ruta habitual.",
+  "zoneText": "Nuestro taller en Cornellà de Llobregat ofrece servicio a toda la comarca del Baix Llobregat. Gracias a nuestra ubicación estratégica, estamos a pocos minutos de las principales vías de comunicación, lo que nos permite dar servicio a clientes no solo de todos los barrios de Cornellà (Almeda, La Gavarra, Riera, Centre, Sant Ildefons), sino también de municipios colindantes. Recibimos cada día a propietarios de BMW y MINI de L'Hospitalet de Llobregat, Esplugues, Sant Joan Despí, Sant Just Desvern y Sant Boi de Llobregat. Si vienes de más lejos, el acceso es muy sencillo y rápido desde la autovía A-2, la Ronda de Dalt (B-20) o la C-31.",
   "zoneNeighborhoods": [
     "Cornellà Centre",
-    "Riera",
-    "Almeda",
     "La Gavarra",
+    "Almeda",
+    "Riera",
     "Sant Ildefons",
     "Fontsanta-Fatjó",
-    "Pedró",
     "L'Hospitalet de Llobregat",
-    "Sant Boi de Llobregat",
-    "Esplugues de Llobregat"
+    "Sant Joan Despí",
+    "Esplugues de Llobregat",
+    "Sant Boi de Llobregat"
   ],
   "zoneAccessRoutes": [
     "A-2 (Autovía del Nordeste)",
     "B-20 (Ronda de Dalt)",
+    "B-23",
     "C-31 (Autovía de Castelldefels)",
     "C-245"
   ],
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta la normativa ZBE de Barcelona para las reparaciones?",
-      "a": "Sí, totalmente. Sabemos que muchos de nuestros clientes de Cornellà necesitan entrar en Barcelona a diario. Al hacer el mantenimiento o diagnóstico, te informamos si tu coche cumple la normativa y si alguna reparación, como las relacionadas con emisiones (sonda lambda, catalizador, FAP), es crucial para poder seguir circulando sin problemas y obtener la etiqueta ambiental si te corresponde."
+      "q": "Vivo en Sant Joan Despí, ¿me cogéis muy lejos?",
+      "a": "Para nada, estamos muy cerca. Dependiendo de la zona, estás a menos de 10 minutos en coche. Muchos de nuestros clientes son de Sant Joan Despí, Esplugues y L'Hospitalet. El acceso es muy directo y te evitas tener que entrar en el tráfico denso de Barcelona para encontrar un especialista de confianza."
     },
     {
-      "q": "Mi coche diésel hace muchos kilómetros por la A-2 y las rondas, ¿qué mantenimiento especial necesita?",
-      "a": "Un diésel de uso intensivo por autovía requiere atención específica en el sistema de inyección y el filtro de partículas (FAP). Recomendamos usar aditivos de calidad para limpiar inyectores periódicamente y realizar una descarbonización del motor cada ciertos kilómetros para evitar la acumulación de hollín. Un aceite de buena calidad y cambiado a tiempo es fundamental para proteger el turbo, que sufre mucho en estas condiciones."
+      "q": "Mi MINI JCW tiene la ITV pronto, ¿hacéis pre-ITV?",
+      "a": "Sí, claro. Si haces el mantenimiento con nosotros, la revisión pre-ITV es gratuita. Comprobamos los puntos críticos que miran en la inspección: frenos, neumáticos, suspensión, luces y, muy importante en tu JCW, los niveles de emisiones. Así vas a la estación de ITV de Sant Just Desvern o a la de Viladecans con la total tranquilidad de que todo está en orden."
     },
     {
-      "q": "Mi coche duerme en la calle en la zona de la Riera, ¿afecta la humedad del río?",
-      "a": "Sí, a largo plazo puede afectar. La humedad constante puede acelerar la corrosión de partes metálicas como el escape o el chasis y, sobre todo, generar fallos en conexiones eléctricas y centralitas. En las revisiones prestamos especial atención a estos puntos, comprobando el estado de los guardapolvos, aplicando sprays protectores en contactos y verificando que no haya entradas de agua al habitáculo o al motor."
+      "q": "Tengo un aviso de 'propulsión' en mi BMW X3, ¿es grave?",
+      "a": "El aviso de 'fallo en el sistema de propulsión' es genérico y puede deberse a muchas causas, desde algo simple como una bobina de encendido hasta un problema con el turbo o el sistema de inyección. No te asustes. Lo que debes hacer es traérnoslo para que le conectemos el equipo de diagnóstico ISTA. Así identificamos el código de error exacto y te decimos qué es y cuánto cuesta repararlo."
     },
     {
-      "q": "¿Qué es lo más importante a revisar antes de la ITV si uso mucho el coche para trabajar?",
-      "a": "Para un coche de alto kilometraje, además de lo básico (luces, neumáticos), nos centramos en tres puntos críticos que la ITV mira con lupa: emisiones, frenos y holguras. Unos gases de escape altos, una frenada descompensada por el desgaste o silentblocks en mal estado en el eje delantero son causas de rechazo muy comunes en vehículos con mucho trote. Nuestra pre-ITV se enfoca en detectar y solucionar estos puntos."
+      "q": "¿Codificáis funciones como anular el Start-Stop en un MINI F56?",
+      "a": "Sí, realizamos codificaciones y programaciones de módulos. Podemos memorizar el último estado del botón Start-Stop para que no tengas que apagarlo cada vez que arrancas, activar funciones ocultas, codificar una batería nueva, adaptar un módulo de luces (FRM) o casar una nueva llave. Usamos el software oficial para hacerlo de forma segura y sin riesgos para la electrónica de tu coche."
     },
     {
-      "q": "Soy autónomo y uso una furgoneta pequeña, ¿vuestro servicio está adaptado?",
-      "a": "Por supuesto. Entendemos que una furgoneta parada es dinero que no se genera. Damos prioridad a los vehículos de trabajo para que estén el menor tiempo posible inmovilizados. Conocemos los puntos de desgaste típicos de estos vehículos (suspensión reforzada, embrague, frenos) y usamos piezas diseñadas para aguantar un uso profesional. Consulta por nuestro servicio para autónomos de Cornellà."
+      "q": "El concesionario oficial de L'Hospitalet me da cita para dentro de tres semanas, ¿sois más rápidos?",
+      "a": "Normalmente sí. Al ser un taller independiente, nuestra planificación es más ágil. Llámanos o envíanos un WhatsApp y te daremos cita lo antes posible, a menudo en la misma semana. Entendemos que no puedes estar casi un mes sin coche, sobre todo si lo usas a diario para ir a trabajar por la B-20."
     },
     {
-      "q": "¿Cuál es la mejor hora para traer el coche y evitar el tráfico de Cornellà?",
-      "a": "Cornellà tiene horas punta complicadas, especialmente en las entradas y salidas de las rondas. Para evitar el colapso, recomendamos venir a media mañana, entre las 10:00 y las 12:30, o a primera hora de la tarde, sobre las 16:00. Las primeras horas de la mañana (de 8:00 a 9:30) y las últimas de la tarde (a partir de las 18:00) suelen ser las más congestionadas."
+      "q": "Mi MINI duerme en la calle en La Gavarra, ¿es importante revisar la batería?",
+      "a": "Totalmente. Los MINI modernos tienen una electrónica muy exigente y una batería en mal estado puede provocar fallos eléctricos extraños y aparentemente inconexos. Si el coche duerme en la calle, sufre más los cambios de temperatura. Con el ISTA podemos comprobar el estado de salud de la batería y del sistema de carga (IBS) para evitar que te deje tirado."
+    },
+    {
+      "q": "¿Qué aceite usáis para un BMW 320d F30 con muchos kilómetros?",
+      "a": "Para un motor B47 como el de tu 320d, usamos siempre aceite que cumpla estrictamente la normativa de BMW, en este caso la Longlife-04 (LL-04). Solemos trabajar con marcas de primer nivel como Castrol, Motul o Liqui Moly. Poner el aceite correcto es fundamental para la vida del motor, el turbo y el filtro de partículas, especialmente en coches con kilometraje."
+    },
+    {
+      "q": "El tacto del cambio de mi Countryman automático ha empeorado, ¿qué puede ser?",
+      "a": "Podría ser una señal de que el aceite de la caja de cambios necesita un cambio. Aunque BMW dice que es 'de por vida', la experiencia nos dice que realizar el mantenimiento de la caja automática (cambio de aceite y filtro/cárter) cada 80.000-100.000 km es crucial para su durabilidad. Es una operación delicada que hacemos con el equipo adecuado, devolviéndole la suavidad original."
     }
   ],
-  "closingHeadline": "Tu taller de confianza en Cornellà",
-  "closingCta": "Si tu coche es tu herramienta para moverte cada día por el Baix Llobregat, necesitas un taller que lo entienda. Pídenos presupuesto sin compromiso por teléfono o WhatsApp y deja tu coche en manos de profesionales que conocen la realidad de Cornellà."
+  "closingHeadline": "Tu especialista BMW y MINI en Cornellà",
+  "closingCta": "No dejes que una avería te quite el sueño. Pide tu cita por teléfono, WhatsApp o email y te daremos un presupuesto cerrado para tu BMW o MINI en Cornellà de Llobregat. Estás en buenas manos."
 }
