@@ -6,177 +6,185 @@
   "population": 15811,
   "lat": 41.38389,
   "lng": 2.06758,
-  "metaTitle": "Taller mecánico en Sant Just Desvern — Fiabilidad para tu día a día",
-  "metaDescription": "Mantenimiento y reparación para tu coche en Sant Just Desvern. Presupuestos cerrados para conductores que usan el coche a diario. Pide tu cita.",
-  "heroSubtitle": "Para ti, que cada día confías en tu coche para cruzar la B-23, sabemos que una avería no es una opción. Aquí cuidamos tu tranquilidad.",
+  "metaTitle": "Taller BMW y MINI en Sant Just Desvern — Red ISTA · Diagnosis",
+  "metaDescription": "Especialistas en BMW y MINI en Sant Just Desvern. Diagnóstico oficial ISTA, revisiones CBS y mecánica. La alternativa experta al concesionario. Pide cita.",
+  "heroSubtitle": "¿Tu BMW X3 o X5 diésel da problemas de DPF por usarlo solo en trayectos cortos por Sant Just? Entendemos perfectamente por qué pasa y cómo solucionarlo.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Revisión Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Entendemos perfectamente lo que significa depender del coche en Sant Just Desvern. No hablamos de usarlo para un recado ocasional, sino de la rutina diaria de arrancar por la mañana en una calle tranquila de Can Melich o La Miranda para enfrentarse al nudo de la B-23 con la Ronda de Dalt. Conocemos esa sensación de incertidumbre en el carril de incorporación, sabiendo que cualquier ruido extraño del motor o vibración en el volante puede convertirse en un problema mayúsculo que te impida llegar a una reunión importante en Barcelona o volver a casa a una hora decente. Tu coche no es un capricho, es la herramienta que conecta tu vida en este rincón privilegiado al pie de Collserola con tus obligaciones en el área metropolitana. Por eso, nuestro enfoque no es simplemente reparar averías, sino anticiparlas.\n\nEl microclima de Sant Just es particular y castiga la mecánica de formas muy concretas. La humedad que baja de la sierra de Collserola, especialmente por la noche, se combina con una proximidad relativa al mar, creando un ambiente que no es ni el seco del interior ni el salino de primera línea de costa, pero que acelera la corrosión silenciosa en bajos, conductos y terminales eléctricos. Si aparcas habitualmente en la calle, ya sea en el Barri Centre o en zonas más expuestas, tu coche sufre este desgaste constante. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, elementos críticos cuando te encuentras en un atasco en la A-2. En invierno, los cambios bruscos de temperatura afectan a baterías y sistemas de arranque. No son problemas hipotéticos; son las consecuencias directas de vivir y conducir aquí.\n\nTu rutina de conducción es exigente y variada. En un mismo trayecto puedes pasar de las curvas y pendientes de la carretera de la Satalia a la velocidad constante de la autopista, para luego sumergirte en el tráfico denso de la Diagonal. Este cambio continuo de ritmo somete a un estrés enorme a la transmisión, la suspensión y los frenos. No es lo mismo un coche que solo circula por autovía que el tuyo, que debe rendir en subidas, en llano y en paradas y arranques constantes. Un embrague que empieza a patinar o unos amortiguadores que han perdido eficacia no solo son incómodos, sino que comprometen tu seguridad en las rotondas de la N-340 o al maniobrar en los aparcamientos del complejo Walden.\n\nSabemos que el parque móvil de Sant Just Desvern es diverso. Conviven vehículos de alta gama con coches de trabajo fiables, a menudo diésel de entre 5 y 12 años, que acumulan kilómetros a un ritmo elevado. Precisamente estos últimos, los que forman la espina dorsal de la movilidad de tantos profesionales y familias, son los que requieren un mantenimiento más riguroso y honesto. Un filtro de partículas que no regenera bien por la combinación de trayectos cortos y autovía, o un sistema de inyección que necesita una puesta a punto, son el tipo de intervenciones que dominamos. Entendemos que para el autónomo o el comercial que vive aquí, el coche es su oficina y su sustento.\n\nPor todo esto, nuestro servicio en Sant Just va más allá de un simple cambio de aceite. Te ofrecemos un diagnóstico pensado para la fiabilidad a largo plazo. Cuando nos dejas tu coche, no vemos solo una matrícula, vemos tu necesidad de llegar a Sant Joan Despí, a Cornellà o al centro de Barcelona sin sobresaltos. Analizamos el desgaste de los componentes clave pensando en tu tipo de uso, te explicamos con claridad qué necesita tu vehículo para seguir siendo seguro y fiable, y te damos un presupuesto cerrado. Porque tu tranquilidad al volante, cada mañana al coger la B-23, es nuestro principal objetivo.",
-  "servicesIntro": "Ofrecemos un servicio integral para que tu coche responda con fiabilidad a la exigencia de tus trayectos diarios desde Sant Just Desvern.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado antes de iniciar cualquier intervención en tu coche.",
+  "introLocal": "En Sant Just Desvern vemos una paradoja cada día. Tienes un magnífico BMW X3, X5 o un Serie 3 Touring aparcado en tu casa de Mas Lluí o La Miranda, un coche pensado para devorar kilómetros por la AP-7 o disfrutar de las curvas de Collserola, pero la realidad es que tu rutina es otra. Lo usas para llevar a los niños a los colegios de la zona, para bajar a Barcelona por una B-23 casi siempre congestionada o para hacer la compra. Y es ahí, en esos trayectos cortos y repetitivos, donde tu motor diésel B47 o B57, diseñado para ser eficiente en carretera, empieza a sufrir en silencio. De repente, un día, salta el temido aviso en el cuadro: 'Filtro de partículas diésel. Posible continuar la marcha'. Es el coche diciéndote que su sistema anticontaminación está saturado porque nunca llega a la temperatura y tiempo necesarios para limpiarse solo.\n\nEste problema es el pan de cada día para muchos propietarios de BMW diésel en Sant Just. El motor no tiene la culpa, y tú tampoco. Es simplemente la consecuencia de usar una máquina de alto rendimiento para tareas urbanas. Los ciclos de regeneración del DPF no se completan, el hollín se acumula y el sistema AdBlue también puede cristalizar y dar guerra. El resultado es una pérdida de potencia, un aumento del consumo y una avería que, en un concesionario oficial, suele acabar con un presupuesto para cambiar el filtro que asusta a cualquiera. Conocemos esta historia porque la escuchamos constantemente de clientes que vienen del centro de Sant Just, de Can Candeler o incluso de Esplugues y Sant Feliu. Saben que su coche es una maravilla, pero la conducción real del día a día lo está castigando.\n\nPero el DPF es solo la punta del iceberg de los problemas derivados de este tipo de uso. Un motor que no alcanza su temperatura óptima de forma sostenida también sufre en otros componentes. La válvula EGR se llena de carbonilla, el aceite se degrada antes y la batería, especialmente en los modelos Mild Hybrid más recientes, no recibe la carga completa que necesita, lo que acorta su vida útil. Tu BMW está diseñado para estirar las piernas en la C-32 camino a Sitges, no para un constante arranque y parada en el núcleo urbano. En nuestro taller, no nos limitamos a 'borrar el fallo'; conectamos tu coche a nuestro equipo de diagnóstico oficial ISTA, el mismo que usan en Alemania, para entender el patrón de uso y ofrecerte una solución real y duradera. A veces, una regeneración forzada y una limpieza profesional son suficientes. Otras, hay que revisar sensores o el sistema de inyección de AdBlue.\n\nEntender esta realidad local es lo que nos diferencia. Somos un taller independiente especializado en BMW y MINI, homologado por Red ISTA, lo que significa que tenemos acceso directo a la información técnica y al software de diagnóstico de la marca. No somos el concesionario oficial de Sant Boi, no tenemos su estructura de costes ni sus protocolos rígidos. Somos mecánicos apasionados por la marca que te hablamos claro. Te explicaremos por qué tu X5 B57 está teniendo esos problemas y qué puedes hacer para mitigarlos en el futuro, más allá de la propia reparación. Te ofrecemos la misma precisión técnica, pero con la cercanía y la transparencia de un taller de confianza.\n\nDesde una revisión oficial CBS para tu MINI Cooper B38 que se mueve por el centro, manteniendo la garantía y sellando el libro digital, hasta una reparación compleja de la caja de transferencia xDrive en un X3 que sube y baja las cuestas de Bellsoleig, o una codificación de un nuevo módulo de luces. Nuestro compromiso es darte un servicio de nivel de concesionario a un precio justo y con un presupuesto cerrado. Porque sabemos que quieres lo mejor para tu coche, pero sin sentir que te toman el pelo. Aquí, tu BMW o MINI está en manos de gente que no solo conoce la teoría, sino la práctica de conducirlo en Sant Just Desvern.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Sant Just, con la misma tecnología de diagnóstico que en un concesionario oficial.",
+  "processIntro": "Trabajamos con total transparencia. Este es nuestro proceso en 5 pasos para que sepas qué le pasa a tu coche y cuánto te costará, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico inicial",
-      "body": "Cuando tu coche llega a nuestro taller en la zona de Sant Just, realizamos una inspección completa y conectamos nuestros equipos de diagnosis para identificar con precisión el origen de cualquier problema, escuchando siempre tu descripción de los síntomas."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin letra pequeña. Te lo enviamos por el canal que prefieras (WhatsApp, email) para que lo revises con calma. El importe que ves es el que pagarás, sin sorpresas."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y te lo enviamos para tu revisión."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni empezamos ninguna reparación hasta que nos das tu confirmación explícita. Tienes el control total y el tiempo para decidir. Si algo no está claro, te lo explicamos las veces que haga falta."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK por escrito. Si durante la reparación aparece algo adicional, paramos, te llamamos con fotos o vídeos y te explicamos antes de continuar."
     },
     {
-      "title": "Reparación y Calidad",
-      "body": "Procedemos con la reparación utilizando recambios de primeras marcas y siguiendo las especificaciones del fabricante. Todas nuestras intervenciones cuentan con garantía para que conduzcas con total confianza y seguridad por las carreteras de Barcelona."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE (Bosch, ZF, Mahle) o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, nos ponemos en contacto para asegurarnos de que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos del cuadro con ISTA, actualizamos el libro de mantenimiento digital en los servidores de BMW y te entregamos el coche listo para rodar. Hacemos un seguimiento posterior."
     }
   ],
-  "commonIssuesIntro": "La combinación de humedad de Collserola, el uso intensivo para ir a Barcelona y las cuestas de Sant Just provoca una serie de problemas recurrentes que conocemos bien.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que vemos en los BMW y MINI que llegan a nuestro taller en la zona de Sant Just, muchos de ellos relacionados con el tipo de conducción local y el clima mediterráneo.",
   "commonIssues": [
     {
-      "title": "Desgaste acelerado de frenos y embrague",
-      "body": "El ciclo diario de arrancar en las pendientes de zonas como Mas Lluí, circular por el núcleo urbano y luego enfrentarse al tráfico denso de la B-23 o las Rondas, somete a los frenos y al embrague a un estrés continuo. Detectamos el desgaste prematuro y utilizamos componentes reforzados para aumentar su durabilidad y tu seguridad."
+      "title": "DPF y AdBlue en motores diésel",
+      "body": "Es el fallo estrella en Sant Just. Los trayectos cortos para ir a Barcelona por la B-23 o moverse por el pueblo impiden la regeneración del filtro de partículas en motores B47/B57. Con ISTA, diagnosticamos el nivel de saturación, forzamos regeneraciones y limpiamos el sistema para evitar el costoso cambio del DPF."
     },
     {
-      "title": "Averías en el sistema de climatización",
-      "body": "La alta humedad ambiental de Sant Just fuerza al compresor del aire acondicionado a trabajar más de la cuenta, especialmente en los veranos calurosos y en los atascos. Realizamos revisiones preventivas del circuito, el gas y los filtros para garantizar que el sistema no te falle cuando más lo necesitas, evitando costosas reparaciones."
+      "title": "Cadena de distribución N47 y B47",
+      "body": "Un clásico que sigue dando guerra. El famoso 'seseo' metálico del motor N47 (y en menor medida en los B47 iniciales) es una señal de alerta. Hacemos la sustitución del kit completo (cadenas, patines, tensores) con calado de distribución profesional para evitar una rotura de motor catastrófica."
     },
     {
-      "title": "Fallos eléctricos por humedad",
-      "body": "La condensación nocturna, característica del clima al pie de Collserola, se filtra en conexiones, sensores y centralitas, provocando fallos intermitentes difíciles de diagnosticar. Estamos especializados en localizar y sellar estos puntos vulnerables, protegiendo la electrónica de tu coche y evitando averías inesperadas."
+      "title": "Suspensión neumática en modelos X",
+      "body": "Los BMW X5 y X7 que vemos por la zona de La Miranda o Mas Lluí a menudo sufren de la suspensión neumática. Si por la mañana encuentras el coche 'caído' de un lado, es un síntoma claro. Diagnosticamos fugas en las balonas o fallos en el compresor, una reparación mucho más asequible que en el servicio oficial."
     },
     {
-      "title": "Saturación del filtro de partículas (FAP/DPF)",
-      "body": "Si combinas trayectos cortos dentro de Sant Just con el uso en autovía para ir a trabajar, es probable que el motor diésel no alcance la temperatura óptima para regenerar el filtro de partículas. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para mantener el sistema en perfecto estado."
+      "title": "Fugas de aceite (junta tapa balancines y OFHG)",
+      "body": "El calor del verano y los cambios de temperatura del clima mediterráneo resecan las juntas. La fuga por la junta de la tapa de balancines o la del soporte del filtro de aceite (OFHG) es muy común. Es una reparación sencilla si se coge a tiempo, pero si se deja, puede causar problemas mayores."
     },
     {
-      "title": "Desajustes en suspensión y dirección",
-      "body": "Las calles de Sant Just combinan rotondas, badenes y tramos de curvas con las vías rápidas como la A-2. Esta mezcla de condiciones desgasta silentblocks, amortiguadores y rótulas de dirección. Una alineación precisa y una revisión de la suspensión son claves para la seguridad y el confort en tus trayectos."
+      "title": "Fallos en la caja de transferencia xDrive",
+      "body": "El sistema de tracción total xDrive es excelente, pero requiere su mantenimiento. El uso de neumáticos con distinto desgaste o no cambiar nunca el aceite de la caja de transferencia (BMW dice que es 'de por vida') provoca tirones y averías. Con ISTA, hacemos el diagnóstico y el cambio de aceite con el reseteo de adaptaciones."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en uso intensivo",
-      "body": "Entendemos tu coche no como un objeto, sino como una herramienta de trabajo. Nuestro mantenimiento está enfocado en la máxima fiabilidad para quien hace más de 50 km al día."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el software oficial BMW ISTA. No interpretamos códigos genéricos, leemos directamente lo que dice cada módulo de tu coche. Precisión total para encontrar la avería a la primera."
     },
     {
-      "title": "Diagnóstico honesto y claro",
-      "body": "Te explicamos la avería sin tecnicismos y te detallamos por qué una reparación es necesaria. Priorizamos lo urgente sobre lo accesorio para que tomes la mejor decisión."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo tocamos BMW y MINI. Conocemos los puntos débiles de cada motor, desde un N47 diésel a un B58 de gasolina, y sabemos dónde mirar. Esta especialización te ahorra tiempo y dinero."
     },
     {
-      "title": "Cita previa y puntualidad",
-      "body": "Sabemos que tu tiempo es limitado. Gestionamos nuestra agenda para cumplir con los plazos de entrega acordados y que puedas organizar tu semana sin contratiempos."
-    },
-    {
-      "title": "Gestión integral Pre-ITV",
-      "body": "Nos encargamos de la revisión Pre-ITV para que la pases sin problemas en las estaciones cercanas, como la de Sant Joan Despí o Cornellà, ahorrándote tiempo y posibles rechazos."
+      "title": "Entendemos tu realidad local",
+      "body": "Sabemos lo que implica conducir en Sant Just, las cuestas de sus barrios, los atascos de la B-23. Adaptamos nuestro diagnóstico y recomendaciones a tu uso real, no a un manual genérico."
     },
     {
       "title": "Presupuestos sin sorpresas",
-      "body": "El presupuesto que te damos es el precio final. Si durante la reparación surgiera un imprevisto, paramos el trabajo y contactamos contigo. Nunca habrá un coste que no hayas autorizado previamente."
+      "body": "El precio que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos. La transparencia es la base de la confianza y nuestro principal valor."
+    },
+    {
+      "title": "Tú decides el recambio",
+      "body": "Te ofrecemos la opción de montar recambio original BMW o recambio de calidad OE (fabricantes como Bosch, ZF, Mahle, que suministran a BMW). Misma calidad, mejor precio. La elección es tuya."
     }
   ],
-  "testimonialsIntro": "Estas son algunas experiencias representativas de conductores de Sant Just Desvern que, como tú, necesitan que su coche funcione siempre a la perfección.",
+  "testimonialsIntro": "No podemos usar testimonios reales, pero estas son situaciones típicas que hemos resuelto y que reflejan la experiencia de nuestros clientes en Sant Just.",
   "testimonials": [
     {
-      "name": "Jordi",
-      "neighborhood": "Barri Centre",
-      "car": "Volkswagen Passat TDI 2016",
-      "body": "Hago cada día el trayecto hasta el 22@. El coche empezó a dar tirones en la Ronda Litoral. Aquí encontraron un problema en un inyector que otros no habían visto. Me dieron un presupuesto cerrado, lo cumplieron y el coche va más fino que nunca. Profesionalidad y seriedad, que es lo que necesito.",
+      "name": "Joan",
+      "neighborhood": "Mas Lluí",
+      "car": "BMW X3 xDrive20d G01 2019",
+      "body": "Me saltó el aviso del DPF. En el concesionario ya me hablaban de cambiarlo, una pasta. Vine aquí por recomendación. Le conectaron el ordenador, me explicaron que era por los trayectos cortos al trabajo en Sant Joan Despí y me hicieron una regeneración forzada. Problema resuelto por mucho menos. Muy honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Centre",
+      "car": "MINI Cooper S F56 2018",
+      "body": "Tenía un fallo eléctrico que aparecía y desaparecía, una locura. Nadie daba con ello. Aquí se tomaron el tiempo, conectaron la máquina oficial y vieron que era un módulo que fallaba de forma intermitente. Lo cambiaron, lo codificaron y el coche va perfecto. Se nota que controlan de electrónica.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Can Candeler",
+      "car": "BMW 530e G30 2020",
+      "body": "Le tocaba la revisión CBS y no quería pasar por el aro del servicio oficial. El trato fue súper profesional, usaron el aceite que toca (LL-04), me sellaron el libro digital y todo perfecto. Me ahorré un buen pico y el coche va finísimo. Volveré sin duda para los neumáticos.",
       "rating": 5
     },
     {
       "name": "Anna",
-      "neighborhood": "La Miranda",
-      "car": "Peugeot 3008 2018",
-      "body": "Con las cuestas para subir a casa, los frenos me duran muy poco. Estaba harta de cambiarlos cada año. Me recomendaron unos discos y pastillas de mejor calidad y, de momento, el resultado es excelente. Se nota que entienden el tipo de conducción que hacemos por esta zona. Muy satisfecha.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Can Melich",
-      "car": "Audi A4 Avant 2015",
-      "body": "Soy comercial y no puedo permitirme un fallo. Les pedí una revisión completa antes de un viaje largo y fueron muy exhaustivos. Detectaron un manguito del turbo que estaba a punto de romperse. Me ahorraron una avería segura en plena AP-7. Su enfoque preventivo es lo que más valoro.",
-      "rating": 5
-    },
-    {
-      "name": "Mireia",
-      "neighborhood": "Mas Lluí",
-      "car": "Ford Focus 2014",
-      "body": "Tenía que pasar la ITV y siempre me pone nerviosa. Les dejé el coche para la pre-ITV, se encargaron de todo y la pasó a la primera. Me explicaron muy bien un par de cosas que habría que mirar en el futuro, pero sin agobiar. La comunicación fue muy fluida y el precio, el acordado.",
+      "neighborhood": "Sant Feliu de Llobregat",
+      "car": "BMW 118d F20 2016",
+      "body": "Escuchaba un ruidito metálico y me temía lo peor con la cadena del N47. Les pedí que le echaran un ojo. Lo revisaron a fondo y me dijeron que de momento no había que preocuparse, pero que lo vigiláramos en la siguiente revisión. Podrían haberme dicho de cambiarla, pero fueron sinceros. Así da gusto.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio principalmente a conductores de Sant Just Desvern, desde el núcleo histórico del Barri Centre hasta las zonas residenciales de La Miranda, Can Melich o el sector de Mas Lluí. Nuestra ubicación nos permite atender con agilidad a clientes de municipios colindantes que utilizan las mismas vías para sus desplazamientos diarios, como Esplugues de Llobregat, Sant Joan Despí y Sant Feliu de Llobregat. Si tu rutina te lleva cada día por la B-23 para entrar a Barcelona, por la A-2 en dirección a Martorell o utilizas la N-340 como eje de comunicación, estamos en tu camino. Somos el taller de confianza para quienes viven o trabajan en esta área del Baix Llobregat y necesitan una respuesta rápida y profesional.",
+  "zoneText": "Nuestro taller da servicio principalmente a propietarios de BMW y MINI de Sant Just Desvern y sus barrios como el Centre, Mas Lluí, La Miranda o Can Candeler. Por nuestra ubicación y facilidad de acceso, también somos el taller de referencia para muchos clientes de municipios colindantes como Esplugues de Llobregat, Sant Joan Despí y Sant Feliu de Llobregat. Estamos muy bien comunicados, con acceso rápido desde la autopista B-23, lo que permite llegar fácilmente desde la Ronda de Dalt (B-20) o la AP-2. Si vives o trabajas en el Baix Llobregat y buscas un especialista para tu BMW que no sea el concesionario oficial, estamos a tu disposición.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Can Melich",
-    "La Miranda",
+    "Sant Just Desvern Centre",
     "Mas Lluí",
+    "La Miranda-Can Candeler",
     "Barri Nord",
     "Barri Sud",
     "Esplugues de Llobregat",
     "Sant Joan Despí",
-    "Sant Feliu de Llobregat"
+    "Sant Feliu de Llobregat",
+    "La Plana",
+    "Bellsoleig"
   ],
   "zoneAccessRoutes": [
     "B-23",
-    "A-2",
-    "N-340",
     "AP-2",
-    "Ronda de Dalt (B-20)"
+    "B-20 (Ronda de Dalt)",
+    "N-340"
   ],
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta que uso el coche para ir a Barcelona a diario al hacer la revisión?",
-      "a": "Totalmente. Nuestro protocolo de revisión para clientes de Sant Just pone un énfasis especial en los puntos que más sufren con ese uso: frenos, embrague, neumáticos, suspensión y sistema de refrigeración. No es una revisión genérica; la adaptamos a la realidad de un conductor que se enfrenta a la B-23 y al tráfico urbano de Barcelona cada día, buscando la máxima fiabilidad."
+      "q": "Mi BMW X5 diésel solo lo uso por Sant Just y me salta el aviso del filtro de partículas, ¿tengo que cambiarlo?",
+      "a": "En la mayoría de los casos, no. Este aviso es muy común en coches de alta cilindrada que hacen trayectos cortos. Antes de plantear el cambio del DPF, que es muy costoso, usamos el diagnóstico ISTA para ver el nivel real de saturación. Generalmente, una regeneración forzada en el taller y una limpieza química del sistema solucionan el problema por una fracción del coste. También te daremos consejos para evitar que vuelva a pasar."
     },
     {
-      "q": "Mi coche duerme en la calle en La Miranda, ¿debo preocuparme por la humedad de Collserola?",
-      "a": "Sí, es un factor a considerar. Esa humedad constante, aunque no lo parezca, puede afectar a largo plazo a las conexiones eléctricas, provocar óxido en los bajos o en el escape y afectar a los sensores. En nuestras revisiones, prestamos atención a estos puntos, aplicando protectores dieléctricos y revisando el estado de los componentes más expuestos para prevenir averías futuras."
+      "q": "Soy de Esplugues, ¿vale la pena que os traiga mi MINI para la revisión?",
+      "a": "Totalmente. Estamos a pocos minutos de Esplugues y muchos de nuestros clientes son de allí. Hacemos la revisión oficial CBS siguiendo el plan de mantenimiento de MINI, usamos aceite homologado y sellamos el libro de servicio digital. No pierdes la garantía y te beneficias de un precio más competitivo y un trato más cercano que en el servicio oficial."
     },
     {
-      "q": "Si la reparación lleva más de un día, ¿tenéis coche de sustitución?",
-      "a": "Sí, disponemos de coches de cortesía para nuestros clientes de Sant Just. Sabemos que no puedes quedarte sin vehículo, especialmente si lo necesitas para trabajar. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para poder garantizar que tengas uno reservado y tu rutina no se vea afectada."
+      "q": "Vivo en La Miranda y las calles son muy empinadas. ¿Debo revisar más a menudo mi xDrive?",
+      "a": "Es una buena pregunta. Las pendientes y el maniobrar constante en garajes complicados pueden someter a un estrés extra a la caja de transferencia y los diferenciales. No es necesario que acortes los intervalos de revisión, pero sí es crucial no descuidar el mantenimiento del sistema xDrive. Recomendamos cambiar el aceite de la caja de transferencia cada 80.000-100.000 km, aunque la marca no lo especifique, para garantizar su longevidad."
     },
     {
-      "q": "Paso la ITV en la estación de Sant Joan Despí, ¿vuestra Pre-ITV lo tiene en cuenta?",
-      "a": "Por supuesto. Conocemos los puntos de control y los criterios de las estaciones de ITV de nuestra zona, como la de Sant Joan Despí o la de Cornellà. Nuestra revisión Pre-ITV es exhaustiva y se centra en los elementos que suelen generar más rechazos (emisiones, frenos, neumáticos, luces y holguras), asegurando que tu coche llegue preparado para superarla a la primera."
+      "q": "Tengo un BMW de renting a través de una empresa local. ¿Puedo pasar las revisiones con vosotros?",
+      "a": "Sí, trabajamos con la mayoría de las compañías de renting. Solo tienes que solicitar a tu gestora de flota que autorice la reparación o el mantenimiento en nuestro taller. Nos encargamos de toda la gestión con ellos para que no tengas que preocuparte de nada."
     },
     {
-      "q": "El coche diésel me da tirones a bajas revoluciones, ¿puede ser por el tráfico de la zona?",
-      "a": "Es muy probable. La combinación de trayectos cortos por Sant Just y los atascos en los accesos a Barcelona es el escenario perfecto para la acumulación de carbonilla en la válvula EGR y el filtro de partículas. Estos tirones son un síntoma clásico. Podemos realizar un diagnóstico preciso y una descarbonización del sistema para que el motor recupere su suavidad y eficiencia."
+      "q": "Para pasar la ITV en el centro de Sant Joan Despí, ¿hacéis una revisión pre-ITV?",
+      "a": "Sí, ofrecemos un servicio de pre-ITV gratuito con cualquier mantenimiento o revisión. Comprobamos los puntos clave que miran en la inspección (luces, frenos, neumáticos, emisiones, holguras) para que vayas con la total tranquilidad de que tu BMW o MINI la pasará sin problemas. Si detectamos algo, te damos un presupuesto sin compromiso."
     },
     {
-      "q": "Mi coche ya no está en garantía oficial, ¿puedo traerlo para el mantenimiento?",
-      "a": "Claro que sí. De hecho, somos la alternativa lógica al concesionario oficial una vez ha expirado la garantía. Seguimos el plan de mantenimiento recomendado por el fabricante, sellamos el libro de revisiones y utilizamos recambios de calidad equivalente o superior, ofreciéndote un servicio profesional y detallado a un precio más competitivo."
+      "q": "Si os hago la revisión oficial CBS, ¿cómo sé que queda registrada para la garantía?",
+      "a": "Al realizar la revisión, conectamos tu coche a los servidores de BMW AG en Alemania a través de nuestro sistema ISTA. Registramos la intervención en el historial de servicio digital del vehículo, exactamente igual que lo haría un concesionario. Este registro es oficial y totalmente válido para mantener la garantía del fabricante."
+    },
+    {
+      "q": "He visto un BMW de segunda mano en un compraventa de la zona. ¿Podéis hacerle una revisión antes de comprarlo?",
+      "a": "Claro, es un servicio muy recomendable. Podemos hacer una inspección pre-compra completa, conectando el diagnóstico oficial ISTA para detectar averías ocultas, comprobar el historial de kilometraje almacenado en los distintos módulos y revisar los puntos mecánicos clave. Es una pequeña inversión que puede ahorrarte miles de euros y muchos disgustos."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Sant Just Desvern",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y cuéntanos qué necesita tu coche. Estamos en Sant Just para ayudarte a que tu día a día sobre ruedas sea más fácil y seguro."
+  "closingHeadline": "Tu especialista BMW y MINI en Sant Just Desvern",
+  "closingCta": "Deja tu coche en manos de expertos que entienden tanto de su mecánica como de las carreteras por las que te mueves. Pide tu presupuesto cerrado o reserva tu cita en nuestro taller de Sant Just."
 }
