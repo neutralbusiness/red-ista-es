@@ -6,179 +6,187 @@
   "population": 26401,
   "lat": 41.44659,
   "lng": 1.97187,
-  "metaTitle": "Taller mecánico en Sant Andreu de la Barca | Presupuesto cerrado",
-  "metaDescription": "Reparamos tu coche en Sant Andreu de la Barca con un presupuesto cerrado. Se acabaron las sorpresas. Expertos en averías, revisiones, ITV y neumáticos.",
-  "heroSubtitle": "¿Cansado de facturas que crecen solas y explicaciones que no entiendes? Aquí hablamos claro y el precio que te damos, es el que pagas.",
+  "metaTitle": "Taller Especialista BMW y MINI en Sant Andreu de la Barca | Red ISTA",
+  "metaDescription": "Mantenimiento y reparación para tu BMW o MINI con +100.000 km en Sant Andreu de la Barca. Diagnóstico oficial ISTA. Pide presupuesto cerrado.",
+  "heroSubtitle": "Tu BMW ha superado los 100.000 km. Es hora de un mantenimiento especializado que proteja tu inversión, sin los costes de un concesionario oficial.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Sabemos lo que es vivir en Sant Andreu de la Barca. No es solo un código postal cerca de Barcelona; es el día a día de coger el coche para ir a trabajar a Martorell, al polígono El Pla o bajar a la ciudad por una A-2 que a primera hora ya es una prueba de paciencia. Es saber que tu coche no es un lujo, es la herramienta que te permite moverte. Entendemos ese mosqueo que se te queda cuando, después de dejar el coche en un taller por un ruido raro, la factura final no se parece en nada a lo que te dijeron al principio. Esa sensación de 'me la han vuelto a colar' es justo lo que queremos evitar. Porque tu coche, ya sea un diésel con sus años que sube y baja a diario o un gasolina más nuevo para los fines de semana, se merece un trato honesto, sin letra pequeña y sin sorpresas de última hora.\n\nAquí la geografía manda. Las cuestas para subir a barrios como Can Sunyer o Can Julià, o la carretera de Corbera, no perdonan. Castigan los embragues, calientan los frenos y fuerzan las cajas de cambio automáticas. Lo vemos a diario. Coches que 'cantan' al reducir o que tienen el pedal de freno más blando de la cuenta. No es una casualidad, es el peaje que pagamos por vivir en un entorno tan privilegiado pero exigente con la mecánica. Por eso, cuando nos llega un coche de la zona, no solo escuchamos el motor; miramos el desgaste de los discos de freno, comprobamos la respuesta del embrague y le echamos un ojo a la suspensión. Sabemos por dónde te mueves y qué componentes van a dar guerra antes de tiempo. No se trata de adivinar, se trata de conocer el terreno que pisas cada día.\n\nLuego está nuestro microclima particular. La proximidad del Llobregat nos regala una humedad que, sobre todo en invierno, se traduce en esa 'boira' tan característica que se pega a todo. Esta humedad no es amiga de la electrónica de tu coche. Provoca fallos en sensores, problemas de arranque en frío y acelera el desgaste de las baterías. ¿Te ha pasado que una mañana el coche decide no arrancar sin motivo aparente? Muchas veces, la culpa la tiene una batería que ha dicho basta por el frío y la humedad. O esas luces del cuadro que se encienden y apagan como una fiesta. Somos conscientes de estos problemas endémicos de la zona y nuestro diagnóstico siempre tiene en cuenta el factor ambiental. No es lo mismo un coche que duerme en garaje en el centro de Sant Andreu que uno que pasa la noche a la intemperie en La Colònia del Palau.\n\nEl parque móvil de Sant Andreu y de todo el Baix Llobregat tiene una personalidad muy marcada por la influencia de la factoría de Martorell. Hay muchos coches del grupo VAG (SEAT, Volkswagen, Audi, Skoda) en nuestras calles. Los conocemos bien. Sabemos sus puntos fuertes y también esos pequeños achaques que suelen aparecer cuando ya han pasado la garantía oficial. Entendemos perfectamente al propietario de un León FR o un Ibiza que, pasados los cuatro o cinco años, busca una alternativa de confianza al concesionario oficial. Alguien que haga el mantenimiento como es debido, que sepa dónde mirar cuando algo falla y que no le cobre cada tornillo a precio de oro. Aquí encontrarás esa profesionalidad, pero con la cercanía y la transparencia que, seguramente, has echado de menos en otros sitios.",
-  "servicesIntro": "Desde la revisión anual para quedarte tranquilo hasta esa avería compleja que no te deja dormir, cubrimos todas las necesidades de tu coche en Sant Andreu de la Barca.",
-  "processIntro": "Se acabaron las dudas y la desconfianza. Nuestro proceso está diseñado para que sepas qué le pasa a tu coche, cuánto cuesta y solo pagues cuando des tu visto bueno.",
+  "introLocal": "Conducir tu BMW o MINI cada día por la A-2 desde Sant Andreu de la Barca, sorteando el tráfico hacia Barcelona o Martorell, es una prueba de resistencia. Superar la barrera de los 100.000 o 150.000 kilómetros no es solo una cifra en el cuadro; es el punto en que el mantenimiento preventivo deja de ser una opción para convertirse en una necesidad crítica. Es el momento en que un motor como el N47 o el B47 diésel, tan común en los Serie 3 y X1 que vemos aparcados en barrios como El Palau o La Colònia del Palau, empieza a pedir atención en su cadena de distribución. O cuando la suavidad de la caja de cambios ZF 8HP de tu X3, tras miles de kilómetros por la AP-7, depende de un mantenimiento que a menudo el servicio oficial omite.\n\nAquí, en el Baix Llobregat, conocemos esa dualidad. La satisfacción de conducir un vehículo premium y la inquietud que genera un presupuesto de reparación del concesionario oficial, por ejemplo el de Sant Boi. Cuando tu BMW sale del periodo de garantía principal, la pregunta es inevitable: ¿dónde encontrar un servicio con el mismo nivel de competencia técnica y diagnóstico oficial, pero con una estructura de costes lógica y transparente? La respuesta no está en un taller genérico que no distingue un sistema Vanos de uno Valvetronic, ni en pagar la infraestructura de un concesionario para una operación que requiere especialización, no un showroom de mármol. La respuesta es un centro homologado por Red ISTA, una alternativa real en Sant Andreu de la Barca.\n\nNuestro centro forma parte de redista.com, una red nacional de talleres independientes especializados exclusivamente en BMW y MINI. No somos un concesionario, y eso es precisamente nuestra ventaja. Contamos con el mismo equipo de diagnóstico oficial ISTA/Rheingold que ellos, conectado en tiempo real a los servidores de BMW AG en Múnich. Esto nos permite realizar diagnósticos exactos, codificar módulos (DME, DDE, EGS), registrar el historial de mantenimiento digital y programar llaves con total precisión. La diferencia fundamental reside en nuestra estructura, más ágil y centrada únicamente en el servicio técnico, lo que nos permite ofrecerte presupuestos cerrados y considerablemente más ajustados.\n\nEl clima del Vallès-Baix Llobregat, con veranos calurosos que ponen a prueba los sistemas de refrigeración y una humedad que puede afectar a la electrónica a largo plazo, requiere un conocimiento específico. Entendemos cómo el uso diario de un MINI Cooper S por las calles del centro de Sant Andreu o los trayectos cortos hasta el polígono industrial afectan al motor B48, o cómo el filtro de partículas de un 520d puede sufrir en los atascos de la N-IIa. Por eso, no solo reparamos averías; nos anticipamos a ellas. Utilizamos recambios de calidad OE (Original Equipment) de fabricantes como Bosch, Mahle, ZF o Lemförder, los mismos que suministran a la línea de montaje de BMW, ofreciéndote la misma calidad sin el sobrecoste del embalaje original.\n\nPara el propietario de un BMW o MINI con un kilometraje respetable, la confianza es clave. Confianza en que la cadena de distribución de tu N57 no será un problema latente. Confianza en que la revisión del sistema de suspensión neumática de tu X5 se hará siguiendo el protocolo. Confianza en que, al recoger tu coche, el aviso de servicio CBS estará correctamente reseteado y el historial digital, actualizado. En nuestro taller de Sant Andreu de la Barca, esa confianza se construye con cada diagnóstico preciso, cada presupuesto transparente y cada reparación ejecutada con el rigor que tu vehículo merece. Somos tu especialista BMW y MINI en el corazón del Baix Llobregat.",
+  "servicesIntro": "Ofrecemos un catálogo completo de servicios para tu BMW o MINI, desde revisiones CBS hasta complejas reparaciones de motor y electrónica en Sant Andreu de la Barca.",
+  "processIntro": "Trabajamos con un método claro y transparente en 5 pasos para que siempre sepas qué se le hace a tu coche y por qué. Tu tranquilidad es nuestra prioridad.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos el coche a nuestros equipos. Buscamos la causa real del problema, no solo el síntoma. Te explicamos qué hemos encontrado en un lenguaje que entiendes, sin tecnicismos innecesarios."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. Es un precio final, sin asteriscos ni sorpresas. Lo que lees es lo que será. Si algo cambiara, te lo consultaríamos antes."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas en la factura final."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Tienes el control total. Puedes tomarte tu tiempo para decidir y, si tienes dudas, nos llamas y las resolvemos."
+      "title": "Tu autorización expresa",
+      "body": "No se realiza ninguna intervención en tu vehículo sin tu aprobación explícita. Si durante la reparación surge un imprevisto, detenemos el proceso, te contactamos y te explicamos las alternativas."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas, con la misma o superior calidad que los originales, y te informamos de los plazos. Todas nuestras reparaciones tienen garantía por ley, para tu total tranquilidad."
+      "title": "Reparación especializada",
+      "body": "Nuestros técnicos siguen los protocolos de BMW, utilizando recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos herramienta específica para la marca."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche esté listo. Al recogerlo, te explicamos la intervención realizada y te entregamos las piezas sustituidas si quieres. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS, actualizamos el libro de mantenimiento digital en los servidores de BMW y realizamos una prueba de carretera si es necesario. Tu coche, listo y documentado."
     }
   ],
-  "commonIssuesIntro": "Las cuestas, la humedad del río Llobregat y el trote diario por la A-2 provocan un desgaste muy particular en los coches de Sant Andreu. Estos son los problemas que más vemos.",
+  "commonIssuesIntro": "En Sant Andreu de la Barca, vemos cómo el uso diario y el kilometraje elevado manifiestan problemas recurrentes en BMW y MINI, para los que tenemos soluciones probadas y eficaces.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "Las subidas y bajadas constantes de zonas como Can Sunyer o para ir hacia Corbera castigan mucho la transmisión y los frenos. Si notas que el embrague patina o que el coche tarda más en frenar, no lo dejes pasar. Es un problema de seguridad típico de nuestra orografía y lo solucionamos ajustando o sustituyendo los componentes con piezas reforzadas."
+      "title": "Cadena de distribución N47/B47",
+      "body": "El uso intensivo en la A-2 y los arranques frecuentes en frío acortan la vida de los tensores. Para los propietarios de Serie 1, 3 o X3 en Sant Andreu y alrededores, ofrecemos el cambio preventivo del kit completo de distribución (cadenas, patines y tensores) con recambio OE, evitando una avería de motor catastrófica y costosa."
     },
     {
-      "title": "Problemas de suspensión y neumáticos",
-      "body": "El paso diario por los polígonos industriales de la zona, junto con los kilómetros en una A-2 a menudo congestionada, pasa factura a amortiguadores y silentblocks. Un coche que 'flanea' o un desgaste irregular de los neumáticos son síntomas claros. Hacemos una revisión completa y alineado para que ruedes seguro y cómodo."
+      "title": "Mantenimiento de caja de cambios ZF 8HP",
+      "body": "Después de 120.000 km de tráfico mixto entre la ciudad y las rondas, el aceite de la caja automática pierde propiedades. Realizamos el mantenimiento por diálisis, sustituyendo el aceite ATF, el filtro (cárter) y los conectores, devolviendo la suavidad original y previniendo fallos en la mecatrónica, una reparación mucho más cara."
     },
     {
-      "title": "Fallos eléctricos por humedad",
-      "body": "La niebla y la humedad que sube del Llobregat en otoño e invierno se filtran en conexiones y centralitas. Esto provoca desde baterías que mueren sin avisar hasta fallos en sensores del motor o el ABS. Nuestro diagnóstico electrónico localiza estos fallos 'fantasma' para dar con una solución definitiva."
+      "title": "Fugas de aceite por juntas resecas",
+      "body": "El calor del verano en el Baix Llobregat acelera el envejecimiento de las juntas de la tapa de balancines y del soporte del filtro de aceite. Detectamos y solucionamos estas fugas, que parecen menores pero pueden causar averías graves si el aceite cae sobre el alternador o las correas."
     },
     {
-      "title": "Sobrecalentamiento en atascos de verano",
-      "body": "Quedarse parado en la A-2 en pleno julio con el aire acondicionado puesto es la prueba de fuego para cualquier sistema de refrigeración. Termostatos, radiadores y electroventiladores sufren muchísimo. Hacemos limpiezas del circuito y comprobaciones para evitarte el disgusto de ver salir humo del capó."
+      "title": "Saturación del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos dentro de Sant Andreu de la Barca o los atascos para entrar a Barcelona impiden que el DPF regenere correctamente. Con nuestro equipo ISTA, forzamos la regeneración o realizamos una limpieza profesional, evitando la costosa sustitución del filtro y manteniendo las emisiones a raya para la ITV."
     },
     {
-      "title": "Filtros de partículas (FAP/DPF) saturados",
-      "body": "Muchos diésel hacen trayectos cortos dentro de Sant Andreu o sufren los atascos de la autovía, impidiendo que el filtro se regenere correctamente. Esto provoca pérdida de potencia y averías caras. Contamos con sistemas de limpieza y regeneración forzada para devolverle la vida a tu FAP."
+      "title": "Averías en el sistema Vanos/Valvetronic",
+      "body": "Los motores de gasolina (N20, B48, B58) requieren un aceite de calidad y un mantenimiento riguroso para que su distribución variable funcione correctamente. Diagnosticamos fallos en los solenoides del Vanos o problemas en el motor del Valvetronic, recuperando la respuesta y eficiencia originales de tu motor."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos, te llamamos y tú decides. Se acabó el miedo a la factura final."
+      "title": "Diagnóstico de nivel oficial",
+      "body": "Utilizamos la misma plataforma ISTA que el concesionario. No adivinamos: identificamos el origen exacto del problema, ahorrándote tiempo y dinero en reparaciones innecesarias."
     },
     {
-      "title": "Conocemos los coches de aquí",
-      "body": "La influencia de Martorell es innegable. Estamos más que acostumbrados a trabajar con SEAT, VW, Audi y Skoda, conociendo sus particularidades y puntos débiles."
+      "title": "Especialización exclusiva",
+      "body": "Solo trabajamos con BMW y MINI. Esta dedicación nos permite conocer en profundidad las particularidades de cada modelo y motorización, desde un Serie 1 F20 hasta un X5 G05."
     },
     {
-      "title": "Diagnóstico sin rodeos",
-      "body": "No te vamos a intentar vender una reparación que no necesitas. Te explicamos la avería, las posibles soluciones y te recomendamos la más lógica para ti y tu coche."
+      "title": "Transparencia total",
+      "body": "Recibes un presupuesto cerrado antes de cualquier intervención. Te explicamos cada punto y te damos a elegir entre recambio OE o BMW original. Cero sorpresas en la factura."
     },
     {
-      "title": "Tú tienes el control",
-      "body": "Te mantenemos informado por WhatsApp con fotos o vídeos si es necesario. Queremos que entiendas qué le pasa a tu coche y por qué hacemos cada cosa. Transparencia total."
+      "title": "Homologación Red ISTA",
+      "body": "Pertenecer a redista.com certifica nuestros procesos, formación y equipamiento. Es una garantía de calidad y profesionalidad reconocida a nivel nacional para tu total tranquilidad."
     },
     {
-      "title": "Soluciones para tu día a día",
-      "body": "Sabemos que necesitas el coche. Por eso ofrecemos coche de cortesía (sujeto a disponibilidad) y nos esforzamos por cumplir los plazos para que tu rutina se vea afectada lo mínimo."
+      "title": "Mantenimiento del valor de tu coche",
+      "body": "Un BMW o MINI con un mantenimiento especializado y documentado, incluso fuera de la red oficial, conserva mucho mejor su valor. Actualizamos el historial digital para que conste cada intervención."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en el taller de Sant Andreu de la Barca.",
+  "testimonialsIntro": "Estas son algunas experiencias representativas de clientes que, como tú, buscaban un servicio experto para su BMW o MINI en nuestra zona.",
   "testimonials": [
     {
       "name": "Jordi",
-      "neighborhood": "El Palau",
-      "car": "SEAT León ST 2016",
-      "body": "Trabajo en Martorell y el coche es mi oficina. Empezó a hacer un ruido raro el embrague, sobre todo en la cuesta para volver a casa. En otro taller me hablaron de cambiarlo todo, una pasta. Aquí le echaron un ojo, vieron que era solo el cojinete y me dieron un presupuesto cerrado. Me explicaron todo y el precio no se movió. Da gusto encontrar gente así de legal.",
+      "neighborhood": "Martorell",
+      "car": "BMW 320d F30 2015",
+      "body": "Con 160.000 km, el ruido de la cadena del N47 empezaba a preocuparme. El presupuesto del concesionario era desorbitado. Aquí me dieron un presupuesto cerrado, mucho más razonable, para cambiar el kit completo. Me explicaron todo el proceso. Ahora el coche va perfecto, suave y silencioso. Un alivio.",
       "rating": 5
     },
     {
-      "name": "María",
-      "neighborhood": "Centre",
-      "car": "Peugeot 208 2018",
-      "body": "Uso el coche para ir a comprar y llevar a los niños. La batería murió de un día para otro en invierno. Llamé y me explicaron que con la humedad de aquí es normal. Me lo solucionaron el mismo día y comprobaron que el alternador cargaba bien para que no volviera a pasar. Muy profesionales y cercanos, no te tratan como si no supieras nada.",
+      "name": "Marta",
+      "neighborhood": "El Palau, Sant Andreu",
+      "car": "MINI Cooper F56 2018",
+      "body": "Se me encendió un testigo de motor y el coche daba tirones. En otro taller no sabían qué era. Lo traje aquí, lo conectaron al ISTA y en una hora tenían el diagnóstico: una bobina de encendido. Reparación rápida y a un precio justo. Se nota que controlan de MINI.",
       "rating": 5
     },
     {
-      "name": "Carlos",
-      "neighborhood": "Can Sunyer",
-      "car": "Ford Focus 2012",
-      "body": "Tenía la ITV en dos semanas y el coche me daba tirones en la A-2. Estaba ya pensando en una avería gorda. Lo llevé, me dijeron que eran las bujías y un cable. Me mandaron el presupuesto al móvil, lo acepté y al día siguiente estaba listo. Pasó la ITV sin un solo fallo. Rápido, honesto y sin complicaciones.",
+      "name": "Carles",
+      "neighborhood": "Corbera de Llobregat",
+      "car": "BMW X5 xDrive30d G05 2019",
+      "body": "Pasé la revisión CBS de los 100.000 km. Me recomendaron hacer también el mantenimiento de la caja de cambios ZF, algo que en BMW nunca me habían mencionado. El cambio ahora va más fino que nunca. Valoro mucho esa proactividad y conocimiento. El historial digital quedó actualizado sin problema.",
       "rating": 5
     },
     {
       "name": "Anna",
-      "neighborhood": "La Colònia del Palau",
-      "car": "Renault Clio 2014",
-      "body": "Notaba que los frenos no iban como antes, sobre todo bajando hacia el pueblo. Me daba miedo. Me revisaron todo el sistema, me enseñaron el desgaste de los discos y me dieron un presupuesto para cambiarlos. El precio me pareció correcto y el coche ahora frena perfecto. El trato fue bueno, aunque tardaron un poco más de lo previsto.",
+      "neighborhood": "Pallejà",
+      "car": "BMW 118i F20 2016",
+      "body": "Tenía que pasar la ITV y el coche consumía algo de aceite. Me hicieron una revisión pre-ITV gratuita, detectaron una pequeña fuga en la junta de la tapa de balancines y la solucionaron. Pasé la ITV sin problemas. Muy profesionales y honestos, no intentan venderte reparaciones que no necesitas.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda Sant Andreu de la Barca y alrededores. Si vives en el Centre, El Palau, Can Sunyer, La Colònia del Palau o El Lledoner, estamos a un paso. Nuestra ubicación es ideal para quienes se mueven por el Baix Llobregat, ya que cubrimos municipios cercanos como Martorell, Castellbisbal, Pallejà y Corbera de Llobregat. El acceso es muy sencillo tanto si vienes por la autovía A-2, que vertebra toda la comarca, como si te mueves por carreteras locales como la BV-2002. Para los que vienen de más lejos, la conexión con la AP-7 también nos sitúa en un punto estratégico. Olvídate de tener que ir hasta Barcelona para encontrar un taller de confianza.",
+  "zoneText": "Nuestro taller en Sant Andreu de la Barca ofrece servicio a toda la zona norte del Baix Llobregat y alrededores. Estamos estratégicamente situados para propietarios de BMW y MINI no solo del núcleo urbano de Sant Andreu (Centre, Can Prats, El Palau), sino también de municipios colindantes como Martorell, Castellbisbal, Pallejà, Corbera de Llobregat y El Papiol. Gracias a nuestro fácil acceso desde vías principales como la autovía A-2, la autopista AP-7 o la antigua N-IIa, venir a nuestro centro es cómodo y rápido, evitando la necesidad de desplazarse hasta los grandes concesionarios de Barcelona o su área metropolitana para recibir un servicio especializado y de total garantía para tu vehículo.",
   "zoneNeighborhoods": [
-    "Centre",
-    "El Palau",
-    "Can Sunyer",
-    "La Colònia del Palau",
-    "El Lledoner",
+    "Sant Andreu de la Barca",
     "Martorell",
     "Pallejà",
     "Castellbisbal",
-    "Corbera de Llobregat"
+    "Corbera de Llobregat",
+    "El Papiol",
+    "La Palma de Cervelló",
+    "Molins de Rei"
   ],
   "zoneAccessRoutes": [
-    "A-2",
-    "AP-7",
+    "A-2 (Autovía del Nordeste)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "N-IIa (Carretera de Laureà Miró)",
     "BV-2002"
   ],
   "faqLocal": [
     {
-      "q": "¿Las cuestas de Sant Andreu pueden de verdad estropear el cambio automático?",
-      "a": "Totalmente. Un uso intensivo en las pendientes de la zona, combinado con paradas y arranques frecuentes, sobrecalienta el aceite de la transmisión automática. Esto acelera el desgaste de sus componentes internos. Por eso, en los mantenimientos de coches automáticos de aquí, siempre recomendamos revisar el nivel y estado del aceite de la caja de cambios con más frecuencia de la que indica el fabricante."
+      "q": "¿Por qué debería elegir vuestro taller en Sant Andreu si mi BMW aún tiene garantía oficial?",
+      "a": "Porque realizamos todas las revisiones y mantenimientos siguiendo estrictamente las especificaciones de BMW, utilizando recambios OE o originales y aceites homologados. Según el reglamento europeo 1400/2002, esto te permite mantener la garantía oficial del fabricante. Además, actualizamos el historial de servicio digital de tu coche, exactamente igual que en el concesionario."
     },
     {
-      "q": "Vivo en Sant Andreu pero trabajo en Barcelona. ¿Cómo me afecta la Zona de Bajas Emisiones (ZBE)?",
-      "a": "Si tu coche no tiene etiqueta ambiental de la DGT (o tiene la B y hay restricciones), no puedes entrar en la ZBE de Barcelona en días laborables. Si tu coche es diésel y tiene problemas con el filtro de partículas, es crucial mantenerlo en buen estado para no aumentar las emisiones y arriesgarte a sanciones. Hacemos puestas a punto específicas para la prueba de opacidad de la ITV, clave para los diésel."
+      "q": "Vivo en Martorell, ¿realmente me compensa el desplazamiento?",
+      "a": "Absolutamente. Estás a menos de 10 minutos por la A-2. Muchos de nuestros clientes de Martorell valoran encontrar un nivel de especialización en BMW y MINI tan alto sin tener que ir hasta Barcelona o Sant Boi, con la ventaja de un trato más cercano y unos precios significativamente más competitivos en mantenimientos clave como la distribución o la caja de cambios."
     },
     {
-      "q": "Mi coche duerme en la calle cerca del río, ¿qué mantenimiento extra necesita?",
-      "a": "La humedad del Llobregat es corrosiva. Recomendamos revisar anualmente el estado de los bornes de la batería, las conexiones eléctricas principales y los bajos del coche. Un tratamiento anti-humedad en los contactos y una revisión del estado de los guardapolvos de la suspensión y dirección puede ahorrarte averías caras a largo plazo. También es clave mantener las escobillas del limpiaparabrisas en perfecto estado por la niebla."
+      "q": "Mi BMW tiene más de 180.000 km, ¿seguís actualizando el libro de mantenimiento digital?",
+      "a": "Sí. Mientras el vehículo disponga de historial digital (en modelos desde aproximadamente 2012), nosotros accedemos a los servidores de BMW AG a través de nuestro equipo ISTA y registramos cada servicio. Esto es fundamental para mantener el valor de reventa de tu coche, demostrando un mantenimiento riguroso y especializado a lo largo de toda su vida útil."
     },
     {
-      "q": "Tengo que pasar la ITV en Sant Vicenç dels Horts, ¿ofrecéis algún servicio específico?",
-      "a": "Sí. Ofrecemos una revisión Pre-ITV muy completa donde miramos los mismos puntos que el inspector: luces, frenos, holguras, neumáticos y, muy importante, emisiones. Si detectamos algo, te damos presupuesto para solucionarlo. Muchos clientes nos lo dejan por la mañana, hacemos la pre-ITV, reparamos lo necesario (previa aprobación) y por la tarde ya lo tienen listo para ir a la cita con garantías."
+      "q": "El concesionario oficial me ha dado un presupuesto muy elevado para la cadena de mi motor N47, ¿vuestra solución es fiable?",
+      "a": "Nuestra solución no solo es fiable, sino que es la que recomendamos para un motor con cierto kilometraje. Utilizamos kits de distribución de calidad OE (fabricantes como IWIS, que suministra a BMW) y seguimos el procedimiento oficial al pie de la letra. Ofrecemos una alternativa con la misma calidad de material y mano de obra, pero con un coste mucho más ajustado."
     },
     {
-      "q": "¿Es fácil aparcar cerca del taller para dejar el coche?",
-      "a": "Somos conscientes de que aparcar en Sant Andreu puede ser complicado. Disponemos de una zona reservada para la recepción y entrega de vehículos para que puedas parar cómodamente sin molestar ni dar vueltas. Una vez nos dejes las llaves, nosotros nos encargamos de mover el coche a nuestra zona de trabajo. Tu comodidad es importante para nosotros."
+      "q": "Tengo un MINI con un fallo eléctrico complejo que en otros talleres no han sabido resolver. ¿Estáis preparados para eso?",
+      "a": "Sí, es una de nuestras especialidades. Los MINI comparten mucha electrónica con BMW y tienen sus propias particularidades. Nuestro equipo de diagnóstico ISTA nos permite comunicarnos con todos los módulos del coche (FRM, CAS, etc.), interpretar los códigos de error correctamente y realizar las codificaciones necesarias para solucionar problemas complejos que un equipo multimarca no puede abordar."
     },
     {
-      "q": "El presupuesto que me dais, ¿es muy diferente al de un concesionario oficial?",
-      "a": "Nuestro precio por hora de mano de obra es más competitivo que el de un concesionario oficial. Además, te ofrecemos la opción de montar recambios de primeras marcas que no son los del fabricante del coche, pero tienen la misma o superior calidad y garantía, a un precio más ajustado. La gran diferencia es la transparencia: nuestro presupuesto es cerrado y no varía."
+      "q": "¿Ofrecéis coche de sustitución?",
+      "a": "Disponemos de un número limitado de vehículos de cortesía para nuestros clientes. Te recomendamos solicitarlo al pedir tu cita para poder confirmar su disponibilidad, especialmente si se trata de una reparación que vaya a inmovilizar tu coche durante más de una jornada. Hacemos lo posible para minimizar las molestias."
     },
     {
-      "q": "Hago cada día el trayecto por la A-2. ¿Hay algo que deba revisar más a menudo?",
-      "a": "El tráfico intenso y los frenazos constantes de la A-2 castigan sobre todo los frenos y los neumáticos. Recomendamos revisarlos cada 10.000 km en lugar de los 15.000 o 20.000 habituales. También el embrague, si es manual. Un alineado de dirección anual es muy recomendable para contrarrestar el desgaste irregular de las ruedas y asegurar que el coche pise bien."
+      "q": "¿Puedo traer yo los recambios para la reparación?",
+      "a": "Para poder garantizar la calidad y la durabilidad de nuestras reparaciones, trabajamos exclusivamente con nuestros proveedores de recambios OE y originales BMW/MINI. Esto nos permite asegurar que cada componente cumple con las especificaciones exactas del fabricante y ofrecerte una garantía completa sobre la intervención realizada."
+    },
+    {
+      "q": "Mi coche es un híbrido enchufable, ¿tenéis formación para trabajar en él?",
+      "a": "Sí, nuestro equipo recibe formación continua para poder trabajar con las nuevas motorizaciones de BMW y MINI, incluidas las variantes híbridas enchufables (PHEV) y los modelos 100% eléctricos (BEV). Estamos equipados para realizar el mantenimiento y diagnóstico de los sistemas de alto voltaje con total seguridad y siguiendo los protocolos de la marca."
     }
   ],
-  "closingHeadline": "Tu taller de confianza en Sant Andreu de la Barca",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o envíanos un WhatsApp y cuéntanos qué le pasa a tu coche. Estamos en Sant Andreu de la Barca para ayudarte."
+  "closingHeadline": "El especialista para tu BMW y MINI en Sant Andreu de la Barca",
+  "closingCta": "Si tu BMW o MINI necesita un mantenimiento experto y transparente, contacta con nosotros. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y descubre por qué somos la alternativa de confianza al concesionario en Sant Andreu de la Barca."
 }
