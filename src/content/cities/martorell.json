@@ -6,181 +6,185 @@
   "population": 27850,
   "lat": 41.47402,
   "lng": 1.93062,
-  "metaTitle": "Taller mecánico en Martorell para híbridos y eléctricos",
-  "metaDescription": "Mecánica especializada en Martorell para tu coche híbrido o eléctrico. Diagnóstico, baterías y mantenimiento con presupuesto cerrado. Pide tu cita.",
-  "heroSubtitle": "Tu coche eléctrico o híbrido merece la misma experiencia y conocimiento que ha movido Martorell durante décadas. Sin sorpresas, con total transparencia.",
+  "metaTitle": "Taller BMW Eléctrico e Híbrido en Martorell — Red ISTA Oficial",
+  "metaDescription": "Especialistas en BMW y MINI eléctricos e híbridos en Martorell. Diagnóstico oficial ISTA para i4, iX3, 330e. Taller homologado Red ISTA. Pide tu cita.",
+  "heroSubtitle": "¿Tienes un BMW eléctrico o híbrido en Martorell y buscas un especialista que entienda su tecnología más allá de un concesionario?",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "🔋",
+      "text": "Expertos en BMW Eléctrico/Híbrido"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca y especialista en electrificados"
+      "text": "Mecánica y electrónica avanzada"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Martorell no es solo una ciudad; es el motor de la industria automotriz del país. Aquí, el coche no es un simple medio de transporte, es parte de nuestro ADN. Si conduces un SEAT o un Cupra, sabes que tu vehículo nació a pocos kilómetros, en una de las plantas más avanzadas de Europa. Pero el paradigma está cambiando. La transición hacia la movilidad híbrida y eléctrica es una realidad palpable en nuestras calles, desde el barrio de La Vila hasta las zonas más nuevas como La Sínia. Comprendemos que el conductor de un Cupra Born o un León e-HYBRID tiene nuevas preguntas y necesita respuestas que van más allá de la mecánica tradicional. Ya no se trata solo de cambios de aceite o correas de distribución; hablamos de gestión de baterías, sistemas de frenada regenerativa y software. En Martorell, la cuna del motor de combustión, ahora lideramos también la adaptación a su futuro eléctrico.\n\nEl día a día de un conductor en Martorell implica un uso intensivo y variado del vehículo. Muchos residentes se desplazan diariamente hacia Barcelona por la A-2, un trayecto que combina tramos de velocidad constante con retenciones imprevistas, un escenario donde la eficiencia de un sistema híbrido se pone a prueba. Otros utilizan la AP-7 para trayectos más largos o la red de carreteras comarcales hacia el Penedès o el Anoia. Este uso mixto, sumado al clima continentalizado del Vallès, con veranos que superan fácilmente los 30ºC, impone un estrés considerable sobre componentes clave como las baterías y los sistemas de climatización. Un calor excesivo puede afectar la autonomía y la vida útil de la batería de un eléctrico, mientras que un uso constante del aire acondicionado en modo bomba de calor exige un sistema en perfecto estado para no mermar el rendimiento.\n\nEl parque automovilístico de Martorell y sus alrededores —desde Abrera hasta Sant Esteve Sesrovires— es un reflejo directo de su herencia industrial. La presencia de vehículos del grupo Volkswagen, y en particular de SEAT y Cupra, es abrumadoramente mayoritaria. Esto nos ha obligado a adquirir un conocimiento profundo y específico de estas plataformas, especialmente de las más recientes como la MEB de los eléctricos. No somos un taller genérico; somos especialistas que entienden las particularidades de un Formentor e-HYBRID, los ciclos de carga de un Mii Electric o el sistema de tracción de un Tarraco PHEV. Conocemos sus puntos fuertes y sus debilidades, y disponemos de la capacidad de diagnóstico para intervenir con la misma precisión que un servicio oficial.\n\nNuestra experiencia no se limita a la planta motriz. El tipo de conducción en la zona, con frecuentes viajes de fin de semana hacia Montserrat o la costa, implica un desgaste específico en neumáticos y suspensiones. El par motor instantáneo de un vehículo eléctrico, por ejemplo, exige un tipo de neumático específico y un control riguroso de su desgaste y alineación para garantizar la seguridad y la eficiencia. Asimismo, los sistemas electrónicos y de asistencia a la conducción (ADAS) que equipan estos modelos modernos requieren calibraciones precisas tras cualquier intervención, ya sea un simple cambio de luna o una reparación más compleja. Nos aseguramos de que cada sensor y cada cámara de tu coche funcione como el primer día.\n\nPor todo ello, ofrecemos un servicio en Martorell que combina la tradición mecánica de la ciudad con una especialización real en las tecnologías que definirán el futuro. Entendemos que confiar tu coche eléctrico o híbrido, una inversión tecnológica importante, a un taller es una decisión crucial. Por eso, nuestro proceso se basa en la comunicación directa y un presupuesto cerrado. No realizamos ninguna operación sin tu consentimiento explícito. Queremos ser tu taller de confianza, el que entiende tu coche y entiende el entorno por el que te mueves cada día, desde los polígonos de Can Amat hasta el centro de la ciudad.",
-  "servicesIntro": "Ofrecemos un servicio integral para tu coche en Martorell, con especial atención a las nuevas motorizaciones híbridas y eléctricas.",
-  "processIntro": "Trabajamos con un método claro y transparente: diagnóstico preciso, presupuesto cerrado y tu autorización antes de cada paso.",
+  "introLocal": "Martorell no es solo una ciudad del Baix Llobregat; es el corazón de la industria automotriz en Cataluña. Aquí, entre los polígonos de Can Amat y La Torre, se respira una cultura del motor única. Es una paradoja que, en un lugar donde se fabrican miles de coches al día, los propietarios de un BMW de última generación, especialmente los modelos eléctricos e híbridos como el i4, el iX3 o el popular 330e, se sientan a menudo huérfanos de un servicio técnico especializado fuera del circuito oficial. Conducir tu 330e en modo eléctrico puro por la A-2 hacia el trabajo en Barcelona o moverte por el centro de Martorell es una gozada, pero cuando surge un aviso en el cuadro sobre el sistema de alto voltaje, el módulo de carga (KLE) o la gestión de la batería, la mayoría de talleres locales no tienen ni el equipo ni la formación para ir más allá de una lectura de errores genérica. Nosotros sí. Como taller homologado por Red ISTA, entendemos el ADN de tu BMW electrificado, porque usamos la misma herramienta de diagnóstico ISTA que el concesionario, conectada en tiempo real a Múnich.\n\nEl parque de BMW y MINI en Martorell y su área de influencia —desde Abrera hasta Olesa de Montserrat— está cambiando. Los diésel B47 siguen siendo mayoría, pero el salto a la electrificación es más rápido aquí que en otras zonas. Lo vemos cada día. Propietarios de un X5 45e que viven en urbanizaciones de Sant Esteve Sesrovires y lo usan para todo, o de un MINI Cooper SE que es el coche perfecto para callejear por el barrio de La Vila. Este cambio tecnológico trae consigo nuevos desafíos. El calor intenso del verano en el interior del Vallès-Penedès no afecta igual a un motor de combustión que a una batería de iones de litio. El sistema de refrigeración de la batería de un iX se convierte en un elemento crítico, y su diagnóstico requiere un software que pueda analizar cada celda y sensor. Nuestro equipo ISTA no solo lee un código de error; nos permite monitorizar en tiempo real el rendimiento de la batería, el inversor y el motor eléctrico, asegurando que tu BMW funciona con la eficiencia para la que fue diseñado.\n\nEl diagnóstico de un BMW eléctrico o híbrido es como la arquitectura del Pont del Diable, el emblema de Martorell. Hay un arco principal, que sería la batería de alto voltaje, sostenido por una compleja red de arcos secundarios: el módulo de gestión (BMS), el sistema de carga, el inversor, la climatización... Un fallo en una pequeña 'dovela' electrónica puede comprometer toda la estructura. Los talleres generalistas solo ven el puente desde lejos; nosotros, con el diagnóstico oficial ISTA, podemos analizar cada una de esas piezas. Podemos reprogramar módulos, actualizar el software del sistema de propulsión para mejorar la autonomía o solucionar esos molestos fallos de comunicación entre la electrónica del motor de gasolina B48 y el sistema eléctrico de tu X3 xDrive30e. Somos el eslabón que faltaba en Martorell: la precisión del servicio oficial con la cercanía y la estructura de costes de un taller independiente.\n\nNo somos un concesionario. Somos un centro especializado de la Red ISTA, una red de más de 100 talleres en toda España homologados por nuestra especialización en BMW y MINI. Esto significa que cuando nos confías tu coche, desde una revisión CBS que reseteamos en el libro digital hasta una compleja reparación de la electrónica del sistema híbrido, no pierdes la garantía oficial del fabricante. Te ofrecemos un presupuesto cerrado, transparente, donde puedes elegir entre recambio original BMW o recambio de calidad OE de fabricantes como Bosch o Valeo, los mismos que suministran a la fábrica. Para el conductor de Martorell, acostumbrado a la excelencia industrial, ofrecemos un servicio a la altura: técnico, preciso y honesto. Dejamos las sorpresas para la carretera, no para la factura.",
+  "servicesIntro": "En nuestro taller de Martorell, ofrecemos un servicio integral para tu BMW o MINI, con especial foco en la diagnosis y mantenimiento de modelos eléctricos e híbridos.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico y análisis",
-      "body": "Al recibir tu vehículo, conectamos nuestros equipos de diagnóstico avanzado para identificar con precisión el origen de cualquier anomalía, prestando especial atención a los sistemas electrónicos y de baterías de los modelos más modernos."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto, ya sea en la batería de alto voltaje, el motor o la electrónica."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado y sin compromiso. Explicamos cada punto para que entiendas qué necesita tu coche y por qué. El precio que te damos es el precio final, sin costes ocultos ni sorpresas de última hora."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones, especialmente en reparaciones complejas, para que decidas con total información y sin sorpresas en la factura final."
     },
     {
-      "title": "Tu autorización",
-      "body": "No iniciamos ninguna reparación ni sustitución de componentes sin tu aprobación explícita. Tienes el control total sobre las operaciones que se realizan en tu vehículo. La transparencia es nuestra máxima prioridad en cada fase del proceso."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK explícito. Si durante la reparación de tu BMW aparece algo no previsto, paramos el trabajo, te llamamos, te enviamos fotos o vídeos si es necesario y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación experta",
-      "body": "Procedemos con la reparación utilizando recambios de calidad equivalente al original y herramientas específicas para cada modelo. Nuestro equipo está en formación continua, especialmente en las tecnologías de vehículos eléctricos e híbridos."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo los protocolos de BMW, con recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos la herramienta específica para cada motor, sea un B58 de gasolina o un sistema eléctrico."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te entregamos el coche en el plazo acordado, explicando el trabajo realizado. Además, te contactamos días después para confirmar que todo funciona correctamente y resolver cualquier duda que pueda haber surgido tras la reparación."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS, actualizamos el libro de mantenimiento digital de tu BMW y realizamos una prueba final. Hacemos un seguimiento posterior para confirmar que la reparación ha sido un éxito y todo funciona perfectamente."
     }
   ],
-  "commonIssuesIntro": "El uso diario en Martorell, desde el tráfico de la A-2 hasta el calor del verano, provoca problemas específicos en tu coche, especialmente si es híbrido o eléctrico.",
+  "commonIssuesIntro": "En Martorell, además de los conocidos problemas en los motores N47 o B48, vemos cada vez más averías específicas de los modelos eléctricos e híbridos de BMW y MINI, que requieren un diagnóstico preciso.",
   "commonIssues": [
     {
-      "title": "Desgaste acelerado de neumáticos en eléctricos",
-      "body": "El elevado par motor instantáneo y el mayor peso de los coches eléctricos provocan un desgaste más rápido e irregular de los neumáticos si no se gestiona bien. En nuestro taller de Martorell revisamos presiones, realizamos alineaciones precisas y te recomendamos el compuesto adecuado para tu modelo, asegurando un agarre óptimo y una mayor durabilidad."
+      "title": "Fallo en el módulo de carga (KLE)",
+      "body": "Tu BMW 330e o X5 45e no carga o interrumpe la carga. Es un fallo común en el módulo KLE, especialmente en coches que se enchufan a diario. El uso intensivo en los trayectos diarios por la A-2 y el calor local pueden acelerar su desgaste. Con ISTA, diagnosticamos y codificamos el nuevo módulo para restaurar la carga."
     },
     {
-      "title": "Pérdida de eficiencia de la batería en verano",
-      "body": "Los veranos calurosos de Martorell pueden sobrecalentar la batería de tu híbrido o eléctrico, reduciendo su autonomía y vida útil. Realizamos diagnósticos del sistema de refrigeración de la batería para asegurar que funciona correctamente, un mantenimiento preventivo clave para proteger tu inversión y garantizar el máximo rendimiento en los meses de más calor."
+      "title": "Pérdida de autonomía en BMW i3/i4",
+      "body": "El calor extremo del verano en la comarca del Baix Llobregat pone a prueba el sistema de gestión térmica de la batería (BMS). Una caída de la autonomía puede deberse a un desequilibrio de celdas o un fallo en el sistema de refrigeración. Realizamos un test de salud de la batería para identificar el origen del problema."
     },
     {
-      "title": "Mantenimiento del sistema de frenada regenerativa",
-      "body": "En los híbridos y eléctricos, los frenos mecánicos se usan menos, lo que puede causar cristalización de pastillas u oxidación de discos. Es un problema común en coches que circulan por la A-2 con tráfico denso. Revisamos y mantenemos todo el sistema para garantizar una frenada segura y una regeneración de energía eficiente."
+      "title": "Ruidos en la frenada regenerativa",
+      "body": "Al levantar el pie del acelerador en tu MINI Cooper SE o tu iX3 notas un zumbido o un 'clack' anómalo. Este sistema es complejo y puede desarrollar holguras o problemas en los actuadores. Un mal diagnóstico puede llevar a cambiar piezas innecesarias. Lo revisamos y calibramos con precisión."
     },
     {
-      "title": "Averías en el climatizador por bomba de calor",
-      "body": "Muchos eléctricos usan bombas de calor para la climatización. Son eficientes, pero sensibles a fallos. Un mal funcionamiento no solo afecta al confort, sino que puede disparar el consumo de batería. Contamos con el equipo para diagnosticar y reparar estos sistemas complejos, vitales durante el verano en Martorell."
+      "title": "Averías en suspensión neumática de híbridos",
+      "body": "Modelos como el X5 45e son muy pesados por la batería, lo que somete a la suspensión neumática a un estrés constante en las carreteras secundarias de la zona, como la que sube a Gelida. Diagnosticamos fugas en las balonas, fallos del compresor o problemas en los sensores de altura."
     },
     {
-      "title": "Obstrucción del filtro de habitáculo",
-      "body": "La proximidad a zonas industriales y a vías de alta densidad como la AP-7 satura rápidamente el filtro de cabina. Un filtro sucio reduce la calidad del aire interior y fuerza el sistema de ventilación. Recomendamos su sustitución periódica para proteger tu salud y el rendimiento del climatizador."
+      "title": "Problemas con el climatizador en eléctricos",
+      "body": "En un BMW eléctrico, el compresor del aire acondicionado es de alto voltaje y es vital para refrigerar la batería. Si deja de enfriar el habitáculo, puede ser un síntoma de un problema mayor. Diagnosticamos el sistema completo para proteger tanto tu confort como la vida útil de la batería."
+    },
+    {
+      "title": "Tirones en la transición eléctrico-gasolina",
+      "body": "En tu X1 xDrive25e notas una transición brusca o tirones cuando entra en funcionamiento el motor de combustión B38. Suele ser un problema de sincronización o software entre la gestión del motor (DME) y la del sistema híbrido. Realizamos un ajuste y actualización de software para suavizar la entrega de potencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en la automoción local",
-      "body": "Conocemos el parque móvil de Martorell porque es el nuestro. Estamos especializados en SEAT, Cupra y el resto de marcas del grupo, sobre todo en sus nuevas plataformas eléctricas e híbridas."
+      "title": "El único especialista real en eléctricos",
+      "body": "No solo tenemos la máquina; tenemos la formación específica para diagnosticar y reparar los sistemas de alto voltaje de BMW y MINI en Martorell. Entendemos la tecnología que otros talleres aún no se atreven a tocar."
     },
     {
-      "title": "Diagnóstico de nivel oficial",
-      "body": "Invertimos en la misma tecnología de diagnóstico que los concesionarios. Identificamos el problema real, sin especulaciones, especialmente en sistemas electrónicos complejos y gestión de baterías."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Usamos el mismo software que el concesionario, conectado a BMW Alemania. Esto nos da una capacidad de diagnóstico y codificación que un taller multimarca no puede ofrecer, fundamental en los coches modernos."
+    },
+    {
+      "title": "Alternativa real al concesionario",
+      "body": "Te ofrecemos la misma calidad técnica y la posibilidad de usar recambio original BMW, pero con la flexibilidad y los precios de un taller independiente. Sin perder la garantía de tu coche nuevo."
+    },
+    {
+      "title": "Conocemos el entorno de Martorell",
+      "body": "Sabemos cómo afecta el tráfico de la A-2, el calor del verano o las carreteras secundarias al rendimiento y desgaste de tu BMW. Nuestro asesoramiento está basado en la realidad local."
     },
     {
       "title": "Presupuestos sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Detallamos cada concepto para que entiendas la intervención. La honestidad es la base de una relación de confianza a largo plazo."
-    },
-    {
-      "title": "Comunicación directa y clara",
-      "body": "Te explicamos la avería y las posibles soluciones en un lenguaje que entiendes. Siempre te llamaremos para pedir tu autorización antes de proceder con cualquier trabajo no presupuestado."
-    },
-    {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todo nuestro trabajo y los recambios que instalamos están garantizados por escrito. Tu tranquilidad es nuestro principal objetivo, y respondemos siempre por la calidad de nuestro servicio."
+      "body": "Nuestro presupuesto es cerrado. Lo que te decimos que va a costar es lo que pagas. Si surge un imprevisto, paramos, te consultamos y tú decides. La transparencia es total."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día en Martorell, reflejando la experiencia de nuestros clientes.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que hemos solucionado, reflejando la confianza que nuestros clientes de Martorell y alrededores depositan en nosotros.",
   "testimonials": [
     {
-      "name": "Jordi",
-      "neighborhood": "La Sínia",
-      "car": "Cupra Born 2022",
-      "body": "Tenía mis dudas sobre llevar el Born a un taller fuera del servicio oficial, pero me dieron más confianza que ellos. Notaba una pequeña pérdida de autonomía y aquí encontraron un problema en el sistema de refrigeración de la batería que en el concesionario no vieron. Presupuesto claro y me explicaron todo el proceso. Muy profesionales.",
+      "name": "Joan",
+      "neighborhood": "Can Cases",
+      "car": "BMW i4 eDrive40 2022",
+      "body": "Tenía un fallo intermitente en el sistema de infoentretenimiento y el concesionario me daba cita para dentro de un mes. Aquí me lo cogieron rápido, conectaron el coche al ISTA y vieron que era una actualización de software pendiente. En una mañana estaba solucionado. Se nota que controlan la parte electrónica a otro nivel.",
       "rating": 5
     },
     {
-      "name": "Laura",
-      "neighborhood": "El Pla",
-      "car": "SEAT León e-HYBRID 2021",
-      "body": "Uso el coche todos los días para ir a trabajar a Barcelona por la A-2 y el sistema híbrido empezó a dar tirones. Me hicieron un diagnóstico completo del software y la transmisión. Lo solucionaron en un día y me explicaron la causa. El trato fue excelente y el precio, justo. Ahora el coche va más suave que nunca.",
+      "name": "Anna",
+      "neighborhood": "La Vila",
+      "car": "BMW 330e G20 2020",
+      "body": "El coche dejó de cargar en el wallbox de casa. En otro taller me dijeron que era el cargador, pero yo no estaba segura. Aquí diagnosticaron un fallo en el puerto de carga del propio coche. Me dieron un presupuesto detallado con pieza original y me explicaron todo el proceso. Muy profesionales y transparentes.",
       "rating": 5
     },
     {
-      "name": "Carles",
-      "neighborhood": "Torrent de Llops",
-      "car": "SEAT Ateca 1.5 TSI 2019",
-      "body": "Llevo años trayendo mi coche aquí para las revisiones. Siempre han sido transparentes. Esta vez tocaba cambio de la correa de distribución y me dieron un presupuesto cerrado más competitivo que en otros sitios. Sabes que dejas el coche en buenas manos, gente que conoce estos motores a la perfección.",
+      "name": "Marc",
+      "neighborhood": "Olesa de Montserrat",
+      "car": "BMW X3 xDrive30e 2021",
+      "body": "Le tocaba la revisión CBS y no quería ir hasta el concesionario oficial. Busqué una alternativa y encontré este taller de Red ISTA. Hicieron todo según el plan de BMW, aceite LL-04, filtros y me actualizaron el historial digital. El trato es mucho más cercano y el precio más razonable. Volveré seguro.",
       "rating": 5
     },
     {
-      "name": "Marta",
-      "neighborhood": "Can Carreres",
-      "car": "Peugeot 3008 Diésel 2017",
-      "body": "Me fallaron los frenos y necesitaba una solución rápida. Aunque mi coche no es un SEAT, me atendieron de maravilla. Me explicaron que los discos estaban alabeados y me enseñaron la pieza. Me dieron varias opciones de recambio y cumplieron el plazo. Un servicio muy honesto y eficiente, lo recomiendo.",
+      "name": "Sílvia",
+      "neighborhood": "Abrera",
+      "car": "MINI Cooper SE 2022",
+      "body": "Noté que la autonomía había bajado más de lo normal este verano. Me preocupaba que fuera la batería. Les pedí un diagnóstico completo. Comprobaron el estado de salud de la batería con el ISTA y me explicaron que todo estaba bien, dándome unos consejos para optimizar la carga con el calor. Me quedé mucho más tranquila.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller en Martorell da servicio a toda la ciudad y sus alrededores. Si vives en barrios como El Pla, Can Carreres, Torrent de Llops o en las zonas de La Vila y la Muntanyeta, estamos a tu disposición. También cubrimos las necesidades de los conductores de municipios colindantes como Abrera, Sant Andreu de la Barca, Olesa de Montserrat y Castellbisbal. Nuestra ubicación cuenta con un acceso rápido y directo desde las principales vías que conectan la comarca, como la autovía A-2, la autopista AP-7 y la carretera B-224, facilitando que puedas dejarnos tu vehículo cómodamente de camino al trabajo o al volver a casa.",
+  "zoneText": "Nuestro taller en Martorell da servicio a toda la zona norte del Baix Llobregat y el sur del Anoia. Estamos perfectamente comunicados para clientes que vienen no solo de los barrios de Martorell como El Pla, Can Cases o Torrent de Llops, sino también de municipios colindantes como Abrera, Olesa de Montserrat, Esparreguera, Sant Esteve Sesrovires o Castellbisbal. Gracias al acceso directo desde la A-2 y la proximidad a la AP-7, llegar a nuestras instalaciones es muy sencillo, tanto si vienes del polígono SEAT como de cualquier urbanización de la zona. Somos el punto de referencia para propietarios de BMW y MINI que buscan un servicio especializado sin tener que desplazarse a Barcelona.",
   "zoneNeighborhoods": [
-    "El Pla",
-    "Can Carreres",
-    "Torrent de Llops",
-    "La Vila",
-    "La Sínia",
-    "Poble Nou",
+    "Martorell",
     "Abrera",
-    "Sant Andreu de la Barca",
     "Olesa de Montserrat",
-    "Castellbisbal"
+    "Esparreguera",
+    "Sant Esteve Sesrovires",
+    "Castellbisbal",
+    "El Pla",
+    "Can Cases",
+    "Sant Andreu de la Barca",
+    "Gelida"
   ],
   "zoneAccessRoutes": [
-    "A-2",
-    "AP-7",
-    "B-224",
-    "BV-2249"
+    "Autovía A-2",
+    "Autopista AP-7",
+    "Carretera C-243c",
+    "Carretera B-224"
   ],
   "faqLocal": [
     {
-      "q": "¿Estáis realmente preparados para el mantenimiento de un coche eléctrico como un Cupra Born?",
-      "a": "Sí, sin ninguna duda. Nuestro personal técnico recibe formación continua específica en vehículos de alto voltaje y disponemos de las herramientas de diagnóstico y el utillaje aislado necesarios. Entendemos la arquitectura de la plataforma MEB, los sistemas de gestión de baterías (BMS) y los procedimientos de seguridad para intervenir en estos coches con total garantía, al mismo nivel que un servicio oficial."
+      "q": "¿Podéis diagnosticar y reparar la batería de alto voltaje de mi BMW iX?",
+      "a": "Sí. Nuestro equipo de diagnóstico oficial ISTA nos permite realizar un análisis completo del estado de salud (State of Health) de la batería de alto voltaje, comprobar el equilibrio de cada celda y diagnosticar fallos en el sistema de gestión (BMS). Para reparaciones complejas que impliquen la manipulación de la batería, evaluamos cada caso y te informamos de las opciones viables con total transparencia."
     },
     {
-      "q": "Mi híbrido enchufable hace un ruido extraño al pasar de modo eléctrico a combustión, ¿sabéis qué puede ser?",
-      "a": "Sí, es una consulta habitual. Ese tipo de ruidos o vibraciones en la transición suelen estar relacionados con los soportes del motor, el sistema de embrague que acopla el motor térmico o desajustes en la gestión electrónica. Realizaremos un diagnóstico dinámico para replicar la condición y determinar la causa exacta, sea mecánica o de software, para ofrecerte una solución precisa."
+      "q": "Vivo en Abrera y trabajo en el polígono SEAT, ¿sois una alternativa real al concesionario para mi 330e?",
+      "a": "Totalmente. Entendemos perfectamente tu rutina. Puedes dejar tu 330e para su revisión CBS por la mañana y recogerlo al salir del trabajo. Realizamos el mantenimiento siguiendo el plan oficial de BMW, sellamos el historial digital para no perder la garantía y tenemos un coste por hora más competitivo que el concesionario. Somos la opción lógica por especialización y proximidad."
     },
     {
-      "q": "Vivo en Martorell y aparco en la calle. ¿Cómo afecta el calor del verano a la batería de mi coche?",
-      "a": "El calor es el principal enemigo de la longevidad de las baterías. Dejar el coche al sol de forma continuada en Martorell, donde se alcanzan altas temperaturas, acelera la degradación química de las celdas. Nuestro consejo es buscar sombra siempre que sea posible y realizar revisiones periódicas del sistema de refrigeración líquida de la batería para asegurar que funciona a pleno rendimiento y protege la batería eficazmente."
+      "q": "Mi MINI Cooper SE eléctrico tiene un problema electrónico que nadie encuentra, ¿vuestro diagnóstico es diferente?",
+      "a": "Sí, es radicalmente diferente. Mientras que otros talleres usan equipos multimarca genéricos, nosotros utilizamos ISTA/Rheingold, el software oficial de BMW Group. Esto nos permite acceder a todos los módulos de tu MINI, interpretar los códigos de error específicos del fabricante y realizar programaciones y codificaciones que otros equipos no pueden ni ver. Es la diferencia entre adivinar y saber."
     },
     {
-      "q": "¿La Pre-ITV que ofrecéis cubre las pruebas específicas de emisiones de un híbrido?",
-      "a": "Por supuesto. Nuestra Pre-ITV es exhaustiva y está adaptada a cada tipo de motorización. En el caso de un híbrido, comprobamos todos los puntos generales (frenos, luces, neumáticos) y además realizamos un análisis de gases específico con el motor de combustión en marcha para asegurar que cumple con la normativa de emisiones vigente. Así te evitas sorpresas y rechazos en la estación de ITV."
+      "q": "Con el calor del verano en Martorell, ¿qué mantenimiento preventivo necesita mi BMW i4?",
+      "a": "El calor es el principal enemigo de las baterías. Recomendamos una revisión anual del sistema de refrigeración líquida de la batería de alto voltaje. Comprobamos el nivel y estado del líquido refrigerante específico, buscamos posibles fugas y verificamos con ISTA que los sensores de temperatura y la bomba de agua funcionen correctamente. Es una pequeña inversión que alarga la vida de la batería."
     },
     {
-      "q": "¿Podéis diagnosticar fallos en el sistema multimedia o en las ayudas a la conducción?",
-      "a": "Sí. Los vehículos modernos, especialmente los eléctricos e híbridos, son ecosistemas de software complejos. Contamos con equipos de diagnosis multimarca avanzados que nos permiten acceder a los módulos de control de infoentretenimiento, ADAS (sistemas de ayuda a la conducción), y otros sistemas electrónicos para leer códigos de error, realizar ajustes y calibraciones, como la de la cámara frontal tras un cambio de parabrisas."
+      "q": "¿Si hago el mantenimiento con vosotros, se actualiza el historial de servicio digital en el coche y en la llave?",
+      "a": "Sí. Al ser un taller de la Red ISTA y estar conectados a los servidores de BMW AG, cada operación de mantenimiento (cambio de aceite, filtros, líquido de frenos) queda registrada en el historial digital de tu coche. La información se almacena en el sistema del vehículo y, en modelos compatibles, también en la propia llave. A todos los efectos, es como haber pasado la revisión en el concesionario."
     },
     {
-      "q": "Vengo de Abrera por la A-2, ¿es fácil llegar a vuestro taller en hora punta?",
-      "a": "Sí, nuestra ubicación está pensada para ser accesible. Aunque la A-2 puede tener tráfico denso en horas punta, estamos situados de forma que puedes evitar los nudos más conflictivos del centro de Martorell. Te recomendamos las salidas que te dirigen hacia la zona industrial, que suelen tener una circulación más fluida. Si nos llamas, podemos darte indicaciones precisas en tiempo real para facilitarte la llegada."
-    },
-    {
-      "q": "El cambio de neumáticos en un eléctrico es más caro. ¿A qué se debe y ofrecéis alternativas?",
-      "a": "El coste es superior porque los neumáticos para vehículos eléctricos son específicos. Deben soportar más peso, un par motor instantáneo que acelera el desgaste y tener una baja resistencia a la rodadura para no penalizar la autonomía. Además, suelen llevar un compuesto de espuma interior para reducir el ruido. Te explicaremos las opciones disponibles para tu modelo, buscando siempre el mejor equilibrio entre rendimiento, durabilidad y precio."
+      "q": "Tengo un X5 45e. ¿Entendéis la complejidad de un motor B58 junto a un sistema híbrido?",
+      "a": "Por supuesto. El motor B58 es una obra de ingeniería, y su integración en el sistema híbrido del X5 45e añade una capa de complejidad que requiere conocimiento específico. Entendemos las particularidades de su sistema Vanos/Valvetronic, la inyección directa y cómo se coordina con el motor eléctrico a través de la caja ZF 8HP. Realizamos tanto el mantenimiento mecánico del motor como el diagnóstico electrónico del sistema híbrido."
     }
   ],
-  "closingHeadline": "El futuro de tu coche se cuida en Martorell",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o a través de nuestra web y descubre por qué somos el taller de referencia para los nuevos conductores de Martorell."
+  "closingHeadline": "Tu BMW eléctrico o híbrido, por fin entendido en Martorell",
+  "closingCta": "No dejes la tecnología de tu BMW en manos de cualquiera. Pide tu cita en nuestro taller de Martorell por teléfono, WhatsApp o email y descubre la tranquilidad de un servicio especializado."
 }
