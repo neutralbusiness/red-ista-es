@@ -1,0 +1,185 @@
+{
+  "slug": "gelida",
+  "name": "Gelida",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 7102,
+  "lat": 41.44038,
+  "lng": 1.86212,
+  "metaTitle": "Taller BMW y MINI en Gelida — Red ISTA · Sin perder garantía",
+  "metaDescription": "Taller especialista en BMW y MINI en Gelida. Mantenimiento según plan oficial CBS sin perder la garantía. Diagnóstico ISTA. Pide tu presupuesto cerrado.",
+  "heroSubtitle": "¿Tu BMW o MINI está en garantía y te obligas a ir al concesionario de Barcelona? Te explicamos por qué no tienes que hacerlo.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
+    }
+  ],
+  "introLocal": "Si tienes un BMW o un MINI en Gelida, sabes lo que es valorar la conducción en las carreteras del Penedès pero también la incomodidad de pensar que para cualquier revisión oficial tienes que desplazarte a un concesionario en Barcelona o alrededores. Sobre todo si tu coche tiene menos de cinco años y te preocupa la garantía. La buena noticia es que esa idea es incorrecta. Gracias al Reglamento (UE) 461/2010, tienes total libertad para elegir taller sin perder la garantía del fabricante, siempre que el taller siga los procedimientos de la marca y utilice recambios de calidad original. Y eso es exactamente lo que hacemos en nuestro centro de Gelida, como parte homologada de la Red ISTA a nivel nacional.\n\nEntendemos perfectamente tu día a día. Usas tu Serie 3 G20 o tu X1 para ir a trabajar, quizás cogiendo la AP-7 a primera hora, o haces el trayecto diario a Martorell. Los fines de semana, disfrutas de tu MINI Cooper S por las curvas de la carretera de l'Ordal o de una ruta tranquila entre viñedos por la BV-2425 hacia Sant Sadurní. Este uso mixto, que combina la alta velocidad de la autopista con los trayectos cortos por el centro de Gelida para hacer recados, es exigente. Un motor B47 diésel puede sufrir con los arranques en frío y los recorridos urbanos, poniendo en riesgo el filtro de partículas, mientras que un motor gasolina B48 necesita que su sistema de inyección y turbo estén en perfecto estado para responder como esperas al salir de una curva.\n\nAquí es donde entra en juego la tranquilidad que te ofrecemos. Cuando traes tu BMW en garantía a nuestro taller en Gelida, el proceso es idéntico al del servicio oficial, pero sin el coste ni el desplazamiento. Conectamos tu coche a nuestro equipo de diagnóstico oficial ISTA, el mismo software que usan en Alemania, que se enlaza en tiempo real con los servidores de BMW AG. Esto nos permite leer el historial de tu vehículo, ver qué componentes necesitan atención según el plan de mantenimiento CBS (Condition Based Service) y resetear los avisos una vez terminado el trabajo. No es una máquina de diagnosis genérica; es el sistema nativo de BMW.\n\nPara mantener tu garantía intacta, utilizamos siempre aceites con la homologación correcta de BMW (Longlife-04 para los diésel con DPF, Longlife-01 o la que corresponda para tu gasolina) y recambios de calidad OE (Fabricante de Equipo Original). Esto significa que montamos filtros Mann, Mahle o Bosch, componentes de suspensión Lemförder o Sachs; exactamente los mismos fabricantes que suministran a la línea de montaje de BMW. Por supuesto, si lo prefieres, también podemos montar recambio original BMW. La decisión es tuya, y te la explicaremos con un presupuesto cerrado para que no haya sorpresas.\n\nEn resumen, tener tu especialista BMW y MINI en Gelida significa ganar en comodidad, en transparencia y en ahorro, sin renunciar a absolutamente nada. Ni a la calidad, ni a la tecnología de diagnóstico, y lo más importante, sin que la garantía de tu coche corra el más mínimo riesgo. Dejamos que el concesionario se quede en la gran ciudad. Aquí, en el corazón del Penedès, tienes una alternativa igual de profesional, homologada por redista.com, y mucho más cercana.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Gelida, desde una revisión CBS hasta las reparaciones electrónicas más complejas.",
+  "processIntro": "Trabajamos con un método claro y transparente en 5 pasos para que sepas qué le pasa a tu coche y cuánto te va a costar antes de hacer nada.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información."
+    },
+    {
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos y te explicamos antes de continuar."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-01/LL-04, pares de apriete específicos, herramienta especializada."
+    },
+    {
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borrado de avisos CBS en el cuadro, prueba de rodaje cuando procede, actualización del libro digital de mantenimiento y seguimiento posterior para confirmar que todo funciona perfecto."
+    }
+  ],
+  "commonIssuesIntro": "Incluso los BMW y MINI mejor cuidados pueden 'dar guerra' con el tiempo. Estos son algunos de los problemas más habituales que diagnosticamos y solucionamos en nuestro taller de Gelida, muchos de ellos relacionados con el tipo de conducción de la zona.",
+  "commonIssues": [
+    {
+      "title": "DPF saturado en motores diésel",
+      "body": "Los trayectos cortos y frecuentes por Gelida o para ir a la estación de tren no permiten que el filtro de partículas diésel (DPF) de tu motor B47 o N47 se regenere correctamente. Con nuestro equipo ISTA, podemos diagnosticar el nivel de saturación y forzar una regeneración controlada o realizar una limpieza profesional, evitando una costosa sustitución."
+    },
+    {
+      "title": "Desgaste de suspensión y silentblocks",
+      "body": "Las carreteras con curvas del Penedès, como la que sube al Castell de Gelida o las rutas hacia Sant Llorenç d'Hortons, son fantásticas para disfrutar de la conducción, pero exigen mucho a la suspensión. Diagnosticamos holguras en silentblocks, brazos de suspensión y amortiguadores para que tu BMW mantenga la pisada precisa y segura que le caracteriza."
+    },
+    {
+      "title": "Fugas de aceite en la carcasa del filtro",
+      "body": "Es un fallo clásico en muchos motores BMW, tanto diésel como gasolina. Las juntas de la carcasa del filtro de aceite se resecan con los cambios de temperatura y empiezan a rezumar. Es una reparación sencilla si se coge a tiempo, pero si se ignora puede provocar averías mayores. Lo revisamos siempre en cada mantenimiento."
+    },
+    {
+      "title": "Mantenimiento de la caja ZF 8HP",
+      "body": "La caja de cambios automática de 8 velocidades es una maravilla, pero no es 'libre de mantenimiento' como a veces se dice. El uso mixto de autopista AP-7 y paradas constantes en ciudad exige un aceite en buen estado. Realizamos el cambio de aceite y filtro de la caja según el protocolo de ZF para garantizar su suavidad y longevidad."
+    },
+    {
+      "title": "Fallos en el sistema de confort y NBT/EVO",
+      "body": "Un elevalunas que no funciona, un sensor de aparcamiento que 'canta' sin motivo, o un fallo en el sistema de infoentretenimiento. La electrónica es compleja, pero con el diagnóstico ISTA podemos identificar el módulo exacto que falla (FEM, BDC, NBT) y proceder a su reparación o codificación, una tarea imposible para un taller no especializado."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Conserva tu garantía oficial",
+      "body": "Seguimos a rajatabla el plan de mantenimiento de BMW y usamos recambios de calidad original (OE). El Reglamento (UE) 461/2010 te protege: no pierdes la garantía por pasar la revisión con nosotros."
+    },
+    {
+      "title": "Tu taller especialista en Gelida",
+      "body": "Olvídate de perder una mañana entera para llevar el coche al concesionario de Barcelona. Estamos aquí mismo, para darte un servicio profesional y cercano sin que tengas que desplazarte lejos."
+    },
+    {
+      "title": "Diagnóstico oficial ISTA",
+      "body": "No usamos máquinas multimarca. Conectamos tu coche al mismo software que utilizan en la fábrica de Múnich. Precisión total para encontrar la avería a la primera y sin errores."
+    },
+    {
+      "title": "Presupuestos sin sorpresas",
+      "body": "Te damos un presupuesto cerrado y detallado antes de empezar. Te explicamos las opciones y tú decides. Transparencia total para que controles el gasto en todo momento."
+    },
+    {
+      "title": "Homologados por Red ISTA",
+      "body": "Formamos parte de una red nacional de más de 100 talleres independientes especializados en BMW y MINI. Una garantía de calidad y conocimiento técnico compartido en toda España."
+    }
+  ],
+  "testimonialsIntro": "No podemos usar testimonios reales, pero estas son situaciones típicas de clientes de Gelida y alrededores que confían en nosotros.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Centre, Gelida",
+      "car": "BMW 320d G20 2021",
+      "body": "Tenía el coche en garantía y me tocaba la primera revisión. En el concesionario de Barcelona me daban cita para dentro de un mes y un presupuesto bastante alto. Un amigo me habló de ellos. Me explicaron lo de la ley europea, me dieron un presupuesto cerrado mucho más razonable y lo hicieron todo en un día. Sellaron el historial digital y todo perfecto.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Sant Salvador de la Calçada",
+      "car": "MINI Countryman Cooper S F60 2018",
+      "body": "El portón trasero eléctrico a veces no abría. En otro taller no sabían qué decirle. Aquí lo conectaron al ISTA y vieron que era un fallo de comunicación de un módulo. Lo reprogramaron y no ha vuelto a fallar. Se nota que saben lo que tocan, no van dando palos de ciego. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Sant Llorenç d'Hortons",
+      "car": "BMW X5 xDrive40d F15 2017",
+      "body": "Uso mucho el coche por caminos y carreteras secundarias y la suspensión neumática empezó a hacer un ruido raro. Me preocupaba que fuera una avería cara. Le echaron un ojo, vieron que era solo un sensor de altura que se había descalibrado y lo ajustaron. Podrían haberme dicho cualquier cosa, pero fueron súper honestos.",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Corbera de Llobregat",
+      "car": "BMW 118i F20 2016",
+      "body": "Pasé la revisión CBS aquí porque me lo recomendaron. El trato fue muy bueno y el precio correcto. El único 'pero' es que tardaron un poco más de lo previsto porque una pieza tardó en llegar, pero me mantuvieron informado en todo momento. Aún así, repetiré seguro. Vale la pena por la tranquilidad.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller Red ISTA en Gelida da servicio a toda la zona norte del Alt Penedès y municipios limítrofes. Si vives en el centro de Gelida, en urbanizaciones como Can Bargalló, La Valenciana o Martivell, o en pueblos cercanos, somos tu alternativa de confianza al concesionario oficial. Muchos de nuestros clientes vienen de Sant Sadurní d'Anoia, Corbera de Llobregat, Castellví de Rosanes y Sant Llorenç d'Hortons, buscando un servicio especializado sin tener que entrar en el área de Barcelona. Nuestro acceso es cómodo tanto desde la AP-7 como desde la N-340, a través de las carreteras locales como la BV-2425 o la C-243b.",
+  "zoneNeighborhoods": [
+    "Gelida Centre",
+    "Can Bargalló",
+    "La Valenciana",
+    "Martivell",
+    "Sant Salvador de la Calçada",
+    "Sant Sadurní d'Anoia",
+    "Corbera de Llobregat",
+    "Sant Llorenç d'Hortons",
+    "Castellví de Rosanes"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7 (Salida 26)",
+    "N-340",
+    "BV-2425",
+    "C-243b"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Tengo un BMW nuevo de renting, puedo hacer la revisión con vosotros en Gelida o tengo que ir al concesionario?",
+      "a": "En la mayoría de los casos, sí. Los contratos de renting están sujetos al mismo Reglamento (UE) 461/2010. Podemos realizar el mantenimiento oficial sellando el libro digital y la operadora de renting no debería poner ningún problema. Te recomendamos revisar las cláusulas de tu contrato, pero legalmente tienes derecho a elegir taller. Nosotros nos encargamos de que todo el proceso sea transparente."
+    },
+    {
+      "q": "Mi MINI hace muchos trayectos cortos por el pueblo y urbanizaciones. ¿Qué mantenimiento especial necesita?",
+      "a": "Es una pregunta muy inteligente. Los trayectos cortos son duros para cualquier motor, especialmente los diésel por el filtro de partículas (DPF). Recomendamos acortar ligeramente los intervalos de cambio de aceite, aunque el coche no lo pida, y hacer una revisión periódica del estado del DPF con nuestra máquina ISTA para evitar averías costosas. Una salida a la autopista de vez en cuando también ayuda."
+    },
+    {
+      "q": "Vengo de Sant Sadurní d'Anoia, ¿por qué debería traeros el coche a vosotros en vez de ir a Vilafranca o Barcelona?",
+      "a": "Por tres motivos principales: especialización, comodidad y transparencia. A diferencia de un taller genérico, solo tocamos BMW y MINI. Estamos a menos de 10 minutos de Sant Sadurní, ahorrándote el viaje a una ciudad más grande. Y te ofrecemos un presupuesto cerrado con la misma calidad de diagnóstico y recambio que el concesionario, pero con precios de taller independiente."
+    },
+    {
+      "q": "¿Usáis recambios originales BMW? ¿Afecta a la garantía si no lo son?",
+      "a": "Te damos a elegir. Podemos montar recambios con el logo de BMW o recambios de calidad OE (Equipo Original), que son fabricados por las mismas marcas que proveen a BMW (Bosch, Mahle, Mann, Lemförder...). Según la ley, usar recambios OE no anula la garantía de tu coche, ya que su calidad es idéntica. Te explicaremos las diferencias y el coste de cada opción para que decidas con total libertad."
+    },
+    {
+      "q": "El sistema de navegación de mi BMW X3 necesita una actualización de mapas. ¿Podéis hacerlo aquí en Gelida?",
+      "a": "Sí, podemos. Además de la mecánica y el diagnóstico de averías, también realizamos trabajos de codificación y programación de módulos. Esto incluye la actualización de mapas del sistema de navegación NBT o EVO, la codificación de nuevas funciones (como el plegado de retrovisores automático) o la programación de una batería nueva. Son tareas que requieren el software ISTA oficial."
+    },
+    {
+      "q": "He oído hablar de los problemas de la cadena en los motores N47. ¿Podéis 'echarle un ojo' al mío para prevenir?",
+      "a": "Claro que sí. Conocemos perfectamente la casuística del motor N47. Aunque no todos dan problemas, es cierto que algunos sufrieron un desgaste prematuro del patín tensor de la cadena de distribución. Podemos hacer una comprobación auditiva por un técnico experto y, si hay sospechas, realizar una verificación más a fondo para darte un diagnóstico claro y ofrecerte una solución preventiva si fuera necesario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, en casa. Aquí en Gelida.",
+  "closingCta": "Si quieres un diagnóstico preciso o un presupuesto para tu revisión sin compromiso, llámanos o escríbenos por WhatsApp. Estamos en Gelida para ayudarte a cuidar tu coche como se merece."
+}
