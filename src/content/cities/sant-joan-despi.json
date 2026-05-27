@@ -6,181 +6,188 @@
   "population": 32030,
   "lat": 41.36718,
   "lng": 2.0574,
-  "metaTitle": "Taller mecánico en Sant Joan Despí — Cuidamos coches con historia",
-  "metaDescription": "Tu coche tiene más de 10 años y te da miedo el taller? En Sant Joan Despí te damos un presupuesto cerrado y sin sorpresas. Pide tu cita y conduce tranquilo.",
-  "heroSubtitle": "Sabemos lo que es cruzar la B-23 cada día con un coche que ya no es nuevo y pensar 'que no se rompa hoy'. Estamos para eso.",
+  "metaTitle": "Taller BMW y MINI en Sant Joan Despí · Red ISTA · Garantía OK",
+  "metaDescription": "Mantén la garantía oficial de tu BMW o MINI. Taller especialista en Sant Joan Despí con diagnóstico ISTA. Revisiones, averías y electrónica. Pide presupuesto.",
+  "heroSubtitle": "¿Crees que para no perder la garantía de tu BMW nuevo tienes que ir al concesionario oficial? Eso ya no es así.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "En Sant Joan Despí, un coche con más de diez años no es una reliquia, es una herramienta. Es el SEAT Ibiza que aparcas como puedes en el barrio Centre para ir al mercado, el Renault Scénic que cargas hasta los topes para escapar el fin de semana, o el Volkswagen Golf TDI que te lleva cada mañana al trabajo, enfilando la B-23 con la esperanza de no encontrar el atasco de siempre a la altura de Esplugues. Comprendemos perfectamente esa sensación, ese nudo en el estómago cuando un testigo se enciende en el salpicadero o escuchas un ruido nuevo. No es solo la avería, es el miedo a una factura impredecible, la duda de si merece la pena seguir invirtiendo en un coche que ya tiene sus kilómetros y sus historias. Nuestro trabajo empieza ahí: en entender que tu coche no es solo una máquina, sino una parte fundamental de tu día a día en el Baix Llobregat.\n\nEl parque automovilístico de nuestra zona tiene una personalidad muy marcada. La sombra de la antigua fábrica de la Zona Franca y la actual de Martorell es alargada, y eso se nota en cada calle. Los SEAT León de segunda generación, los Altea XL y los incombustibles Ibiza de principios de los 2000 son mayoría en barrios como Les Planes o Torreblanca. Son coches duros, pero el tiempo no perdona. La humedad constante que sube del Llobregat se ceba con la electrónica y los contactos eléctricos de los modelos más veteranos, mientras que el tráfico denso de la Carretera de Laureà Miró (la N-340 a su paso por la ciudad) castiga sin piedad los embragues y los filtros de partículas de los diésel, obligados a un eterno arranca-para. Ese ruido intermitente que oyes al ralentí, que a veces recuerda al traqueteo del TRAM al cruzar hacia el Pont d'Esplugues, no es algo que debas ignorar. Es tu coche pidiendo una revisión honesta.\n\nPara un vehículo que ya ha soplado más de diez velas, la cita anual con la ITV de la zona (la de Sant Joan Despí-Cornellà) se convierte en una auténtica prueba de fuego. Los gases en los diésel, el estado de los silentblocks después de miles de badenes en zonas residenciales, o la eficacia de una suspensión que ha absorbido cada bache de la A-2 son los puntos críticos que quitan el sueño. Sabemos que la tentación de cruzar los dedos y 'probar suerte' es grande, pero a menudo es la peor decisión. Una pequeña fuga de aceite o un filtro de aire saturado, problemas relativamente sencillos y económicos de solucionar, pueden convertirse en un 'desfavorable' y en la obligación de volver al taller, esta vez con prisas y más gastos. Por eso, nuestro enfoque es preventivo: una inspección pre-ITV rigurosa que te da un diagnóstico claro y un presupuesto cerrado para que vayas a la inspección con la tranquilidad de que todo está en orden.\n\nNo somos un concesionario de coches nuevos. Somos mecánicos. Nuestro taller está pensado para el coche que conduce la gente de Sant Joan Despí, Sant Just o Cornellà. Para el Peugeot 207 que batalla por aparcamiento en el Eixample Residencial o el Ford Focus familiar que ya ha visto varias generaciones de niños en sus asientos traseros. Nuestra propuesta de valor no es venderte un coche nuevo, sino alargar la vida del tuyo de forma segura y asequible. Lo hacemos con total transparencia, explicándote qué le pasa a tu vehículo en un lenguaje que entiendes y dándote un precio final antes de tocar un solo tornillo. Queremos ser ese taller de confianza al que acudes sabiendo que cuidaremos de tu coche como si fuera nuestro, porque entendemos lo que significa para ti.",
-  "servicesIntro": "Desde la revisión anual para tu coche de batalla hasta la diagnosis de esa avería eléctrica que te trae de cabeza en Sant Joan Despí.",
-  "processIntro": "Olvídate de la incertidumbre. Te explicamos cada paso y te damos un presupuesto cerrado para que tengas el control total.",
+  "introLocal": "Si tienes un BMW o un MINI con pocos años, es muy probable que te asalte la misma duda cada vez que se acerca una revisión: ¿estoy obligado a llevarlo al concesionario oficial para no perder la garantía? Si vives en Les Planes o en la zona del Eixample de Sant Joan Despí, quizá piensas que tu única opción es coger la B-23 y peregrinar hasta el concesionario de la Zona Franca o de la A-2. Pues tenemos una buena noticia para ti: no es así. Gracias al Reglamento Europeo 461/2010, eres libre de elegir dónde realizar el mantenimiento de tu coche, siempre que el taller siga los procedimientos del fabricante y utilice recambios de calidad original. Y eso es exactamente lo que hacemos en nuestro centro de Sant Joan Despí, como taller homologado por Red ISTA.\n\nEntendemos perfectamente cómo se conduce un BMW en esta zona del Baix Llobregat. El día a día de muchos de nuestros clientes consiste en trayectos cortos: llevar a los niños al colegio, ir a comprar al Mercat del Centre, acercarse a la estación de Rodalies o del Trambaix... Este tipo de uso, sobre todo en los diésel B47 que montan tantos X1 y Serie 2 Gran Tourer, es el caldo de cultivo perfecto para la saturación del filtro de partículas (DPF). Por otro lado, los que usan la B-23 para entrar a Barcelona cada mañana saben lo que es el tráfico denso. Ese constante arranca-para pone a prueba la caja de cambios automática ZF 8HP y el sistema de frenos. Nosotros conocemos estos patrones y por eso, cuando nos traes tu coche, no solo hacemos lo que indica el plan CBS; también le echamos un ojo a esos puntos críticos que sabemos que pueden dar guerra.\n\nAdemás, Sant Joan Despí y sus alrededores, como Sant Just o Esplugues, están viendo una transformación notable en su parque móvil. Cada vez es más común ver un BMW i4 Gran Coupé, un iX3 o un 330e híbrido enchufable cargando en un garaje particular de la zona de Torreblanca o en los puntos públicos. Estos coches son el futuro, pero su tecnología requiere un conocimiento muy específico que la mayoría de talleres no tiene. No se trata solo de mecánica, sino de electrónica de alto voltaje, software y sistemas de gestión de batería. En nuestro taller estamos preparados para esta nueva era. Tenemos la formación y el equipo de diagnóstico oficial ISTA para trabajar con total seguridad y eficacia en la gama eléctrica e híbrida de BMW y MINI, asegurando que su complejo software está siempre actualizado y sus componentes específicos reciben el mantenimiento adecuado.\n\nEl clima mediterráneo de nuestra comarca también juega su papel. Los veranos calurosos y húmedos por la proximidad del Llobregat ponen a prueba los sistemas de climatización y refrigeración, sobre todo en motores turbo de gasolina como el B48. Una pequeña fuga de refrigerante o un fallo en el compresor del aire acondicionado puede convertirse en un problema serio si no se ataja a tiempo. Del mismo modo, la humedad invernal puede afectar a la electrónica a largo plazo, causando fallos esporádicos en módulos que, con nuestro equipo ISTA, podemos diagnosticar con precisión milimétrica. Son pequeños detalles que marcan la diferencia entre un mantenimiento genérico y uno especializado.\n\nEn definitiva, elegir nuestro centro Red ISTA en Sant Joan Despí es optar por la tranquilidad. Es saber que tu BMW o MINI, esté o no en garantía, está en manos de especialistas que lo conocen a fondo, que utilizan la misma tecnología de diagnóstico que el concesionario y que están conectados a los servidores de BMW en Alemania. Te ofrecemos la misma calidad y rigor técnico, pero con la cercanía, la transparencia y los precios de un taller independiente. Somos tu alternativa lógica al servicio oficial, justo al lado de casa, para que cuidar de tu coche sea más fácil y justo.",
+  "servicesIntro": "Desde la revisión CBS oficial para tu Serie 3 G20 en garantía hasta la codificación de un módulo NBT en un MINI Countryman que da guerra.",
+  "processIntro": "Con nosotros no hay sorpresas: diagnóstico oficial, presupuesto cerrado y tu OK antes de tocar un solo tornillo de tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos tu coche a nuestros equipos de diagnosis. Analizamos el problema a fondo para encontrar la causa real, no solo para tapar el síntoma. No damos palos de ciego."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito o por WhatsApp. Incluye piezas, mano de obra e IVA. El precio que ves es el precio que pagas, sin sorpresas de última hora."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin letra pequeña."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes tiempo para revisarlo todo y preguntarnos lo que necesites. Si decides no reparar, solo se factura el diagnóstico."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos inmediatamente, te llamamos por teléfono y te explicamos la situación antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos del plazo estimado de la reparación. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por Sant Joan Despí y alrededores."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y la herramienta adecuada para cada operación."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el cuadro, actualizamos el libro de mantenimiento digital en los servidores de BMW y hacemos una prueba final. Te lo entregamos listo y nos aseguramos de que todo vaya perfecto."
     }
   ],
-  "commonIssuesIntro": "El clima húmedo del Llobregat, el tráfico de la N-340 y los trayectos cortos por Sant Joan Despí provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más frecuentes que vemos en los BMW y MINI que pasan por nuestro taller: desde la famosa cadena de distribución en motores N47 y B47 hasta el consumo de aceite en los N20, pasando por fallos en el turbo, el sistema Vanos, la mecatrónica de la caja ZF 8HP o los módulos electrónicos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague por tráfico urbano",
-      "body": "El constante para-arranca en la Carretera de Laureà Miró o buscando aparcamiento en el barrio Centre desgasta prematuramente el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo. Hacemos un diagnóstico preciso y te ofrecemos un presupuesto cerrado para su sustitución."
+      "title": "Filtro de partículas (DPF) saturado en motores B47",
+      "body": "Los trayectos cortos por Sant Joan Despí —del barrio Centre a la estación de Rodalies o al polígono Fontsanta— son fatales para el DPF de los motores diésel B47 de los X1 y Serie 2. No llega a la temperatura para regenerar. Conectamos ISTA, forzamos la regeneración o realizamos una limpieza química para evitar una sustitución carísima."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor húmedo del verano en el Baix Llobregat hace que el aire acondicionado sea imprescindible. La falta de uso en invierno y las pequeñas fugas en el circuito son las causas más comunes de que no enfríe. Revisamos el sistema, detectamos fugas y recargamos el gas para que vuelvas a conducir fresco."
+      "title": "Mantenimiento de BMW híbridos (330e, X5 45e)",
+      "body": "Vemos cada vez más híbridos enchufables por zonas como Torreblanca. Su mantenimiento es muy específico: desde el líquido de frenos especial para sistemas regenerativos hasta el diagnóstico de la batería de alto voltaje. Estamos formados y equipados para intervenir en estos sistemas con total seguridad, algo que no todos los talleres pueden ofrecer."
     },
     {
-      "title": "Problemas de humos en diésel antes de la ITV",
-      "body": "Los trayectos cortos, como ir del polígono de las Begudes a la estación de Renfe, son fatales para los filtros de partículas (DPF) y las válvulas EGR de los motores diésel. Esto provoca un exceso de humos que garantiza un suspenso en la ITV. Realizamos limpiezas y diagnosis para solucionar el problema de raíz."
+      "title": "Fallo en la dirección eléctrica (EPS) de los MINI",
+      "body": "Maniobrar y aparcar por las calles más estrechas del Eixample de Sant Joan Despí fuerza mucho la dirección. En los MINI, la bomba de la dirección electrohidráulica o el módulo EPS pueden fallar. Diagnosticamos con ISTA el origen exacto del problema, sea eléctrico o mecánico, y lo solucionamos con la máxima garantía."
     },
     {
-      "title": "Ruidos en la suspensión y silentblocks",
-      "body": "Tantos años subiendo y bajando los badenes de zonas residenciales como Les Planes o circulando por calles con asfalto irregular acaban pasando factura a los amortiguadores y silentblocks. Si oyes golpes secos o chirridos en los baches, es una señal de desgaste. Un sistema en buen estado es clave para tu seguridad."
+      "title": "Fugas de aceite en la junta de la tapa de balancines",
+      "body": "El calor del verano en el Baix Llobregat acelera el envejecimiento de las juntas de goma. Es una avería muy común en motores de gasolina como el N20 o el B48. Detectamos la fuga, sustituimos la junta por una de calidad OE y limpiamos a fondo toda la zona para asegurar que no hay más pérdidas de aceite."
     },
     {
-      "title": "Fallos eléctricos por la humedad del Llobregat",
-      "body": "La cercanía al río genera una humedad ambiental que, en coches con más de una década, puede provocar corrosión en conexiones y fallos intermitentes en sensores, elevalunas o el cierre centralizado. Localizar estos 'gremlins' eléctricos es una de nuestras especialidades, ahorrándote tiempo y dinero."
+      "title": "Problemas con el climatizador en verano",
+      "body": "Llegar a julio y que el aire acondicionado no enfríe en plena B-23 es un clásico. Puede ser una simple fuga de gas, el compresor o un fallo electrónico del módulo IHKA. Hacemos un diagnóstico completo del circuito de climatización, localizamos la avería y te devolvemos el confort en el coche."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en tu coche de siempre",
-      "body": "Entendemos los problemas y achaques de los coches de más de 10 años. Sabemos dónde mirar y cómo reparar de forma eficaz y duradera, sin hacerte gastar de más en un vehículo que ya está amortizado."
+      "title": "Mantienes tu garantía oficial",
+      "body": "Gracias al Reglamento CE 461/2010 y a que seguimos a rajatabla los procedimientos de BMW con recambios OE, tu coche nuevo está cubierto. No tienes por qué pagar los precios de un concesionario para mantener la garantía."
     },
     {
-      "title": "Presupuesto que no cambia",
-      "body": "La mayor fuente de estrés en un taller es la factura final. Con nosotros, eso no existe. El precio que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos antes de seguir."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Nuestro equipo ISTA/Rheingold es el mismo que usan en BMW. Se conecta en tiempo real a sus servidores en Alemania. Vemos lo mismo que ellos, pero estamos aquí, en Sant Joan Despí."
     },
     {
-      "title": "Diagnóstico honesto, sin inflar",
-      "body": "Nuestro objetivo es que tu coche siga funcionando, no venderte reparaciones que no necesitas. Te explicamos el porqué de cada intervención y te damos una opinión profesional sobre lo que es urgente y lo que puede esperar."
+      "title": "Especialistas en eléctricos e híbridos",
+      "body": "No nos asusta el alto voltaje. Estamos preparados para el mantenimiento específico y las averías complejas de la gama BMW i, iX y los modelos híbridos enchufables que cada vez se ven más por la ciudad."
     },
     {
-      "title": "Cerca de ti en el Baix Llobregat",
-      "body": "Estamos ubicados en Sant Joan Despí, un punto estratégico y de fácil acceso para todos los vecinos de la comarca, desde Cornellà hasta Sant Feliu. Ahorra tiempo y trae tu coche a un taller de tu zona."
+      "title": "Presupuestos sin letra pequeña",
+      "body": "Te explicamos cada línea del presupuesto. Te damos a elegir entre recambio original BMW o recambio de calidad equivalente (OE). La decisión final siempre es tuya, sin presiones."
     },
     {
-      "title": "Pasamos la ITV por ti",
-      "body": "Si no tienes tiempo o simplemente quieres quitarte el trámite de encima, nosotros nos encargamos. Hacemos la pre-ITV, gestionamos la cita y llevamos tu coche a la inspección. Un servicio completo para tu comodidad."
+      "title": "Conocemos los problemas locales",
+      "body": "Sabemos cómo afecta a tu BMW la conducción por el Baix Llobregat, el tráfico de la B-23 o el clima de aquí. Anticipamos problemas antes de que se conviertan en una avería gorda y cara."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Sant Joan Despí que, como tú, llegaron preocupados y se fueron conduciendo tranquilos.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día para conductores de BMW y MINI como tú en Sant Joan Despí.",
   "testimonials": [
     {
-      "name": "Carles",
+      "name": "Jordi",
       "neighborhood": "Les Planes",
-      "car": "SEAT León 1.9 TDI 2008",
-      "body": "Llevaba meses con un ruido metálico al girar y con la ITV a la vuelta de la esquina estaba acojonado. Pensé que sería una fortuna. Aquí me explicaron que era una rótula de la suspensión. Me dieron el precio cerrado, lo acepté y en un día estaba listo. Pasé la ITV sin un solo fallo. Muy honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Centre",
-      "car": "Renault Clio 2011",
-      "body": "El aire acondicionado me dejó tirada en plena ola de calor. En otros sitios me daban cita para la semana siguiente. Llamé aquí y me hicieron un hueco para diagnosticarlo. Era una fuga pequeña. Lo repararon rápido y a un precio razonable. Me salvaron el verano, ¡literalmente!",
-      "rating": 5
-    },
-    {
-      "name": "Joan",
-      "neighborhood": "Torreblanca",
-      "car": "Peugeot 308 SW 2012",
-      "body": "Tocaba hacerle la distribución al coche familiar y el presupuesto del servicio oficial era una locura. Pedí presupuesto aquí y fue mucho más ajustado. Me dio confianza que el precio fuera cerrado desde el principio. El coche va perfecto y me ahorré una buena pasta. Totalmente recomendable.",
+      "car": "BMW X1 sDrive18d F48 2019",
+      "body": "Tenía la segunda revisión CBS y en el concesionario me daban un presupuesto altísimo. Me daba miedo perder la garantía, pero aquí me explicaron la normativa y que sellaban el libro digital. Me ahorré una pasta y el trato fue mucho más cercano. Un acierto.",
       "rating": 5
     },
     {
       "name": "Marta",
+      "neighborhood": "Centre",
+      "car": "MINI Cooper Eléctrico SE 2021",
+      "body": "Mi MINI eléctrico dejó de cargar. En el taller de siempre no sabían ni por dónde empezar. Aquí se conectaron con ISTA, vieron que era un fallo en el módulo de carga, pidieron la pieza y lo solucionaron. Da tranquilidad saber que hay especialistas en eléctricos fuera de la casa oficial.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
       "neighborhood": "Residencial Sant Joan",
-      "car": "Volkswagen Golf 2010",
-      "body": "Mi Golf no pasó la prueba de gases en la ITV. Estaba desesperada pensando que tendría que cambiar medio motor. Lo traje aquí, hicieron una diagnosis y limpiaron la EGR. El coche ahora va más fino y pasó la ITV sin problemas. Tardaron un día más de lo que me dijeron, pero el resultado fue bueno.",
+      "car": "BMW 330e G20 2020",
+      "body": "Me saltó un aviso de 'Propulsión'. En lugar de ir corriendo al concesionario de la A-2, vine aquí. Lo diagnosticaron en una hora: un sensor del sistema híbrido. Me explicaron todo el proceso, me dieron presupuesto cerrado y al día siguiente lo tenía listo. Súper profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Eixample",
+      "car": "BMW 118i F20 2016",
+      "body": "El coche hacía un ruido raro al girar en el parking. Pensaba que sería algo grave de la dirección. Lo revisaron y era solo una pieza del amortiguador. Podrían haberme contado cualquier milonga, pero fueron honestos. Me cambiaron lo justo y necesario. Se han ganado mi confianza.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio principalmente a conductores de Sant Joan Despí, cubriendo todos sus barrios, desde el núcleo histórico del Centre y el Eixample Residencial hasta las zonas de Les Planes y Torreblanca. Nuestra ubicación estratégica nos convierte en el taller de referencia para los municipios colindantes. Si vives o trabajas en Cornellà de Llobregat, Sant Just Desvern, Esplugues de Llobregat o Sant Feliu de Llobregat, estamos a pocos minutos. El acceso es muy sencillo a través de la N-340 (Carretera de Laureà Miró), la principal arteria que cruza la comarca. Además, estamos conectados con las grandes vías como la B-23, ideal si vienes de Barcelona o del interior, y con un acceso rápido a la Ronda de Dalt (B-20).",
+  "zoneText": "Nuestro taller en Sant Joan Despí ofrece servicio a toda la zona del Baix Llobregat. Estamos en una ubicación estratégica, con acceso inmediato desde la B-23 y la AP-2, lo que nos hace muy accesibles para clientes que vienen de Cornellà de Llobregat, Esplugues de Llobregat, Sant Just Desvern o Sant Feliu de Llobregat. Si trabajas en el polígono Fontsanta o vives en barrios como Les Planes, el Centre o Torreblanca, nos tienes a menos de cinco minutos. También damos servicio a conductores de poblaciones cercanas como Sant Boi de Llobregat o Viladecans que buscan un especialista en BMW y MINI sin tener que entrar en Barcelona.",
   "zoneNeighborhoods": [
-    "Centre",
     "Les Planes",
+    "Centre",
+    "Eixample",
     "Residencial Sant Joan",
     "Torreblanca",
     "Cornellà de Llobregat",
-    "Sant Just Desvern",
     "Esplugues de Llobregat",
-    "Sant Feliu de Llobregat",
-    "Polígon Fontsanta",
-    "Begudes"
+    "Sant Just Desvern",
+    "Sant Feliu de Llobregat"
   ],
   "zoneAccessRoutes": [
-    "B-23",
+    "B-23 (Autovía del Llobregat)",
+    "AP-2",
     "N-340",
-    "B-20 (Ronda de Dalt)",
-    "A-2"
+    "A-2 (Autovía del Nordeste)"
   ],
   "faqLocal": [
     {
-      "q": "Mi coche es un diésel de 2009, ¿tenéis experiencia con estos motores para pasar la ITV?",
-      "a": "Por supuesto. Es uno de nuestros servicios más demandados en Sant Joan Despí. Conocemos a la perfección los motores TDI, HDi y dCi de esa época y sus problemas habituales de opacidad de humos por culpa de la carbonilla en la EGR o el FAP. Hacemos una diagnosis específica, te proponemos la solución más efectiva (desde una descarbonización hasta una limpieza por ultrasonidos) y te aseguramos que cumplirá la normativa en la inspección."
+      "q": "Si paso la revisión de mi BMW X3 nuevo con vosotros en Sant Joan Despí, ¿pierdo la garantía oficial?",
+      "a": "No, en absoluto. El Reglamento Europeo 461/2010 te protege. Como taller homologado por Red ISTA, seguimos los planes de mantenimiento de BMW, usamos recambios OE (calidad original) o BMW original y sellamos el historial digital de tu coche. La garantía se mantiene intacta, pero a un precio más razonable que en el concesionario."
     },
     {
-      "q": "Vivo en el barrio Centre y las calles son muy estrechas, ¿es un problema dejar el coche?",
-      "a": "Para nada. Conocemos bien la zona y entendemos la dificultad de aparcar. Puedes acercarte al taller, dejarnos el coche y las llaves, y nosotros nos encargamos de gestionarlo. Si lo necesitas, podemos incluso coordinar la recogida en un punto cercano que te venga bien, como la Plaça de la Constitució, para facilitarte la logística. La comodidad de nuestros vecinos es una prioridad."
+      "q": "Mi BMW 330e híbrido necesita mantenimiento, ¿estáis preparados para ello?",
+      "a": "Totalmente. Sabemos que hay muchos híbridos y eléctricos circulando por Sant Joan Despí y alrededores. Contamos con la formación y el equipo específico para trabajar con sistemas de alto voltaje, desde el mantenimiento del sistema de frenada regenerativa hasta el diagnóstico de la batería. Puedes estar tranquilo."
     },
     {
-      "q": "Trabajo en TV3, ¿ofrecéis alguna facilidad para dejar y recoger el coche fuera de mi horario?",
-      "a": "Sí, somos conscientes de los horarios particulares de los que trabajáis en el complejo de TV3 o en las oficinas de alrededor. Ofrecemos flexibilidad: puedes dejar el coche a primera hora de la mañana antes de entrar a trabajar y recogerlo al salir. También disponemos de un buzón de seguridad para dejar las llaves fuera de horario, previo acuerdo. Llámanos y buscamos la mejor solución para ti."
+      "q": "Vivo en Cornellà, ¿por qué debería traeros el coche a Sant Joan Despí?",
+      "a": "Estamos a menos de 10 minutos de la mayoría de barrios de Cornellà, con acceso directo por la Carretera de Sant Joan Despí. Ofrecemos un nivel de especialización en BMW y MINI que no encontrarás en un taller genérico, con diagnóstico oficial ISTA y precios de taller independiente. Es un pequeño desplazamiento que vale mucho la pena."
     },
     {
-      "q": "El coche tiene etiqueta B de la DGT, ¿vale la pena seguir invirtiendo en él para moverme por el Baix Llobregat?",
-      "a": "Es la gran pregunta para muchos conductores de la zona. Nuestra opinión es que, si el coche está bien mantenido y no te da grandes problemas, absolutamente sí. La Zona de Bajas Emisiones afecta principalmente a Barcelona ciudad. Para moverte por Sant Joan Despí, Cornellà o Sant Feliu, un coche con etiqueta B es perfectamente válido. Te ayudamos a mantenerlo en forma con un coste razonable, alargando su vida útil varios años."
+      "q": "El motor diésel de mi Serie 1 (B47) hace mucho recorrido urbano por Sant Joan Despí, ¿qué mantenimiento especial necesita?",
+      "a": "Esa conducción es la peor enemiga del filtro de partículas (DPF). Recomendamos hacer una salida a carretera, por la B-23 o la AP-2, de vez en cuando para ayudarle a regenerar. Además, en la revisión, nosotros comprobamos su estado con ISTA y podemos forzar una regeneración o hacer una limpieza para evitar la costosa sustitución."
     },
     {
-      "q": "Hacéis revisiones pre-viaje para ir a la Costa Brava por la AP-7 en verano?",
-      "a": "Claro. Es un clásico de cada verano. Antes de un viaje largo por autopista como ese, es fundamental revisar los puntos clave de seguridad. Comprobamos niveles de líquidos, presión y estado de los neumáticos, frenos y el sistema de climatización. Es una revisión rápida y económica que te da la tranquilidad de que el coche no te dejará tirado camino de las vacaciones."
+      "q": "He comprado un MINI de segunda mano, ¿podéis hacerle una revisión completa para saber su estado real?",
+      "a": "Claro que sí. Es un servicio muy habitual. Hacemos una diagnosis electrónica completa con ISTA para ver si hay fallos ocultos en algún módulo, y una inspección mecánica exhaustiva de los puntos débiles de ese modelo concreto. Te llevarás un informe detallado para saber exactamente qué has comprado y qué necesita."
     },
     {
-      "q": "El TRAM pasa cerca de mi casa en Torreblanca, ¿el polvo metálico que suelta afecta al coche?",
-      "a": "Es una observación muy buena. Sí, el ferodo de los frenos del TRAM y el polvo metálico de las vías pueden depositarse sobre la carrocería y, sobre todo, ensuciar mucho los filtros de aire y de habitáculo. Recomendamos cambiar el filtro del habitáculo una vez al año para garantizar que respiras aire limpio dentro del coche, especialmente si aparcas en la calle en esa zona."
+      "q": "¿Codificáis funciones en el coche, como quitar el Start/Stop o activar otras opciones?",
+      "a": "Sí, realizamos codificaciones y programaciones. Con el equipo oficial ISTA podemos adaptar funciones, reequipar módulos (como un sistema de navegación NBT/EVO), programar llaves nuevas o actualizar el software de las centralitas (DME/DDE, EGS). Consúltanos qué quieres hacer y te diremos si es viable en tu modelo."
     },
     {
-      "q": "¿El presupuesto cerrado incluye el IVA y la mano de obra? No quiero ninguna sorpresa.",
-      "a": "Absolutamente todo. Cuando decimos 'presupuesto cerrado' lo cumplimos a rajatabla. La cifra que te damos desglosa el coste de las piezas, las horas de mano de obra y el IVA correspondiente. No hay letra pequeña ni costes ocultos. La única forma de que ese precio cambie es que tú autorices una reparación adicional que haya podido surgir durante la intervención, y siempre te lo consultaremos antes."
+      "q": "¿Tenéis neumáticos run-flat (RSC) y hacéis la geometría?",
+      "a": "Por supuesto. Trabajamos con las principales marcas de neumáticos run-flat homologados por BMW (marcaje de estrella). Y lo más importante: después de montarlos, realizamos una alineación con nuestro equipo de geometría 3D, ajustando las cotas a las especificaciones exactas de tu modelo de BMW o MINI, algo crucial para su comportamiento dinámico."
+    },
+    {
+      "q": "Me toca pasar la ITV en Sant Joan Despí, ¿ofrecéis alguna revisión pre-ITV?",
+      "a": "Sí, y es gratuita si realizas el mantenimiento o cualquier reparación con nosotros. Le echamos un ojo a todos los puntos clave de la inspección: luces, frenos, neumáticos, holguras, emisiones... Te avisamos de cualquier cosa que pueda 'cantar' en la ITV para que vayas sobre seguro y la pases a la primera sin problemas."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Sant Joan Despí",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o envíanos un WhatsApp y te daremos una cita para valorar tu coche. Recupera la confianza al volante aquí, en Sant Joan Despí."
+  "closingHeadline": "Tu especialista BMW y MINI en Sant Joan Despí",
+  "closingCta": "Si tu BMW o MINI necesita una revisión o notas que algo no va fino, no lo dejes pasar. Llámanos o envíanos un WhatsApp y te daremos cita. Estamos aquí, en Sant Joan Despí, para ayudarte."
 }
