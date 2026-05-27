@@ -1,0 +1,195 @@
+{
+  "slug": "torrelles-de-llobregat",
+  "name": "Torrelles de Llobregat",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 5740,
+  "lat": 41.35921,
+  "lng": 1.97453,
+  "metaTitle": "Taller BMW y MINI en Torrelles de Llobregat — Red ISTA Oficial",
+  "metaDescription": "Taller especialista BMW y MINI en Torrelles de Llobregat. Mantén tu garantía oficial con nuestro diagnóstico ISTA. Presupuestos cerrados. Pide cita.",
+  "heroSubtitle": "¿Tu BMW o MINI aún está en garantía? No tienes que ir a Barcelona y pagar de más. Haz la revisión oficial con nosotros sin perderla.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
+    }
+  ],
+  "introLocal": "Si tienes un BMW o un MINI relativamente nuevo en Torrelles de Llobregat, es muy probable que te hayas hecho esta pregunta: «¿Estoy obligado a pasar las revisiones en el concesionario oficial de Barcelona o Sant Boi para no perder la garantía?». La respuesta es un no rotundo, y es la razón de ser de nuestro taller. Gracias al Reglamento Europeo 461/2010, tienes total libertad para elegir dónde realizar el mantenimiento de tu coche, incluso desde el primer día, siempre que el taller siga los procedimientos del fabricante y utilice recambios de calidad equivalente. Entendemos perfectamente la situación: vives en una zona privilegiada como Can Güell o el centro de Torrelles, disfrutas de tu BMW Serie 3 G20 o tu X1 F48 en la carretera de Sant Vicenç dels Horts (la BV-2005), pero a la hora del mantenimiento, sientes que la única opción es desplazarte a un gran concesionario, con sus precios y sus tiempos de espera. Nosotros rompemos ese modelo. Somos un taller independiente, sí, pero estamos homologados por Red ISTA y equipados con el mismo sistema de diagnóstico oficial ISTA/Rheingold que usan ellos, conectado en tiempo real a los servidores de BMW AG en Alemania. Esto significa que podemos sellar tu libro de mantenimiento digital y realizar cualquier operación sin que tu garantía se vea afectada lo más mínimo.\n\nEl parque de BMW y MINI en nuestra zona del Baix Llobregat es muy característico. Vemos a diario muchos modelos SUV como el X1, X3 (G01) y MINI Countryman (F60), coches perfectos para la vida familiar en Torrelles, Sant Climent o Cervelló. A menudo están equipados con los eficientes motores diésel B47 o los gasolina B38 y B48. El patrón de uso típico —trayectos cortos para llevar a los niños al colegio, ir a comprar al centro o a Sant Vicenç, combinado con el uso más intenso del fin de semana— genera unas necesidades muy concretas. El filtro de partículas (DPF) de un 320d B47 puede sufrir si no tiene tiempo de regenerar correctamente en la A-2, y la batería de un MINI Cooper con sistema start-stop se resiente con tanto arranque y parada. Nuestro trabajo, siguiendo el plan CBS (Condition Based Service) de tu coche, es anticiparnos a esto. Al hacer la revisión, no solo cambiamos el aceite por el Castrol o Shell homologado LL-04 que corresponde, sino que usamos ISTA para verificar los ciclos de regeneración del DPF y el estado de carga de la batería, ofreciéndote soluciones reales para el tipo de conducción que haces en el día a día por la zona.\n\nPero Torrelles no es solo un lugar tranquilo para vivir; sus carreteras son un imán para quienes disfrutan conduciendo. La sinuosa BV-2002 que sube hacia Sant Climent es un tramo donde un BMW Serie 2 con motor B58 o un MINI John Cooper Works F56 pueden demostrar de lo que son capaces. Este tipo de conducción, más exigente, también requiere un mantenimiento específico que a menudo se pasa por alto. Unos frenos que responden bien, una geometría de dirección 3D perfectamente ajustada a las especificaciones de BMW para neumáticos run-flat y un sistema de refrigeración en perfecto estado son cruciales. Muchos de nuestros clientes con coches de altas prestaciones y en garantía prefieren realizar un cambio de aceite intermedio, antes de que el indicador CBS lo pida, como medida de protección para el motor. Nosotros podemos realizar esta operación, registrarla debidamente y aconsejarte sobre el estado real de componentes como las pastillas de freno o los amortiguadores, algo que te da una tranquilidad extra cuando circulas por carreteras de montaña como las que rodean el Parc Natural del Garraf, a un paso de aquí.\n\nEn definitiva, nuestro taller Red ISTA en Torrelles de Llobregat es la alternativa lógica y legal al concesionario oficial para tu BMW o MINI en garantía. Te ofrecemos exactamente lo mismo en el plano técnico: diagnóstico oficial ISTA, programación y codificación de módulos (DME, DDE, EGS), acceso a la información técnica de Múnich y la capacidad para trabajar en los últimos modelos híbridos y eléctricos. Pero lo hacemos con la cercanía, la transparencia y los costes de un taller especializado de pueblo. No tienes que pedir favores para que te lleven y te traigan de un polígono industrial en L'Hospitalet. No tienes que hablar con un asesor que no conoce tu coche. Hablas directamente con el técnico que va a conectar tu vehículo a ISTA y va a cuidar de él. Es el servicio que tu BMW merece, pero adaptado a la realidad y comodidad de vivir en Torrelles de Llobregat.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Torrelles, desde la revisión oficial CBS hasta la reparación electrónica más compleja.",
+  "processIntro": "Trabajamos con un proceso claro en cinco pasos. Sabrás qué le pasa a tu coche, cuánto cuesta y solo haremos lo que tú autorices.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas en la factura final."
+    },
+    {
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK explícito. Si durante la reparación aparece algo no previsto, paramos el trabajo, te llamamos inmediatamente y te explicamos las opciones antes de continuar."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo los protocolos de BMW, con recambios OE (calidad original) o BMW Genuino según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos herramienta específica."
+    },
+    {
+      "title": "Entrega, reseteo CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el iDrive y el cuadro, actualizamos el libro de mantenimiento digital de tu coche y realizamos una prueba en carretera si es necesario para asegurar que todo está perfecto."
+    }
+  ],
+  "commonIssuesIntro": "En Torrelles y sus alrededores, vemos patrones de uso que provocan averías recurrentes en BMW y MINI, desde la saturación del DPF en motores B47 por trayectos cortos hasta problemas con los neumáticos run-flat en carreteras sinuosas.",
+  "commonIssues": [
+    {
+      "title": "Revisión Oficial CBS en Garantía",
+      "body": "Muchos propietarios en Torrelles creen que deben ir al concesionario para la revisión de su BMW nuevo. Realizamos el mantenimiento según el plan CBS de BMW, usando aceite LL-04 y recambios OE. Sellamos el libro digital para que tu garantía oficial de fábrica siga 100% intacta, como exige la ley."
+    },
+    {
+      "title": "DPF saturado en diésel B47/N47",
+      "body": "Los trayectos habituales entre Torrelles, Sant Vicenç y Sant Boi son a menudo demasiado cortos para que el filtro de partículas se regenere. Conectamos ISTA para forzar una regeneración, limpiamos el sensor y te aconsejamos sobre cómo evitar que vuelva a ocurrir, un problema muy común en los X1 y Serie 3 de la zona."
+    },
+    {
+      "title": "Desgaste irregular en neumáticos Run-Flat",
+      "body": "Las carreteras con curvas como la BV-2002 exigen mucho a los neumáticos RSC (run-flat). Un bordillo o un bache puede desajustar la alineación, causando un desgaste prematuro y caro. Realizamos una geometría 3D con las cotas exactas de BMW para tu modelo, asegurando un comportamiento y durabilidad óptimos."
+    },
+    {
+      "title": "Consumo de aceite en motores N20/B48",
+      "body": "Algunos motores de gasolina de 4 cilindros pueden presentar un consumo de aceite superior al esperado. Antes de asumir una reparación mayor, diagnosticamos con ISTA posibles causas como el sistema de ventilación del cárter (PCV) o las juntas de los vástagos de válvula, buscando la solución más efectiva y económica."
+    },
+    {
+      "title": "Fallos en el sistema de confort MINI",
+      "body": "Los MINI (F55/F56/F60) a veces presentan fallos eléctricos esporádicos: un elevalunas que no responde, un cierre que falla... La humedad del valle del Llobregat puede influir. En lugar de cambiar piezas al azar, nuestro diagnóstico ISTA nos permite localizar el módulo o cableado exacto que está fallando."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Mantén tu garantía oficial",
+      "body": "Por ley (Reglamento 461/2010), puedes pasar la revisión en nuestro taller desde el primer día sin perder la garantía del fabricante. Usamos piezas OE y seguimos los procedimientos de BMW a rajatabla."
+    },
+    {
+      "title": "La misma tecnología que el concesionario",
+      "body": "Nuestro sistema de diagnóstico ISTA es el software oficial de BMW, conectado a sus servidores en Alemania. Vemos lo mismo que ellos, programamos y codificamos igual que ellos. Sin peros."
+    },
+    {
+      "title": "Precios de taller local",
+      "body": "No tenemos la enorme estructura de un concesionario de Barcelona. Eso se traduce en unos costes de mano de obra más ajustados, ofreciéndote la misma calidad técnica por una factura final más razonable."
+    },
+    {
+      "title": "Hablas con quien repara tu coche",
+      "body": "Aquí no hay intermediarios. El mecánico que diagnostica y repara tu BMW es quien te explica el problema y las soluciones. Un trato directo, claro y de confianza, algo que se valora en un pueblo como Torrelles."
+    },
+    {
+      "title": "Especialistas en BMW y MINI",
+      "body": "No somos un taller genérico. Solo trabajamos con estas dos marcas. Conocemos al dedillo los motores B47 y B48, las cajas ZF 8HP y los fallos endémicos de cada modelo que circula por el Baix Llobregat."
+    }
+  ],
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que solucionamos cada día para conductores de BMW y MINI de Torrelles y alrededores.",
+  "testimonials": [
+    {
+      "name": "Joan",
+      "neighborhood": "Can Güell",
+      "car": "BMW X3 xDrive20d G01 2021",
+      "body": "Tenía que pasar la primera revisión y me daba pánico perder la garantía si no iba al concesionario de Sant Boi. Me explicaron el reglamento europeo y cómo trabajaban con ISTA. Hicieron la revisión, actualizaron el historial digital del coche y me ahorré un buen pico y el viaje. Un servicio impecable.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Torrelles de Llobregat (Centre)",
+      "car": "MINI Cooper S F56 2018",
+      "body": "El coche se quedaba sin batería cada dos por tres y en otro taller no daban con la tecla. Aquí lo conectaron a la máquina oficial y en una hora encontraron un consumo parásito en el módulo de la radio. Solucionado el mismo día. Se nota que saben lo que tocan en estos coches.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Sant Vicenç dels Horts",
+      "car": "BMW 330e G20 2020",
+      "body": "Necesitaba activar el Android Auto, que mi coche no traía de serie. En el concesionario me pedían una fortuna. Aquí me lo codificaron con el software oficial en un momento y a un precio mucho más razonable. Ahora subo a Torrelles para todo, me compensa de sobras.",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Cervelló",
+      "car": "BMW 118d F20 2016",
+      "body": "Me saltó el aviso de la revisión y ya no estaba en garantía. Les pedí presupuesto y me lo dieron cerrado, detallando el aceite y todos los filtros. Fue exactamente lo que pagué. Me gustó mucho la transparencia, no como en otros sitios donde siempre hay sorpresas. Volveré sin duda.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller Red ISTA da servicio principalmente a propietarios de BMW y MINI en Torrelles de Llobregat y sus urbanizaciones, como Can Güell, Can Miret y Cesalpina. Por nuestra ubicación y fácil acceso a través de la BV-2005, somos la opción más cómoda y especialista para muchos conductores de municipios colindantes del Baix Llobregat. Recibimos clientes a diario de Sant Vicenç dels Horts, Santa Coloma de Cervelló y Sant Climent de Llobregat. También nos visitan desde zonas más alejadas como Cervelló, La Palma de Cervelló o incluso Begues, que prefieren un trato cercano y especializado antes que bajar a los grandes concesionarios del área metropolitana de Barcelona. El acceso es sencillo tanto por la BV-2002 como por las conexiones rápidas a vías principales como la A-2 y la B-23.",
+  "zoneNeighborhoods": [
+    "Torrelles de Llobregat",
+    "Can Güell",
+    "Can Miret",
+    "Cesalpina",
+    "Sant Vicenç dels Horts",
+    "Sant Climent de Llobregat",
+    "Santa Coloma de Cervelló",
+    "Cervelló",
+    "La Palma de Cervelló",
+    "Begues"
+  ],
+  "zoneAccessRoutes": [
+    "BV-2005",
+    "BV-2002",
+    "A-2 (Autovía del Nordeste)",
+    "B-23",
+    "AP-7 (Autopista del Mediterráneo)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿De verdad no pierdo la garantía oficial de BMW si hago la revisión en Torrelles con vosotros?",
+      "a": "Rotundamente no. El Reglamento (UE) 461/2010 protege tu derecho a elegir taller. Mientras sigamos el plan de mantenimiento de BMW, usemos recambios de calidad original (OE) y aceites homologados, y sellemos el historial de servicio digital (algo que hacemos con nuestro equipo oficial ISTA), tu garantía permanece intacta. Es la ley."
+    },
+    {
+      "q": "Tengo un BMW híbrido (330e/X5 45e), ¿estáis preparados para trabajar en él?",
+      "a": "Sí, sin problema. Nuestro equipo de diagnóstico ISTA es el mismo que usa el concesionario y es esencial para trabajar con la parte eléctrica y las baterías de alto voltaje de los modelos híbridos enchufables (PHEV) de BMW. Estamos formados para realizar tanto el mantenimiento del motor de combustión como el diagnóstico del sistema eléctrico."
+    },
+    {
+      "q": "Vivo en Sant Vicenç dels Horts, ¿me compensa subir a Torrelles?",
+      "a": "Totalmente. Estás a menos de 10 minutos en coche por la BV-2005. Lo que te ahorras en tiempo y en el coste de la factura comparado con ir a un concesionario en Barcelona o la zona del Llobregat hace que el desplazamiento sea muy rentable. Además, te ofrecemos un trato mucho más directo y personal."
+    },
+    {
+      "q": "Mi MINI hace muchos trayectos cortos por el pueblo, ¿qué mantenimiento especial necesita?",
+      "a": "Este uso es exigente para la batería, el sistema start-stop y el filtro de partículas si es diésel. Recomendamos revisar el estado de la batería con más frecuencia y, si es diésel, sacarlo a carretera (por ejemplo, un paseo por la A-2) una vez a la semana durante 20-30 minutos para asegurar la regeneración del DPF. En la revisión, lo comprobamos todo con ISTA."
+    },
+    {
+      "q": "El sistema iDrive de mi coche necesita una actualización de software, ¿podéis hacerlo?",
+      "a": "Sí. Al estar conectados a los servidores de BMW AG con ISTA, podemos realizar actualizaciones de software de todos los módulos de tu coche, incluido el sistema de navegación y entretenimiento iDrive (NBT/EVO). También podemos realizar codificaciones para activar funciones ocultas o personalizar opciones según tus preferencias."
+    },
+    {
+      "q": "¿Usáis recambios originales BMW o de otras marcas?",
+      "a": "Te damos a elegir. Por defecto, trabajamos con recambio de calidad original (OE), que son las mismas piezas fabricadas por Bosch, Mahle, Mann, ZF o Lemförder que BMW empaqueta en sus propias cajas, pero sin su logo. Tienen la misma calidad a un precio inferior. Si lo prefieres, podemos montar recambio original BMW sin ningún problema. Siempre te lo detallaremos en el presupuesto."
+    },
+    {
+      "q": "El aviso de la revisión CBS me ha saltado y me voy de viaje, ¿tenéis cita rápido?",
+      "a": "Hacemos lo posible por adaptarnos a las urgencias. Al ser un taller local en Torrelles, tenemos más flexibilidad que un gran concesionario. Llámanos o envíanos un WhatsApp y buscaremos un hueco lo antes posible para que puedas viajar con el mantenimiento de tu BMW al día y con total tranquilidad."
+    },
+    {
+      "q": "¿Qué diferencia hay entre vuestro ISTA y la máquina de un taller genérico?",
+      "a": "La diferencia es total. Una máquina multimarca lee códigos de error genéricos. Nuestro sistema ISTA es el software oficial de BMW: ve todos los módulos del coche, nos da los planes de reparación guiados por el fabricante, nos permite codificar, programar y acceder al historial completo del vehículo en los servidores de Alemania. Es la noche y el día."
+    }
+  ],
+  "closingHeadline": "Tu especialista BMW y MINI en Torrelles de Llobregat",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o envíanos un WhatsApp y te daremos cita para cuidar de tu coche como se merece, aquí mismo en Torrelles."
+}
