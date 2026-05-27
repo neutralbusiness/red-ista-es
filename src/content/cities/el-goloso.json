@@ -6,9 +6,9 @@
   "population": 19036,
   "lat": 40.55342,
   "lng": -3.69968,
-  "metaTitle": "Taller BMW y MINI en El Goloso, Madrid — Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en El Goloso (Madrid). Diagnóstico oficial ISTA, revisiones CBS, mecánica y electrónica. Tu alternativa al concesionario.",
-  "heroSubtitle": "¿Buscas un taller en la zona norte de Madrid que entienda tu BMW Serie 3 o Serie 5 y no te cobre como un concesionario? Aquí hablamos tu idioma.",
+  "metaTitle": "Taller MINI y BMW en El Goloso, Madrid — Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en MINI y BMW en El Goloso. Diagnóstico oficial ISTA, mecánica avanzada para Cooper S/JCW y BMW. Presupuestos cerrados. Pide cita.",
+  "heroSubtitle": "¿Buscas un especialista en El Goloso que entienda de verdad la mecánica de tu MINI Cooper S o JCW? Aquí hablamos tu mismo idioma.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -28,160 +28,163 @@
     },
     {
       "icon": "✅",
-      "text": "Sin perder la garantía BMW"
+      "text": "Sin perder la garantía MINI"
     },
     {
       "icon": "🏭",
       "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Si vives en El Goloso o en urbanizaciones cercanas como Tres Cantos o Montecarmelo, sabes que tu BMW Serie 3 o Serie 5 es más que un coche: es tu herramienta diaria para moverte por la M-607. Ya sea para bajar a Plaza de Castilla o para el trayecto al trabajo en el Parque Tecnológico de Madrid, dependes de él. Y cuando salta el aviso de revisión CBS, empieza el dilema: ¿vuelvo al concesionario oficial de la zona norte y me preparo para una factura elevada por un simple cambio de aceite y filtros, o me arriesgo con un taller genérico que no sabe ni qué es el aceite LL-04 que exige tu motor B47 o B48? Entendemos perfectamente esa duda. Por eso existimos. Somos el punto intermedio que buscas: un centro especializado en BMW y MINI, homologado por Red ISTA, con la misma capacidad de diagnóstico que el servicio oficial, pero con la estructura de costes de un taller independiente.\n\nEl clima de Madrid no da tregua, y tu BMW lo sabe. Los inviernos heladores en esta zona de la sierra, con temperaturas que bajan de cero, castigan las baterías AGM y son un reto para los arranques en frío de los motores N47 más veteranos. Luego llega el verano, y los 40 grados ponen a prueba el sistema de refrigeración en los atascos de la M-40. Esta dualidad climática, combinada con un uso intensivo que mezcla la velocidad constante de la M-607 con el tráfico denso de acceso a la capital, genera un estrés mecánico específico. No es lo mismo un BMW que solo callejea por el centro que el tuyo, que acumula kilómetros en carretera pero también sufre en retenciones. Este patrón de uso es el caldo de cultivo perfecto para la saturación del filtro de partículas (DPF) en los diésel y para el desgaste prematuro de componentes como la bomba de agua eléctrica o el sistema Valvetronic en los gasolina.\n\nAdemás, la zona norte de Madrid, desde El Goloso hasta Sanchinarro, está viendo una explosión de modelos electrificados. Cada vez es más común ver un BMW 330e, un X5 45e o incluso un i4 o un iX aparcado en los chalets y urbanizaciones. Aquí surge un nuevo problema: la mayoría de talleres independientes no están preparados. No tienen ni la formación ni, más importante, el equipo de diagnóstico oficial ISTA para trabajar con seguridad en los sistemas de alta tensión o para diagnosticar una avería en el módulo de carga. Se limitan a decirte que “eso, mejor al concesionario”. Nosotros no. Como parte de Red ISTA, tenemos acceso a la telemetría y a los protocolos de BMW AG para estos modelos, ofreciendo una alternativa real y segura para el mantenimiento y reparación de tu BMW híbrido o eléctrico.\n\nNuestro taller funciona como un cirujano especialista con el mismo instrumental de última generación que el gran hospital, pero en una clínica privada: más accesible, más directa y con un trato personal. Cuando conectamos tu BMW a nuestro sistema ISTA/Rheingold, no estamos usando un lector de códigos genérico. Estamos abriendo una línea directa con los servidores de BMW en Alemania. Esto nos permite ver exactamente lo mismo que vería un técnico en el concesionario de Las Tablas: el historial completo de tu coche, los boletines técnicos específicos para tu número de bastidor y los planes de mantenimiento CBS detallados. Es la única forma de hacer un diagnóstico preciso, codificar un nuevo módulo o actualizar el software de la caja de cambios ZF 8HP con total garantía.\n\nEn resumen, si tienes un BMW o un MINI y vives por la zona de la carretera de Colmenar, ya no tienes que elegir entre pagar de más o arriesgar la fiabilidad de tu coche. Puedes venir a un centro de la Red ISTA. Haremos tu revisión CBS con aceite Castrol o Shell homologado LL-04, sellaremos tu libro de mantenimiento digital para que no pierdas la garantía ni el valor de reventa y te daremos un presupuesto cerrado y transparente. Queremos ser tu taller de confianza, el sitio al que traes tu Serie 3 sabiendo que lo cuidaremos como si fuera nuestro, para que tu única preocupación sea disfrutarlo en la siguiente escapada a la Sierra de Guadarrama.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en la zona de El Goloso, con la precisión del diagnóstico oficial y la cercanía de un taller especialista.",
-  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
+  "introLocal": "Si conduces un MINI, especialmente un Cooper S o un John Cooper Works, sabes que no es un coche cualquiera. Es un vehículo con un carácter muy definido, que exige una puesta a punto y un mantenimiento precisos. En la zona de El Goloso, tu rutina diaria probablemente transcurre por la M-607, ya sea en dirección a Madrid, hacia el campus de Cantoblanco o a los parques empresariales de Tres Cantos. Este entorno define por completo las necesidades de tu MINI. No es lo mismo el desgaste que sufre un motor B48 en el tráfico denso de primera hora para llegar a Plaza de Castilla, que el que experimenta en una escapada de fin de semana por la carretera de la sierra hacia Cercedilla. Como taller homologado por Red ISTA en el área norte de Madrid, comprendemos esta dualidad y nos especializamos en mantener tu MINI en su punto óptimo de rendimiento, con la misma tecnología de diagnóstico ISTA que usarían en el concesionario oficial, pero con la cercanía y transparencia de un taller independiente.\n\nEl tipo de conducción en el eje de la M-607 es un factor crítico. Los trayectos cortos y repetidos con el motor frío, típicos de quien vive en El Goloso y trabaja en los alrededores, son el escenario perfecto para la acumulación de carbonilla en las válvulas de admisión de los motores de inyección directa como el B38 y B48. Por otro lado, el tráfico intermitente, con constantes fases de aceleración y frenada, somete a un estrés enorme al sistema de frenos, al embrague en los modelos manuales y al convertidor de par en los automáticos. El clima continental de Madrid, con inviernos fríos y veranos muy calurosos, añade otra capa de complejidad. El sistema de refrigeración y el aire acondicionado de tu MINI trabajan al límite durante meses, mientras que en invierno la batería sufre en cada arranque. Nuestro enfoque no es genérico; analizamos cómo tu uso específico en el entorno de El Goloso afecta a componentes clave y aplicamos un mantenimiento preventivo para evitar averías costosas.\n\nPara un propietario de un MINI de altas prestaciones, la precisión del chasis y la dirección es innegociable. La dirección electromecánica (EPS) de los modelos F55, F56 y F57 es fantástica, pero sensible. Las irregularidades del asfalto, los badenes omnipresentes en zonas residenciales como Montecarmelo o Tres Cantos, y el constante maniobrar en aparcamientos pueden desajustar sus parámetros o generar ruidos. Un diagnóstico genérico aquí no sirve. Se requiere el software oficial ISTA para acceder al módulo de dirección, leer los valores del sensor de par y ángulo, y recalibrarlo según las especificaciones de fábrica. Lo mismo ocurre con el sistema de control de estabilidad (DSC) o la gestión del turbo. En nuestro centro, conectado en tiempo real a los servidores de BMW AG, realizamos estos ajustes con la máxima precisión, asegurando que el 'go-kart feeling' de tu MINI permanezca intacto.\n\nNuestra propuesta de valor como centro de la Red ISTA en la zona de El Goloso es clara: ofrecemos una especialización de nivel de concesionario oficial sin sus costes de estructura. Sabemos que los propietarios de MINI y BMW de esta área, desde Fuencarral hasta Colmenar Viejo, valoran la tecnología y la ingeniería de sus vehículos. Por eso no aceptan soluciones a medias. Cuando nos traes tu MINI, no solo lo conectamos a una máquina. Interpretamos los datos que nos da el sistema ISTA/Rheingold, los cruzamos con nuestra experiencia en motores como el N18 o el B48, y te ofrecemos un diagnóstico honesto y un presupuesto cerrado. Ya sea para una revisión CBS siguiendo el plan oficial, una descarbonización de la admisión o la solución a un fallo electrónico complejo, te garantizamos un servicio meticuloso y profesional, enfocado en la fiabilidad y el rendimiento de tu vehículo.",
+  "servicesIntro": "Ofrecemos un catálogo completo de servicios para tu MINI o BMW en El Goloso, siempre con diagnóstico oficial ISTA y recambios de calidad OE o BMW Original.",
+  "processIntro": "Trabajamos con un proceso de 5 pasos diseñado para darte total visibilidad y control, garantizando siempre un presupuesto cerrado y sin sorpresas.",
   "processSteps": [
     {
       "title": "Diagnóstico oficial ISTA",
-      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
+      "body": "Conectamos tu MINI o BMW al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
       "title": "Presupuesto cerrado y transparente",
-      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin letra pequeña."
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin compromiso."
     },
     {
       "title": "Tu autorización expresa",
-      "body": "Nada se toca en tu coche sin tu OK por escrito. Si durante la reparación aparece algo imprevisto, paramos, te llamamos y te enviamos fotos antes de continuar."
+      "body": "No se realiza ninguna operación sin tu consentimiento explícito. Si durante la reparación surge un imprevisto, detenemos el proceso y contactamos contigo para explicarlo antes de continuar."
     },
     {
       "title": "Reparación especializada",
-      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE (Bosch, ZF, Mahle) o BMW original. Usamos aceites homologados LL-04 y respetamos todos los pares de apriete."
+      "body": "Aplicamos los protocolos de BMW, con recambios OE o BMW Original. Usamos aceites homologados LL-01/LL-04, respetamos los pares de apriete y empleamos herramienta específica para cada modelo."
     },
     {
       "title": "Entrega, borrado CBS y seguimiento",
-      "body": "Borramos los avisos del cuadro, actualizamos el libro digital de mantenimiento en el iDrive y en los servidores de BMW, y te entregamos el coche listo para rodar."
+      "body": "Reseteamos los avisos de servicio (CBS) en el cuadro, actualizamos el libro de mantenimiento digital y realizamos un seguimiento posterior para confirmar que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que solucionamos en los BMW y MINI que nos llegan de El Goloso y alrededores, muchos de ellos agravados por el tipo de conducción y el clima local.",
+  "commonIssuesIntro": "Identificamos y solucionamos las averías más frecuentes en los MINI y BMW que circulan por la zona norte de Madrid, desde problemas derivados del tráfico urbano hasta fallos específicos de motorización.",
   "commonIssues": [
     {
-      "title": "Filtro de partículas (DPF) saturado",
-      "body": "El trayecto diario por la M-607 con sus atascos intermitentes impide que los motores diésel B47 y N57 completen las regeneraciones del DPF. Conectamos el equipo ISTA para forzar una regeneración controlada o realizamos una limpieza profesional, evitando la costosa sustitución de la pieza."
+      "title": "Dirección Eléctrica (EPS) imprecisa en MINI",
+      "body": "El uso intensivo en ciudad y los badenes de zonas como Tres Cantos pueden afectar al sensor de par de la dirección EPS. Con ISTA, diagnosticamos y recalibramos el sistema para devolverle su precisión original, solucionando ruidos y falta de asistencia que otros talleres no detectan."
     },
     {
-      "title": "Fallos en baterías y sistema eléctrico",
-      "body": "El contraste térmico de Madrid, con heladas en El Goloso en invierno y calor extremo en verano, agota las baterías AGM. Diagnosticamos problemas de consumo parasitario y registramos la nueva batería con ISTA, algo crucial para que el sistema de carga inteligente funcione correctamente."
+      "title": "Acumulación de carbonilla en admisión (B38/B48)",
+      "body": "Los trayectos cortos por la M-607 o dentro de El Goloso impiden que el motor de inyección directa alcance su temperatura óptima, generando carbonilla. Realizamos limpieza por chorreado de cáscara de nuez, un método no invasivo que restaura el flujo de aire y la potencia original."
     },
     {
-      "title": "Tirones en la caja de cambios ZF 8HP",
-      "body": "El uso intensivo en el tráfico de acceso a Madrid y los cambios bruscos de ritmo en la M-40 pueden causar tirones o brusquedad en la caja automática. Realizamos el mantenimiento con el aceite y filtro específicos de ZF y reseteamos las adaptaciones con ISTA para devolverle su suavidad original."
+      "title": "Desgaste del soporte superior del motor",
+      "body": "Es un punto débil conocido en los MINI, especialmente en los Cooper S y JCW. El par motor y las vibraciones, acentuados por una conducción deportiva o el stop-and-go, fatigan el silentblock. Lo reemplazamos por recambio de calidad OE para eliminar vibraciones en el habitáculo."
     },
     {
-      "title": "Averías en sistema de alta tensión (Híbridos/Eléctricos)",
-      "body": "En los cada vez más numerosos BMW 330e o iX de la zona, pueden surgir fallos en el cargador embarcado o en la gestión de la batería. Somos de los pocos talleres independientes en el norte de Madrid con la capacidad y certificación para diagnosticar y reparar estos sistemas de forma segura."
+      "title": "Fugas de aceite por la junta del soporte del filtro",
+      "body": "Los ciclos de calor y frío extremos del clima de Madrid resecan las juntas. Una fuga común en motores BMW y MINI es la del soporte del filtro de aceite. La localizamos y sustituimos la junta usando recambio de calidad original para evitar averías mayores en el sistema de lubricación."
     },
     {
-      "title": "Desgaste de suspensión y neumáticos Run-flat",
-      "body": "Los badenes de urbanizaciones como Montecarmelo o Tres Cantos, sumados a la rigidez de los neumáticos run-flat, aceleran el desgaste de silentblocks y amortiguadores. Realizamos una alineación 3D con las cotas específicas de BMW para corregir el desgaste irregular y mejorar el confort."
+      "title": "Fallos de encendido por bobinas o bujías",
+      "body": "En los motores turbo de gasolina, las bobinas y bujías son componentes de alto desgaste. Un fallo puede causar tirones y pérdida de potencia. Diagnosticamos con ISTA cuál es el cilindro afectado y sustituimos los componentes necesarios para restablecer un funcionamiento suave y eficiente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico nivel concesionario",
-      "body": "Usamos el mismo software oficial ISTA que el concesionario. No adivinamos el fallo, lo identificamos con precisión milimétrica, ahorrándote tiempo y dinero en piezas innecesarias."
+      "title": "Especialización real en MINI",
+      "body": "No somos un taller genérico. Entendemos las particularidades de los chasis F55/F56/F57 y los motores B38/B48, desde la electrónica hasta los puntos débiles de su mecánica. Tu Cooper S o JCW está en manos expertas."
     },
     {
-      "title": "Especialistas en tu motor",
-      "body": "Conocemos a la perfección los motores B47, B48, N20 o B58. Sabemos dónde fallan, qué necesitan y cómo repararlos siguiendo los procedimientos que marca el fabricante."
+      "title": "Diagnóstico de nivel concesionario",
+      "body": "Utilizamos el sistema oficial BMW ISTA. Esto nos permite ver lo que otros no ven: códigos de error específicos, calibraciones de módulos y acceso directo a la base de datos técnica de Múnich."
     },
     {
-      "title": "Preparados para BMW eléctricos",
-      "body": "A diferencia de otros talleres, estamos formados y equipados para mantener y reparar la nueva generación de BMW híbridos y eléctricos. Tu 330e o i4 está en buenas manos."
+      "title": "Transparencia total y presupuesto cerrado",
+      "body": "Antes de cualquier intervención, recibirás un presupuesto detallado y claro. No hay costes ocultos ni sorpresas. Tú tienes el control total sobre la reparación de tu vehículo en todo momento."
     },
     {
-      "title": "Precios de taller de barrio",
-      "body": "Te ofrecemos la tecnología de un servicio oficial pero con la estructura de costes de un taller independiente. Transparencia total y facturas sin sustos."
+      "title": "Recambios de calidad OE o BMW Original",
+      "body": "Te damos a elegir entre recambio original BMW o piezas de fabricantes de primer equipo (OE) como Bosch, Mahle o Sachs, garantizando siempre un ajuste y una durabilidad idénticos al original."
     },
     {
-      "title": "Mantenemos tu garantía oficial",
-      "body": "Seguimos el plan de mantenimiento de BMW a rajatabla y sellamos el libro de servicio digital. Tu garantía permanece intacta y el valor de tu coche, protegido."
+      "title": "Sin perder la garantía del fabricante",
+      "body": "Nuestras revisiones y reparaciones se realizan siguiendo escrupulosamente los planes de mantenimiento de MINI y BMW, por lo que la garantía oficial de tu coche permanece intacta. Actualizamos el historial digital."
     }
   ],
-  "testimonialsIntro": "No nos creas sin más. Estos son algunos ejemplos de casos reales de propietarios de BMW y MINI de la zona de El Goloso que ya confían en nosotros.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que atendemos a diario, reflejando la confianza que los conductores de MINI y BMW de la zona depositan en nosotros.",
   "testimonials": [
     {
       "name": "Carlos",
       "neighborhood": "El Goloso",
-      "car": "BMW 530d G30 2018",
-      "body": "El coche me dio un aviso de 'Propulsión'. En otro taller no sabían qué era y en el concesionario ya me hablaban de cambiar medio motor. Aquí conectaron el ISTA delante de mí, vieron que era un sensor del turbo y me dieron un presupuesto cerrado. En dos días lo tenía listo y me ahorré un dineral.",
-      "rating": 5
-    },
-    {
-      "name": "Sofía",
-      "neighborhood": "Tres Cantos",
-      "car": "BMW X1 sDrive18d F48 2019",
-      "body": "Llevé el coche para la revisión de los 60.000 km. Me explicaron perfectamente qué incluía el plan CBS: aceite LL-04, filtro de aire, filtro de gasoil... Todo detallado. Me actualizaron el iDrive con el servicio hecho. El trato es cercano y profesional, nada que ver con la frialdad del servicio oficial.",
-      "rating": 5
-    },
-    {
-      "name": "Javier",
-      "neighborhood": "Montecarmelo",
-      "car": "BMW 330e G20 2021",
-      "body": "Mi híbrido dejó de cargar en casa. Estaba un poco perdido porque no me fiaba de llevarlo a cualquier sitio. Ellos sabían perfectamente cómo diagnosticar el sistema de alta tensión. Fue un problema en el módulo de carga que solucionaron rápido. Da mucha tranquilidad encontrar especialistas así.",
+      "car": "MINI John Cooper Works F56 2019",
+      "body": "Llevaba tiempo notando una pequeña vibración al ralentí y en el concesionario de Las Tablas no daban con ello. Aquí, en 20 minutos con el ISTA, vieron que era el soporte superior del motor. Me dieron presupuesto al momento con pieza original y por la tarde ya estaba listo. Profesionalidad y conocimiento del modelo.",
       "rating": 5
     },
     {
       "name": "Lucía",
-      "neighborhood": "Fuencarral",
-      "car": "MINI Cooper S F56 2017",
-      "body": "Tenía que pasar la ITV y el coche hacía un ruido raro en la suspensión. Lo llevé para la pre-ITV gratuita y me detectaron un silentblock roto. Me lo cambiaron y alinearon la dirección. Pasé la ITV sin problemas. Me gustó que no intentaran venderme nada que no necesitara.",
+      "neighborhood": "Tres Cantos",
+      "car": "MINI Cooper S F55 2017",
+      "body": "Uso el coche todos los días para ir a trabajar a Madrid por la M-607 y notaba que había perdido algo de brío. Me recomendaron hacer una descarbonización de la admisión y el cambio ha sido espectacular. El coche vuelve a empujar como el primer día. Explicación clara y precio justo.",
+      "rating": 5
+    },
+    {
+      "name": "Javier",
+      "neighborhood": "Campus de Cantoblanco",
+      "car": "BMW 118i F40 2020",
+      "body": "Tenía que pasar la revisión CBS y pedí presupuesto aquí y en el concesionario oficial. La diferencia era considerable. Usaron el mismo aceite Castrol homologado por BMW y me sellaron el historial digital. El trato fue directo y muy profesional. Totalmente recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Ana",
+      "neighborhood": "Colmenar Viejo",
+      "car": "MINI Cooper D Countryman F60 2018",
+      "body": "Me saltó el aviso de fallo en el sistema de propulsión. En otro taller me hablaban de cambiar el turbo. Aquí hicieron un diagnóstico a fondo y resultó ser un sensor del colector de admisión. Me ahorraron un dineral y, sobre todo, me dieron mucha confianza. Saben lo que tocan.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller da servicio a toda la zona norte de Madrid, con un acceso inmejorable desde la M-607 (Carretera de Colmenar Viejo). Estamos estratégicamente situados para los propietarios de BMW y MINI de El Goloso, pero también para nuestros clientes de municipios colindantes como Tres Cantos y Colmenar Viejo. Además, recibimos diariamente a conductores de los nuevos barrios de Madrid como Montecarmelo, Las Tablas, Sanchinarro y Valdebebas, que buscan una alternativa experta al concesionario oficial. Si vives o trabajas en Fuencarral-El Pardo, llegar a nuestras instalaciones te llevará pocos minutos a través de la M-607 o la M-40, evitando el denso tráfico del centro de la ciudad.",
+  "zoneText": "Nuestro taller da servicio a toda la zona norte de Madrid, con un acceso especialmente cómodo para los propietarios de MINI y BMW de El Goloso. Estamos estratégicamente situados junto a la M-607, la arteria principal que conecta Madrid con Tres Cantos y Colmenar Viejo, lo que nos convierte en la opción ideal para conductores de estas localidades, así como de barrios cercanos como Montecarmelo, Fuencarral o Las Tablas. Si trabajas o estudias en el campus de la Universidad Autónoma en Cantoblanco, también estamos a pocos minutos. Nuestra ubicación permite dejar el coche para una revisión o reparación sin desviarte de tu ruta diaria, ofreciendo una alternativa eficiente y especialista a los concesionarios oficiales de la zona.",
   "zoneNeighborhoods": [
     "El Goloso",
     "Tres Cantos",
+    "Colmenar Viejo",
     "Montecarmelo",
+    "Fuencarral",
     "Las Tablas",
     "Sanchinarro",
-    "Fuencarral",
-    "Valverde",
-    "Colmenar Viejo"
+    "Cantoblanco (UAM)",
+    "Alcobendas",
+    "San Sebastián de los Reyes"
   ],
   "zoneAccessRoutes": [
     "M-607 (Carretera de Colmenar Viejo)",
     "M-40",
-    "M-616"
+    "M-616",
+    "M-11"
   ],
   "faqLocal": [
     {
-      "q": "¿Vivís en Tres Cantos? ¿Os pilla muy lejos el taller?",
-      "a": "Para nada, estamos muy cerca. Muchos de nuestros clientes son de Tres Cantos. Cogiendo la M-607 en dirección Madrid, llegas a nuestra zona en apenas 10-15 minutos sin tráfico. Es un trayecto directo y sencillo, mucho más cómodo que tener que cruzar hasta los concesionarios de la A-1."
+      "q": "¿Conocéis los problemas de la dirección EPS de los MINI F56 en El Goloso?",
+      "a": "Sí, perfectamente. La dirección eléctrica de los MINI F55/F56/F57 es muy precisa, pero sensible a desajustes. El uso urbano intensivo y los badenes pueden afectar sus sensores. Con el diagnóstico oficial ISTA, no solo leemos los códigos de error, sino que accedemos a los parámetros en tiempo real para realizar una calibración exacta, eliminando holguras, ruidos o falta de asistencia."
     },
     {
-      "q": "Mi BMW 320d es de renting, ¿puedo pasar las revisiones con vosotros?",
-      "a": "Sí, sin problema. Al ser un taller que sigue los procedimientos de BMW y usa recambios OE (calidad original), la mayoría de empresas de renting aceptan nuestras facturas. Simplemente tienes que solicitarles autorización previa para pasar la revisión CBS en nuestro centro. Lo gestionamos cada día."
+      "q": "Mi MINI Cooper S hace mucho trayecto corto por la M-607, ¿qué mantenimiento preventivo necesita?",
+      "a": "Para un motor de gasolina de inyección directa como el B48 de tu Cooper S, los trayectos cortos son perjudiciales. Recomendamos acortar ligeramente los intervalos de cambio de aceite, usando siempre especificación LL-04, y realizar una descarbonización de la admisión cada 60.000-80.000 km para mantener el rendimiento y evitar averías en el sistema de inyección o en las válvulas."
     },
     {
-      "q": "Tengo un BMW i4 eléctrico, ¿realmente estáis preparados para estos coches?",
-      "a": "Absolutamente. Formamos parte de la Red ISTA precisamente por nuestra capacidad para trabajar con las últimas tecnologías de BMW. Disponemos del equipo de diagnóstico oficial ISTA, que es imprescindible para cualquier intervención en el software, la batería o el sistema de propulsión de un i4 o cualquier otro modelo eléctrico de la marca."
+      "q": "Vivo en El Goloso y voy mucho a la Sierra, ¿qué neumáticos recomendáis para un JCW?",
+      "a": "Para un John Cooper Works con uso mixto (M-607 y carreteras de curvas), recomendamos un neumático UHP (Ultra High Performance) con homologación BMW (*). Marcas como Michelin Pilot Sport 4S o Goodyear Eagle F1 SuperSport ofrecen un equilibrio excelente entre agarre en seco para disfrutar en la sierra y seguridad en mojado para los días de lluvia en Madrid, sin comprometer en exceso la durabilidad."
     },
     {
-      "q": "El aviso de revisión CBS me ha saltado, ¿cuánto tardáis en dar cita para un Serie 5?",
-      "a": "Intentamos ser muy ágiles. Para una revisión estándar de aceite y filtros (plan CBS), solemos dar cita en 24-48 horas. Entendemos que usas el coche a diario para moverte por la M-607 y no puedes estar sin él, así que priorizamos estos mantenimientos para que lo tengas de vuelta en el mismo día."
+      "q": "Vuestro taller en El Goloso, ¿es más económico que el concesionario oficial de Las Tablas?",
+      "a": "Sí. Al ser un taller independiente adherido a la Red ISTA, no tenemos la misma estructura de costes que un concesionario oficial. Esto nos permite ofrecer precios significativamente más competitivos en mano de obra y recambios, utilizando la misma tecnología de diagnóstico ISTA y manteniendo los mismos estándares de calidad, tanto con recambio original como OE."
     },
     {
-      "q": "Para mi BMW 520d con motor B47 necesito aceite LL-04. ¿Usáis el que toca?",
-      "a": "Por supuesto. Es una de nuestras reglas de oro. Solo usamos aceites de primeras marcas (Castrol, Shell, Motul) que cumplen o exceden la especificación exacta de BMW para tu motor, en este caso la LongLife-04. Usar un aceite incorrecto puede dañar el DPF y el turbo, y nosotros nunca nos la jugamos con eso."
+      "q": "Tengo un MINI F56, ¿podéis codificar o reequipar funciones?",
+      "a": "Sí, realizamos codificaciones y programaciones. Con el software ISTA podemos adaptar módulos, activar funciones ocultas (como el cierre de ventanillas con el mando, memorizar el estado del Start/Stop, etc.) o codificar reequipamientos como faros LED o un sistema de navegación NBT/EVO. Siempre lo hacemos de forma segura y siguiendo los procedimientos de fábrica."
     },
     {
-      "q": "¿Por qué sois más baratos que el concesionario de Las Tablas si usáis el mismo equipo ISTA?",
-      "a": "Nuestra estructura de costes es mucho más ligera. No tenemos los enormes gastos de una instalación de concesionario oficial (exposición, personal de ventas, marketing...). Nosotros somos un taller. Invertimos en lo que importa: el mejor equipo (ISTA), formación continua y los mejores técnicos. Ese ahorro se refleja directamente en tu factura."
+      "q": "El invierno en Madrid es duro, ¿revisáis la batería y el sistema de arranque en frío?",
+      "a": "Por supuesto. Realizamos una comprobación del estado de la batería con un tester digital que mide su capacidad de arranque en frío (CCA) y el estado del alternador. En los BMW y MINI modernos, la batería debe ser registrada en la centralita (DME/DDE) tras su sustitución para que el sistema de carga inteligente (IBS) funcione correctamente. Nosotros realizamos este proceso."
     },
     {
-      "q": "La ITV de Fuencarral es bastante estricta. ¿Vuestra pre-ITV gratuita qué revisa exactamente?",
-      "a": "Revisamos los mismos puntos críticos que miran en la estación de ITV de Fuencarral, que conocemos bien: holguras en la suspensión y dirección, estado de los frenos y neumáticos, opacidad de humos en diésel (crucial para los motores N47/B47), luces y señalización. Es una revisión visual y mecánica completa para que vayas sobre seguro."
+      "q": "Escucho un ruido en la suspensión de mi MINI al pasar por badenes, ¿podéis diagnosticarlo?",
+      "a": "Sí, es una consulta habitual. Los ruidos en la suspensión en los MINI suelen provenir de los silentblocks de los brazos de suspensión, las copelas de los amortiguadores o las bieletas de la barra estabilizadora. Realizamos una inspección visual y mecánica exhaustiva para localizar el origen exacto del ruido y te ofrecemos un presupuesto para su reparación."
     }
   ],
-  "closingHeadline": "Tu especialista BMW y MINI en El Goloso",
-  "closingCta": "Pide tu cita previa y solicita un presupuesto cerrado para tu BMW o MINI. Contacta con nosotros por teléfono o WhatsApp y descubre por qué tantos conductores de la zona norte de Madrid ya confían en la Red ISTA."
+  "closingHeadline": "El especialista para tu MINI o BMW en El Goloso",
+  "closingCta": "Pide tu cita y descubre por qué cada vez más conductores de la zona norte de Madrid confían en la Red ISTA. Contacta con nosotros por teléfono, WhatsApp o email y recibe tu presupuesto cerrado."
 }
