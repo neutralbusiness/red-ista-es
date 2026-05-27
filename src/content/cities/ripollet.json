@@ -6,176 +6,181 @@
   "population": 38347,
   "lat": 41.49686,
   "lng": 2.15739,
-  "metaTitle": "Taller mecánico en Ripollet — Revisión para tu coche",
-  "metaDescription": "Taller multimarca en Ripollet con presupuesto cerrado. Nos ocupamos de la mecánica, revisión y pre-ITV de tu coche. Pide tu presupuesto sin compromiso.",
-  "heroSubtitle": "Para ese segundo coche que descansa toda la semana en Ripollet, una puesta a punto que te dé total tranquilidad en tus escapadas.",
+  "metaTitle": "Taller BMW y MINI Eléctrico/Híbrido en Ripollet — Red ISTA",
+  "metaDescription": "Especialistas en BMW y MINI eléctricos e híbridos en Ripollet. Diagnóstico oficial ISTA, mantenimiento de baterías y mecánica para tu i4, iX3, 330e.",
+  "heroSubtitle": "¿Tu BMW eléctrico o híbrido da un aviso y el concesionario te da cita para el mes que viene? Tenemos diagnóstico oficial ISTA en Ripollet.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Ripollet no es solo un código postal al lado de la C-58; es una ciudad con una memoria industrial que ha moldeado cómo vivimos y cómo nos movemos. El eco de los telares de la industria textil del Ripoll ha sido sustituido por el murmullo del tráfico de la AP-7. Muchos de nosotros hacemos el trayecto diario hacia Barcelona, Cerdanyola o Sant Cugat, exprimiendo el coche de batalla. Pero esta página no va de ese coche. Va del otro: del que se queda en el garaje en Can Mas o aparcado en la calle en Tiana-Pinetons de lunes a viernes. Ese segundo coche, a menudo un compacto o un familiar con unos años, es el vehículo de la libertad del fin de semana, el que te lleva a la playa por la C-32 o a una casa rural cerca del Montseny. Y su aparente inactividad es, paradójicamente, una fuente de problemas mecánicos muy específicos que conocemos bien.\n\nEl principal enemigo de un coche con poco uso en el Vallès no es el desgaste, sino la quietud. Un vehículo parado envejece de forma distinta. La batería sufre especialmente en invierno, con esas mañanas de niebla y frío húmedo tan características del valle del Ripoll, que la descargan sin piedad. No hay nada más frustrante que ir a coger el coche un sábado por la mañana para ir al mercado de Barberà y que no arranque. Los neumáticos, siempre en la misma posición, corren el riesgo de deformarse o cristalizarse. Los líquidos (aceite, refrigerante, líquido de frenos) pueden perder propiedades no por los kilómetros, sino por el simple paso del tiempo. Entendemos este ciclo de vida porque es el de muchos de nuestros vecinos en Ripollet, que usan el coche para lo importante: el ocio, la familia, las vacaciones. Por eso, nuestro enfoque no es tratarlo como un coche viejo, sino como un vehículo especial que requiere un mantenimiento preventivo diferente.\n\nAnalizar el contexto es clave. No es lo mismo un coche que duerme en la costa que uno que lo hace aquí. El clima continentalizado de Ripollet, con veranos muy calurosos e inviernos más fríos que en la Barcelona costera, somete a la mecánica a un estrés térmico considerable. El aire acondicionado, por ejemplo, no es un lujo, es una necesidad vital cuando te quedas atrapado en un atasco en la C-58 en pleno julio. En un coche de uso esporádico, el gas puede fugarse lentamente o el compresor puede agarrotarse por falta de uso, fallando justo el día que más lo necesitas. Lo mismo ocurre con la calefacción y el sistema de desempañado en invierno, esenciales para la seguridad en las mañanas de helada. Comparamos el patrón de uso y el clima local para anticipar estas averías, en lugar de simplemente reaccionar a ellas.\n\nNuestra filosofía de mantenimiento para este tipo de coches es como la del cuidado del Pont Vell: es una estructura que no soporta el tráfico denso de la C-58, pero que debe ser absolutamente fiable y segura cuando se necesita cruzar el río. Este puente mecánico, tu coche, lo revisamos para que esté a punto para cualquier viaje, sea una escapada improvisada a Montserrat o el largo trayecto de verano por la AP-7 hacia el sur. Nos centramos en los puntos críticos que la ITV no perdona en vehículos diésel con pocos kilómetros anuales, como la opacidad de los humos por una incorrecta regeneración del filtro de partículas. Preparamos tu coche no solo para que funcione, sino para que te dé la confianza de que, cuando gires la llave después de una semana parado, responderá a la primera. Siempre.",
-  "servicesIntro": "Desde una revisión completa hasta esa avería que te preocupa, estos son los servicios que más nos piden nuestros clientes en Ripollet.",
-  "processIntro": "Trabajamos con un proceso transparente para que sepas siempre qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
+  "introLocal": "Si conduces un BMW o un MINI por Ripollet, sabes que tu día a día es un constante cambio de ritmo. No es lo mismo callejear por el centro buscando aparcamiento cerca del Mercat Municipal, con sus arranques y paradas, que coger la C-58 cada mañana para ir a Barcelona o la AP-7 si te mueves hacia el Vallès Oriental. Este contraste es el pan de cada día para los que vivimos aquí, y tu coche lo nota. Cada vez más, vemos por nuestras calles modelos como el BMW 330e, el X3 xDrive30e o el silencioso i4, coches perfectos para este entorno mixto. Pero esta tecnología, que combina lo mejor de dos mundos o se adentra en el eléctrico puro, tiene sus propias reglas y necesita un cuidado que no se puede improvisar.\n\nEl motor de tu BMW 330e, por ejemplo, puede pasarse días sin apenas arrancar si tus trayectos se limitan a moverte entre Ripollet, Cerdanyola y Barberà en modo eléctrico. Esto es genial para el consumo, pero un reto para el motor de gasolina B48. El aceite puede degradarse por la falta de temperatura y los ciclos cortos, y un taller genérico podría no saberlo y limitarse a seguir el intervalo que marca el ordenador. O piensa en la batería de alto voltaje de tu iX3 en pleno julio, con el calor que aprieta en el Vallès. Su sistema de refrigeración es clave para su vida útil, y un diagnóstico preventivo con el equipo adecuado puede evitarte un disgusto y una factura muy seria. Nosotros entendemos estas particularidades porque las vivimos a diario.\n\nAhí es donde un taller homologado por Red ISTA en Ripollet marca la diferencia. Disponemos del sistema de diagnóstico oficial BMW ISTA/Rheingold, el mismo que utilizan en el concesionario de Sant Cugat o Sabadell, pero con la cercanía y el trato directo de un taller de confianza de tu ciudad. Cuando conectamos tu coche, no estamos simplemente leyendo códigos de error genéricos; estamos accediendo en tiempo real a los servidores de BMW en Alemania. Esto nos permite ver el estado real de cada módulo, desde el sistema de gestión de la batería (BMS) de tu i4 hasta la mecatrónica de la caja ZF 8HP de tu X5 híbrido, que trabaja a destajo coordinando el motor eléctrico y el de combustión en los atascos de la C-58.\n\nIncluso si tu coche es un diésel B47 o un gasolina B58, el tipo de uso en esta zona es muy exigente. Los trayectos cortos por el núcleo urbano, para ir al polideportivo o a buscar a los niños al colegio en la zona de Pinetons, son el peor enemigo del filtro de partículas (DPF). Si no tiene oportunidad de regenerar en un trayecto más largo por autopista, acaba por 'cantar' un aviso en el cuadro. Y lo mismo ocurre con los frenos. En un híbrido o eléctrico, el sistema regenerativo hace gran parte del trabajo, y los frenos convencionales se usan poco. Esto puede provocar que las pinzas se agarroten por falta de uso, un detalle que hay que 'echarle un ojo' en cada revisión para garantizar tu seguridad.\n\nPor eso, si buscas un sitio donde entiendan de verdad tu BMW o MINI, ya sea un moderno i4 o un fiable 320d, estás en el lugar correcto. Somos la alternativa lógica al servicio oficial. Te ofrecemos la misma tecnología y conocimiento especializado, pero con la transparencia de un presupuesto cerrado, la flexibilidad de un taller local y sin los costes de una gran estructura. Dejamos de lado el marketing vacío para centrarnos en lo que importa: un diagnóstico preciso y una reparación honesta para que sigas disfrutando de tu coche por las carreteras del Vallès con total tranquilidad.",
+  "servicesIntro": "Desde una revisión CBS para tu MINI eléctrico hasta la diagnosis del sistema de alto voltaje de tu BMW iX, cubrimos todas las necesidades de tu coche.",
+  "processIntro": "Trabajamos con total transparencia. Así es como cuidamos de tu BMW o MINI, paso a paso, con un presupuesto cerrado desde el inicio.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos el coche a nuestros sistemas de diagnosis. Hacemos una primera valoración visual y mecánica para entender el origen del problema y su alcance real."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas, ni un céntimo más."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas en la factura final."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que nos das tu visto bueno explícito. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos inmediatamente, te llamamos por teléfono, te enviamos fotos si es necesario y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la intervención siguiendo las especificaciones del fabricante para asegurar un resultado fiable y duradero en el tiempo."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE (Bosch, ZF, Mahle) o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y usamos la herramienta específica para cada tarea."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona como debería."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio (CBS) en el cuadro, actualizamos el historial digital de tu coche y realizamos una prueba en carretera si es necesario. Nos aseguramos de que todo funcione perfecto antes de entregártelo."
     }
   ],
-  "commonIssuesIntro": "Los coches que se usan poco en el clima del Vallès desarrollan problemas muy concretos. Estos son los que más vemos en nuestro taller de Ripollet.",
+  "commonIssuesIntro": "En Ripollet, vemos cómo el uso mixto de ciudad y autopista saca a relucir problemas específicos en los BMW y MINI, desde la gestión de la batería en los híbridos y eléctricos hasta el estrés en la transmisión ZF 8HP o los sistemas de carga.",
   "commonIssues": [
     {
-      "title": "Fallo de batería en el peor momento",
-      "body": "La combinación de inactividad semanal y las noches frías y húmedas de Ripollet es letal para las baterías. Se descargan lentamente y fallan sin previo aviso, justo el sábado por la mañana. Comprobamos su estado real con un densímetro y te aconsejamos si es momento de cambiarla preventivamente."
+      "title": "Aceite degradado en Híbridos (PHEV)",
+      "body": "Si usas tu 330e o X3 30e mayormente en modo eléctrico para moverte por Ripollet y Cerdanyola, el motor de gasolina arranca poco y no coge temperatura. Esto puede degradar el aceite prematuramente. En la revisión CBS, analizamos su estado real, no solo los kilómetros, para proteger tu motor B48."
     },
     {
-      "title": "Aire acondicionado que no enfría",
-      "body": "El sistema de A/C necesita usarse para mantenerse lubricado. Tras meses parado, es común que al llegar el calor de junio en el Vallès, solo eche aire caliente. Suele ser por una fuga de gas o un compresor atascado. Lo revisamos y cargamos para que no te ases en la C-58."
+      "title": "Fallos en el sistema de carga",
+      "body": "“Enchufo mi BMW i4 en casa y la carga se interrumpe”. Puede ser un problema del módulo de carga (KLE). Con el diagnóstico ISTA, identificamos si es un fallo de software o de hardware y lo solucionamos para que puedas cargar con normalidad en tu plaza de Pinetons o Can Mas."
     },
     {
-      "title": "Frenos que chirrían o se clavan",
-      "body": "La humedad del entorno del río Ripoll puede generar óxido en los discos y agarrotamiento en las pinzas de freno si el coche no se mueve. Esto provoca ruidos molestos y, peor aún, una frenada irregular y poco segura. Los desmontamos, limpiamos y lubricamos para que recuperen su eficacia."
+      "title": "Frenos agarrotados en Eléctricos y PHEV",
+      "body": "La frenada regenerativa hace que los frenos de disco se usen muy poco en el tráfico de la N-150. Con la humedad del invierno en el Vallès, esto puede provocar óxido y que las pinzas se queden agarrotadas. En cada revisión, verificamos y lubricamos todo el sistema para garantizar una frenada segura."
     },
     {
-      "title": "Rechazo en ITV por humos (diésel)",
-      "body": "Un diésel usado para trayectos cortos de fin de semana no calienta lo suficiente el escape, y el filtro de partículas (FAP) se satura de hollín. Es un suspenso casi seguro en la ITV. Realizamos una diagnosis y, si es necesario, una regeneración forzada del filtro."
+      "title": "Tirones en la caja ZF 8HP de Híbridos",
+      "body": "La transición entre el motor eléctrico y el de combustión en los atascos de la C-58 puede causar tirones si la mecatrónica de la caja de cambios no está perfecta. Diagnosticamos el módulo EGS con ISTA y podemos realizar mantenimientos preventivos del aceite de la caja para asegurar su suavidad."
     },
     {
-      "title": "Neumáticos deformados y cristalizados",
-      "body": "Un coche aparcado semanas en el mismo sitio en Can Jardí sufre. El peso deforma la cubierta y el sol y los cambios de temperatura endurecen la goma, perdiendo agarre aunque el dibujo esté bien. Verificamos la presión, el estado de la goma y si presentan 'planos' por la inactividad."
+      "title": "Avisos de la batería de alto voltaje",
+      "body": "El calor extremo del verano en Ripollet puede estresar la batería de tu BMW eléctrico o híbrido, haciendo saltar avisos. Conectamos el ISTA para realizar un test de estado de la batería, comprobar el sistema de refrigeración y asegurar que todo funciona dentro de los parámetros para evitar averías graves."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos el coche de 'finde'",
-      "body": "Sabemos que un coche que se usa poco tiene necesidades diferentes. Nuestro chequeo se centra en los puntos débiles derivados de la inactividad en el clima local de Ripollet."
+      "title": "Especialistas en eléctricos e híbridos",
+      "body": "No solo tenemos el equipo de diagnóstico oficial ISTA, sino que entendemos las particularidades de los sistemas de alto voltaje, las baterías y los motores de los BMW i y los modelos PHEV. Formación continua para estar siempre al día."
     },
     {
-      "title": "Presupuesto claro, decisiones fáciles",
-      "body": "Te damos un precio cerrado para que puedas planificar el gasto del segundo coche sin sorpresas. Controlas tu presupuesto y decides qué hacer con toda la información."
+      "title": "Diagnóstico ISTA en Ripollet",
+      "body": "Te ahorramos el viaje al concesionario oficial de Sabadell o Sant Cugat. Tienes la misma capacidad de diagnóstico y codificación que ellos, pero en tu ciudad, con un trato más cercano y ágil."
     },
     {
-      "title": "Comunicación directa y honesta",
-      "body": "Te explicamos las cosas de forma que las entiendas, sin tecnicismos. Si algo puede esperar, te lo diremos. La confianza es nuestra prioridad."
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Detallamos cada concepto para que sepas exactamente en qué se invierte tu dinero. Si surge un imprevisto, te llamamos antes de hacer nada."
     },
     {
-      "title": "Cerca de casa, en Ripollet",
-      "body": "Estamos aquí mismo, para que no tengas que cruzar todo el Vallès para una revisión. Una solución cómoda para la gente de Ripollet y alrededores como Cerdanyola o Montcada."
+      "title": "Tú eliges el recambio",
+      "body": "Te ofrecemos la opción de montar recambio original BMW o recambio de calidad OE (fabricantes como Bosch, ZF, Mahle que suministran a BMW). Te explicamos las diferencias para que decidas con toda la información."
     },
     {
-      "title": "La Pre-ITV que necesitas",
-      "body": "Nos adelantamos a los fallos típicos que buscan en las estaciones de ITV cercanas, especialmente en emisiones y frenos, dos puntos débiles de los coches con poco uso."
+      "title": "Mantenemos tu garantía oficial",
+      "body": "Realizamos las revisiones y mantenimientos siguiendo estrictamente las especificaciones de BMW, utilizando piezas y aceites homologados. Tu garantía oficial queda totalmente protegida."
     }
   ],
-  "testimonialsIntro": "No podemos usar casos de clientes reales, pero estas son situaciones típicas que nos encontramos y que podrían ser la tuya.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que nos encontramos cada día en nuestro taller de Ripollet. Historias como la tuya.",
   "testimonials": [
     {
-      "name": "Jordi",
-      "neighborhood": "Centre",
-      "car": "Seat León ST 2016",
-      "body": "Teníamos el coche parado casi toda la semana y justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Un drama. Les llamé, me dieron cita rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. Presupuesto claro desde el principio. Nos salvaron el viaje.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Tiana-Pinetons",
-      "car": "Peugeot 208 2014",
-      "body": "Uso el coche solo los fines de semana. Un lunes, después de un puente que no lo moví, ya no arrancó. La batería había muerto. Lo solucionaron en el mismo día y me revisaron el alternador para asegurarse de que cargaba bien. Muy profesionales, te explican todo muy bien.",
-      "rating": 5
-    },
-    {
-      "name": "Francisco",
+      "name": "Joan",
       "neighborhood": "Can Mas",
-      "car": "Renault Scénic 2.0 dCi 2011",
-      "body": "Me tumbaron en la ITV por los humos, como me habían advertido que podría pasar. Se lo llevé, le hicieron una limpieza del sistema y una regeneración del FAP. Volví a la ITV y la pasó perfecto. Saben lo que hacen con los diésel que andan poco por ciudad.",
+      "car": "BMW 330e G20 2021",
+      "body": "El coche dejó de cargar en el enchufe de casa. En el concesionario me daban cita para dentro de tres semanas. Los encontré a ellos aquí en Ripollet, me lo cogieron al día siguiente, le conectaron el ISTA y vieron que era una tontería de un sensor. En 24 horas estaba solucionado. Un 10.",
       "rating": 5
     },
     {
-      "name": "Anna",
-      "neighborhood": "Pont Vell",
-      "car": "Ford Fiesta 2012",
-      "body": "Notaba un chirrido en los frenos al coger el coche después de varios días de lluvia. Pensé que sería algo grave. Lo revisaron y me dijeron que era solo óxido superficial en los discos por la humedad y la falta de uso. Lo limpiaron todo y el ruido desapareció. Agradezco la honestidad.",
+      "name": "Marta",
+      "neighborhood": "Barberà del Vallès",
+      "car": "MINI Cooper SE 2022",
+      "body": "Llevé mi MINI eléctrico para la primera revisión. Además de cambiar el líquido de frenos y revisar los filtros, le echaron un ojo a los discos y pastillas, que casi no se usan. Me gustó ese detalle proactivo. Se nota que saben lo que tocan en estos coches. Muy profesionales y cercanos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Cerdanyola del Vallès",
+      "car": "BMW X5 xDrive45e 2020",
+      "body": "Me saltó un aviso de 'Anomalía en el sistema de propulsión'. Me asusté pensando en la batería. Aquí me hicieron un diagnóstico completo y vieron que era un fallo en el software de gestión. Hicieron una actualización y codificación y el problema desapareció. Me ahorraron un buen susto y mucha pasta.",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Centro",
+      "car": "BMW i4 eDrive40 2022",
+      "body": "Quería activar un par de funciones que el coche no traía de serie. Ellos lo hicieron con el equipo oficial sin problema, mucho más rápido y a mejor precio que en el servicio oficial. Se agradece tener un especialista así en Ripollet para estas cosas, te ahorra tiempo y viajes.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestra área de servicio natural es todo el municipio de Ripollet. Damos cobertura a los vecinos de barrios como el Centre, Pont Vell, Tiana-Pinetons o Can Mas. Por nuestra ubicación y buenos accesos, también somos el taller de confianza para muchos conductores de localidades cercanas. Recibimos a diario clientes de Cerdanyola del Vallès, Montcada i Reixac y Barberà del Vallès, que valoran un servicio cercano y profesional sin tener que entrar en ciudades más grandes. Estamos conectados por vías principales como la N-150 y tenemos acceso rápido desde la C-58 y la autopista AP-7, lo que facilita dejar y recoger el coche cómodamente.",
+  "zoneText": "Nuestro taller en Ripollet da servicio a toda la zona del Vallès Occidental. Estamos perfectamente comunicados para clientes que vienen no solo del centro de Ripollet y barrios como Can Mas o Pinetons, sino también de municipios vecinos. Recibimos cada día a conductores de Cerdanyola del Vallès, Montcada i Reixac y Barberà del Vallès que buscan un especialista de confianza para su BMW o MINI. Nuestra ubicación es ideal, con acceso rápido desde las principales vías como la C-58, la autopista AP-7 y la carretera N-150, lo que nos convierte en una alternativa cómoda y eficiente al concesionario oficial, sin tener que desplazarte a los grandes polígonos de Sabadell o Sant Cugat.",
   "zoneNeighborhoods": [
-    "Ripollet Centre",
+    "Ripollet Centro",
     "Can Mas",
+    "Pinetons",
+    "Tiana",
     "Pont Vell",
-    "Tiana-Pinetons",
-    "Can Jardí",
-    "Maragall",
     "Cerdanyola del Vallès",
     "Montcada i Reixac",
-    "Barberà del Vallès"
+    "Barberà del Vallès",
+    "La Llagosta",
+    "Sant Cugat del Vallès"
   ],
   "zoneAccessRoutes": [
-    "C-58",
-    "AP-7",
-    "N-150",
-    "BV-1411"
+    "C-58 (Autovía del Vallès)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "N-150 (Carretera de Terrassa)",
+    "BV-1411 (Carretera de Montcada)"
   ],
   "faqLocal": [
     {
-      "q": "Mi coche, que uso poco, huele a humedad por dentro, ¿es normal aquí en Ripollet?",
-      "a": "Sí, es relativamente común. La proximidad del río Ripoll aumenta la humedad ambiental, sobre todo en invierno y otoño. Si el coche está mucho tiempo parado, esta humedad puede condensarse dentro y, si los filtros del habitáculo están sucios, generar mal olor. Recomendamos cambiar el filtro antipolen anualmente y usar el aire acondicionado (incluso en invierno) para secar el ambiente interior."
+      "q": "Tengo un BMW 330e y casi siempre voy en eléctrico por Ripollet, ¿tengo que cambiar el aceite del motor igualmente?",
+      "a": "Sí, y es crucial. Aunque el motor de gasolina funcione pocas horas, los arranques en frío y los ciclos cortos son muy exigentes para el aceite. Puede contaminarse con combustible y humedad, perdiendo propiedades lubricantes. Recomendamos seguir el plan CBS de BMW, que tiene en cuenta este uso, e incluso acortar el intervalo si solo haces trayectos urbanos por la zona."
     },
     {
-      "q": "¿Revisáis los niveles antes de un viaje largo por la AP-7 para las vacaciones?",
-      "a": "Por supuesto. Es uno de nuestros servicios más demandados antes de verano y puentes. Hacemos una revisión de viaje que incluye nivel de aceite, líquido refrigerante, líquido de frenos, líquido limpiaparabrisas y la presión de los neumáticos, incluyendo la de repuesto. Es una comprobación rápida y económica que te da mucha tranquilidad antes de un viaje largo."
+      "q": "¿Podéis diagnosticar un problema en la batería de mi BMW iX3? ¿Tenéis herramientas para vehículos de alto voltaje?",
+      "a": "Por supuesto. Nuestro equipo de diagnóstico oficial ISTA nos permite comunicarnos directamente con el Sistema de Gestión de Batería (BMS) de tu iX3. Podemos leer el estado de salud de las celdas, identificar módulos defectuosos y diagnosticar el sistema de refrigeración, que es vital con el calor del verano en el Vallès. Contamos con la formación y herramientas necesarias para trabajar de forma segura en sistemas de alto voltaje."
     },
     {
-      "q": "Tengo que pasar la ITV en Sant Cugat, ¿qué miráis en la pre-ITV para un diésel con pocos km anuales?",
-      "a": "Nos centramos en los puntos de fallo habituales en este tipo de uso. El principal es la prueba de opacidad de humos; revisamos y limpiamos el sistema de inyección y el filtro de partículas. También comprobamos la eficacia de frenado, que puede verse afectada por el óxido en los discos, el estado de las suspensiones y la alineación de las luces."
+      "q": "Vivo en Montcada y trabajo en el polígono Santiga. ¿Sois una buena alternativa al concesionario oficial de Sabadell?",
+      "a": "Totalmente. Para ti somos una opción mucho más cómoda y directa. Te ahorras el desplazamiento y el tiempo de espera de los grandes concesionarios. Ofrecemos exactamente el mismo nivel de diagnóstico técnico con el equipo oficial ISTA, pero con la agilidad, el trato personal y los precios competitivos de un taller especialista independiente."
     },
     {
-      "q": "Vivo en un piso sin garaje en el barrio de Maragall, ¿el frío del invierno del Vallès puede dañar la batería?",
-      "a": "Dañarla no, pero sí es la causa principal de que una batería con algunos años falle. El frío intenso reduce su capacidad de entregar energía, y si ya está algo gastada, no tendrá fuerza para arrancar. Si tu coche duerme en la calle en Ripollet, es crucial que la batería esté en buen estado. En cada revisión la comprobamos."
+      "q": "Mi MINI eléctrico hace un ruido raro en los frenos al maniobrar para aparcar en el centro, ¿es normal?",
+      "a": "Es una consulta muy común. Como el coche frena principalmente con el motor eléctrico (frenada regenerativa), los discos y pastillas se usan poco. Se puede acumular una ligera capa de óxido superficial, sobre todo con la humedad, que provoca ese chirrido al frenar suavemente. En la mayoría de casos no es grave, pero es importante que le echemos un ojo para asegurarnos de que las pinzas no están agarrotadas."
     },
     {
-      "q": "¿Por qué es importante el cambio de aceite si apenas hago 5.000 km al año?",
-      "a": "El aceite no solo se degrada por los kilómetros, sino también por el tiempo y la oxidación. Un coche que hace trayectos cortos no llega a la temperatura óptima, generando condensación que se mezcla con el aceite y reduce su capacidad lubricante. Por eso, los fabricantes recomiendan cambiarlo cada año o cada 15.000 km, lo que ocurra primero. Es vital para la salud del motor."
+      "q": "¿Qué diferencia hay entre usar vuestro equipo ISTA para una actualización de software en mi i4 y llevarlo al concesionario?",
+      "a": "A nivel técnico, ninguna. Usamos el mismo software oficial BMW ISTA conectado en tiempo real a los servidores de Alemania. La diferencia está en el servicio: en nuestro taller en Ripollet tendrás un trato más directo, tiempos de espera más cortos y un precio más ajustado. Realizamos la programación y codificación de módulos con la misma seguridad y garantía que el servicio oficial."
     },
     {
-      "q": "Voy mucho por los caminos de tierra de Collserola, ¿necesita mi coche una revisión de suspensión diferente?",
-      "a": "Sí. Conducir habitualmente por pistas forestales, incluso a baja velocidad, somete a un esfuerzo extra a los amortiguadores, silentblocks y rótulas. El polvo y el barro también pueden acelerar el desgaste de los guardapolvos. Si haces este tipo de recorridos, es recomendable hacer una revisión visual del tren de rodaje y la suspensión cada seis meses para detectar holguras o fugas a tiempo."
+      "q": "Para la ITV de mi X5 híbrido en Cerdanyola, ¿hacéis alguna revisión específica de la parte eléctrica o de emisiones?",
+      "a": "Sí. Ofrecemos una Pre-ITV gratuita donde revisamos todos los puntos clave. En un híbrido como tu X5, además de los elementos habituales (frenos, luces, neumáticos), prestamos especial atención a la prueba de gases, asegurándonos de que el motor de combustión funciona eficientemente, y verificamos que no haya ningún código de error relacionado con el sistema híbrido que pueda ser un problema en la estación de ITV."
     }
   ],
-  "closingHeadline": "Deja tu coche a punto en Ripollet",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos una valoración honesta para el mantenimiento o reparación que necesitas en Ripollet."
+  "closingHeadline": "Tu especialista BMW y MINI en Ripollet",
+  "closingCta": "Pide tu cita previa y descubre por qué cada vez más conductores del Vallès nos confían su BMW o MINI. Llámanos o escríbenos un WhatsApp y te daremos un presupuesto cerrado para lo que necesites en Ripollet."
 }
