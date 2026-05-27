@@ -6,182 +6,184 @@
   "population": 81860,
   "lat": 40.42378,
   "lng": -3.56129,
-  "metaTitle": "Taller mecánico en Coslada — Para vehículos de trabajo y particulares",
-  "metaDescription": "Servicio de mecánica en Coslada para profesionales que no pueden parar. Diagnóstico rápido, presupuesto cerrado y reparación eficiente. Pide tu cita.",
-  "heroSubtitle": "Sabemos que tu coche parado es un día perdido. Ofrecemos un diagnóstico claro y rápido para que vuelvas a la carretera.",
+  "metaTitle": "Taller MINI y BMW en Coslada — Red ISTA · Diagnóstico oficial",
+  "metaDescription": "Especialistas en MINI Cooper S/JCW y BMW en Coslada. Diagnóstico oficial ISTA, motor B48/N47, y precios de taller. Pide tu presupuesto cerrado.",
+  "heroSubtitle": "Tu MINI Cooper S necesita más que un taller genérico. En Coslada, entendemos su turbo, su dirección y su carácter.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Entendemos la realidad de Coslada. No es solo una ciudad; es uno de los pulmones logísticos de Madrid, un punto neurálgico donde un vehículo no es un lujo, sino una herramienta de trabajo indispensable. Si conduces una furgoneta de reparto por el Polígono Industrial de Coslada o el Centro de Transportes (CTC), o eres un comercial que recorre la A-2 y la M-45 a diario, sabes que cada minuto cuenta. Un testigo encendido en el salpicadero no es una simple molestia, es una amenaza directa a tu facturación. La rutina de enlazar el Puerto Seco con Barajas o de moverse entre las naves de San Fernando de Henares y Torrejón de Ardoz somete a cualquier motor, transmisión y sistema de frenado a un estrés constante. No es un uso estándar, es un uso intensivo que requiere un mantenimiento y una capacidad de respuesta que van más allá de lo convencional.\n\nEl parque móvil profesional de Coslada es un reflejo de su economía: diverso y en plena transición. Por cada furgoneta diésel Euro 4 o Euro 5 que ha demostrado su fiabilidad durante años, vemos más vehículos comerciales con etiqueta ECO, híbridos o incluso eléctricos, especialmente en la última milla. Esta dualidad presenta un desafío técnico considerable. Los problemas de un motor diésel con cientos de miles de kilómetros, como la obstrucción de la válvula EGR o la saturación del filtro de partículas por el tráfico lento en la Avenida de la Constitución, son muy distintos a los fallos en el sistema de gestión de baterías de un híbrido moderno. Nuestro equipo está formado para diagnosticar y reparar ambos mundos, comprendiendo que el propietario de un vehículo de trabajo no puede permitirse un diagnóstico erróneo o una reparación que se alarga innecesariamente. Conocemos las averías endémicas de los modelos más comunes en el transporte ligero y también invertimos en la formación y el equipo necesarios para los sistemas de propulsión más actuales.\n\nEl cambio generacional de vehículos no es una opción, es una imposición dictada por las Zonas de Bajas Emisiones (ZBE) de Madrid. Para un autónomo de Coslada, la decisión de renovar su herramienta de trabajo es una de las más importantes. ¿Merece la pena invertir en una reparación costosa de un diésel que pronto podría tener restricciones de acceso, o es el momento de dar el salto a un híbrido? Ofrecemos un servicio de diagnóstico pre-compra y asesoramiento honesto. Analizamos el estado real de tu vehículo actual para que tomes una decisión informada. Y si ya has hecho el cambio, te proporcionamos el mantenimiento especializado que estos nuevos sistemas requieren, desde la revisión del sistema eléctrico de alta tensión hasta la calibración de los sistemas ADAS, cada vez más presentes y obligatorios para la seguridad.\n\nLas condiciones de conducción en el Corredor del Henares son exigentes. El calor extremo del verano sobre el asfalto de la M-40 y la M-50 pone a prueba cualquier sistema de refrigeración y aire acondicionado, componentes críticos no solo para el confort, sino para la concentración del conductor profesional. Los inviernos, con mañanas heladoras en los polígonos abiertos, son el verdugo de las baterías y los sistemas de arranque. A esto se suma el estado variable del firme en zonas industriales, que castiga suspensiones, amortiguadores y neumáticos. Nuestro enfoque no es genérico; consideramos el 'factor Coslada' en cada diagnóstico. Una vibración al frenar no es lo mismo si el vehículo circula principalmente por el casco urbano de barrios como El Espinillo o Valleaguado, que si pasa el día entrando y saliendo de muelles de carga.\n\nPor todo esto, nuestro compromiso es ofrecer un servicio procedimental y transparente. Cuando tu vehículo entra en nuestro taller, iniciamos un proceso de diagnóstico sistemático para identificar la causa raíz del problema, no solo el síntoma. Recibirás un presupuesto cerrado y detallado, explicando qué se necesita reparar y por qué. No se realiza ningún trabajo sin tu autorización explícita. Nuestro objetivo es minimizar el tiempo de inactividad de tu vehículo, porque comprendemos que tu medio de vida depende de ello. Queremos ser tu socio de confianza para el mantenimiento y la reparación de tu herramienta más valiosa, aquí mismo, en Coslada.",
-  "servicesIntro": "Ofrecemos una cobertura integral para tu vehículo, desde el mantenimiento programado hasta la diagnosis avanzada de averías eléctricas o mecánicas.",
-  "processIntro": "Trabajamos con un método claro y transparente: diagnóstico preciso, presupuesto cerrado y tu autorización antes de cualquier intervención.",
+  "introLocal": "Si tienes un MINI Cooper S o un John Cooper Works en Coslada, sabes que no conduces un coche cualquiera. No es solo un medio para ir del Barrio del Puerto al Polígono de las Mercedes o para coger la A-2 hacia Madrid. Es un coche de sensaciones, de respuesta inmediata, de ese tacto de dirección casi de kart. Por eso, cuando algo no va fino, no puedes llevarlo a cualquier sitio. Necesitas un taller que entienda que un pequeño tirón a 2.500 rpm en tu motor B48 no es una tontería, sino un síntoma que hay que diagnosticar con precisión. En esta zona del Corredor del Henares, donde se mezclan los trayectos urbanos cortos con las escapadas por la M-45, tu MINI exige un cuidado que va más allá de un simple cambio de aceite.\n\nEl clima de Madrid es de extremos, y eso tu MINI lo nota. En julio y agosto, cuando el asfalto de la Avenida de la Constitución quema, el sistema de refrigeración y el turbo de tu Cooper S trabajan al límite. Un fallo en la bomba de agua eléctrica o en el termostato puede convertir un atasco en la M-40 en una avería muy seria. En invierno, el frío seco de enero castiga la batería. Si aparcas en la calle en zonas como Ciudad 70 o El Espinillo, el sistema Start-Stop puede empezar a fallar, no por capricho, sino porque la batería ya no tiene la fuerza necesaria. Son detalles que un especialista tiene en cuenta, porque sabemos que la fiabilidad de tu coche depende de su adaptación al entorno real de Coslada.\n\nAdemás, está el tipo de conducción. Seamos sinceros: gran parte de los kilómetros se hacen en trayectos cortos. De Valleaguado al centro comercial Plenilunio. De La Colina al colegio. Estos recorridos son veneno para los motores modernos de inyección directa como los B38 y B48 de MINI. Provocan una acumulación progresiva de carbonilla en las válvulas de admisión que, poco a poco, ahoga el motor y le roba esa chispa que tanto te gusta. De repente, el coche no responde igual, consume más y ha perdido brío. No es que el motor esté mal, es que necesita una limpieza específica que un taller generalista ni siquiera sabrá que existe.\n\nAquí es donde un taller de la Red ISTA en Coslada marca la diferencia. No somos un concesionario oficial, con sus precios inflados y su trato impersonal. Tampoco somos un taller de barrio que usa una máquina de diagnosis multimarca que apenas rasca la superficie. Somos especialistas homologados, con acceso directo al software oficial ISTA/Rheingold de BMW Group. Esto significa que cuando conectamos tu MINI, estamos viendo exactamente lo mismo que vería un ingeniero en Múnich. Podemos diagnosticar un fallo intermitente en la dirección eléctrica EPS, reprogramar un módulo FRM después de un cambio de batería o hacer una regeneración forzada del filtro de partículas de un Countryman diésel con total garantía.\n\nElegir un taller Red ISTA es una decisión inteligente. Es optar por la misma tecnología y conocimiento que en el servicio oficial de Alcalá de Henares o de la capital, pero con la cercanía, la transparencia y los costes de un taller independiente de Coslada. Te explicamos cada paso, te damos a elegir entre recambio original o de calidad OE (fabricantes como Bosch, Mahle o Sachs) y te entregamos un presupuesto cerrado. Porque entendemos que cuidas tu MINI no solo porque es una máquina precisa, sino porque es parte de tu día a día. Y merece estar en manos de gente que comparte esa pasión y ese nivel de exigencia.",
+  "servicesIntro": "Desde la revisión CBS de tu MINI Countryman hasta una codificación NBT para tu Serie 3, aquí tienes los servicios especializados que ofrecemos en Coslada.",
+  "processIntro": "Conectamos tu coche a Alemania desde Coslada. Así trabajamos: diagnóstico oficial, presupuesto sin sorpresas y tu visto bueno para todo.",
   "processSteps": [
     {
-      "title": "Diagnóstico Inicial",
-      "body": "Al recibir tu coche, conectamos nuestros equipos de diagnosis y realizamos una inspección visual y funcional para identificar con precisión el origen de la avería. No dejamos nada al azar."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto Cerrado",
-      "body": "Con el diagnóstico completo, te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin costes ocultos. Lo que ves es lo que pagas."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información."
     },
     {
-      "title": "Tu Autorización",
-      "body": "Revisas el presupuesto con calma y nos das tu aprobación. Hasta que no tenemos tu 'OK' explícito, no procedemos con ninguna reparación ni pedimos ningún recambio. Tú tienes el control."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos y te explicamos antes de continuar."
     },
     {
-      "title": "Reparación Eficiente",
-      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre el progreso y los plazos estimados de la reparación."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-01/LL-04, pares de apriete específicos, herramienta especializada."
     },
     {
-      "title": "Entrega y Seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borrado de avisos CBS en el cuadro, prueba de rodaje cuando procede, actualización del libro digital de mantenimiento y seguimiento posterior para confirmar que todo funciona perfecto."
     }
   ],
-  "commonIssuesIntro": "Los vehículos de Coslada, especialmente los de uso profesional, sufren un desgaste específico por el tráfico intenso en polígonos, las altas velocidades en la A-2 y el clima continental.",
+  "commonIssuesIntro": "Un MINI JCW no sufre las mismas averías que un X5 diésel. En Coslada vemos a diario desde fallos en la dirección eléctrica EPS de los MINI F56 hasta las temidas cadenas de los N47, pasando por consumos de aceite en motores B48.",
   "commonIssues": [
     {
-      "title": "Obstrucción de EGR y FAP en diésel",
-      "body": "El reparto y los trayectos cortos dentro del Centro de Transportes o el Polígono de Coslada no permiten que los motores diésel alcancen la temperatura óptima para la regeneración del filtro de partículas. Esto provoca averías costosas y fallos en la ITV por emisiones. Realizamos limpiezas técnicas y diagnósticos para prevenir el problema."
+      "title": "Dirección Eléctrica (EPS) de MINI",
+      "body": "El tacto de la dirección de un MINI F56 es clave. Cuando empieza a endurecerse de forma intermitente, sobre todo en maniobras por barrios como Ciudad 70, suele ser el módulo EPS. Con el diagnóstico ISTA podemos identificar el fallo exacto, que a menudo no requiere cambiar la cremallera completa, ahorrándote una reparación muy costosa."
     },
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El tráfico denso en los accesos a la M-40 y las constantes paradas y arranques en zonas de carga y descarga aceleran el desgaste del embrague y los frenos. Es un problema común en furgonetas y VTCs que operan en el Corredor del Henares. Revisamos y sustituimos estos componentes con materiales de alta durabilidad."
+      "title": "Carbonilla en Motores Gasolina B38/B48",
+      "body": "Los trayectos cortos habituales en Coslada, para ir al trabajo o a la compra, son el caldo de cultivo perfecto para la carbonilla en las válvulas de admisión de los motores de inyección directa. Si tu Cooper S ha perdido respuesta, nuestro servicio de limpieza con cáscara de nuez (walnut blasting) restaura el rendimiento original sin desmontajes agresivos."
     },
     {
-      "title": "Fallos en el sistema de aire acondicionado",
-      "body": "Los veranos en Madrid son implacables. Un vehículo de trabajo aparcado al sol en un polígono puede alcanzar temperaturas interiores extremas. El compresor del A/C trabaja al máximo, provocando fugas o averías. Realizamos cargas de gas con detección de fugas y reparación del sistema."
+      "title": "Sistema de Refrigeración bajo el calor de Madrid",
+      "body": "El calor extremo del Corredor del Henares en verano pone a prueba la bomba de agua eléctrica y el termostato de tu BMW o MINI. Un fallo en plena A-2 en agosto es un problema grave. Realizamos revisiones preventivas del sistema de refrigeración para que afrontes el verano con total tranquilidad."
     },
     {
-      "title": "Problemas de batería y arranque en frío",
-      "body": "Las mañanas de invierno en Coslada, con temperaturas bajo cero, son la prueba de fuego para cualquier batería, especialmente en vehículos diésel con calentadores. Diagnosticamos el sistema de carga (alternador) y la salud de la batería para evitar que te quedes tirado a primera hora."
+      "title": "Rotura de Cadena en Motores N47/B47",
+      "body": "Aunque el foco esté en los MINI de gasolina, muchos BMW diésel circulan por Coslada. El conocido 'seseo' de la cadena de distribución en los motores N47 y, en menor medida, B47, es una reparación que dominamos. Usamos kits de distribución de calidad OE (IWIS) y seguimos el protocolo de BMW a rajatabla."
     },
     {
-      "title": "Averías en sistemas de propulsión híbrida",
-      "body": "Cada vez más VTCs y repartidores usan híbridos. Un testigo de 'fallo sistema híbrido' puede ser complejo de diagnosticar. Contamos con la formación y el equipo para trabajar con seguridad en los sistemas de alta tensión y diagnosticar problemas en la gestión electrónica de la batería."
-    },
-    {
-      "title": "Holguras en suspensión y dirección",
-      "body": "La combinación de badenes en zonas residenciales como Ciudad 70 y el firme irregular de algunas calles en los polígonos industriales castiga rótulas, silentblocks y amortiguadores. Una dirección imprecisa es un riesgo. Realizamos una revisión completa del tren de rodaje."
+      "title": "Fallos en el Módulo de Luces (FRM)",
+      "body": "Un cambio de batería mal hecho o un pico de tensión puede 'bloquear' el módulo FRM, dejando tu MINI o BMW sin luces, intermitentes o elevalunas. En muchos talleres te dirán que hay que cambiarlo. Nosotros, con el equipo adecuado, podemos repararlo y recodificarlo en la mayoría de los casos, con un ahorro considerable."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos tu urgencia",
-      "body": "Priorizamos el diagnóstico en vehículos de trabajo porque sabemos que tu facturación depende de ello. Nuestro objetivo es darte una respuesta clara y un plan de acción en el menor tiempo posible."
+      "title": "Pasión por MINI",
+      "body": "No somos un taller generalista. Conocemos el carácter del Cooper S, los caprichos del JCW y la fiabilidad del One. Hablamos tu mismo idioma, el de las sensaciones al volante y la respuesta del chasis."
     },
     {
-      "title": "Diagnóstico, no suposiciones",
-      "body": "Invertimos en equipos de diagnosis multimarca para identificar la causa real del problema. No cambiamos piezas por cambiar; reparamos el origen de la avería, ahorrándote tiempo y dinero."
+      "title": "Diagnóstico Nivel Concesionario",
+      "body": "Nuestro equipo ISTA/Rheingold es el mismo que usan en la BMW de Alcalá o Madrid, pero aquí en Coslada. Conectamos directamente con los servidores de BMW AG para un diagnóstico 100% fiable."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Recibirás un presupuesto cerrado y por escrito antes de iniciar cualquier trabajo. La transparencia es total, permitiéndote tomar decisiones sin presión ni costes inesperados al final."
+      "title": "Recambios OE: Calidad sin sobrecoste",
+      "body": "Te damos a elegir: recambio original BMW/MINI o calidad equivalente OE (Bosch, Lemförder, Sachs). La misma pieza, sin el logo, a un precio más justo. Transparencia total."
     },
     {
-      "title": "Especialistas en la transición",
-      "body": "Dominamos la mecánica diésel tradicional y estamos formados en las nuevas tecnologías híbridas y eléctricas. Podemos mantener tu vehículo actual o el nuevo que planeas adquirir."
+      "title": "Presupuestos Cerrados, Sin Sorpresas",
+      "body": "El precio que te damos es el que pagas. Si surge un imprevisto, paramos, te llamamos y te explicamos la situación. Tú decides siempre."
     },
     {
-      "title": "Comunicación directa y clara",
-      "body": "Te explicamos la avería en un lenguaje que entiendes. Estamos disponibles por teléfono o WhatsApp para resolver tus dudas durante todo el proceso de reparación de tu coche en Coslada."
+      "title": "Cuidamos tu Garantía",
+      "body": "Realizamos las revisiones siguiendo el plan CBS de MINI y BMW, usando aceites homologados LL-04. Sellamos el historial digitalmente, manteniendo intacta la garantía oficial del fabricante."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de situaciones reales que atendemos cada día, reflejando la experiencia de conductores como tú en nuestra red de talleres.",
+  "testimonialsIntro": "Estas son algunas situaciones típicas que resolvemos. Lee lo que clientes como tú, de barrios de Coslada, podrían contar sobre su experiencia.",
   "testimonials": [
     {
       "name": "Javier",
-      "neighborhood": "Centro de Transportes (CTC)",
-      "car": "Ford Transit Custom 2018",
-      "body": "Mi furgoneta empezó a perder potencia de camino a una entrega en Getafe por la M-45. Me la jugaba. Les llamé, me hicieron un hueco para diagnosis esa misma mañana. Era el sensor de presión del FAP. Me dieron presupuesto cerrado, lo acepté y por la tarde ya estaba de nuevo en ruta. Para un autónomo, esa rapidez es oro.",
+      "neighborhood": "El Espinillo",
+      "car": "MINI Cooper S F56 2017",
+      "body": "El coche empezó a hacer un ruido raro al girar en las rotondas de la Avenida de España. En otro taller me querían cambiar la cremallera entera. Aquí me diagnosticaron con la máquina oficial que era un fallo del módulo EPS. Lo solucionaron sin cambiar toda la pieza y me ahorré una pasta. Se nota que controlan de MINI.",
       "rating": 5
     },
     {
-      "name": "Lucía",
-      "neighborhood": "Valleaguado",
-      "car": "Toyota Corolla Hybrid 2020",
-      "body": "Soy VTC y el coche es mi oficina. Se encendió el testigo de 'Revisar sistema híbrido' antes de ir a Barajas. Pánico. En el taller me explicaron el procedimiento de seguridad para estos coches, diagnosticaron un fallo en una celda de la batería y gestionaron la reparación. Muy profesionales, se nota que saben lo que tocan.",
+      "name": "Laura",
+      "neighborhood": "Ciudad 70",
+      "car": "BMW X1 sDrive18d F48 2018",
+      "body": "Me saltó el aviso del DPF. Normal, con tanto viaje corto por Coslada y para llevar a los niños. Me explicaron que una regeneración forzada con ISTA era la solución, en lugar de cambiarlo. Además, me hicieron la revisión CBS actualizando el historial en el iDrive. Súper profesionales y claros.",
       "rating": 5
     },
     {
       "name": "Carlos",
-      "neighborhood": "El Puerto",
-      "car": "Seat León TDI 2015",
-      "body": "Uso el coche todos los días para ir a trabajar a Madrid por la A-2 y notaba un ruido raro en la suspensión delantera. Pensé que sería una fortuna. Me hicieron una revisión completa y vieron que era solo una rótula. Me enseñaron la pieza gastada. Presupuesto claro y reparación en el día. Muy honestos.",
+      "neighborhood": "Barrio del Puerto",
+      "car": "BMW 330i G20 2020",
+      "body": "Llevé el coche para un cambio de aceite y filtros. Usaron el aceite Castrol con especificación BMW LL-04 y recambios Mahle, todo como debe ser. El trato es cercano y el precio mucho más razonable que en el concesionario oficial de la A-2. Volveré seguro para los neumáticos.",
       "rating": 5
     },
     {
-      "name": "Marta",
-      "neighborhood": "Ciudad 70",
-      "car": "Peugeot 308 2016",
-      "body": "Tenía la ITV al día siguiente y el coche echaba más humo de la cuenta. Me hicieron una pre-ITV, detectaron los gases altos y realizaron una descarbonización del motor. Pasé la inspección sin problemas. El coche va más fino ahora. Me ahorraron un segundo viaje a la estación de ITV de San Fernando.",
+      "name": "Sofía",
+      "neighborhood": "Valleaguado",
+      "car": "MINI One D R56 2013",
+      "body": "Mi MINI ya tiene sus años y empezó a sonar la cadena. Estaba asustada por lo que había leído del motor N47. Me dieron un presupuesto cerrado, me enseñaron las piezas viejas y las nuevas (marca IWIS, la original) y el coche ahora va como la seda. Me quitaron un peso de encima.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller da servicio a toda la zona de Coslada y el Corredor del Henares. Conocemos perfectamente las necesidades de los profesionales que trabajan en el Polígono Industrial de Coslada, el Centro de Transportes (CTC) y el Puerto Seco. Damos cobertura a los barrios residenciales como La Rambla, Valleaguado, El Espinillo y Ciudad 70. Gracias a nuestra ubicación estratégica, somos un punto de referencia para conductores de municipios colindantes como San Fernando de Henares y Torrejón de Ardoz. El acceso es directo y rápido desde las principales vías que vertebran la zona, incluyendo la autovía A-2, la M-40 y la M-45, lo que permite a cualquier profesional o particular llegar al taller sin perder tiempo en callejeos innecesarios.",
+  "zoneText": "Nuestro taller en Coslada da servicio a toda la zona del Corredor del Henares. Si vives en barrios como La Colina, El Espinillo, Ciudad 70 o el Barrio del Puerto, estamos a un paso. También somos la alternativa lógica al concesionario para propietarios de BMW y MINI de municipios cercanos como San Fernando de Henares, Mejorada del Campo, Velilla de San Antonio o incluso el distrito de Barajas, gracias a nuestro fácil acceso desde la M-40, la M-21 y la autovía A-2. Aparcar en nuestra zona es más sencillo que en el centro de Madrid, y te ahorras el atasco.",
   "zoneNeighborhoods": [
-    "El Puerto",
-    "Valleaguado",
-    "La Rambla",
-    "Ciudad 70",
     "El Espinillo-Parque Blanco",
-    "Barrio del Jarama",
-    "Polígono Industrial de Coslada",
-    "Centro de Transportes (CTC)",
+    "Ciudad 70",
+    "Barrio del Puerto",
+    "La Colina",
+    "Valleaguado",
+    "Las Conejeras",
     "San Fernando de Henares",
-    "Torrejón de Ardoz"
+    "Mejorada del Campo",
+    "Barajas"
   ],
   "zoneAccessRoutes": [
     "A-2 (Autovía del Nordeste)",
     "M-40",
     "M-45",
-    "M-21 (Eje Aeropuerto)",
-    "M-50"
+    "M-21"
   ],
   "faqLocal": [
     {
-      "q": "¿Puedo pasar una Pre-ITV para asegurar que mi diésel cumple la normativa de emisiones de Madrid?",
-      "a": "Sí, es uno de nuestros servicios más demandados. Comprobamos especialmente la opacidad de los gases, un punto crítico para los diésel que circulan por Coslada y acceden a las ZBE de Madrid. Si los valores son altos, te proponemos soluciones como la limpieza del sistema de admisión o del filtro de partículas antes de que vayas a la inspección."
+      "q": "Mi MINI Cooper S parece que ha perdido 'punch'. ¿Puede ser por la carbonilla que he oído?",
+      "a": "Es muy probable, sobre todo si haces trayectos cortos por Coslada. Los motores de inyección directa como el B48 de tu Cooper S tienden a acumular carbonilla en las válvulas de admisión. Esto restringe el flujo de aire y notas esa pérdida de respuesta. Con nuestro servicio de limpieza con cáscara de nuez, lo dejamos como nuevo sin desmontar la culata."
     },
     {
-      "q": "Mi furgoneta es mi herramienta de trabajo. ¿Con qué rapidez pueden darme un diagnóstico?",
-      "a": "Entendemos tu situación. Damos prioridad a los vehículos profesionales. Nuestro objetivo es realizar un diagnóstico inicial en las primeras horas desde la recepción del vehículo para que puedas tener una idea clara del alcance de la avería, el coste y el tiempo estimado de reparación, y así poder organizarte."
+      "q": "En verano, con el calorazo de Coslada, el aire acondicionado de mi BMW no enfría como antes. ¿Es una avería cara?",
+      "a": "No tiene por qué. El calor extremo del Corredor del Henares pone a prueba el sistema. Puede ser una simple falta de gas, un filtro de habitáculo sucio o un problema en el compresor. Hacemos un diagnóstico completo del circuito A/C para localizar el punto exacto y darte la solución más económica y eficaz."
     },
     {
-      "q": "Tengo un coche híbrido para VTC, ¿realizáis el mantenimiento de la parte eléctrica?",
-      "a": "Por supuesto. Nuestro personal técnico cuenta con la certificación necesaria para intervenir en vehículos con sistemas de alta tensión. Realizamos el mantenimiento tanto de la parte mecánica como del sistema híbrido, incluyendo diagnosis electrónica, comprobación del estado de las baterías y del sistema de refrigeración de las mismas."
+      "q": "Soy de San Fernando de Henares, ¿me compensa ir a vuestro taller en Coslada?",
+      "a": "Totalmente. Estamos a menos de 10 minutos y somos el único taller de la zona adherido a Red ISTA con diagnóstico oficial. Te ahorras el viaje al concesionario de Alcalá o Madrid, con sus precios y sus listas de espera. Muchos de nuestros clientes son de San Fernando, Mejorada y Velilla."
     },
     {
-      "q": "¿Es seguro dejar la furgoneta cargada en el taller por la noche?",
-      "a": "Nuestras instalaciones están protegidas, pero siempre recomendamos que, por seguridad y política de seguros, no se dejen mercancías de valor en el interior del vehículo fuera del horario laboral. Si es inevitable, por favor, coméntalo con nuestro responsable de taller para evaluar la situación."
+      "q": "¿Tengo que pasar la ITV pronto, ¿cómo me podéis ayudar?",
+      "a": "Ofrecemos una pre-ITV gratuita con cualquier mantenimiento. Revisamos los puntos clave que miran en las estaciones de ITV de la zona (como la de Coslada o la de San Fernando en la A-2): frenos, neumáticos, luces, emisiones... Así vas sobre seguro y evitas un desfavorable por una tontería."
     },
     {
-      "q": "Mi coche tiene más de 300.000 km, ¿merece la pena seguir reparándolo?",
-      "a": "Es una pregunta muy común en vehículos de trabajo. Nuestro diagnóstico te dará la respuesta. Evaluaremos el estado general del motor, la transmisión y el chasis para darte una opinión profesional y honesta. A veces, una reparación a tiempo puede alargar la vida útil del vehículo de forma rentable."
+      "q": "¿Se puede reequipar el control de crucero en un BMW Serie 1 que no lo traía de fábrica?",
+      "a": "Sí, es una de las codificaciones que más hacemos. Si tu coche es compatible, podemos instalar la piña de mandos original y codificar el módulo DME y el cuadro de instrumentos (KOMBI) con ISTA para que funcione como si viniera de fábrica. Es una mejora muy útil para los trayectos por la A-2 o la R-3."
     },
     {
-      "q": "Vengo del Centro de Transportes, ¿cómo llego más fácil al taller?",
-      "a": "Desde el CTC, la forma más directa es tomar la Avenida de José Gárate. Dependiendo de nuestra ubicación exacta dentro de la red, te proporcionaremos indicaciones precisas al pedir la cita para que llegues sin ninguna pérdida, evitando el tráfico de las horas punta en la medida de lo posible."
+      "q": "Mi MINI tiene neumáticos run-flat. ¿Estáis equipados para cambiarlos?",
+      "a": "Por supuesto. Los neumáticos RSC (run-flat) requieren maquinaria específica porque sus flancos son muy rígidos. Tenemos desmontadoras preparadas para no dañar ni la llanta ni el neumático. Además, hacemos el equilibrado y la alineación 3D siguiendo las especificaciones exactas de MINI para que el comportamiento sea perfecto."
+    },
+    {
+      "q": "El sistema Start-Stop de mi coche falla a veces en invierno. ¿Es la batería?",
+      "a": "En el 90% de los casos, sí. Con el frío de los inviernos de Madrid, una batería que no está al 100% no puede soportar los constantes arranques. Además, en BMW y MINI no basta con cambiarla: hay que registrar la nueva batería en la centralita (DME/DDE) con ISTA para que el sistema de carga funcione correctamente y la nueva batería dure lo que debe. Nosotros hacemos el proceso completo."
     }
   ],
-  "closingHeadline": "Tu taller de confianza en Coslada",
-  "closingCta": "Si tu coche, sea de trabajo o particular, necesita una revisión o reparación, no esperes más. Contacta con nosotros por teléfono o WhatsApp para pedir tu cita en Coslada y recibe un presupuesto claro y sin compromiso."
+  "closingHeadline": "Tu especialista MINI y BMW en Coslada",
+  "closingCta": "Hablamos el mismo idioma que tu coche. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y descubre por qué somos la alternativa inteligente al concesionario en Coslada."
 }
