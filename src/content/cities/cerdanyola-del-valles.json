@@ -6,180 +6,189 @@
   "population": 58747,
   "lat": 41.49109,
   "lng": 2.14079,
-  "metaTitle": "Taller mecánico en Cerdanyola del Vallès | Especialistas en híbridos",
-  "metaDescription": "Taller multimarca en Cerdanyola del Vallès. Expertos en coches híbridos, eléctricos y de combustión. Pide tu presupuesto cerrado y sin sorpresas hoy.",
-  "heroSubtitle": "El motor de tu híbrido se enciende más de la cuenta por la C-58 y no sabes si es normal. Necesitas un taller en Cerdanyola que hable tu idioma.",
+  "metaTitle": "Taller BMW y MINI en Cerdanyola del Vallès · Red ISTA Oficial",
+  "metaDescription": "Especialistas en BMW y MINI en Cerdanyola. Mantenimiento sin perder la garantía oficial. Diagnóstico ISTA, revisiones CBS y mecánica. Pide tu presupuesto.",
+  "heroSubtitle": "¿Tu BMW o MINI aún está en garantía? No tienes por qué pagar de más en el concesionario de Cerdanyola o Barcelona para mantenerla.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Cerdanyola del Vallès ya no es la misma de hace veinte años. Cada mañana, el paisaje sonoro del municipio cambia. El murmullo de los motores diésel que arrancan en barrios como Fontetes o Serraparera para enfilar la N-150 hacia Barberà, se mezcla cada vez más con el silencio casi absoluto de los coches híbridos y eléctricos que salen de las zonas residenciales de Bellaterra o las promociones nuevas cerca del Parc Tecnològic del Vallès. Este contraste define la nueva realidad de la automoción en nuestra ciudad. Un parque móvil que envejece por un lado, con coches que han recorrido mil veces la C-58 hacia Barcelona, y por otro, una flota que se electrifica a un ritmo acelerado, impulsada por el ecosistema de la UAB y el Sincrotró Alba. Un Peugeot 308 de 2010 tiene necesidades muy distintas a un Kia Niro de 2022, y nosotros entendemos ambas realidades porque las vemos a diario.\n\nEl conductor de Cerdanyola es único. No es lo mismo usar el coche solo los fines de semana para subir a Collserola, que hacer cada día el trayecto Cerdanyola-Sant Cugat por la AP-7. El tráfico denso, las cuestas pronunciadas hacia el Turó de Sant Pau y el constante 'para y arranca' de la vida urbana ponen a prueba la mecánica de formas muy concretas. En un híbrido, esto se traduce en un uso intensivo del sistema de frenada regenerativa y constantes cambios entre el motor eléctrico y el de combustión. En un diésel con ciertos años, significa un filtro de partículas que sufre por no poder regenerar correctamente en trayectos cortos al Mercadona o al CAP. El clima del Vallès, con veranos que superan los 35°C e inviernos fríos y húmedos, añade otra capa de complejidad, afectando desde la salud de la batería de alto voltaje de un eléctrico hasta la eficiencia del aire acondicionado en un coche de gasolina.\n\nEntender este cambio generacional en el parque móvil es nuestra clave. No se trata solo de tener la máquina de diagnosis más moderna; se trata de saber qué preguntar. Cuando un cliente nos dice que su Toyota C-HR 'hace un ruido raro al frenar suave', sabemos que puede no ser un problema de pastillas, sino del actuador del sistema de frenado electrónico. Cuando alguien con un SEAT León TDI nos comenta que 'le falta potencia al subir hacia Flor de Maig', nuestra primera sospecha recae sobre la válvula EGR o el turbo, componentes castigados por la conducción local. Este conocimiento profundo del coche y su entorno en Cerdanyola nos permite ir más allá del simple cambio de piezas. Nos permite anticipar problemas, aconsejar sobre el uso y, en definitiva, dar un servicio que un taller genérico no puede ofrecer.\n\nPor eso, nuestro enfoque es claro: somos un taller para la Cerdanyola de hoy y la de mañana. Estamos equipados y formados para realizar el mantenimiento completo de un coche eléctrico, revisar el complejo sistema híbrido de un Toyota o un Lexus, y a la vez, hacerle la distribución a un Renault Clio de 2008 con la misma precisión y garantía. No importa si vives en el Centre-Cordelles y usas el coche para todo, o en Montflorit y solo lo coges para ir a Barcelona. Tu vehículo es una herramienta esencial en el día a día del Vallès, y necesita un taller que entienda tanto de su mecánica y electrónica como del asfalto que pisa cada día.",
-  "servicesIntro": "Desde la revisión de un coche eléctrico hasta el cambio de embrague de un diésel, cubrimos todas las necesidades de tu vehículo en Cerdanyola.",
-  "processIntro": "Trabajamos con un proceso transparente de 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
+  "introLocal": "Si conduces un BMW o un MINI por Cerdanyola del Vallès, es muy probable que tu coche aún esté cubierto por la garantía del fabricante. Quizás sea un X1 de empresa para visitar clientes en el Parc Tecnològic, un Serie 1 para moverte por el campus de la UAB en Bellaterra o un MINI Countryman familiar con el que subes a Collserola los fines de semana. Y con esa garantía viene una duda: ¿estoy obligado a pasar las revisiones en el concesionario oficial para no perderla? La respuesta corta es no. Muchos conductores de Cerdanyola asumen que, durante los primeros años, la única opción es pagar los precios de un servicio oficial, pero la legislación europea (Reglamento 461/2010) te protege. Puedes elegir un taller cualificado e independiente sin que tu garantía se vea afectada en lo más mínimo.\n\nAquí es donde entra en juego nuestro centro en Cerdanyola, homologado por Red ISTA. Somos la alternativa lógica para el propietario de un BMW que valora tanto su coche como su dinero. Entendemos que tu día a día no siempre es un paseo por la autopista AP-7. Son los trayectos cortos y repetitivos —dejar a los niños en el colegio en Serraparera, ir a comprar al Mercat de Fontetes, el atasco matutino en la C-58 para entrar a Barcelona— los que más desafían la mecánica de tu coche. Un motor diésel B47 necesita regenerar su filtro de partículas, y eso no ocurre en un viaje de diez minutos. Un gasolina B48 con inyección directa sufre con los arranques en frío constantes. Como especialistas, no solo seguimos el plan de mantenimiento de BMW al pie de la letra, sino que lo adaptamos a la realidad de conducir en el Vallès.\n\nEl clima de Cerdanyola y el Vallès Occidental es otro factor clave que un taller genérico no suele considerar. No tenemos la brisa marina de Barcelona; aquí los veranos son secos y muy calurosos, y los inviernos, fríos y húmedos. Ese calor estival pone a prueba el sistema de refrigeración de cualquier motor, especialmente en los potentes B58 o en los MINI F56 que circulan por el denso tráfico urbano. Una bomba de agua eléctrica o un termostato pueden fallar sin previo aviso. Por otro lado, las mañanas de invierno con heladas en zonas como Bellaterra exigen el máximo a la batería AGM, sobre todo con el sistema Start-Stop activándose en cada semáforo de la Avinguda de Catalunya. Conocemos estos patrones y por eso en cada revisión CBS prestamos especial atención a estos componentes críticos.\n\nNuestro enfoque se basa en una herramienta que nos diferencia radicalmente: el sistema de diagnóstico oficial BMW ISTA/Rheingold. Cuando conectamos tu coche, no estamos simplemente leyendo códigos de error genéricos. Estamos accediendo en tiempo real a los servidores de BMW en Alemania, viendo exactamente lo mismo que vería un ingeniero en Múnich. Esto nos permite realizar un diagnóstico con una precisión milimétrica, como si apuntáramos un haz de luz del Sincrotrón ALBA, que tenemos aquí al lado, a cada componente electrónico de tu vehículo. Podemos detectar una bobina de encendido a punto de fallar en un Serie 3, reprogramar un módulo de luces adaptativas en un X3 o ajustar la caja de cambios ZF 8HP para que vuelva a tener la suavidad del primer día. Es tecnología de concesionario, pero aplicada con la cercanía y la estructura de costes de un taller de Cerdanyola.\n\nPor tanto, si tu BMW o MINI necesita una revisión CBS, tiene un testigo encendido en el cuadro o simplemente notas que algo no va fino, no tienes por qué resignarte a un presupuesto inflado ni a coger el coche hasta las afueras de Barcelona. En nuestro taller de Cerdanyola, miembro de Red ISTA, protegemos tu garantía, entendemos tu coche y conocemos las calles por las que circulas. Te ofrecemos un presupuesto cerrado, recambios de calidad original (OE) o si lo prefieres, originales BMW, y la tranquilidad de saber que tu coche está en manos de gente que vive y respira esta marca, aquí mismo, en el corazón del Vallès.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Cerdanyola, desde revisiones CBS que mantienen tu garantía hasta las reparaciones más complejas.",
+  "processIntro": "Trabajamos con total transparencia. Este es nuestro proceso en 5 pasos para que sepas qué le ocurre a tu coche y cuánto te va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos el problema y conectamos nuestros equipos de diagnosis a tu coche. Verificamos tanto los sistemas mecánicos tradicionales como la electrónica del sistema híbrido o la gestión de la batería para encontrar la causa raíz."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, explicando claramente qué es necesario reparar y por qué. El precio que ves es el que pagas, sin extras inesperados."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin compromiso."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni desmontamos nada sin tu confirmación explícita. Revisas el presupuesto con calma y nos das luz verde. Tú tienes el control total sobre la reparación en todo momento."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca en tu coche sin tu aprobación explícita. Si durante la reparación surge cualquier imprevisto, paramos, te llamamos y te explicamos las opciones antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros técnicos, formados en las últimas tecnologías de hibridación y electrificación, se encargan de la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Usamos aceites homologados LL-04, respetamos los pares de apriete y empleamos herramienta específica para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS, actualizamos el historial digital de tu coche, realizamos una prueba en carretera si es necesario y te entregamos un informe completo del trabajo realizado."
     }
   ],
-  "commonIssuesIntro": "El uso diario del coche por Cerdanyola y el Vallès, con su tráfico y clima, provoca averías muy específicas, sobre todo en la nueva generación de coches híbridos y eléctricos.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que solucionamos en los BMW y MINI que circulan por Cerdanyola y el Vallès, muchos de ellos agravados por el tipo de conducción y el clima local.",
   "commonIssues": [
     {
-      "title": "Fallos en la batería de 12V de coches híbridos",
-      "body": "Aunque tu coche sea híbrido, sigue usando una batería de 12V para arrancar el sistema. Los trayectos cortos por Cerdanyola y el calor del verano en el Vallès la degradan prematuramente, provocando que el coche no 'despierte'. Realizamos comprobaciones del sistema de carga y la salud de esta batería para evitar que te deje tirado."
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Los trayectos cortos y frecuentes por Cerdanyola, como ir del barrio de Fontetes a la estación de Renfe, impiden que los motores diésel N47 o B47 alcancen la temperatura para regenerar el DPF. Con el equipo ISTA, diagnosticamos el nivel de saturación real y forzamos regeneraciones controladas para evitar una costosa sustitución."
     },
     {
-      "title": "Refrigeración de la batería de alto voltaje y el inversor",
-      "body": "El calor extremo del verano y el tráfico lento en la C-58 ponen a prueba el sistema que refrigera los componentes eléctricos. Un mantenimiento deficiente de este circuito puede reducir la vida útil de la batería o causar averías caras. Lo revisamos y mantenemos para garantizar un rendimiento óptimo."
+      "title": "Fallos en el sistema de refrigeración",
+      "body": "El calor intenso del verano en el Vallès y los atascos en la C-58 fuerzan al máximo el sistema de refrigeración. La bomba de agua eléctrica y el termostato son puntos débiles. Hacemos una diagnosis preventiva para detectar fallos antes de que causen un sobrecalentamiento grave en tu motor B48 o N55."
     },
     {
-      "title": "Obstrucción del Filtro de Partículas (DPF) en diésel",
-      "body": "Es el problema clásico del conductor de Cerdanyola que trabaja en Barcelona o alrededores. Los trayectos por la AP-7 o C-58 con atascos impiden que el DPF se regenere bien, causando pérdida de potencia y averías. Ofrecemos diagnosis y soluciones de limpieza profesional para evitar su sustitución."
+      "title": "Estiramiento de la cadena (N47/B47)",
+      "body": "El famoso problema de la cadena de distribución en los motores diésel de 4 cilindros. Los arranques en frío constantes para ir a la UAB o al trabajo en Sant Cugat acortan su vida útil. Realizamos una diagnosis acústica y verificamos los tensores para recomendar una sustitución preventiva y evitar la rotura del motor."
     },
     {
-      "title": "Desgaste irregular de neumáticos y suspensión",
-      "body": "La combinación de rotondas, los miles de badenes en barrios como Serraparera o Guiera, y el firme a veces irregular, castiga la suspensión y la alineación. Esto provoca un desgaste prematuro y anómalo de los neumáticos. Hacemos una revisión completa y alineación precisa para alargar su vida útil."
+      "title": "Problemas de batería y Start-Stop",
+      "body": "Las mañanas frías y húmedas de Cerdanyola degradan las baterías AGM, y el sistema Start-Stop deja de funcionar correctamente. Con ISTA, no solo cambiamos la batería, sino que la registramos en la centralita DME/DDE, algo crucial para que el sistema de carga inteligente funcione bien y la nueva batería dure años."
     },
     {
-      "title": "Problemas en sistemas de frenado electrónico (ECB)",
-      "body": "Los híbridos usan frenada regenerativa, por lo que las pastillas duran más. Sin embargo, los actuadores y bombas del sistema electrónico son complejos y pueden fallar. Un diagnóstico erróneo lleva a cambiar piezas innecesarias. Nosotros sabemos identificar y reparar el origen del problema en estos sistemas."
+      "title": "Dirección asistida eléctrica (EPS) en MINI",
+      "body": "La conducción urbana por zonas como el centro de Cerdanyola o Ripollet, con giros cerrados y mucho aparcamiento, exige mucho a la bomba de dirección electrohidráulica de los MINI. Si notas la dirección dura o ruidos extraños, podemos diagnosticar el módulo EPS y la bomba para encontrar una solución eficaz sin cambiar todo el sistema."
     }
   ],
   "whyUs": [
     {
-      "title": "Expertos en la transición",
-      "body": "Entendemos la mecánica de un diésel de 2007 y la electrónica de un híbrido de 2023. Estamos formados para diagnosticar y reparar ambas generaciones de vehículos que conviven en Cerdanyola."
+      "title": "Mantienes tu garantía oficial",
+      "body": "Gracias al Reglamento Europeo 461/2010, sellamos tu libro de mantenimiento (físico o digital) y tu garantía de fabricante sigue intacta. Usamos recambios OE y seguimos los procedimientos de BMW."
     },
     {
-      "title": "Diagnóstico, no 'cambiapiezas'",
-      "body": "Invertimos tiempo en encontrar la causa real del problema. No cambiamos piezas 'a ver si suena la flauta'. Ahorras dinero y ganas en fiabilidad."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Nuestro equipo ISTA/Rheingold se conecta directamente a los servidores de BMW AG. Vemos lo mismo que ellos, permitiendo una precisión total en la detección de averías y en la codificación de nuevos módulos."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos las cosas sin tecnicismos que no entiendas. Si quieres, te enviamos fotos o vídeos del proceso por WhatsApp para que veas qué le pasa a tu coche."
+      "title": "Precios de taller local",
+      "body": "Te ofrecemos la misma tecnología y especialización que un servicio oficial, pero con la estructura de costes de un taller independiente de Cerdanyola. El ahorro es significativo, la calidad es la misma."
     },
     {
-      "title": "Conocimiento local real",
-      "body": "Sabemos cómo afecta a tu coche el tráfico de la N-150, el clima del Vallès o el tipo de calles de tu barrio en Cerdanyola. Usamos ese conocimiento para un mejor diagnóstico."
+      "title": "Conocimiento del entorno",
+      "body": "Sabemos cómo afecta a tu coche conducir por el Vallès, desde el tráfico de la C-58 hasta el clima. Este conocimiento nos permite hacer un mantenimiento más inteligente y preventivo."
     },
     {
-      "title": "Garantía en todo lo que hacemos",
-      "body": "Todas nuestras reparaciones y piezas tienen garantía por escrito. Tu tranquilidad es lo primero. Confía en un trabajo bien hecho y respaldado."
+      "title": "Presupuestos sin sorpresas",
+      "body": "Antes de hacer nada, recibirás un presupuesto cerrado y detallado. Te explicamos cada punto para que tomes la mejor decisión para tu coche y tu bolsillo. Sin letra pequeña ni extras inesperados."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos cada día en nuestro taller de Cerdanyola.",
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que hemos atendido en nuestro taller de Cerdanyola, reflejando las situaciones que viven nuestros clientes.",
   "testimonials": [
     {
-      "name": "Jordi",
+      "name": "Joan",
       "neighborhood": "Bellaterra",
-      "car": "Tesla Model 3 2021",
-      "body": "Empecé a oír un 'clonck' en la suspensión delantera al pasar por los badenes de mi urbanización. En otros sitios no daban con la tecla, pero aquí enseguida identificaron un problema en un brazo de la suspensión. Me dieron presupuesto cerrado, lo acepté y en un día lo tenía listo. Saben de eléctricos.",
+      "car": "BMW X3 xDrive20d G01 2021",
+      "body": "Tenía que pasar la primera revisión y el coche aún está en garantía. En el concesionario oficial me daban un presupuesto que me pareció una barbaridad. Un compañero de la UAB me habló de Red ISTA. Les llamé, me confirmaron que no perdía la garantía, me dieron un presupuesto cerrado mucho más razonable y sellaron el historial digital. El trato fue perfecto.",
       "rating": 5
     },
     {
-      "name": "Laia",
-      "neighborhood": "Fontetes",
-      "car": "Toyota Yaris Hybrid 2018",
-      "body": "Me tocaba la revisión anual y notaba que el coche gastaba un poco más de gasolina. Además del mantenimiento normal, hicieron una diagnosis completa del sistema híbrido y vieron que el filtro de la batería estaba muy sucio, algo típico por el polvo de la zona. Ahora va mucho más fino. Muy profesionales.",
+      "name": "Carla",
+      "neighborhood": "Centre-Cordelles",
+      "car": "MINI Cooper S F56 2018",
+      "body": "Se me encendía un testigo de forma intermitente y el coche daba tirones a veces. En otro taller no daban con la tecla. Aquí lo conectaron al ISTA y en media hora encontraron un fallo en una de las bobinas de encendido. Me explicaron el problema, me enseñaron la pieza y lo solucionaron en el mismo día. Muy profesionales.",
       "rating": 5
     },
     {
       "name": "Marc",
       "neighborhood": "Serraparera",
-      "car": "VW Golf TDI 2016",
-      "body": "Trabajo en Barberà y el coche se puso en modo de emergencia. Me dijeron que era el filtro de partículas. Me explicaron por qué pasaba por mis trayectos cortos y me ofrecieron una limpieza en vez de cambiarlo, que era una pasta. Me ahorraron un buen dinero y el coche va perfecto. Un 10.",
+      "car": "BMW 320d F30 2015",
+      "body": "Mi coche lleva el motor N47 y, con casi 180.000 km, me preocupaba el tema de la cadena de distribución. Les pedí una revisión preventiva. Escucharon el motor, comprobaron los parámetros con el ordenador y me recomendaron cambiar el kit por precaución. Ahora voy mucho más tranquilo en mis viajes por la AP-7. Transparencia total.",
       "rating": 5
     },
     {
-      "name": "Carla",
-      "neighborhood": "Vila Universitària (UAB)",
-      "car": "Peugeot 208 2015",
-      "body": "Tenía que pasar la ITV y estaba nerviosa porque el coche es de segunda mano. Lo traje para una pre-ITV. Le encontraron un silentblock roto y una luz de freno que no iba. Lo arreglaron súper rápido y a un precio razonable para una estudiante. La ITV la pasé a la primera. ¡Gracias!",
+      "name": "Sònia",
+      "neighborhood": "Ripollet",
+      "car": "BMW 118d F20 2017",
+      "body": "Me saltó el aviso del filtro de partículas. Hago muchos trayectos cortos entre Ripollet y Cerdanyola y ya me temía lo peor. Me explicaron que estaba saturado pero que seguramente se podía salvar. Le hicieron una regeneración forzada y me dieron unos consejos de conducción para evitar que vuelva a pasar. Me ahorraron un dineral.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda Cerdanyola del Vallès y sus alrededores. Tanto si tu coche duerme en un garaje de Bellaterra como si aparca en las calles de Serraparera o Fontetes, estamos cerca de ti. Nuestra ubicación es de fácil acceso para los conductores que vienen de municipios colindantes como Ripollet, Montcada i Reixac o Barberà del Vallès, utilizando vías rápidas como la AP-7 y la C-58. También cubrimos las necesidades de los profesionales y estudiantes que se mueven a diario por el Parc Tecnològic del Vallès, el Sincrotró Alba y el campus de la UAB. Si vives o trabajas en la zona, somos tu taller de confianza.",
+  "zoneText": "Nuestro taller especializado en BMW y MINI da servicio a toda la zona de Cerdanyola del Vallès y sus alrededores. Estamos ubicados en un punto de fácil acceso para los conductores que viven o trabajan en barrios como Centre-Cordelles, Serraparera, Bellaterra o Fontetes. Nuestra localización es también muy conveniente para clientes de municipios colindantes como Ripollet, Barberà del Vallès y Sant Cugat del Vallès, que buscan un especialista de confianza sin tener que desplazarse hasta Barcelona. Gracias a la proximidad con vías principales como la C-58 y la autopista AP-7, llegar a nuestras instalaciones es rápido y sencillo desde cualquier punto del Vallès Occidental.",
   "zoneNeighborhoods": [
     "Cerdanyola Centre-Cordelles",
     "Serraparera",
-    "Fontetes",
     "Bellaterra",
-    "Montflorit",
-    "Guiera",
+    "Fontetes",
     "Canaletes",
+    "Guiera",
     "Ripollet",
-    "Barberà del Vallès"
+    "Barberà del Vallès",
+    "Sant Cugat del Vallès",
+    "Montflorit"
   ],
   "zoneAccessRoutes": [
-    "AP-7",
-    "B-30",
-    "C-58",
-    "N-150"
+    "C-58 (Autovía del Vallès)",
+    "AP-7 (Autopista del Mediterráneo)",
+    "B-30 (Lateral de la AP-7)",
+    "N-150 (Carretera de Terrassa)"
   ],
   "faqLocal": [
     {
-      "q": "¿Estáis preparados para el mantenimiento de un coche híbrido o eléctrico en Cerdanyola?",
-      "a": "Totalmente. Contamos con técnicos en constante formación y el equipo de diagnosis específico para vehículos electrificados. Entendemos las particularidades de estos coches, desde la revisión del sistema de baterías de alto voltaje hasta el mantenimiento de los circuitos de refrigeración específicos que tanto sufren con el calor del Vallès."
+      "q": "Si paso la revisión de mi BMW en garantía con vosotros en Cerdanyola, ¿la pierdo?",
+      "a": "No, en absoluto. El Reglamento (UE) 461/2010 protege tu derecho a elegir taller. Como centro homologado por Red ISTA, seguimos los planes de mantenimiento de BMW, usamos recambios de calidad original (OE) y sellamos el historial digital de tu coche. Tu garantía permanece 100% intacta, pero con un coste mucho más competitivo que el del concesionario."
     },
     {
-      "q": "Vivo en Bellaterra y uso poco el coche, ¿qué mantenimiento especial necesita mi híbrido?",
-      "a": "Es una consulta muy común. El principal riesgo es la degradación de la batería de 12V, que se descarga si no se usa el coche. Además, los fluidos como el líquido de frenos se degradan por tiempo, no por kilómetros. Te recomendamos una revisión anual para comprobar estos puntos y asegurar que todo está en orden, aunque hagas pocos kilómetros."
+      "q": "¿Por qué se me enciende tanto el testigo del DPF si solo me muevo por Cerdanyola y alrededores?",
+      "a": "Es un problema muy común en el Vallès. Los trayectos cortos y urbanos, como ir de Cerdanyola a Barberà, no permiten que el motor diésel coja la temperatura necesaria para limpiar el filtro de partículas (DPF). Nuestro diagnóstico ISTA nos permite ver el nivel exacto de hollín y realizar una regeneración forzada en el taller para evitar una avería muy costosa."
     },
     {
-      "q": "Trabajo en el Parc de l'Alba y mi diésel me da problemas de humos, ¿es por los trayectos cortos?",
-      "a": "Es muy probable. El trayecto desde muchos barrios de Cerdanyola al Parc de l'Alba es demasiado corto para que un motor diésel moderno, sobre todo con filtro de partículas (DPF), alcance su temperatura óptima. Esto provoca carbonilla y obstrucciones. Podemos diagnosticarlo y recomendarte desde una limpieza hasta pautas de conducción para evitarlo."
+      "q": "¿Realmente sois más económicos que el concesionario oficial de BMW de Sant Cugat o Barcelona?",
+      "a": "Sí, de forma significativa. Al ser un taller independiente, no tenemos los enormes costes estructurales de un concesionario oficial. Te ofrecemos la misma tecnología de diagnóstico (ISTA oficial), la misma calidad de recambios (OE o BMW original, a tu elección) y técnicos especialistas, pero con unas tarifas de mano de obra mucho más ajustadas."
     },
     {
-      "q": "La ITV en Cerdanyola es exigente, ¿la pre-ITV que ofrecéis cubre los nuevos tests para híbridos?",
-      "a": "Sí. Nuestra pre-ITV es exhaustiva y está actualizada. Para los híbridos, no solo revisamos los puntos de seguridad comunes (frenos, luces, neumáticos), sino que también conectamos el ordenador para verificar que no haya códigos de error en el sistema híbrido que puedan ser motivo de rechazo. Así vas a la estación de la C-58 con total tranquilidad."
+      "q": "Trabajo en el Parc Tecnològic del Vallès, ¿os pilla muy lejos?",
+      "a": "Para nada, estamos muy cerca. Es una de nuestras zonas de influencia habituales. Muchos de nuestros clientes trabajan o viven en la zona del Parc Tecnològic, la UAB o los polígonos industriales cercanos. Nuestra ubicación está pensada para dar un servicio cómodo y rápido a todo el eje económico de Cerdanyola."
     },
     {
-      "q": "¿Ofrecéis coche de cortesía si tengo que dejar el mío y vivo en Ripollet o Barberà?",
-      "a": "Sí, disponemos de coches de cortesía bajo disponibilidad. Entendemos que muchos de nuestros clientes vienen de municipios cercanos y necesitan seguir moviéndose. Lo mejor es que lo solicites al pedir tu cita para poder reservarte uno y que la reparación de tu coche no te suponga un trastorno."
+      "q": "¿Actualizáis el historial de servicio digital en el iDrive de mi coche?",
+      "a": "Sí. Al igual que en un concesionario oficial, después de cada mantenimiento o revisión CBS, accedemos al sistema de BMW a través de nuestra conexión ISTA y registramos la operación. De esta forma, el historial de tu coche queda completamente actualizado y visible desde tu pantalla iDrive, manteniendo su valor de reventa."
     },
     {
-      "q": "Con el calor del verano en el Vallès, ¿debo revisar algo específico en mi coche eléctrico?",
-      "a": "El calor es el principal enemigo de las baterías. Es crucial que el sistema de refrigeración de la batería de tu coche eléctrico funcione perfectamente. Una revisión antes del verano para comprobar el nivel y estado del líquido refrigerante, y el funcionamiento de los ventiladores, puede prevenir averías graves y alargar la vida de la batería."
+      "q": "Mi MINI tiene un problema eléctrico que nadie encuentra, ¿podéis ayudarme?",
+      "a": "Los problemas eléctricos y de módulos son nuestra especialidad. Los MINI modernos tienen una electrónica compleja. Con el sistema ISTA, podemos testear cada módulo de forma individual (FRM, CAS, etc.), interpretar los datos correctamente y encontrar el origen del fallo, algo que con una máquina de diagnosis multimarca es prácticamente imposible."
     },
     {
-      "q": "Se ha encendido un testigo naranja en el cuadro de mi coche nuevo, ¿es grave?",
-      "a": "Un testigo naranja indica una anomalía que no suele ser de extrema gravedad, pero que no debe ignorarse, especialmente en coches modernos llenos de electrónica. Puede ser desde un sensor hasta un problema en el sistema híbrido. Lo correcto es hacer un diagnóstico cuanto antes para evitar que el problema vaya a más y la reparación sea más costosa."
+      "q": "Con el calor del verano en Cerdanyola, ¿debo hacerle alguna revisión especial a mi BMW?",
+      "a": "Es muy recomendable. El calor del Vallès pone a prueba el sistema de refrigeración y el aire acondicionado. En una revisión pre-verano, comprobamos el estado del líquido refrigerante, el funcionamiento de la bomba de agua eléctrica y el electroventilador, y la presión del circuito de A/C. Es una pequeña inversión que puede evitar un sobrecalentamiento y una avería grave en plena AP-7."
+    },
+    {
+      "q": "¿Tengo que dejar el coche todo el día para una revisión CBS normal?",
+      "a": "Generalmente no. Para una revisión estándar de aceite y filtros, solemos tardar unas pocas horas. Entendemos que necesitas tu coche para moverte por Cerdanyola, por lo que intentamos ser lo más ágiles posible. Si nos avisas al pedir cita, podemos coordinarnos para que la espera sea mínima y puedas recogerlo el mismo día."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Cerdanyola",
-  "closingCta": "Pide tu cita y recibe un presupuesto cerrado para la reparación o el mantenimiento de tu coche. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso. Confía en los especialistas de Cerdanyola del Vallès."
+  "closingHeadline": "Tu especialista BMW y MINI en Cerdanyola del Vallès",
+  "closingCta": "Pide tu cita previa y trae tu coche a los expertos que de verdad entienden tu BMW o MINI en Cerdanyola. Llámanos o escríbenos por WhatsApp para recibir tu presupuesto cerrado sin compromiso."
 }
