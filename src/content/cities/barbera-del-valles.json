@@ -6,177 +6,185 @@
   "population": 31144,
   "lat": 41.5159,
   "lng": 2.12457,
-  "metaTitle": "Taller mecánico en Barberà del Vallès — Para tu día a día",
-  "metaDescription": "Taller multimarca en Barberà del Vallès para conductores que dependen del coche. Presupuestos cerrados para revisión, mecánica y averías. Pide cita.",
-  "heroSubtitle": "Sabemos que tu coche no es un capricho. Es la herramienta que te lleva cada día por la C-58 o la AP-7. Lo cuidamos como tal.",
+  "metaTitle": "Taller BMW y MINI en Barberà del Vallès — Red ISTA · Especialista",
+  "metaDescription": "Taller especialista en BMW y MINI en Barberà del Vallès. Mantenimiento para más de 100.000 km: cadena N47/B47, caja ZF, Vanos. Diagnóstico oficial ISTA.",
+  "heroSubtitle": "¿Tu BMW o MINI ha pasado los 100.000 km y te preocupan los costes del concesionario oficial? Tenemos el mismo diagnóstico ISTA, sin sus precios.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "En Barberà del Vallès, un coche no es solo un vehículo; es una necesidad. Ubicados en el corazón del Vallès Occidental, somos un nudo de comunicaciones donde la AP-7 y la C-58 dictan el ritmo de vida de miles de personas. Si vives aquí, lo más probable es que tu jornada empiece y termine en una de estas vías, ya sea para ir a Barcelona, moverte entre los polígonos de Santiga o Can Salvatella, o conectar con Sabadell y Cerdanyola. Entendemos que tu coche, ese diésel con más de 100.000 kilómetros que te lleva al trabajo cada día, sufre un desgaste que no se ve en otras ciudades. No es el desgaste de un coche de fin de semana, es el de una herramienta sometida a un estrés constante: atascos, arranques en frío, trayectos cortos para recados por el centro y luego tirones largos a velocidad de autopista. Aquí, un fallo en el embrague o un problema con el filtro de partículas no es una molestia, es un problema que te impide facturar o llegar a tu puesto.\n\nEl parque móvil de Barberà y sus alrededores es un reflejo de su realidad industrial y trabajadora. Predominan los compactos y berlinas diésel de entre 5 y 15 años, junto a un número creciente de furgonetas de autónomos y pequeñas empresas que son la sangre de la economía local. Estos vehículos acumulan kilómetros a un ritmo vertiginoso. El clima del Vallès, con veranos muy calurosos y secos e inviernos húmedos y fríos, también pasa factura. El sistema de aire acondicionado se convierte en un elemento de primera necesidad en los atascos de julio en la C-58, y la batería sufre cada mañana de enero. Somos especialistas en este tipo de coche y en este tipo de uso. No te vamos a hablar con tecnicismos vacíos; te vamos a explicar por qué la válvula EGR de tu motor TDI se ensucia por hacer el trayecto a la Zona Franca a baja velocidad y qué podemos hacer para solucionarlo de forma duradera.\n\nConocemos las rutas. Sabemos lo que significa el tráfico denso a la altura del Baricentro, el asfalto irregular de algunas calles del Polígon Santiga o las cuestas del barrio de La Romànica en la frontera con Sabadell. Este conocimiento nos permite diagnosticar problemas que otros talleres podrían pasar por alto. Un ruido en la suspensión puede no ser solo una pieza desgastada, sino el resultado de meses pasando por los mismos badenes camino a casa en Ca n'Estaper. Un consumo elevado puede deberse a la necesidad constante de acelerar y frenar en la N-150. No tratamos coches, tratamos con las herramientas de trabajo de nuestros vecinos de Barberà, Badia, Cerdanyola o Ripollet. Por eso, nuestra filosofía es la transparencia total y el presupuesto cerrado. Antes de cambiar una sola pieza, recibirás un presupuesto detallado en tu móvil. Sin sorpresas, sin costes ocultos. Queremos ser tu taller de confianza, el lugar al que vienes sabiendo que entendemos tu realidad.\n\nNuestra propuesta es sencilla: un servicio de mecánica honesto, eficiente y adaptado a la vida en el Vallès. Desde una revisión pre-ITV para que la pases sin problemas en la estación de Santiga, hasta una reparación compleja como un cambio de kit de distribución o un embrague bimasa. Cubrimos todas las necesidades de tu coche: diagnóstico electrónico avanzado, mantenimiento de cajas de cambio, reparación de sistemas de inyección, cambio de neumáticos... todo pensado para devolverte tu coche lo antes posible y con la garantía de que está listo para volver a la carretera. Porque cuando dependes de tu coche para todo, necesitas un taller que dependa de tu confianza para existir. Y esa confianza, aquí en Barberà, se gana con hechos, no con palabras.",
-  "servicesIntro": "Soluciones para el día a día de tu coche en Barberà: desde la revisión anual hasta la avería que te deja tirado en la C-58.",
-  "processIntro": "Trabajamos con un método claro y directo para que siempre sepas qué le pasa a tu coche, cuánto cuesta y cuándo estará listo.",
+  "introLocal": "Si tienes un BMW o un MINI en Barberà del Vallès, es muy probable que tu día a día implique coger la C-58 hacia Barcelona o la AP-7 para moverte por el Vallès. Conoces bien el tráfico denso a primera hora y el desgaste que supone para cualquier coche. Pero un BMW no es cualquier coche. Cuando tu Serie 3, X1 o tu MINI Countryman supera la barrera psicológica de los 100.000 o 120.000 kilómetros, entra en una fase crítica. Ya no se trata solo de hacer las revisiones CBS que indica el ordenador de a bordo; se trata de mantenimiento preventivo serio para evitar averías que pueden costar un dineral. Hablamos de la cadena de distribución de los motores N47 y B47, tan comunes en los 320d y X3 que vemos por el polígono de Santiga; del mantenimiento de la caja de cambios automática ZF 8HP, o de las fugas de aceite que empiezan a aparecer tras varios veranos con el calor intenso del Vallès.\n\nEs justo en este momento cuando muchos propietarios como tú se enfrentan a un dilema. Sabes que tu coche necesita atención especializada, pero los presupuestos del concesionario oficial más cercano, en Sant Cugat, pueden ser desorbitados. La diferencia no está en la calidad del diagnóstico —ellos usan el sistema ISTA, y nosotros también— sino en su estructura de costes. Un concesionario oficial tiene que mantener unas instalaciones enormes, equipos comerciales y unos márgenes impuestos por la marca. Como taller independiente en Barberà, homologado por Red ISTA, tenemos acceso exactamente al mismo software de diagnóstico oficial, conectado en tiempo real con BMW en Alemania, pero con una estructura mucho más ágil y local. Esto nos permite ofrecerte un presupuesto cerrado para operaciones complejas, como el cambio de la cadena de distribución o la reparación del sistema Vanos, a un precio notablemente más competitivo. No pagas por el mármol de la exposición, pagas por la experiencia del técnico y la precisión de la herramienta oficial.\n\nEl problema es que muchas de estas operaciones clave ni siquiera figuran en el plan de mantenimiento oficial. BMW a menudo considera que el aceite de la caja de cambios es 'de por vida', una afirmación que cualquier mecánico con experiencia sabe que es una receta para el desastre a largo plazo, sobre todo en coches que sufren el 'para y arranca' constante de los accesos a Barcelona. Lo mismo ocurre con la cadena de distribución de los N47/N57, que puede empezar a 'cantar' con el tiempo. Ignorarlo por miedo a la factura del concesionario es un riesgo enorme. Nosotros nos especializamos precisamente en esto: en el mantenimiento preventivo y correctivo de BMW y MINI que han pasado su primera juventud. Realizamos un diagnóstico completo con ISTA/Rheingold, te explicamos con claridad qué necesita tu coche para seguir siendo fiable en la C-58 y te damos opciones con recambio original BMW o de calidad OE (fabricado por los mismos proveedores de la marca, como Bosch o ZF).\n\nEn definitiva, somos la alternativa lógica para el conductor de Barberà, Ripollet o Cerdanyola que valora su BMW o MINI y quiere mantenerlo en perfecto estado sin que la factura sea un susto. Ya vivas en La Romànica, Can Llobet o vengas de la vecina Badia del Vallès, aquí encontrarás un equipo que entiende tu motor B48, B47 o N57 a la perfección. No somos un taller genérico que 'le echa un ojo' a todo; somos especialistas con la misma capacidad técnica que el servicio oficial, pero con la cercanía y la estructura de costes de un taller de aquí. Tu coche es una inversión y una pieza de ingeniería compleja. Cuidarlo bien a partir de los 100.000 km es la diferencia entre que siga dándote alegrías o que empiece a 'dar guerra'. Y para eso, no necesitas pagar de más.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Barberà del Vallès, con la precisión del diagnóstico oficial ISTA y la especialización que nos define.",
+  "processIntro": "Trabajamos con un proceso claro y transparente en 5 pasos para que siempre sepas qué se le hace a tu coche y por qué, con un presupuesto cerrado desde el inicio.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos el problema y conectamos nuestros equipos de diagnosis. No nos quedamos en la superficie; buscamos la causa raíz del fallo para que no vuelva a pasar en medio de la AP-7."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Lo prometemos."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información. Sin sorpresas ni letra pequeña."
     },
     {
-      "title": "Tu autorización",
-      "body": "Revisa el presupuesto con calma. No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu visto bueno explícito. El control siempre lo tienes tú, sin ninguna presión."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos si es necesario y te explicamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos conocen bien los motores que más se ven por el Vallès y trabajan de forma eficiente para cumplir los plazos acordados."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para cada motor."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada y las piezas sustituidas. Unos días después, te contactamos para confirmar que todo funciona perfecto."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS, actualizamos el historial digital de tu coche (si aplica) y hacemos una prueba final. Te entregamos el coche listo y nos aseguramos de que todo vaya perfecto."
     }
   ],
-  "commonIssuesIntro": "Los coches que circulan a diario por Barberà y la C-58 sufren problemas muy concretos por el alto kilometraje y el tráfico denso. Estos son los que más vemos en nuestro taller.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales en los BMW y MINI que vemos en nuestra zona de Barberà del Vallès, muchos de ellos relacionados con el kilometraje y el tipo de conducción en el Vallès.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y bimasa",
-      "body": "El ciclo constante de parar y arrancar en los accesos a Barcelona por la C-58 o en la N-150 hacia Sabadell castiga el embrague. Si notas que el pedal está duro, tiembla al salir o las marchas no entran finas, es hora de revisarlo. Un diagnóstico a tiempo evita averías más graves y costosas en la caja de cambios."
+      "title": "Kit de distribución N47/B47/N57",
+      "body": "El seseo de la cadena es un aviso clásico en los diésel de alto kilometraje que circulan a diario por la C-58. Realizamos el cambio preventivo del kit completo (cadenas, patines, tensores) usando recambio de calidad OE para evitar una rotura catastrófica del motor. Es una inversión en tranquilidad."
     },
     {
-      "title": "Obstrucción de FAP y válvula EGR",
-      "body": "Es el problema clásico de los diésel modernos que hacen trayectos mixtos. La carbonilla se acumula si no se alcanzan temperaturas óptimas de forma sostenida. Si tu coche da tirones o pierde potencia, sobre todo en subidas como las de la Arrabassada, puede ser un aviso. Realizamos limpiezas y regeneraciones forzadas para devolverle su rendimiento."
+      "title": "Mantenimiento caja de cambios ZF",
+      "body": "Los tirones o cambios bruscos en tu caja automática ZF 8HP no son normales. El tráfico denso de acceso a Barcelona degrada el aceite. Hacemos el mantenimiento completo con cambio de aceite, filtro/cárter y conector, siguiendo el protocolo del fabricante ZF, para devolverle la suavidad original."
     },
     {
-      "title": "Holguras en suspensión y silentblocks",
-      "body": "Entre los badenes de zonas residenciales como Can Llobet y el asfalto mejorable de algunas vías de los polígonos, la suspensión sufre. Ruidos secos al pasar por un bache, inestabilidad en curvas o un desgaste irregular de los neumáticos son síntomas claros. Revisamos y sustituimos los componentes necesarios para tu seguridad."
+      "title": "Saturación del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos por Barberà, Ripollet o para ir al Baricentro impiden que el DPF regenere correctamente. Con ISTA forzamos la regeneración o, si es necesario, realizamos una limpieza profesional para que pases la ITV sin problemas de humos y el coche recupere su rendimiento."
     },
     {
-      "title": "Fallos en el sistema de climatización",
-      "body": "En el Vallès, el aire acondicionado no es un lujo. El calor intenso del verano, sumado a un atasco en la AP-7, puede convertir el coche en un horno. Si no enfría lo suficiente o hace ruidos extraños, es probable que necesite una recarga de gas o la revisión de una fuga en el circuito. No esperes a agosto."
+      "title": "Fugas de aceite por juntas",
+      "body": "Tras años de veranos calurosos en el Vallès, las juntas de la tapa de balancines o del soporte del filtro de aceite se resecan y fugan. Es una reparación relativamente sencilla que evita manchas en el parking y problemas mayores si el aceite cae sobre otros componentes como el alternador."
     },
     {
-      "title": "Consumo excesivo de combustible",
-      "body": "Cuando haces más de 1.000 km al mes, cada décima de consumo cuenta. Un aumento repentino en el gasto de combustible puede deberse a múltiples factores: desde un filtro de aire sucio o la presión incorrecta de los neumáticos hasta un problema en los inyectores. Lo diagnosticamos para que no tires la pasta en cada repostaje."
+      "title": "Fallos del sistema Vanos/Valvetronic",
+      "body": "Una pérdida de potencia, ralentí inestable o un consumo elevado en motores de gasolina como los N20 o B48 puede deberse a un fallo en los solenoides del Vanos o en el motor del Valvetronic. Diagnosticamos el componente exacto con ISTA y lo solucionamos para restaurar la eficiencia del motor."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos tu urgencia",
-      "body": "Sabemos que si el coche falla, tu trabajo se complica. Por eso priorizamos un diagnóstico rápido y una reparación ágil para que puedas volver a tu rutina cuanto antes."
+      "title": "Diagnóstico de concesionario",
+      "body": "Usamos el mismo software oficial ISTA que la casa. No interpretamos códigos genéricos; leemos directamente los módulos de tu BMW o MINI para un diagnóstico 100% preciso."
     },
     {
-      "title": "Presupuestos sin letra pequeña",
-      "body": "Lo que presupuestamos es lo que pagas. Te enviamos un desglose claro y no tocamos nada sin tu aprobación. La confianza empieza por la honestidad en las cuentas."
+      "title": "Especialistas en +100.000 km",
+      "body": "Nuestro foco es el mantenimiento preventivo en coches que ya no están en garantía. Conocemos los puntos débiles de cada modelo y motor (N47, B48, N55) y sabemos cómo adelantarnos a la avería."
     },
     {
-      "title": "Especialistas en diésel de batalla",
-      "body": "Estamos acostumbrados a los motores TDI, HDi, dCi... que mueven el Vallès. Conocemos sus puntos débiles y cómo solucionarlos de forma eficaz y duradera."
+      "title": "Ahorro sin renunciar a calidad",
+      "body": "Nuestra estructura de costes es de taller independiente, no de concesionario oficial. Te ofrecemos la misma calidad técnica y recambios OE por un precio significativamente más bajo."
     },
     {
-      "title": "Asesoramiento práctico",
-      "body": "No solo reparamos. Te explicamos por qué ha ocurrido la avería y te damos consejos de uso y mantenimiento para prevenir futuros problemas adaptados a tus rutas habituales."
+      "title": "Tú decides el recambio",
+      "body": "Te damos a elegir entre recambio original BMW y recambio de calidad OE (el mismo que usan en fábrica pero sin el logo de la marca). Transparencia total para que ajustes el presupuesto sin sacrificar fiabilidad."
     },
     {
-      "title": "Ubicación estratégica",
-      "body": "Estamos en Barberà, con fácil acceso desde las principales vías y poblaciones cercanas como Sabadell, Ripollet o Cerdanyola. Dejar y recoger tu coche no te desviará de tu camino."
+      "title": "Homologados por Red ISTA",
+      "body": "Formar parte de la mayor red de especialistas independientes de España es una garantía de formación continua, acceso a información técnica de la marca y protocolos de trabajo estandarizados."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Aquí tienes algunos ejemplos de situaciones reales que resolvemos cada día en nuestro taller de Barberà.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que nos encontramos a diario con clientes de Barberà y alrededores. Sus experiencias reflejan nuestro compromiso.",
   "testimonials": [
     {
       "name": "Jordi",
-      "neighborhood": "Polígon Santiga",
-      "car": "Citroën Berlingo HDI 2018",
-      "body": "Soy transportista y la furgo es mi oficina. Empezó a perder fuerza en las subidas de la AP-7. Me dijeron que podría ser el turbo, pero aquí me hicieron un diagnóstico y era un problema en el FAP. Me lo solucionaron en un día con una limpieza. Me ahorraron una pasta y, sobre todo, no perdí días de trabajo. Muy directos y profesionales.",
+      "neighborhood": "La Romànica",
+      "car": "BMW 320d F30 2015",
+      "body": "Tenía el famoso ruido de la cadena del N47 con 160.000 km. El presupuesto del concesionario de Sant Cugat era para echarse a llorar. Aquí me lo explicaron todo, me enseñaron las piezas viejas y las nuevas, y me ahorré casi un 40%. El coche va más fino que nunca. Totalmente recomendables.",
       "rating": 5
     },
     {
       "name": "Marta",
-      "neighborhood": "Can Llobet",
-      "car": "Seat León TDI 2016",
-      "body": "Hago cada día el trayecto Barberà-Barcelona por la C-58. El embrague empezó a patinar y me daba miedo quedarme tirada. Me dieron un presupuesto cerrado muy razonable para el kit completo con bimasa. Me dejaron un coche de cortesía y en 48 horas tenía el mío listo. Ahora las marchas van como la seda, incluso en los atascos.",
+      "neighborhood": "Cerdanyola del Vallès",
+      "car": "MINI Cooper S F56 2018",
+      "body": "El coche daba tirones y en el taller de siempre no sabían qué era. Aquí conectaron el ordenador oficial ISTA y vieron al momento que era un problema con una bobina y una bujía. En una mañana estaba solucionado. Se nota que controlan de MINI y no van dando palos de ciego. Muy profesionales.",
       "rating": 5
     },
     {
       "name": "Carlos",
-      "neighborhood": "Badia del Vallès",
-      "car": "Peugeot 308 1.6 2015",
-      "body": "Me tocaba hacer la distribución y pedí varios presupuestos. Aquí no solo me dieron el mejor precio, sino que me explicaron claramente qué incluía (bomba de agua, correa auxiliar...). Se nota que saben lo que hacen. La tranquilidad de que una reparación tan importante está bien hecha no tiene precio. Totalmente recomendables.",
+      "neighborhood": "Ripollet",
+      "car": "BMW X3 xDrive20d G01 2019",
+      "body": "Quería hacerle el mantenimiento a la caja de cambios ZF porque notaba que no iba tan suave como antes. En la BMW me decían que no hacía falta. Aquí me explicaron la importancia de hacerlo y el procedimiento. Ahora el cambio es imperceptible. Un trabajo fino y a un precio razonable.",
       "rating": 5
     },
     {
-      "name": "Sònia",
-      "neighborhood": "La Romànica (Sabadell)",
-      "car": "Ford Focus 1.0 EcoBoost 2017",
-      "body": "El coche empezó a hacer un ruido metálico en la parte delantera. En otro sitio me querían cambiar medio coche. Aquí lo subieron al elevador, me enseñaron que era una simple chapa protectora del disco de freno que se había doblado y me lo arreglaron en 15 minutos sin cobrarme casi nada. Podrían haberme engañado y no lo hicieron. Así se ganan clientes.",
+      "name": "Anna",
+      "neighborhood": "Ca n'Esteper",
+      "car": "BMW 118i F20 2017",
+      "body": "Llevé el coche para la revisión CBS de aceite y filtros. El trato fue muy cercano, me explicaron todo lo que revisaron y me avisaron de que las pastillas de freno traseras estaban a media vida para tenerlo en cuenta. Me dio mucha confianza la transparencia y que no intentaran venderme nada que no necesitaba.",
       "rating": 4
     }
   ],
-  "zoneText": "Nuestro taller en Barberà del Vallès ofrece servicio a toda la comarca, gracias a nuestra ubicación estratégica. Damos cobertura a los principales barrios de la ciudad, como Ca n'Estaper, Can Llobet, el Casc Antic o el Parc Central. Además, somos el taller de referencia para muchos profesionales de los polígonos industriales de Santiga y Can Salvatella.\n\nNuestra proximidad a vías clave como la C-58 y la AP-7 nos convierte en una opción cómoda y rápida para conductores de municipios colindantes. Recibimos a diario clientes de Sabadell (especialmente de La Creu de Barberà y Sant Pau de Riu-sec), Ripollet, Cerdanyola del Vallès y Badia del Vallès. Si tu rutina diaria te hace pasar por la N-150, llegar a nuestro taller no te supondrá ningún desvío.",
+  "zoneText": "Nuestro taller en Barberà del Vallès da servicio a toda la comarca del Vallès Occidental. Estamos estratégicamente situados para atender a propietarios de BMW y MINI no solo de Barberà, sino también de municipios colindantes como Cerdanyola del Vallès, Ripollet, Badia del Vallès y la zona sur de Sabadell. Gracias a nuestro fácil acceso desde las principales vías de comunicación, como la C-58 y la autopista AP-7, muchos de nuestros clientes vienen de estas localidades buscando una alternativa especialista y de confianza al concesionario oficial. Si vives en barrios como La Romànica, Ca n'Esteper, Serraparera (en Cerdanyola) o el centro de Ripollet, llegar a nuestro taller te llevará pocos minutos.",
   "zoneNeighborhoods": [
-    "Ca n'Estaper",
+    "La Romànica",
+    "Ca n'Esteper",
+    "Baricentro",
+    "Centre",
     "Can Llobet",
-    "Casc Antic",
-    "La Romànica (Sabadell)",
-    "Badia del Vallès",
-    "Ripollet",
     "Cerdanyola del Vallès",
-    "Polígon Santiga",
-    "Polígon Can Salvatella",
-    "La Creu de Barberà (Sabadell)"
+    "Ripollet",
+    "Badia del Vallès",
+    "Sabadell Sud",
+    "Santiga"
   ],
   "zoneAccessRoutes": [
-    "C-58 (Autopista del Vallès)",
+    "C-58 (Autovía del Vallès)",
     "AP-7 (Autopista del Mediterráneo)",
-    "N-150 (Carretera de Terrassa)",
-    "BV-1414"
+    "N-150",
+    "B-141"
   ],
   "faqLocal": [
     {
-      "q": "Mi coche es diésel y hago mucha C-58 con atascos, ¿qué mantenimiento especial necesita?",
-      "a": "Es el escenario perfecto para la acumulación de carbonilla. Te recomendamos usar aditivos limpiadores de inyectores de calidad cada 10.000 km y, al menos una vez por semana, intentar circular unos 20 minutos por autopista a un régimen más alto (sobre 2.500-3.000 rpm) para ayudar al filtro de partículas (FAP) a regenerarse. En la revisión, prestamos especial atención a la EGR y al FAP."
+      "q": "El concesionario oficial de Sant Cugat me ha dado un presupuesto altísimo por la cadena del N47, ¿por qué sois más económicos?",
+      "a": "La diferencia de precio no está en la calidad de la pieza ni en el trabajo, sino en la estructura de costes. Nosotros, como taller independiente de la Red ISTA, no tenemos los enormes gastos de una instalación de concesionario oficial (showroom, personal de ventas, etc.). Usamos recambios de calidad OE (primeras marcas) y el mismo equipo de diagnosis ISTA, pero con unos costes operativos mucho más ajustados que repercutimos en tu factura final."
     },
     {
-      "q": "Tengo una furgoneta y trabajo en el Polígon Santiga, ¿tenéis experiencia con vehículos industriales?",
-      "a": "Por supuesto. Una parte importante de nuestros clientes son autónomos y PYMES de los polígonos de Barberà, Cerdanyola y alrededores. Conocemos las averías típicas de las furgonetas (desgaste de frenos, suspensión, embrague por la carga) y priorizamos estas reparaciones porque sabemos que cada día que el vehículo está parado es dinero que pierdes. Pregúntanos por nuestro servicio de mantenimiento preventivo."
+      "q": "¿Hacéis el mantenimiento de la caja automática ZF de mi X1? En la BMW me han dicho que no es necesario.",
+      "a": "Sí, lo hacemos y lo recomendamos encarecidamente, sobre todo en coches que superan los 100.000 km. Aunque BMW no lo incluya en su plan oficial, el fabricante de la caja, ZF, sí recomienda cambiar el aceite y el filtro cada 80.000-120.000 km. Ignorarlo es la principal causa de averías costosas a largo plazo. Realizamos el servicio completo con la máquina de diálisis para garantizar la sustitución de todo el fluido."
     },
     {
-      "q": "Vivo en Sabadell Sur, por la zona de La Creu de Barberà, ¿me pilla muy lejos el taller?",
-      "a": "Al contrario, nos tienes al lado. Estás a menos de 5 minutos en coche. Muchos de nuestros clientes son de esa zona de Sabadell porque les resulta más rápido y cómodo cruzar a Barberà que atravesar toda su ciudad para ir a un taller. Es una opción muy práctica para el mantenimiento del día a día o para cualquier imprevisto."
+      "q": "Vivo en Badia y mis trayectos son muy cortos, ¿qué riesgo corre mi BMW diésel?",
+      "a": "El principal riesgo es la saturación prematura del filtro de partículas (DPF). Los trayectos cortos no permiten que el motor alcance la temperatura necesaria para realizar la regeneración automática. Esto provoca pérdida de potencia, aumento del consumo y el encendido del testigo de avería. Con nuestro equipo ISTA podemos diagnosticar el nivel de saturación y forzar una regeneración en el taller para evitar una avería más cara."
     },
     {
-      "q": "Tengo que pasar la ITV en el centro Applus de Santiga, ¿ofrecéis una revisión pre-ITV completa?",
-      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una revisión exhaustiva de los mismos puntos que te mirarán en la ITV: luces, frenos, neumáticos, suspensión, holguras y, muy importante en esta zona, la prueba de gases. Si detectamos algo, te damos presupuesto para solucionarlo y que puedas ir a la ITV de Santiga con la total tranquilidad de pasarla a la primera."
+      "q": "Tengo que pasar la ITV en la estación de Barberà, ¿vuestra pre-ITV gratuita me asegura pasarla?",
+      "a": "Nuestra pre-ITV es una revisión exhaustiva de los mismos puntos que miran en la inspección: frenos, suspensión, neumáticos, luces y, muy importante en los diésel, la opacidad de humos. Si detectamos cualquier problema, te avisamos y te damos presupuesto para solucionarlo. Aunque no podemos garantizar al 100% el resultado, ya que la decisión final es del inspector, un coche que sale de nuestra pre-ITV con todo correcto tiene altísimas probabilidades de pasar sin defectos."
     },
     {
-      "q": "El aire acondicionado de mi coche enfría poco en los atascos de verano, ¿es una avería grave?",
-      "a": "No tiene por qué serlo. Suele ser el síntoma más común de que al circuito le falta gas refrigerante, ya sea por el paso del tiempo o por una pequeña fuga. Es una operación relativamente rápida y económica. Lo primero que hacemos es comprobar la presión del circuito y buscar posibles fugas. En la mayoría de casos, con una simple recarga vuelve a enfriar como el primer día."
+      "q": "Mi MINI tiene un fallo eléctrico que aparece y desaparece. ¿Podéis encontrarlo?",
+      "a": "Sí. Esos fallos intermitentes son la especialidad del sistema ISTA. A diferencia de un lector de códigos genérico, ISTA registra todos los eventos y fallos esporádicos en los diferentes módulos del coche, aunque el testigo no esté encendido en ese momento. Esto nos permite analizar el historial de errores, identificar el componente que está empezando a 'dar guerra' y solucionar el problema de raíz."
     },
     {
-      "q": "Desde hace un tiempo, el coche me consume más gasoil en el trayecto a Barcelona. ¿A qué se puede deber?",
-      "a": "Un aumento del consumo puede tener muchas causas. Las más sencillas son llevar los neumáticos con baja presión o tener el filtro del aire muy sucio. Causas más complejas pueden ser un fallo en algún inyector, un problema en el caudalímetro o que el filtro de partículas esté empezando a obstruirse. Te recomendamos hacer un diagnóstico para identificar el origen exacto y evitar que el problema vaya a más."
+      "q": "¿Qué diferencia real hay entre un recambio original BMW y uno de calidad OE que montáis?",
+      "a": "Un recambio OE (Original Equipment) es una pieza fabricada por la misma empresa que suministra a BMW para su cadena de montaje (por ejemplo, Bosch, ZF, Lemförder, Mahle). La pieza es esencialmente la misma en calidad y especificaciones, pero viene en una caja del fabricante en lugar de una caja con el logo de BMW. El recambio original es el que se vende a través del canal oficial. Ofrecemos ambas opciones para que elijas, pero la calidad OE ofrece una relación calidad-precio excelente."
+    },
+    {
+      "q": "Uso la C-58 a diario para ir a Barcelona. ¿Qué mantenimiento preventivo recomendáis para mi BMW con 150.000 km?",
+      "a": "Para un uso intensivo como ese, además de las revisiones CBS, recomendamos prestar especial atención a tres puntos: el servicio de la caja de cambios automática si la tienes, una revisión del estado de la cadena de distribución si tu motor es un N47/N57, y una comprobación del sistema de refrigeración (bomba de agua y termostato), ya que el calor del motor en los atascos es un factor de desgaste importante. Son acciones preventivas que te ahorrarán averías graves en el futuro."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Barberà del Vallès",
-  "closingCta": "No dejes que una avería te pare. Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Estamos en Barberà para ayudarte a seguir en movimiento."
+  "closingHeadline": "Tu BMW o MINI, en manos expertas en Barberà",
+  "closingCta": "Pídenos presupuesto sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos una cita para realizar un diagnóstico preciso de tu coche en nuestro taller de Barberà del Vallès."
 }
