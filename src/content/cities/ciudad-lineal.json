@@ -6,186 +6,194 @@
   "population": 228171,
   "lat": 40.44505,
   "lng": -3.65132,
-  "metaTitle": "Taller mecánico en Ciudad Lineal — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Ciudad Lineal (Madrid) para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
-  "heroSubtitle": "Cansado del tráfico de la M-30 y la calle Alcalá? Dale a tu coche el mantenimiento que necesita para aguantar el día a día en Madrid.",
+  "metaTitle": "Taller BMW y MINI en Ciudad Lineal, Madrid | Red ISTA Oficial",
+  "metaDescription": "Taller especialista en BMW y MINI en Ciudad Lineal (Madrid). Mantén tu garantía oficial con nuestro diagnóstico ISTA. Precios de taller independiente.",
+  "heroSubtitle": "¿Tu BMW o MINI está en garantía y crees que estás atado al concesionario? Descubre cómo mantenerla pagando un precio justo en Ciudad Lineal.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Conducir por Ciudad Lineal no es cualquier cosa. Lo sabemos porque también vivimos y trabajamos aquí. Cada día te enfrentas al atasco de primera hora en la A-2 para ir a trabajar, a la circulación densa de la calle Alcalá a media tarde o a la búsqueda de aparcamiento por las calles de Quintana o Pueblo Nuevo. Este ritmo, de arrancar y parar constantemente, de trayectos cortos para hacer la compra o llevar a los niños al colegio en San Juan Bautista, es lo que más castiga la mecánica de un coche. El embrague sufre, los frenos se desgastan y, si tienes un diésel, el filtro de partículas se convierte en tu peor pesadilla. No es lo mismo usar el coche para largos viajes por autopista que para el día a día en un distrito tan denso como el nuestro, y tu vehículo lo nota.\n\nEl clima de Madrid es otro factor clave que no se puede ignorar. Pasamos de un frío seco en invierno que pone a prueba las baterías cada mañana, a un calor asfixiante en julio y agosto que exprime al máximo el sistema de aire acondicionado y de refrigeración del motor. ¿Cuántas veces has visto coches parados en el arcén de la M-30 en pleno verano por un calentón? Este clima continental, con cambios de temperatura tan bruscos, afecta a los líquidos, a los manguitos y a los neumáticos. Un mantenimiento preventivo adaptado a las condiciones de Madrid no es un lujo, es una necesidad para evitar averías costosas y, sobre todo, para garantizar tu seguridad y la de los tuyos.\n\nEl parque móvil de Ciudad Lineal es un reflejo de su gente: diverso. Desde el SEAT León o el Peugeot 308 que ves aparcado en La Concepción, perfectos para la ciudad, hasta el SUV familiar de Arturo Soria o la furgoneta de un autónomo de Ventas. Conocemos bien estos modelos. Sabemos qué problemas suelen dar los motores TDI y HDI en el tráfico urbano madrileño, como la acumulación de carbonilla en la válvula EGR, o los fallos comunes en los sistemas de inyección de los gasolina que hacen muchos trayectos cortos. Sea cual sea tu coche, con 5, 10 o 15 años, lo hemos visto antes y sabemos cómo tratarlo.\n\nPor eso, nuestro enfoque es local. No te hablamos con tecnicismos que no entiendes ni te tratamos como un número más. Entendemos que tu coche es tu herramienta para moverte por Madrid, para ir desde Costillares hasta el centro o para escaparte el fin de semana por la A-1. Nuestra misión es simple: ofrecerte un diagnóstico honesto, un presupuesto cerrado sin sorpresas y una reparación de confianza para que puedas seguir con tu vida sin preocuparte por la mecánica. Somos tu taller de barrio en Ciudad Lineal, pero con la garantía y los recursos de una red nacional.",
-  "servicesIntro": "Desde la revisión anual para tu coche que usas por Arturo Soria hasta un cambio de embrague por el trote de la M-30, cubrimos toda la mecánica.",
-  "processIntro": "Sabemos que un taller inspira poca confianza. Por eso, te explicamos cada paso y te damos un presupuesto cerrado antes de hacer nada.",
+  "introLocal": "Si tienes un BMW o MINI relativamente nuevo, con la garantía oficial todavía vigente, es muy probable que pienses que estás obligado a pasar cada revisión y realizar cada reparación en el concesionario oficial. Quizá hasta te lo compraron en el de la Avenida de Burgos y sientes esa lealtad, o simplemente miedo a perder la cobertura. Esta es una creencia muy extendida, pero legalmente incorrecta. El Reglamento (UE) 461/2010 de la Comisión Europea te protege como consumidor y te da la libertad de elegir dónde mantener tu coche sin que la garantía se vea afectada. La única condición es que el taller siga escrupulosamente los procedimientos del fabricante y utilice recambios de calidad original (OE) o recambio original. Como taller homologado por Red ISTA en la zona de Ciudad Lineal, cumplimos exactamente con eso: tenemos el mismo equipo de diagnóstico ISTA que el concesionario, acceso a la información técnica oficial y usamos los componentes y aceites que tu coche necesita, pero con la estructura de costes de un taller independiente.\n\nEl problema es que la conducción en un distrito como Ciudad Lineal no tiene nada que ver con la de un catálogo. La realidad es un motor B47 diésel que apenas sale de tercera marcha en el tramo de la calle Alcalá entre Ventas y Quintana, con paradas constantes en semáforos. O un motor gasolina B48 en un MINI Cooper S que sufre el atasco diario de la M-30 en el nudo de la A-2. Este patrón de 'arranca-para' es el peor enemigo de la mecánica moderna. El filtro de partículas (DPF) de tu diésel nunca alcanza la temperatura necesaria para regenerarse, acumulando hollín que puede llevar a averías costosas. La caja de cambios automática ZF 8HP, una maravilla de la ingeniería, sufre un estrés enorme con miles de cambios a baja velocidad, lo que degrada el aceite y puede afectar a la mecatrónica a largo plazo. Y no hablemos del sistema de frenos o del embrague en los modelos manuales, que soportan una carga de trabajo muy superior a la media.\n\nEn Ciudad Lineal vemos una alta concentración de modelos como el BMW Serie 1 (F40), el X2 (F39) y el MINI Countryman (F60). Son coches perfectos para la vida urbana y para moverse por barrios como La Concepción, San Pascual o Costillares. Sin embargo, su sofisticada tecnología está diseñada con ciertos parámetros de uso en mente. El sistema Start-Stop, por ejemplo, es fantástico para reducir el consumo en los semáforos de Arturo Soria, pero somete a la batería AGM y al motor de arranque a un ciclo de trabajo intensivo. En los fríos inviernos de Madrid, una batería que ya está bajo estrés por los trayectos cortos puede fallar prematuramente. Lo mismo ocurre con los sistemas de inyección directa en motores de gasolina como el B38 o el B48 de MINI: los recorridos cortos impiden que el motor se limpie por completo, favoreciendo la acumulación de carbonilla en las válvulas de admisión y afectando al rendimiento.\n\nAquí es donde nuestra propuesta como taller Red ISTA en Ciudad Lineal cobra todo el sentido. No solo te ofrecemos una alternativa legal y segura para mantener tu garantía, sino que entendemos las patologías específicas que sufre tu BMW o MINI por circular aquí. Cuando conectamos tu coche a nuestro equipo ISTA, no solo leemos los códigos de error. Interpretamos los datos en el contexto de tu uso diario. Te explicaremos por qué ese aviso del DPF es recurrente y qué podemos hacer para prevenirlo, o por qué es crucial revisar el estado del aceite de la caja de cambios ZF aunque el fabricante diga que es 'de por vida'. Realizamos la revisión CBS registrándola en el historial digital de tu coche, exactamente igual que en el concesionario, para que tu garantía y el valor de reventa de tu vehículo queden totalmente protegidos. Es la inteligencia de un servicio oficial, con la cercanía y el precio de un taller especialista de barrio.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu BMW o MINI en Ciudad Lineal, desde el mantenimiento oficial CBS hasta las reparaciones más complejas.",
+  "processIntro": "Trabajamos con un método claro y transparente en 5 pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Conectamos nuestros equipos de diagnosis para identificar el problema con precisión, combinando tu experiencia con nuestra tecnología. No dejamos nada al azar."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra de forma clara. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Transparencia total."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin sorpresas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No movemos ni un tornillo sin tu aprobación explícita. Revisa el presupuesto con calma y, si tienes cualquier duda, nos llamas. Solo cuando nos das el visto bueno, nuestro equipo se pone manos a la obra con tu coche."
+      "title": "Tu autorización expresa",
+      "body": "No se repara ni sustituye nada sin tu consentimiento explícito. Si durante la intervención surge un imprevisto, paramos, te llamamos y te explicamos la situación antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un trabajo bien hecho. Te mantenemos informado si surge cualquier imprevisto."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Nos aseguramos de que todo esté perfecto y te contactamos pasados unos días para confirmar que el coche va como la seda."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el iDrive, actualizamos el libro digital de mantenimiento y realizamos una prueba final. Te contactamos después para confirmar que todo funciona perfecto."
     }
   ],
-  "commonIssuesIntro": "El calor de Madrid, los atascos en la M-30 y los trayectos cortos por barrios como Quintana o La Concepción generan averías muy concretas en tu coche. Estas son las más habituales.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que diagnosticamos y reparamos en los BMW y MINI que circulan por Madrid, muchos de ellos agravados por el tipo de conducción urbana.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El tráfico denso en la calle Alcalá o en la M-30 obliga a un uso constante del embrague y los frenos. Este ciclo de arrancar-parar acelera su desgaste mucho más que en carretera. Revisamos el estado de discos, pastillas y líquido de frenos, y comprobamos el recorrido del embrague para evitar que te deje tirado en el peor momento."
+      "title": "Filtro de partículas (DPF) saturado",
+      "body": "Es el problema número uno en los diésel B47/N47 que solo hacen trayectos cortos por Ciudad Lineal, como ir de Pueblo Nuevo a Ventas. El motor no se calienta lo suficiente para la regeneración automática. Realizamos diagnosis con ISTA, forzamos regeneraciones controladas y, si es necesario, ofrecemos limpieza profesional para evitar la costosa sustitución."
     },
     {
-      "title": "Problemas con el aire acondicionado",
-      "body": "En Madrid, el aire acondicionado no es un lujo, es una necesidad. Los veranos con picos de 40ºC fuerzan el sistema al máximo. Fugas en el circuito, compresores que fallan o falta de gas son averías típicas. Realizamos cargas de gas, detectamos fugas y reparamos el compresor para que el calor no sea un problema."
+      "title": "Tirones en la caja automática ZF 8HP",
+      "body": "El constante cambio de marchas en el tráfico denso de la M-30 o la calle Alcalá degrada el aceite de la caja. Aunque BMW no lo exija, recomendamos un mantenimiento preventivo con cambio de aceite y filtro específico para ZF, solucionando tirones y alargando la vida de la transmisión."
     },
     {
-      "title": "Filtro de partículas (DPF) obstruido",
-      "body": "Si tienes un diésel y te mueves principalmente por Ciudad Lineal, es muy probable que te salte el aviso del DPF. Los trayectos cortos no permiten que el filtro se regenere, acumulando carbonilla hasta obstruirse. Realizamos limpiezas químicas y regeneraciones forzadas para que no tengas que sustituirlo, una reparación muy cara."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana de 'acelerón-frenazo' entre los semáforos de Arturo Soria o en las incorporaciones a la M-30 desgasta pastillas y discos mucho más rápido. Revisamos todo el sistema y usamos componentes OE (ATE, Brembo) que a menudo superan en durabilidad a los de serie."
     },
     {
-      "title": "Baterías que mueren en invierno",
-      "body": "El frío seco del invierno madrileño es el enemigo número uno de las baterías, sobre todo si el coche duerme en la calle. Si a eso le sumas trayectos cortos que no dan tiempo a recargarla, el resultado es que una mañana el coche no arranca. Comprobamos el estado de tu batería y el alternador para que el frío no te pare."
+      "title": "Fallos del sistema Start-Stop y batería",
+      "body": "El uso intensivo del Start-Stop en Madrid agota la batería AGM antes de tiempo. Con ISTA diagnosticamos el estado real de la batería y el sensor IBS, y si es necesario, la sustituimos y realizamos el registro y codificación obligatorios para que el sistema de carga funcione correctamente."
     },
     {
-      "title": "Suspensión y neumáticos dañados",
-      "body": "Los innumerables badenes para reducir la velocidad en zonas residenciales como San Pascual o La Concepción, junto con los baches, castigan la suspensión y los neumáticos. Un amortiguador en mal estado alarga la frenada y desgasta las ruedas de forma irregular. Revisamos y alineamos la dirección para una conducción segura."
+      "title": "Carbonilla en admisión (motores gasolina)",
+      "body": "Los motores de inyección directa (B38, B48, N20) que apenas salen de la ciudad acumulan carbonilla en las válvulas de admisión, causando pérdida de potencia y ralentí inestable. Ofrecemos limpieza por chorreado de cáscara de nuez, el método aprobado por BMW, para restaurar el flujo de aire original."
+    },
+    {
+      "title": "Cadena de distribución (N47, N20)",
+      "body": "Aunque es un fallo de diseño conocido, un mantenimiento deficiente o un uso urbano severo pueden acelerarlo. Si escuchas un seseo o claqueteo en tu motor, especialmente en frío, tráelo de inmediato. Somos especialistas en la sustitución del kit completo de distribución en estos motores."
     }
   ],
   "whyUs": [
     {
-      "title": "Expertos en tu coche",
-      "body": "Sea un Renault, un Volkswagen o un BMW, conocemos sus puntos débiles y cómo solucionarlos. Nuestra experiencia multimarca nos permite ir directos al grano, ahorrándote tiempo y dinero en diagnósticos."
+      "title": "Mantienes tu garantía oficial",
+      "body": "Seguimos el plan de mantenimiento de BMW a rajatabla y sellamos el libro digital. El Reglamento (UE) 461/2010 te ampara: eres libre de elegirnos sin perder tu garantía de fábrica."
     },
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "La factura final coincidirá con el presupuesto que te dimos. Si durante la reparación encontramos algo más, te llamaremos para informarte y darte un nuevo presupuesto. Tú siempre tienes el control."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el sistema ISTA oficial conectado a BMW Alemania. No es una máquina multimarca. Es la misma herramienta que usan ellos, lo que garantiza un diagnóstico preciso y sin errores."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Solo te recomendaremos cambiar lo que de verdad es necesario para la seguridad y el buen funcionamiento de tu coche. No inflamos las facturas con reparaciones innecesarias. Nuestra mejor publicidad es tu confianza."
+      "title": "Conocimiento local del problema",
+      "body": "Entendemos por qué tu coche sufre en Ciudad Lineal. No nos limitamos a cambiar piezas; te asesoramos sobre cómo mitigar el desgaste provocado por la conducción en Madrid."
     },
     {
-      "title": "Cerca de ti en Ciudad Lineal",
-      "body": "Estamos en tu distrito, te evitamos grandes desplazamientos. Somos el taller de confianza de tu barrio, accesible y cercano para lo que necesites, desde una revisión rápida hasta una avería compleja."
+      "title": "Transparencia y sin sorpresas",
+      "body": "Te explicamos cada paso. El presupuesto es cerrado y no hacemos nada sin tu aprobación previa. Sabes lo que pagas y por qué, con opciones de recambio OE o original."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y las piezas que instalamos están garantizadas por ley. Puedes estar tranquilo, si algo no va bien, respondemos. Tu satisfacción es nuestra prioridad."
+      "title": "Especialización real en la marca",
+      "body": "Solo tocamos BMW y MINI. Conocemos los puntos débiles de cada motor (N47, B48, B58...) y de cada chasis. No somos un taller genérico que 'también hace' BMW."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de conductores de Ciudad Lineal que han confiado en nosotros. Sus casos podrían ser el tuyo.",
+  "testimonialsIntro": "No podemos usar testimonios reales de clientes, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de la zona de Ciudad Lineal.",
   "testimonials": [
     {
-      "name": "María",
-      "neighborhood": "La Concepción",
-      "car": "Renault Clio 2017",
-      "body": "Llegó junio y el aire acondicionado no enfriaba nada, un drama para moverse por Madrid en verano. Los llevé y en el mismo día me detectaron una pequeña fuga, la repararon y recargaron el gas. Me explicaron todo súper bien y el precio fue el que me dijeron. Un alivio.",
+      "name": "Javier",
+      "neighborhood": "Quintana",
+      "car": "BMW X1 sDrive18d F48 2019",
+      "body": "Tenía que pasar la segunda revisión CBS y el coche aún está en garantía. En el concesionario oficial me daban un presupuesto desorbitado. Aquí me explicaron todo sobre el reglamento europeo, hicieron la revisión con aceite Castrol LL-04 y piezas Mahle, y lo registraron en el iDrive. Todo perfecto y me ahorré un buen pico. La garantía, intacta.",
       "rating": 5
     },
     {
-      "name": "Javier",
-      "neighborhood": "Pueblo Nuevo",
-      "car": "SEAT León TDI 2015",
-      "body": "Me saltó el testigo del filtro de partículas. Uso el coche para ir y volver del trabajo por la M-30 y poco más. Pensé que me tocaría cambiarlo y me temblaba la cartera. Aquí me hicieron una limpieza y regeneración y el coche va perfecto. Me ahorraron un dineral. Muy honestos.",
+      "name": "Marta",
+      "neighborhood": "Arturo Soria",
+      "car": "MINI Cooper F56 2018",
+      "body": "Mi MINI empezó a dar tirones en los atascos de la M-30. En otro taller no sabían qué era. Aquí conectaron el coche al ISTA y vieron enseguida un problema de adaptación en una bobina. Me explicaron que es común por el calor del verano en ciudad. Cambiaron las cuatro bobinas y bujías por unas Bosch y el coche va más fino que nunca.",
       "rating": 5
     },
     {
       "name": "Carlos",
-      "neighborhood": "Arturo Soria",
-      "car": "BMW 320d 2013",
-      "body": "Tenía que pasar la ITV y quería ir sobre seguro. Les pedí una revisión pre-ITV y me detectaron las pastillas de freno traseras en las últimas. Me dieron presupuesto al momento, lo acepté y por la tarde ya tenía el coche listo. Pasó la ITV sin un solo fallo. Servicio profesional y rápido.",
+      "neighborhood": "Pueblo Nuevo",
+      "car": "BMW 320d F30 2015",
+      "body": "Me saltó el aviso de 'propulsión' y el coche no tiraba. Siendo un motor N47, me temí lo peor con la cadena. Los traje aquí por recomendación. Diagnosticaron un problema en el actuador del turbo, no la distribución. Me dieron un presupuesto cerrado, mucho más razonable de lo que esperaba, y en dos días tenía el coche listo. Muy profesionales y honestos.",
       "rating": 5
     },
     {
       "name": "Ana",
-      "neighborhood": "Ventas",
-      "car": "Ford Focus 2016",
-      "body": "Notaba un ruido raro en la rueda delantera al coger los badenes de mi calle. Lo revisaron y era un silentblock de la suspensión. Tardaron un día más de lo previsto porque la pieza no llegaba, pero me avisaron con tiempo y me mantuvieron informada. La comunicación fue buena y el problema está solucionado.",
+      "neighborhood": "La Concepción",
+      "car": "BMW 118i F20 2017",
+      "body": "Llevé el coche para el cambio de líquido de frenos y una revisión general antes de la ITV. Me hicieron la pre-ITV gratis y vieron que las pastillas traseras estaban al límite. Me llamaron, me dieron precio para el cambio y lo autoricé. Pasé la ITV sin un solo fallo. Se agradece que se fijen en los detalles y te eviten problemas.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a todo el distrito de Ciudad Lineal y zonas limítrofes. Si vives o trabajas en barrios como Quintana, Pueblo Nuevo, La Concepción, Ventas o en la zona de Arturo Soria, estamos a un paso. Nuestra ubicación es fácilmente accesible desde las principales arterias que vertebran la zona, como la calle Alcalá, la propia calle Arturo Soria o la Avenida de América. También cubrimos barrios de distritos vecinos como Canillejas (San Blas) o la Guindalera (Salamanca), que conectan directamente a través de la M-30. Llegar a nuestro taller es sencillo tanto si vienes por la A-2 como si te mueves por las calles del interior del distrito.",
+  "zoneText": "Nuestro taller da servicio a toda la zona de Ciudad Lineal y distritos colindantes. Si vives o trabajas en barrios como Ventas, Pueblo Nuevo, Quintana, La Concepción, San Pascual o en la zona de Arturo Soria, somos tu especialista BMW y MINI de confianza. También recibimos a muchos clientes de distritos cercanos como San Blas-Canillejas, Hortaleza o Salamanca, que buscan un servicio de nivel de concesionario sin sus precios. Nuestro acceso es muy cómodo desde las principales arterias de la zona, como la calle Alcalá, la calle de los Hermanos García Noblejas, la propia Arturo Soria o a través de la M-30 y la A-2 (Avenida de América).",
   "zoneNeighborhoods": [
-    "Quintana",
-    "Pueblo Nuevo",
+    "Ciudad Lineal",
     "Ventas",
+    "Pueblo Nuevo",
+    "Quintana",
     "La Concepción",
-    "Arturo Soria",
-    "San Juan Bautista",
     "San Pascual",
-    "Colina",
+    "Arturo Soria",
     "Costillares",
-    "Canillejas"
+    "San Blas-Canillejas",
+    "Hortaleza"
   ],
   "zoneAccessRoutes": [
     "M-30",
-    "A-2 (Autovía de Aragón)",
+    "A-2 (Avenida de América)",
     "Calle de Alcalá",
-    "Calle Arturo Soria"
+    "Calle de Arturo Soria",
+    "Avenida de la Institución Libre de Enseñanza"
   ],
   "faqLocal": [
     {
-      "q": "¿Afecta la Zona de Bajas Emisiones (ZBE) de Madrid si llevo mi coche sin etiqueta al taller?",
-      "a": "Nuestra red de talleres tiene ubicaciones estratégicas. Si tu coche no tiene etiqueta ambiental de la DGT, consúltanos tu caso. Te indicaremos la mejor ruta para llegar a nuestro taller en Ciudad Lineal evitando las cámaras de la ZBE o si es necesario algún tipo de permiso puntual. Siempre buscamos una solución para que puedas traer tu coche sin riesgo de multas."
+      "q": "¿Si hago la revisión en vuestro taller de Ciudad Lineal, pierdo la garantía oficial de mi BMW?",
+      "a": "En absoluto. El Reglamento Europeo 461/2010 te garantiza el derecho a elegir taller sin perder la garantía del fabricante. Como taller homologado Red ISTA, seguimos los planes de mantenimiento de BMW al detalle, usamos recambios de calidad original (OE) o Genuino BMW y registramos el servicio en el historial digital de tu coche. Tu garantía permanece 100% intacta."
     },
     {
-      "q": "Mi diésel hace trayectos cortos por Ciudad Lineal, ¿qué mantenimiento especial necesita?",
-      "a": "Es el uso más exigente para un diésel moderno. Te recomendamos acortar ligeramente los intervalos de cambio de aceite y filtro, ya que el aceite se degrada más. Además, es crucial vigilar el filtro de partículas (DPF) y la válvula EGR. Una limpieza preventiva de vez en cuando y salir a carretera abierta durante 20-30 minutos a revoluciones altas una vez al mes puede evitar averías muy costosas."
+      "q": "Mi BMW 320d (B47) solo hace trayectos cortos por Quintana y Pueblo Nuevo. ¿Debo preocuparme por el DPF?",
+      "a": "Sí, es un motivo de preocupación real. Ese tipo de uso es el peor para el filtro de partículas porque no alcanza la temperatura para autolimpiarse. En nuestro taller podemos conectar el ISTA para verificar el nivel de saturación y forzar una regeneración controlada. También te daremos consejos prácticos, como salir a la M-40 o R-3 de vez en cuando para mantenerlo limpio y evitar averías."
     },
     {
-      "q": "Con el calor de Madrid en verano, ¿qué debo revisar antes de irme de vacaciones?",
-      "a": "Fundamental: el sistema de refrigeración (nivel de anticongelante y estado de los manguitos), la presión y el estado de los neumáticos (el asfalto caliente los desgasta más) y, por supuesto, el aire acondicionado. Un fallo en cualquiera de estos tres elementos puede arruinarte el viaje. Una revisión rápida con nosotros te dará total tranquilidad."
+      "q": "¿Podéis codificar un módulo nuevo en mi MINI? Vivo cerca de Arturo Soria.",
+      "a": "Por supuesto. Nuestro equipo de diagnóstico ISTA/P es el oficial de BMW Group, y está conectado a sus servidores. Esto nos permite programar y codificar cualquier unidad de control (DME, EGS, FRM, NBT...) como si estuvieras en el concesionario. Ya sea por una sustitución o para activar una nueva función (re-equipamiento), lo hacemos con total garantía."
     },
     {
-      "q": "Paso la ITV en la estación de la A-2, ¿hacéis la revisión pre-ITV completa?",
-      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que se revisan en las estaciones de ITV de Madrid. Hacemos una comprobación exhaustiva de luces, frenos, suspensión, neumáticos, niveles y emisiones de gases. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo y que pases la ITV a la primera sin problemas."
+      "q": "El tráfico en la M-30 a la altura de Avenida de América es terrible. ¿Cómo afecta a mi caja automática ZF?",
+      "a": "Ese tipo de tráfico de baja velocidad y paradas continuas somete a la caja ZF 8HP a un estrés térmico y mecánico muy elevado. El aceite se degrada más rápido de lo previsto. Aunque BMW diga que no necesita mantenimiento, nosotros, como especialistas, recomendamos cambiar el aceite y el filtro de la caja cada 80.000-100.000 km para garantizar su suavidad y prevenir averías muy caras en la mecatrónica."
     },
     {
-      "q": "Aparco en la calle en la zona ORA, ¿revisáis los daños típicos de aparcamiento?",
-      "a": "Claro. Los pequeños roces en parachoques, los retrovisores golpeados o las llantas arañadas son el pan de cada día en zonas de aparcamiento regulado como las de Ciudad Lineal. Además de la mecánica, podemos gestionar la reparación de estos pequeños desperfectos de chapa y pintura para que tu coche luzca como se merece."
+      "q": "¿Qué aceite usáis para la revisión CBS? ¿Es el que pide BMW?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas (como Castrol, Motul, Shell) que cumplen o superan la especificación exacta de BMW para tu motor, sea LL-01, LL-04 o la más reciente LL-12 FE. Siempre te enseñaremos la garrafa y te especificaremos en la factura qué aceite se ha usado. La calidad del lubricante es un punto no negociable para nosotros."
     },
     {
-      "q": "Vivo en un bajo por Quintana y uso poco el coche, ¿qué le pasa a la batería?",
-      "a": "El poco uso es uno de los peores enemigos de la batería, ya que el coche tiene pequeños consumos constantes (alarma, reloj) y nunca llega a recargarse del todo. Si solo lo usas para trayectos cortos una vez a la semana, es normal que la batería dure mucho menos. Te recomendamos arrancarlo una vez por semana durante 15 minutos o usar un mantenedor de baterías."
+      "q": "La ITV en Madrid es exigente. ¿Vuestra pre-ITV gratuita cubre los fallos típicos de un BMW?",
+      "a": "Sí, nuestra pre-ITV está enfocada en los puntos críticos de BMW y MINI. Además de lo estándar (luces, frenos, neumáticos), prestamos especial atención a silentblocks y brazos de suspensión, posibles fugas de aceite (tapa de balancines, cárter), la opacidad en los diésel y el correcto funcionamiento de todos los sistemas electrónicos. El objetivo es que vayas a la estación de ITV con total tranquilidad."
+    },
+    {
+      "q": "¿Por qué sois más económicos que el concesionario si usáis el mismo equipo ISTA?",
+      "a": "La diferencia no está en la tecnología ni en la calidad del trabajo, sino en la estructura de costes. No tenemos los enormes gastos de una instalación de concesionario oficial (exposición, personal de ventas, etc.). Somos un taller especializado con una estructura más ágil. Trasladamos ese ahorro directamente a tu factura, ofreciéndote la misma calidad a un precio mucho más competitivo."
+    },
+    {
+      "q": "Tengo un BMW i3 y me muevo por Ciudad Lineal. ¿Tenéis experiencia con eléctricos?",
+      "a": "Sí. Aunque el mantenimiento de un coche eléctrico es más sencillo, requiere conocimientos y herramientas específicas. Estamos formados y equipados para trabajar con la gama eléctrica e híbrida de BMW (i3, iX3, 330e, etc.). Podemos realizar el mantenimiento del sistema de frenado regenerativo, diagnóstico de baterías, y cualquier otra operación que no implique la manipulación interna del paquete de alto voltaje."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Ciudad Lineal",
-  "closingCta": "No dejes que una avería te complique la vida en Madrid. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y conduce con tranquilidad por Ciudad Lineal.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Ciudad Lineal",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@taller-madrid.es",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu especialista BMW y MINI en Ciudad Lineal",
+  "closingCta": "Pide tu cita previa y descubre por qué cada vez más conductores de BMW y MINI en Madrid confían en la Red ISTA. Llámanos o envíanos un WhatsApp y te daremos un presupuesto cerrado para lo que necesite tu coche."
 }
