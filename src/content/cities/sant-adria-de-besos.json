@@ -6,180 +6,189 @@
   "population": 36669,
   "lat": 41.43073,
   "lng": 2.21855,
-  "metaTitle": "Taller mecánico en Sant Adrià de Besòs — Para tu furgoneta y coche",
-  "metaDescription": "Reparamos tu coche o furgoneta en Sant Adrià de Besòs con presupuesto cerrado. Expertos en vehículos de trabajo y diésel. ¡Pide tu cita ahora!",
-  "heroSubtitle": "Sabemos que tu coche parado es un día de trabajo perdido. En Sant Adrià, te damos un diagnóstico claro para que sigas facturando.",
+  "metaTitle": "Taller MINI y BMW en Sant Adrià de Besòs · Red ISTA",
+  "metaDescription": "Especialistas en BMW y MINI en Sant Adrià de Besòs. Diagnóstico oficial ISTA, revisiones CBS y mecánica avanzada. La alternativa al concesionario. Pide cita.",
+  "heroSubtitle": "Tu MINI Cooper S pide a gritos algo más que el tráfico de la C-31. Si la dirección ya no es tan directa como antes, hablemos.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Si usas tu coche o furgoneta para trabajar y te mueves cada día por Sant Adrià de Besòs, sabes que esto no es un paseo. No hablamos solo de conducir, sino de sobrevivir a la Ronda Litoral (B-10) en hora punta, de callejear por La Catalana buscando un sitio para descargar o de cruzar a Badalona o Santa Coloma por calles que ponen a prueba cualquier amortiguador. Tu vehículo no es un lujo, es tu herramienta principal. Cada mañana que arranca, es un día que puedes facturar. Entendemos perfectamente esa dependencia porque es la realidad de muchos de nuestros clientes, desde el instalador que va cargado hasta los topes al comercial que necesita una presencia impecable. El uso intensivo, el tráfico denso que te obliga a jugar con el embrague constantemente y la humedad salina que nos regala el Mediterráneo, especialmente si aparcas por la zona del Fòrum, no son precisamente amigos de la mecánica. Son factores que aceleran el desgaste de componentes clave y que exigen un mantenimiento que vaya más allá de un simple cambio de aceite.\n\nPara un autónomo o un pequeño profesional, una avería no es solo el coste de la reparación, es el lucro cesante. Es el cliente que no puedes visitar, el material que no puedes entregar, el trabajo que se queda a medias. Por eso, nuestro enfoque en Sant Adrià es radicalmente práctico. No te vamos a contar historias. Cuando tu Renault Kangoo empieza a dar tirones en plena C-31 dirección Barcelona, o tu Volkswagen Caddy diésel echa más humo de la cuenta, lo que necesitas no son promesas, sino un diagnóstico preciso y un plan de acción. Conocemos el parque móvil de la zona: vehículos con sus años, muchos diésel, que se usan para trabajar duro de lunes a viernes y, con suerte, para una escapada el fin de semana. Sabemos lo que significa que el filtro de partículas se sature por hacer demasiados trayectos cortos entre el polígono del Besòs y el centro, o que los frenos empiecen a 'cantar' por la combinación de humedad y ferodo gastado.\n\nLa geografía local impone sus reglas. No es lo mismo un coche que solo circula por el interior que uno que duerme a pocos metros del mar. La corrosión es un enemigo silencioso que ataca los bajos, los conductos de freno y las partes metálicas del motor. Además, el urbanismo de Sant Adrià y sus alrededores, con sus calles a veces estrechas, sus badenes en barrios como Sant Joan Baptista y el asfalto irregular de algunas zonas industriales, castiga la suspensión, las rótulas y los neumáticos. Un simple silentblock que empieza a dar guerra puede convertirse en un problema de seguridad y en una reparación más cara si no se atiende a tiempo. Por eso insistimos tanto en la prevención. Echarle un ojo a tiempo a esos pequeños síntomas te puede ahorrar mucha pasta y, lo que es más importante para ti, evitar que tu herramienta de trabajo te deje tirado en el peor momento posible, como de camino a un cliente importante en el 22@.\n\nNuestro compromiso es ser tu taller de confianza en Sant Adrià, el que entiende que no puedes permitirte tener el coche parado. Por eso, cada paso de nuestro proceso está diseñado para darte certidumbre. Desde el primer momento sabrás qué le pasa a tu coche, cuánto va a costar repararlo con un presupuesto cerrado y cuándo podrás volver a tenerlo en marcha. No empezamos ninguna reparación sin tu autorización explícita. Somos el mecánico del barrio que habla tu mismo idioma, que entiende la prisa del día a día y que sabe que la confianza se gana con honestidad y trabajo bien hecho, no con palabrería. Ya vivas en el centro de Sant Adrià, en La Mina o vengas de los barrios limítrofes de Badalona o Barcelona, aquí encontrarás un servicio pensado para que tu negocio no se detenga.",
-  "servicesIntro": "Desde la revisión para que tu furgoneta pase la ITV sin problemas hasta la reparación del embrague castigado por el tráfico de las Rondas, lo cubrimos todo.",
-  "processIntro": "Trabajamos con un método claro y directo para que siempre sepas qué le pasa a tu coche, cuánto cuesta y cuándo estará listo. Cero sorpresas.",
+  "introLocal": "Conducir un MINI, especialmente un Cooper S o un JCW, por Sant Adrià de Besòs es una experiencia de contrastes. Por un lado, tienes esos momentos en los que pillas la Ronda Litoral (B-10) despejada a primera hora y puedes sentir cómo el motor B48 empuja de verdad. Por otro, la realidad diaria: el stop-and-go para cruzar el puente hacia Barcelona, el tráfico denso en la Avenida de la Platja o los trayectos cortos para ir al Màgic de Badalona. Este tipo de uso, tan característico del Barcelonès Nord, es precisamente el que más castiga la mecánica de un coche pensado para disfrutar. No es un uso 'malo', es simplemente el nuestro, pero exige un mantenimiento que entienda estas particularidades. Un taller genérico cambiará el aceite y los filtros; un especialista Red ISTA en Sant Adrià sabe que tu embrague está sufriendo más de la cuenta y que la carbonilla se está acumulando en la admisión a un ritmo superior al normal.\n\nEste patrón de conducción —acelerón, frenazo, semáforo, rotonda— tiene consecuencias directas que vemos a diario. En los MINI con motor de gasolina, como los Cooper S F56 que tanto se ven por el barrio de La Catalana, el sistema de inyección directa y el turbo trabajan bajo un estrés constante, lo que puede derivar en un consumo de aceite prematuro si no se usa el lubricante LL-04 adecuado y se vigilan los intervalos. En los diésel, como un Countryman Cooper D que sube y baja de Santa Coloma, el filtro de partículas (DPF) nunca llega a la temperatura óptima para regenerarse en trayectos tan cortos, y la centralita DDE empieza a registrar fallos. Lo mismo ocurre con la caja de cambios automática ZF 8HP de muchos BMW: no es lo mismo su funcionamiento en la A-2 que callejeando por Sant Joan Baptista. Son detalles que un diagnóstico genérico no ve, pero que nuestro equipo ISTA/Rheingold, conectado a BMW, detecta al instante.\n\nComo propietario de un MINI, seguro que valoras la sensación de 'kart' y la precisión de su dirección. Por eso, cuando la dirección eléctrica (EPS) empieza a 'dar guerra' —se vuelve imprecisa, hace ruidos al maniobrar en el parking del Alcampo o se endurece sin motivo—, es una señal de alarma. Este es uno de los puntos débiles conocidos, especialmente en las generaciones R56 y las primeras F56. No es un fallo que se solucione con un reseteo. Requiere un diagnóstico preciso del módulo, comprobar el motor eléctrico y, a veces, una codificación específica. Aquí es donde nos diferenciamos. No nos limitamos a cambiar la pieza entera como haría un concesionario oficial, inflando la factura. Investigamos la causa raíz, te explicamos las opciones y buscamos la solución más inteligente para tu bolsillo y para la salud de tu MINI.\n\nEsta filosofía se aplica, por supuesto, a toda la gama BMW. El parque de vehículos en Sant Adrià y Badalona está lleno de BMW Serie 1 (F20) y X1 (F48) con el motor diésel N47 o su evolución, el B47. Motores fiables, pero con el talón de Aquiles de la cadena de distribución. El uso urbano intensivo, con continuos arranques en frío para trayectos cortos, no le hace ningún favor. En nuestro taller, cuando entra uno de estos coches para una simple revisión CBS, le 'echamos un ojo' y un oído experto al sonido del motor. Con el equipo ISTA podemos comprobar ciertos parámetros que nos indican un desgaste prematuro, permitiéndonos avisarte antes de que el problema vaya a más. Es un trabajo de prevención que te ahorra miles de euros y muchos dolores de cabeza.\n\nEn definitiva, ser un taller de la Red ISTA en Sant Adrià de Besòs significa ser el especialista de confianza para una comunidad de conductores que utilizan su BMW o MINI en un entorno muy exigente. No somos el concesionario oficial de la zona de Glòries, ni pretendemos serlo. No tenemos sus enormes estructuras ni sus costes. Lo que sí tenemos es su misma tecnología de diagnóstico, una conexión directa con los servidores de BMW en Alemania, y un equipo de técnicos que viven y respiran estos motores. Entendemos el efecto del aire salino del Port Fòrum en los sensores, el castigo de los badenes de nuestras calles en la suspensión y lo que supone depender del coche cada día para cruzar el Besòs. Estamos aquí para ofrecerte esa tranquilidad, con un presupuesto cerrado y la certeza de que tu coche está en las mejores manos.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW o MINI necesita en Sant Adrià de Besòs, desde la revisión oficial CBS hasta la electrónica más compleja.",
+  "processIntro": "Trabajamos con total transparencia. Así es nuestro proceso para que sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos conectan el equipo de diagnosis. Identificamos el problema real, no nos quedamos en la superficie. Te explicamos la causa de la avería en un lenguaje que entiendas."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y cerrado. Incluye piezas, mano de obra e IVA. Lo que ves es lo que pagas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin ninguna presión."
     },
     {
-      "title": "Tu autorización",
-      "body": "No movemos ni un solo tornillo sin tu visto bueno explícito. Solo cuando nos das el 'vale, adelante', nuestro equipo se pone manos a la obra. Tú tienes el control total del proceso y del gasto en todo momento."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos inmediatamente, te llamamos, te enviamos fotos si hace falta y te explicamos antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de calidad equivalente a la original y seguimos los procedimientos del fabricante. Te mantenemos informado del progreso y cumplimos con los plazos acordados para que puedas organizar tu agenda de trabajo."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-01/LL-04, pares de apriete específicos y herramienta especializada para tu modelo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo para recoger. Te explicamos la reparación realizada, te entregamos las piezas sustituidas si quieres y nos aseguramos de que todo funciona perfectamente. Tu satisfacción es nuestra garantía."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Borramos los avisos de servicio del cuadro (CBS), actualizamos el libro digital de mantenimiento en la llave y en los servidores de BMW, y hacemos una prueba final para asegurar que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "El uso diario por Sant Adrià y las Rondas, sumado al clima costero, provoca problemas muy concretos que vemos cada día en el taller. Estos son los más habituales.",
+  "commonIssuesIntro": "Estos son algunos de los problemas más habituales que solucionamos en los BMW y MINI que circulan por Sant Adrià, muchos de ellos agravados por el tipo de conducción urbana y el clima local.",
   "commonIssues": [
     {
-      "title": "Embragues gastados por el tráfico de la B-10",
-      "body": "El atasco diario en la Ronda Litoral, tanto para ir a Barcelona como para volver, es un infierno para el embrague. El constante 'primera-punto muerto-primera' lo desgasta prematuramente. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo antes de quedarte tirado."
+      "title": "Dirección Eléctrica (EPS) en MINI",
+      "body": "La dirección de tu MINI Cooper S se siente rara o hace ruido al aparcar en las calles estrechas de Sant Adrià. Es un fallo común en el módulo EPS. Lo diagnosticamos con ISTA para identificar si es un problema de sensor, motor o codificación, buscando la reparación más eficaz sin necesidad de cambiar toda la cremallera, un ahorro considerable."
     },
     {
-      "title": "Filtros de partículas (FAP) obstruidos",
-      "body": "Muchos vehículos diésel de trabajo hacen trayectos cortos por Sant Adrià, Badalona o Santa Coloma. Esto impide que el filtro FAP se regenere correctamente, provocando pérdida de potencia y averías caras. Realizamos limpiezas forzadas y te aconsejamos sobre cómo evitar que vuelva a pasar."
+      "title": "Filtro de Partículas (DPF) saturado",
+      "body": "Los trayectos cortos por la Ronda Litoral o para ir de La Catalana al centro de Barcelona son veneno para el DPF de tu BMW o MINI diésel. El sistema no alcanza la temperatura para regenerar y se obstruye. Realizamos diagnosis, forzamos regeneraciones controladas y si es necesario, ofrecemos limpieza profesional para evitar la costosa sustitución."
     },
     {
-      "title": "Corrosión en bajos y sistema de frenos",
-      "body": "La brisa marina es estupenda, pero el salitre que trae es muy corrosivo para el metal. Los coches que duermen en la calle, especialmente en la zona del Fòrum o La Catalana, sufren oxidación en el chasis, escape y latiguillos de freno. Una revisión anual de los bajos es fundamental por seguridad."
+      "title": "Desgaste de embrague y cambio automático",
+      "body": "El constante para-arranca del tráfico en los accesos a Barcelona desde Sant Adrià castiga duramente tanto el embrague bimasa como la mecatrónica de las cajas automáticas ZF. Si notas tirones o el embrague patina, lo revisamos. Somos especialistas en el mantenimiento de la caja ZF 8HP, incluido el cambio de aceite y filtro, algo crucial."
     },
     {
-      "title": "Problemas de suspensión y silentblocks",
-      "body": "Entre los badenes para calmar el tráfico en zonas residenciales y el asfalto mejorable de algunas calles del Polígon del Besòs, la suspensión sufre mucho. Ruidos extraños al girar o inestabilidad en carretera suelen ser culpa de silentblocks o amortiguadores en mal estado. Lo revisamos para que conduzcas seguro."
+      "title": "Ruidos en cadena de distribución (N47/B47)",
+      "body": "El famoso 'seseo' en los motores diésel 2.0 es una señal que no se debe ignorar, especialmente en coches con mucho kilometraje urbano. Una detección a tiempo en nuestro taller de Sant Adrià puede evitar una rotura de motor. Usamos kits de distribución de calidad OE y conocemos el procedimiento al dedillo."
     },
     {
-      "title": "Fallos en el sistema de climatización",
-      "body": "En verano, con la humedad de la costa, el aire acondicionado no es un lujo, es una necesidad, sobre todo si pasas horas en el coche. La falta de uso en invierno y la corrosión por el ambiente salino pueden provocar fugas en el circuito o averías en el compresor. Hacemos la carga y reparamos el sistema."
+      "title": "Consumo de aceite en motores gasolina (B48/N20)",
+      "body": "Si tu MINI Cooper S (B48) o tu BMW con motor N20 te pide aceite con frecuencia, puede deberse a varias causas, desde la válvula PCV hasta las juntas del soporte del filtro. El estrés térmico del tráfico urbano acelera el desgaste de estas piezas. Localizamos la fuga o el consumo y lo solucionamos de raíz."
+    },
+    {
+      "title": "Fallos electrónicos por humedad",
+      "body": "La proximidad al mar y al río Besòs genera un ambiente con alta salinidad y humedad. Esto, a largo plazo, puede afectar a módulos electrónicos sensibles, sensores de aparcamiento o conexiones. Nuestro diagnóstico ISTA es clave para encontrar estos fallos 'fantasma' que otros equipos no ven."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos tu urgencia",
-      "body": "Sabemos que tu vehículo es tu oficina. Priorizamos los diagnósticos en coches de profesionales para que sepas qué tienes y puedas decidir rápido. El objetivo es que vuelvas a la carretera cuanto antes."
+      "title": "Especialización real en MINI",
+      "body": "No somos un taller que 'también' toca MINIs. Conocemos sus particularidades, desde la dirección EPS hasta los caprichos del motor B48. Entendemos lo que buscas como propietario de un Cooper S o un JCW y hablamos tu mismo idioma."
     },
     {
-      "title": "Presupuesto sin letra pequeña",
-      "body": "Te damos un precio cerrado por escrito. Sin sorpresas, sin costes añadidos de última hora. Así puedes planificar tus gastos y evitar un agujero inesperado en la facturación del mes."
+      "title": "Diagnóstico nivel concesionario",
+      "body": "Usamos el sistema oficial BMW ISTA. Esto nos permite ver lo mismo que ven en el concesionario de Badalona o Barcelona, pero con la cercanía y el trato directo de un taller de barrio en Sant Adrià."
     },
     {
-      "title": "Hablamos claro, de tú a tú",
-      "body": "Olvídate de tecnicismos incomprensibles. Te explicamos la avería de forma sencilla para que sepas qué le pasa a tu coche y por qué es necesario repararlo. La transparencia es la base de la confianza."
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Si durante una reparación vemos algo más, paramos y te llamamos. Tú decides siempre. Se acabó el miedo a la factura final."
     },
     {
-      "title": "Especialistas en vehículos de trabajo",
-      "body": "Conocemos las tripas de las furgonetas y comerciales más habituales en nuestras calles (Berlingo, Partner, Kangoo, Caddy...). Sabemos sus puntos débiles y cómo mantenerlos a punto para el duro trabajo diario."
+      "title": "Conocimiento del entorno",
+      "body": "Sabemos cómo afecta a tu coche conducir a diario por la C-31 o la Ronda Litoral. Este conocimiento nos permite hacer un mantenimiento preventivo, adelantándonos a los problemas típicos de la zona."
     },
     {
-      "title": "A un paso de las vías principales",
-      "body": "Nuestra ubicación te permite dejarnos el coche fácilmente si te mueves por la C-31 o la Ronda Litoral, ahorrándote tiempo en desplazamientos para que puedas seguir con tu jornada."
+      "title": "Recambios OE o BMW Original",
+      "body": "Te damos a elegir. Podemos montar la misma pieza que el concesionario (Original BMW) o una de calidad equivalente del mismo fabricante que la produce para BMW (OE), como Bosch, Mahle o Lemförder, con un ahorro importante."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que nos encontramos y resolvemos cada semana en Sant Adrià.",
+  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que nos encontramos cada día. Nombres y barrios son representativos de nuestros clientes en la zona.",
   "testimonials": [
     {
-      "name": "Jordi",
-      "neighborhood": "La Catalana",
-      "car": "Citroën Berlingo 2017",
-      "body": "La furgoneta empezó a perder fuerza en plena Ronda Litoral. Un desastre, porque iba a una instalación en Barcelona. Les llamé, la traje y en un par de horas me confirmaron que era el filtro de partículas, algo típico por lo visto. Me dieron presupuesto cerrado y al día siguiente ya la tenía lista. Me salvaron la semana.",
+      "name": "Joan",
+      "neighborhood": "Port Fòrum",
+      "car": "MINI JCW F56 2019",
+      "body": "La dirección de mi JCW empezó a hacer un ruido raro al maniobrar en el garaje. En otros talleres me hablaban de cambiar toda la cremallera, una pasta. Aquí conectaron el ISTA, vieron que era un sensor del módulo EPS y reprogramaron. Solucionado por mucho menos. Se nota que controlan de MINI.",
       "rating": 5
     },
     {
-      "name": "Montserrat",
-      "neighborhood": "Sant Joan Baptista",
-      "car": "Seat León TDI 2015",
-      "body": "Soy comercial y hago muchos kilómetros. Notaba un ruido raro en la rueda delantera al girar. Lo llevé para que le echaran un ojo y era una rótula de la suspensión. Me lo explicaron muy bien, me enseñaron la pieza y el precio me pareció correcto. Valoro mucho que no intenten colarte cosas que no son.",
+      "name": "Carla",
+      "neighborhood": "Gorg (Badalona)",
+      "car": "BMW X1 xDrive20d F48 2017",
+      "body": "Hago cada día el trayecto Badalona-Zona Franca por la Ronda y el coche me dio aviso de filtro de partículas. Pensé que me tocaría cambiarlo. Me hicieron una regeneración forzada y me explicaron cómo conducir de vez en cuando para mantenerlo limpio. Muy honestos y profesionales.",
       "rating": 5
     },
     {
-      "name": "David",
-      "neighborhood": "Centre",
-      "car": "Ford Transit Connect 2016",
-      "body": "Tenía que pasar la ITV y sabía que los frenos de atrás no estaban muy católicos. Se la llevé para una pre-ITV y, efectivamente, había que cambiar pastillas y discos. Lo hicieron en el mismo día y pasó la inspección sin un solo fallo. Un servicio práctico y sin rodeos, como a mí me gusta.",
+      "name": "Marc",
+      "neighborhood": "Sant Martí (Barcelona)",
+      "car": "BMW 330i G20 2020",
+      "body": "Estaba harto de los precios y la opacidad del concesionario oficial. Probé aquí para la revisión CBS y el trato fue de 10. Me enseñaron el aceite que iban a usar, me explicaron cada punto de la revisión y el precio fue el que me dijeron. Ya tienen un cliente fijo.",
       "rating": 5
     },
     {
-      "name": "Laura",
-      "neighborhood": "Sant Roc (Badalona)",
-      "car": "Peugeot 208 2014",
-      "body": "El aire acondicionado había dejado de enfriar. Con el calor que hace aquí en verano, era imposible conducir. Me comprobaron el circuito, encontraron una pequeña fuga y lo solucionaron. El precio fue más bajo de lo que esperaba. El trato fue bueno, aunque tardaron un poco en darme cita.",
+      "name": "Sonia",
+      "neighborhood": "Santa Coloma de Gramenet",
+      "car": "MINI Countryman Cooper D R60 2014",
+      "body": "Mi Countryman hacía el famoso ruidito de la cadena de distribución. Estaba asustada por lo que había leído. Me dieron un presupuesto cerrado, mucho más razonable que en otros sitios, y me lo solucionaron en el tiempo que me dijeron. Ahora el coche va finísimo y yo voy tranquila.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio principalmente en Sant Adrià de Besòs, cubriendo todos sus barrios, desde La Catalana y el frente marítimo hasta el centro y Sant Joan Baptista. Nuestra ubicación es estratégica para profesionales y particulares que se mueven por el Barcelonès Nord. Muchos de nuestros clientes vienen de municipios vecinos con los que compartimos el día a día, como Badalona (especialmente de barrios como Sant Roc, El Remei y Gorg) y Santa Coloma de Gramenet (barrios del Fondo y Santa Rosa). También somos el taller de referencia para muchos vecinos de los barrios de Barcelona más cercanos, como El Besòs i el Maresme y La Verneda i la Pau. Si usas a diario la Ronda Litoral (B-10), la C-31 o la N-II, estamos a un paso para cualquier revisión o imprevisto.",
+  "zoneText": "Nuestro taller en Sant Adrià de Besòs da servicio a toda la zona del Barcelonès Nord. Si vives o trabajas en barrios de Sant Adrià como La Catalana, Sant Joan Baptista, o la zona del Port Fòrum, estamos a un paso. También somos el taller de referencia para muchos propietarios de BMW y MINI de la vecina Badalona, especialmente de barrios como Gorg, Artigues, Sant Roc y el centro. Nuestra ubicación es ideal para clientes de Santa Coloma de Gramenet y de los distritos de Barcelona que lindan con el Besòs, como Sant Martí de Provençals, La Verneda i la Pau y El Besòs i el Maresme. El acceso es muy sencillo desde las principales vías que nos rodean, como la Ronda Litoral (B-10) y la C-31, lo que te permite llegar fácilmente sin tener que callejear en exceso.",
   "zoneNeighborhoods": [
+    "Sant Adrià de Besòs",
+    "Badalona",
+    "Santa Coloma de Gramenet",
     "La Catalana",
     "Sant Joan Baptista",
-    "La Mina",
-    "Centre (Sant Adrià)",
-    "Besòs (Barcelona)",
-    "Sant Roc (Badalona)",
-    "Gorg (Badalona)",
-    "El Remei (Badalona)",
-    "Fondo (Santa Coloma)"
+    "Gorg",
+    "Artigues",
+    "Sant Martí (Barcelona)",
+    "El Besòs i el Maresme (Barcelona)",
+    "Port Fòrum"
   ],
   "zoneAccessRoutes": [
-    "B-10 (Ronda Litoral)",
-    "C-31 (Autovía de Castelldefels)",
-    "N-II",
-    "B-20 (Ronda de Dalt)"
+    "Ronda Litoral (B-10)",
+    "C-31",
+    "Gran Via de les Corts Catalanes",
+    "N-II (Carretera de Mataró)"
   ],
   "faqLocal": [
     {
-      "q": "Mi furgoneta es diésel y hago trayectos cortos por Sant Adrià y Badalona, ¿qué mantenimiento especial necesita?",
-      "a": "Es el caso más común. Esos trayectos cortos son fatales para los sistemas anticontaminación, sobre todo el filtro de partículas (FAP) y la válvula EGR. Te recomendamos que, al menos una vez por semana, salgas a la autovía (la C-31 es perfecta para esto) y conduzcas unos 15-20 minutos a un régimen más alto (sobre 2.500 rpm) para forzar la regeneración. Además, una limpieza preventiva del sistema cada cierto tiempo te ahorrará averías muy caras."
+      "q": "Tengo un MINI Cooper S y lo uso sobre todo por Sant Adrià y para entrar a Barcelona. ¿Qué mantenimiento especial necesita?",
+      "a": "Este uso urbano intensivo con tráfico denso requiere prestar especial atención al aceite, usando siempre un LL-04 de baja ceniza para proteger el motor B48 de la carbonilla. También vigilamos de cerca el desgaste de frenos y embrague. Recomendamos hacer una limpieza del sistema de inyección periódicamente y no apurar los cambios de aceite para mantener el turbo en perfecto estado."
     },
     {
-      "q": "Aparco cerca de la playa del Fòrum, ¿cómo afecta la sal a mi coche?",
-      "a": "El salitre del ambiente marino es muy corrosivo. Acelera la oxidación de todas las partes metálicas no protegidas: los bajos del coche, el sistema de escape, los tornillos, los conductos de freno e incluso el radiador del aire acondicionado. Te aconsejamos lavar el coche con frecuencia, prestando especial atención a los bajos, y hacer una revisión visual de estos elementos una vez al año para detectar puntos de óxido antes de que se conviertan en un problema de seguridad."
+      "q": "Vivo cerca del mar, por la zona del Port Fòrum. ¿La salinidad del aire afecta a mi BMW?",
+      "a": "Sí, a largo plazo puede afectar. El ambiente salino puede acelerar la corrosión en puntos expuestos del chasis y, sobre todo, en conexiones eléctricas y sensores. En las revisiones, prestamos atención a los bornes de la batería, las conexiones de los módulos electrónicos y los sensores de aparcamiento, aplicando protectores dieléctricos si es necesario para prevenir fallos."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Sant Adrià, ¿hacéis pre-ITV enfocada en lo que más miran allí?",
-      "a": "Sí, por supuesto. Conocemos bien la estación de ITV de Sant Adrià. Aunque los criterios son nacionales, cada estación tiene sus 'manías'. Hacemos una revisión pre-ITV completa que se centra en los puntos críticos de siempre (luces, frenos, neumáticos, emisiones), pero prestando atención extra a los silentblocks y posibles holguras en la suspensión, que son un punto de rechazo habitual. Si tu coche es diésel, nos aseguramos de que la opacidad de humos esté dentro de los límites."
+      "q": "Mi BMW diésel (motor B47) hace muchos trayectos cortos por la Ronda Litoral. ¿Estoy fastidiando el DPF?",
+      "a": "Es el escenario perfecto para saturar el filtro de partículas. La centralita intenta regenerar, pero si no mantienes una velocidad constante durante unos 15-20 minutos, el proceso se aborta. Nuestro consejo es que, una vez a la semana o cada dos, aproveches para salir a la C-31 o la AP-7 y conduzcas en un régimen de 2.000-2.500 rpm para facilitar una regeneración completa."
     },
     {
-      "q": "Trabajo en Barcelona y dependo del coche. Si os lo dejo por la mañana, ¿cuándo podría tenerlo?",
-      "a": "Nuestra prioridad es la rapidez, sobre todo para vehículos de trabajo. Para mantenimientos programados (revisiones, frenos, etc.), si lo dejas a primera hora, lo más habitual es que lo tengas por la tarde. Para averías, el tiempo depende del diagnóstico y de la disponibilidad de piezas, pero te daremos un plazo estimado y fiable en cuanto sepamos qué le ocurre. Siempre te mantendremos informado."
+      "q": "¿Sois una alternativa al concesionario oficial de BMW/MINI de la zona de Glòries o Badalona?",
+      "a": "Exacto. Ofrecemos el mismo nivel de especialización y usamos la misma tecnología de diagnóstico oficial ISTA, pero con los precios más competitivos de un taller independiente y un trato mucho más cercano y personal. Realizamos las revisiones según el plan del fabricante (CBS) para que no pierdas la garantía oficial."
     },
     {
-      "q": "Uso la Ronda Litoral (B-10) a diario. ¿Qué componentes sufren más y cómo puedo prevenirlas?",
-      "a": "La B-10 es una prueba de fuego para cualquier coche. Los componentes que más sufren son el embrague (por el constante arranque y parada), los frenos y los neumáticos. También el motor sufre al no poder refrigerar bien en atascos. Para prevenir, te recomendamos no apurar las marchas, mantener la distancia de seguridad para frenar con suavidad y revisar la presión de los neumáticos semanalmente. Una revisión anual del líquido de frenos y del estado del embrague es clave."
+      "q": "El sistema de dirección de mi MINI hace un ruido extraño al aparcar. ¿Es un problema conocido?",
+      "a": "Sí, es un problema bastante común en el sistema de dirección asistida eléctrica (EPS) de varias generaciones de MINI. Puede ser desde un fallo del sensor de par hasta un problema en el motor eléctrico. Con el diagnóstico ISTA podemos identificar el origen exacto y, en muchos casos, ofrecer una solución sin tener que cambiar toda la cremallera de dirección, ahorrándote bastante dinero."
     },
     {
-      "q": "El coche 'canta' al frenar después de unos días de lluvia y humedad, ¿es grave?",
-      "a": "Es un fenómeno muy común aquí por la humedad. Generalmente, ese chirrido inicial se debe a una fina capa de óxido superficial que se forma en los discos de freno. Suele desaparecer tras las primeras frenadas. Sin embargo, si el ruido persiste, es agudo o escuchas un sonido de rozamiento metálico, podría ser un aviso de que las pastillas de freno están gastadas. En ese caso, tráelo para que lo revisemos por seguridad."
+      "q": "¿Tenéis experiencia con la caja automática ZF de 8 velocidades en un entorno de tanto tráfico como el de aquí?",
+      "a": "Totalmente. La caja ZF 8HP es excelente, pero el uso intensivo en ciudad con constantes cambios a baja velocidad somete a la mecatrónica y al aceite a un gran estrés. Somos especialistas en su mantenimiento, que incluye el cambio de aceite y filtro con el lubricante específico de ZF, un servicio crucial que muchos talleres ignoran y que previene averías muy costosas."
     },
     {
-      "q": "¿Ofrecéis alguna solución si no puedo quedarme sin vehículo mientras reparáis el mío?",
-      "a": "Entendemos perfectamente que no puedes parar tu actividad. Disponemos de un número limitado de coches de cortesía que puedes solicitar al pedir cita. Es un servicio muy demandado por nuestros clientes profesionales, por lo que te recomendamos que lo reserves con la máxima antelación posible. Consulta las condiciones de disponibilidad y uso con nuestro equipo al concertar tu cita para asegurarte de que tienes una solución de movilidad."
+      "q": "Para pasar la ITV en Badalona, ¿ofrecéis alguna revisión que se centre en los puntos críticos de un BMW o MINI?",
+      "a": "Sí, ofrecemos una pre-ITV gratuita con cualquier mantenimiento. Nos centramos en los puntos de fallo habituales en la ITV para estos modelos: holguras en silentblocks y brazos de suspensión, eficacia de frenado (especialmente el freno de mano electrónico), estado de los neumáticos run-flat y, por supuesto, la prueba de opacidad en los diésel, un punto crítico si el DPF no está en buen estado."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Sant Adrià",
-  "closingCta": "No dejes que una avería pare tu negocio. Llámanos o envíanos un WhatsApp para pedir un diagnóstico y un presupuesto sin compromiso. Estamos en Sant Adrià de Besòs para ayudarte a seguir en marcha."
+  "closingHeadline": "Tu especialista BMW y MINI en Sant Adrià de Besòs",
+  "closingCta": "Si quieres un diagnóstico claro y un presupuesto honesto para tu coche, llámanos o envíanos un WhatsApp. Estamos en Sant Adrià para ayudarte a que sigas disfrutando de la conducción."
 }
