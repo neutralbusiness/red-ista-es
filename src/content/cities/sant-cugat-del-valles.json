@@ -6,178 +6,189 @@
   "population": 79253,
   "lat": 41.47063,
   "lng": 2.08611,
-  "metaTitle": "Taller mecánico en Sant Cugat del Vallès — Para coches con historia",
-  "metaDescription": "Reparamos tu coche de más de 10 años en Sant Cugat del Vallès. Presupuesto cerrado para diésel, gasolina e híbridos. Pide tu cita sin compromiso.",
-  "heroSubtitle": "Sabemos que le tienes cariño a tu coche de siempre. En nuestro taller de Sant Cugat lo tratamos con el respeto y la honestidad que merece.",
+  "metaTitle": "Taller BMW y MINI en Sant Cugat — Red ISTA · Diagnóstico Oficial",
+  "metaDescription": "Especialistas en BMW y MINI en Sant Cugat del Vallès. Diagnóstico oficial ISTA, DPF, AdBlue, revisiones CBS y mecánica. Pide presupuesto cerrado.",
+  "heroSubtitle": "¿El aviso del filtro de partículas de tu X3 diésel no se apaga? En Sant Cugat, los trayectos cortos son el enemigo. Tenemos la solución real.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "Entendemos perfectamente tu situación. Tienes un coche, probablemente un diésel o gasolina con más de una década, que ha sido tu compañero fiel en miles de trayectos. Quizá es ese motor TDI que te sube la Carretera de l'Arrabassada sin titubear o ese gasolina fiable con el que cruzas los túneles de Vallvidrera cada mañana para ir a Barcelona. Funciona bien, te lleva y te trae, y no tienes ninguna gana de meterte en la letra pequeña de un coche nuevo. Sin embargo, cada vez que se enciende un testigo en el cuadro o escuchas un ruido nuevo al pasar por los badenes de Coll Favà, sientes un nudo en el estómago. El miedo no es a la avería en sí, sino a la factura del taller, a esa sensación de no saber si la reparación valdrá más que el propio coche.\n\nEn Sant Cugat del Vallès, el uso del coche es intenso y particular. No es lo mismo un vehículo que solo circula por ciudad que uno que combina los trayectos cortos para llevar a los niños al colegio en Mirasol con el viaje diario por la AP-7 o la B-30 hacia los polígonos de Rubí o Cerdanyola. El desgaste es diferente. Los frenos y la suspensión sufren en las innumerables rotondas de la Ronda Nord, el embrague se resiente en el tráfico de hora punta para entrar a la C-16, y el sistema de refrigeración se pone a prueba en los veranos secos y calurosos del Vallès. Conocemos este patrón porque lo vemos cada día. Sabemos lo que significa para un coche de cierta edad enfrentarse a la rampa del parking del Mercat de Torreblanca o quedarse parado en la humedad de una mañana de invierno en La Floresta.\n\nAdemás, Sant Cugat vive una transición muy marcada. Ves cómo tus vecinos de Valldoreix o Volpelleres cambian sus coches de combustión por híbridos y eléctricos de última generación. Esto genera una doble incertidumbre. Por un lado, te preguntas cuánto tiempo más podrás seguir usando tu diésel con las Zonas de Bajas Emisiones expandiéndose. Por otro, si decides dar el salto a un híbrido de segunda mano, te enfrentas a una tecnología que desconoces. ¿Quién te va a revisar las baterías? ¿Entenderán de sistemas de propulsión eléctrica? Nuestro taller está preparado para este cambio. Somos especialistas en la mecánica robusta de los coches que han definido las últimas dos décadas, pero también contamos con la formación y el equipo de diagnosis para mantener y reparar los sistemas híbridos que ya son el presente en nuestras calles.\n\nNuestra filosofía es radicalmente simple: transparencia total. No vamos a darte un presupuesto inflado para que decidas desguazar tu coche. Haremos un diagnóstico honesto, te explicaremos las opciones que tienes en un lenguaje claro y te daremos un presupuesto cerrado. Con esa información, la decisión es tuya. A veces, una reparación de unos cientos de euros puede darte varios años más de servicio fiable, y eso, económicamente, es la decisión más inteligente. Estamos aquí para ser tus mecánicos de confianza en Sant Cugat, para alargar la vida de tu coche con sentido común y profesionalidad, no para venderte reparaciones que no necesitas. Tu coche tiene una historia; nosotros le ayudamos a continuarla.",
-  "servicesIntro": "Desde la revisión anual para tu coche familiar hasta la diagnosis de ese fallo electrónico complejo, cubrimos todas las necesidades de tu vehículo en Sant Cugat.",
-  "processIntro": "Trabajamos con un método claro y transparente para que siempre sepas qué le pasa a tu coche, cuánto cuesta y qué haremos para solucionarlo.",
+  "introLocal": "Conduces un BMW X3 o un X5 por Sant Cugat. Lo usas para llevar a los niños al colegio, para ir al Mercat de Mirasol o para acercarte a la estación de FGC en Volpelleres. Trayectos cortos, a menudo con el motor diésel (un B47, un N57 o el más reciente B57) sin tiempo para coger su temperatura óptima. Y un día, zas, el temido aviso en el iDrive: 'Filtro de partículas diésel. Posible autonomía limitada. Acuda a su servicio técnico'. Esta historia es el día a día para muchos propietarios de BMW en Sant Cugat, Valldoreix y La Floresta. Tienes un coche diseñado para devorar kilómetros en la AP-7, pero tu rutina consiste en callejear. El resultado es un filtro de partículas (DPF) que se satura y un sistema AdBlue que da fallos porque las regeneraciones automáticas nunca se completan. En un concesionario oficial, la solución suele ser cara y drástica: cambiar el filtro. Nosotros, como taller especialista homologado por Red ISTA, vamos a la raíz del problema.\n\nEntendemos la realidad de conducir un BMW o un MINI en el Vallès. No es lo mismo que en el centro de Barcelona ni en una zona rural. Aquí, el coche es una herramienta esencial, pero se enfrenta a un uso intermitente y urbano que castiga mecánicas pensadas para otra cosa. El clima de Sant Cugat, con inviernos húmedos y fríos y veranos que superan los 35ºC con facilidad, añade otra capa de complejidad. Ese frío hace que el motor tarde más en calentarse, agravando los problemas del DPF y forzando la batería en cada arranque. El calor del verano pone a prueba el sistema de refrigeración, especialmente la bomba de agua eléctrica y el módulo del ventilador, en el tráfico lento para entrar a los Túneles de Vallvidrera por la C-16. Como especialistas de la red Redista.com, no solo conectamos tu coche al sistema de diagnóstico oficial ISTA, sino que interpretamos los datos con el contexto local. Sabemos que un fallo de EGR en un X5 de Valldoreix probablemente esté ligado a la acumulación de carbonilla por trayectos cortos.\n\nSer un taller independiente de la Red ISTA en Sant Cugat significa ofrecerte lo mejor de dos mundos. Por un lado, la misma capacidad de diagnóstico y programación que un concesionario oficial, gracias a nuestra conexión en tiempo real con los servidores de BMW AG en Múnich. Podemos leer cada módulo de tu coche, desde la centralita motor (DME/DDE) hasta el sistema de navegación NBT/EVO, y realizar codificaciones complejas como la adaptación de una nueva batería o la programación de una llave. Por otro lado, te libras de los costes de estructura y los precios inflados de un servicio oficial. Te ofrecemos un presupuesto cerrado, transparente y con opciones: recambio original BMW o recambio de calidad OE (fabricantes como Bosch, Mahle, ZF) para que tú decidas. No somos una franquicia; somos un taller de aquí, que entiende que valoras tanto la calidad técnica como una factura razonable.\n\nNuestra especialización no se queda en el DPF. Abarca toda la gama de problemas conocidos en motores diésel como el N47 (sí, la famosa cadena de distribución) y gasolina como el N20 o el B48 (consumo de aceite, bobinas). Atendemos desde un MINI Cooper S F56 que necesita una revisión del sistema de dirección EPS hasta un BMW M4 con motor S55 que requiere un ajuste preciso del sistema Vanos. Realizamos mantenimientos de la caja de cambios automática ZF 8HP, crucial para la suavidad en el tráfico de la zona, y montamos neumáticos run-flat (RSC) con una geometría 3D específica para las especificaciones de tu chasis. En definitiva, somos la alternativa lógica y de confianza para el propietario de un BMW o MINI en Sant Cugat que quiere un servicio de nivel superior sin pagar el sobrecoste de la chapa oficial.",
+  "servicesIntro": "Ofrecemos un servicio integral para tu BMW o MINI en Sant Cugat, con la misma tecnología que el concesionario pero con la cercanía y transparencia que buscas.",
+  "processIntro": "Trabajamos con un método claro y honesto en cinco pasos para que siempre sepas qué le pasa a tu coche y cuánto te va a costar. Sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema. No dejamos nada al azar y analizamos tanto los fallos mecánicos como los electrónicos."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email que incluye piezas y mano de obra. El precio que ves es el precio que pagas, sin sorpresas ni costes ocultos de última hora. Lo prometemos."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información. Lo que presupuestamos es lo que pagas, punto."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni desmontamos nada hasta que nos das tu visto bueno explícito. El control lo tienes tú en todo momento. Si decides no reparar, solo se factura el diagnóstico."
+      "title": "Tu autorización expresa",
+      "body": "Nada se toca sin tu OK. Si durante la reparación aparece algo adicional, paramos, te llamamos, te enviamos fotos si hace falta y te explicamos las opciones antes de continuar. Tú siempre tienes el control."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía europea. Nuestros técnicos siguen los procedimientos del fabricante para asegurar una reparación duradera y fiable, informándote de los plazos en todo momento."
+      "title": "Reparación especializada",
+      "body": "Trabajamos siguiendo protocolos BMW, con recambios OE o BMW original según tu elección. Aceites homologados LL-04, pares de apriete específicos y herramienta especializada para no dañar ningún componente."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para confirmar que todo funciona a la perfección y estás satisfecho."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el cuadro, actualizamos el libro de mantenimiento digital en los servidores de BMW y realizamos una prueba de carretera. Nos aseguramos de que todo funcione perfecto."
     }
   ],
-  "commonIssuesIntro": "El día a día en Sant Cugat, con sus rotondas, su clima y sus rutas habituales hacia Barcelona, provoca una serie de averías recurrentes que conocemos muy bien.",
+  "commonIssuesIntro": "Los BMW y MINI son máquinas increíbles, pero el uso diario en Sant Cugat saca a relucir averías recurrentes que conocemos muy bien: DPF y AdBlue en diésel, cadenas de distribución en N47, consumo de aceite en B48, fallos en la bomba de agua eléctrica y problemas electrónicos.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y bimasa",
-      "body": "El tráfico lento en la Ronda Nord y las constantes paradas y arranques para entrar a la C-16 o circular por el centro castigan el embrague. En coches diésel con años, esto a menudo implica revisar el volante bimasa para evitar vibraciones y averías mayores. Lo diagnosticamos con precisión para no cambiar piezas innecesariamente."
+      "title": "DPF saturado y fallos AdBlue",
+      "body": "Es el problema número uno en Sant Cugat. Los trayectos cortos para ir al trabajo en Can Sant Joan o al centro impiden que el DPF regenere. En lugar de cambiarlo, realizamos un diagnóstico ISTA para ver el nivel real de saturación y forzar una regeneración controlada o realizar una limpieza profesional. Solucionamos el problema real, no ponemos un parche caro."
     },
     {
-      "title": "Obstrucción del filtro de partículas (FAP)",
-      "body": "Muchos diésel en Sant Cugat se usan para trayectos cortos: llevar a los niños al cole en Coll Favà, ir al supermercado... Esto impide que el FAP se regenere correctamente. Realizamos limpiezas químicas y regeneraciones forzadas para devolverle su eficacia y que pases la ITV sin problemas."
+      "title": "Cadena de distribución N47/B47",
+      "body": "El seseo metálico en los motores 2.0d es una preocupación clásica. El uso urbano con constantes arranques y paradas puede acentuar el desgaste. Ofrecemos un servicio de comprobación y sustitución del kit completo de distribución (cadenas, patines, tensores) con recambio OE para evitar una rotura de motor catastrófica. Más vale prevenir."
     },
     {
-      "title": "Holguras en suspensión y silentblocks",
-      "body": "La cantidad de badenes y rotondas en zonas residenciales como Mirasol o Valldoreix pasa factura a la suspensión. Ruidos al girar o una conducción imprecisa suelen ser síntoma de silentblocks o rótulas desgastadas. Un cambio a tiempo mejora la seguridad y evita un desgaste irregular de los neumáticos."
+      "title": "Fugas de aceite y problemas de refrigeración",
+      "body": "El calor extremo del verano en el Vallès degrada las juntas de plástico y goma del motor (tapa de balancines, soporte del filtro de aceite). Esto provoca fugas que pueden ser peligrosas. También diagnosticamos fallos en la bomba de agua eléctrica, un punto débil en muchos modelos modernos que puede causar un sobrecalentamiento grave."
     },
     {
-      "title": "Fallos en el sistema de climatización",
-      "body": "Los veranos en el Vallès son exigentes y un aire acondicionado que no enfría lo suficiente es un problema serio. Diagnosticamos fugas en el circuito, reparamos compresores y realizamos cargas de gas para que puedas enfrentarte al calor de julio y agosto con total confort dentro de tu coche."
+      "title": "Averías en la caja de cambios ZF 8HP",
+      "body": "El tráfico denso para salir de Sant Cugat por la Arrabassada o la C-16 castiga la mecatrónica de la caja automática. Tirones al cambiar o fugas de aceite son síntomas de que necesita mantenimiento. Realizamos el cambio de aceite y filtro (cárter) según el procedimiento de ZF para alargar su vida útil y mantener la suavidad."
     },
     {
-      "title": "Averías eléctricas por humedad",
-      "body": "Si tu coche duerme en la calle en zonas como La Floresta, cerca del Parc de Collserola, la humedad invernal puede afectar a centralitas, sensores y conexiones. Estos fallos intermitentes son difíciles de encontrar, pero nuestra experiencia en diagnosis electrónica nos permite localizar y solucionar la causa raíz."
+      "title": "Fallos eléctricos y de módulos en MINI",
+      "body": "Los MINI son muy sensibles a las variaciones de voltaje. Una batería en mal estado por los trayectos cortos puede causar fallos en cadena: dirección EPS que se endurece, elevalunas que no funcionan, errores en el cuadro... Con ISTA diagnosticamos el módulo exacto que falla (FRM, CAS) y lo reparamos o codificamos uno nuevo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico honesto y claro",
-      "body": "Te explicamos la avería sin tecnicismos. Si una reparación no compensa por el valor del coche, seremos los primeros en decírtelo. Nuestra prioridad es tu confianza, no una factura elevada."
+      "title": "Tecnología de concesionario",
+      "body": "Usamos el mismo software de diagnóstico oficial ISTA que el concesionario BMW. Vemos lo mismo que ellos, pero te lo explicamos de forma que lo entiendas y te damos soluciones más flexibles y económicas."
     },
     {
-      "title": "Especialistas en coches 'reales'",
-      "body": "Dominamos la mecánica de los coches de 4 a 15 años, esos que forman la mayor parte del parque móvil de Sant Cugat. Conocemos sus puntos débiles y cómo repararlos de forma eficiente."
+      "title": "Especialización real en BMW y MINI",
+      "body": "No somos un taller genérico. Solo tocamos BMW y MINI. Conocemos los puntos débiles de cada motor, desde un B38 de un MINI One hasta un S58 de un X3 M. Esta especialización ahorra tiempo en el diagnóstico y evita errores."
     },
     {
-      "title": "Preparados para el cambio",
-      "body": "La llegada de los híbridos no nos asusta. Tenemos la formación y el equipo para realizar el mantenimiento y la diagnosis de vehículos híbridos, protegiendo tu inversión si das el salto."
+      "title": "Presupuestos sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Si surge un imprevisto, paramos y te consultamos. La transparencia es total porque queremos que vuelvas y nos recomiendes a tus vecinos de Sant Cugat."
     },
     {
-      "title": "Conocimiento local real",
-      "body": "Sabemos que no es lo mismo usar el coche para subir a la Arrabassada que para callejear por el centro. Adaptamos nuestro diagnóstico al uso real que le das a tu vehículo en nuestro entorno."
+      "title": "Recambios a tu elección",
+      "body": "Te damos a elegir entre recambio original BMW y recambio de calidad equivalente (OE) de las mismas marcas que fabrican para BMW (Bosch, Lemförder, Sachs). Calidad garantizada, pero con un ahorro significativo."
     },
     {
-      "title": "Sin sorpresas en la factura",
-      "body": "El presupuesto que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos y contactamos contigo. Nunca haremos un trabajo extra sin tu autorización explícita."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Hacer la revisión CBS con nosotros no anula la garantía oficial de tu coche. Usamos aceites homologados (LL-04), seguimos los procedimientos de la marca y sellamos el libro de mantenimiento digital en los servidores de BMW."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada semana en nuestro taller de Sant Cugat.",
+  "testimonialsIntro": "No nos creas a nosotros, estas son algunas situaciones típicas de clientes de Sant Cugat que confían en nuestro taller para cuidar de su BMW o MINI.",
   "testimonials": [
     {
-      "name": "Jordi",
+      "name": "Joan",
       "neighborhood": "Valldoreix",
-      "car": "Audi A6 3.0 TDI 2011",
-      "body": "Llevaba tiempo con un ruido metálico al acelerar y en el concesionario oficial me hablaban de cambiar media transmisión. Aquí encontraron que era un soporte del motor. Me explicaron el problema, me enseñaron la pieza rota y la factura fue una décima parte de lo que me temía. Un alivio.",
+      "car": "BMW X5 xDrive30d G05 2019",
+      "body": "Estaba harto del aviso del DPF. Solo uso el coche para moverme por aquí y para ir a Barcelona por los túneles. En el concesionario me hablaban de cambiarlo, una pasta. Aquí me explicaron el porqué, me hicieron una limpieza y me dieron consejos para evitarlo. Se nota que saben de lo que hablan. El trato, de tú a tú. Muy recomendable.",
       "rating": 5
     },
     {
-      "name": "Laura",
-      "neighborhood": "Coll Favà",
-      "car": "Citroën C4 Picasso 2013",
-      "body": "El coche entró en modo avería por culpa del filtro de partículas. Lo uso mucho por el pueblo y apenas salgo a carretera. Me hicieron una limpieza y me dieron consejos para evitar que volviera a pasar. Muy profesionales y didácticos. Se nota que saben lo que hacen. Lo recomiendo.",
+      "name": "Anna",
+      "neighborhood": "Volpelleres",
+      "car": "MINI Cooper F56 2018",
+      "body": "Mi MINI empezó a hacer cosas raras con las luces y la radio. Me dijeron que era la batería, por usarlo solo para ir a la estación y volver. Me la cambiaron y, lo más importante, la codificaron correctamente para que el coche la reconociera. En otro taller seguro que me habrían vuelto loca cambiando piezas sin sentido. Aquí fueron directos al grano.",
       "rating": 5
     },
     {
-      "name": "David",
-      "neighborhood": "Centre",
-      "car": "Seat León 1.6 TDI 2014",
-      "body": "El embrague patinaba y me urgía repararlo porque uso el coche para trabajar. Me dieron cita rápido, cumplieron el plazo que me dijeron y el precio fue exactamente el del presupuesto. Trato cercano y profesional. Da gusto encontrar un taller así de serio en Sant Cugat.",
+      "name": "Carles",
+      "neighborhood": "Mirasol",
+      "car": "BMW 320d F30 2015",
+      "body": "Tenía el famoso motor N47 y me preocupaba la cadena. Les pedí una revisión preventiva. En lugar de meterme miedo, lo revisaron a fondo, escucharon el motor y me dijeron que de momento estaba todo correcto, sin ruidos anómalos. Agradezco esa honestidad. Cuando toque hacerla, vendré aquí sin dudarlo.",
       "rating": 5
     },
     {
       "name": "Marta",
-      "neighborhood": "Mirasol",
-      "car": "Toyota Prius 2015",
-      "body": "Compré el coche de segunda mano y quería una revisión a fondo del sistema híbrido antes de un viaje largo. Le hicieron un chequeo completo a la batería y a todo el sistema. Me dieron un informe muy detallado que me dejó tranquila. Aunque el coche va bien, valoro la prevención.",
+      "neighborhood": "Centre",
+      "car": "BMW X1 sDrive18d F48 2017",
+      "body": "Llevé el coche para la revisión de los 60.000 km. El presupuesto fue mucho más ajustado que el del servicio oficial y me detallaron cada punto. Usaron aceite Castrol con la especificación de BMW y me resetearon el aviso del iDrive. Todo perfecto y el trato muy cercano. El coche va finísimo.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda la ciudad de Sant Cugat del Vallès, desde los barrios más consolidados hasta las zonas residenciales más nuevas. Si vives o trabajas en el Centre, Eixample, Coll Favà, Sant Francesc, Volpelleres, Mirasol, Valldoreix o La Floresta, estamos a tu lado. Nuestra ubicación nos permite un acceso rápido y cómodo desde cualquier punto del municipio.\n\nAdemás, muchos de nuestros clientes vienen de localidades vecinas como Cerdanyola del Vallès, Rubí, Sant Quirze del Vallès e incluso desde los barrios de Barcelona más cercanos a Collserola. Si tu ruta diaria incluye la autopista AP-7, su lateral B-30, o los Túneles de Vallvidrera (C-16), nuestro taller es una parada conveniente para el mantenimiento y reparación de tu vehículo.",
+  "zoneText": "Nuestro taller en Sant Cugat del Vallès da servicio a toda la ciudad y sus distritos, desde el núcleo del Centre y el Eixample hasta las zonas residenciales de Mirasol, Valldoreix y La Floresta. Gracias a nuestra ubicación estratégica, somos la opción cómoda y de confianza para propietarios de BMW y MINI de municipios colindantes como Rubí, Cerdanyola del Vallès y Bellaterra. Recibimos clientes que llegan fácilmente por la AP-7 o la C-58, así como de Barcelona, que utilizan los Túneles de Vallvidrera (C-16) para evitar el caos de la ciudad y encontrar un servicio especializado y a un precio justo. Si vives o trabajas en el área de influencia de Sant Cugat, estamos a tu lado para cuidar de tu coche.",
   "zoneNeighborhoods": [
     "Sant Cugat Centre",
-    "Coll Favà",
-    "Volpelleres",
     "Mirasol",
     "Valldoreix",
     "La Floresta",
+    "Volpelleres",
     "Arxiu",
-    "Sant Francesc",
-    "Can Mates",
     "Rubí",
-    "Cerdanyola del Vallès"
+    "Cerdanyola del Vallès",
+    "Bellaterra",
+    "Can Sant Joan"
   ],
   "zoneAccessRoutes": [
-    "AP-7",
-    "B-30",
+    "AP-7 (Autopista del Mediterráneo)",
     "C-16 (Túneles de Vallvidrera)",
-    "BV-1417 (Carretera de l'Arrabassada)"
+    "BP-1417 (Carretera de l'Arrabassada)",
+    "C-58 (Autopista del Vallès)"
   ],
   "faqLocal": [
     {
-      "q": "Mi diésel tiene más de 12 años, ¿merece la pena repararlo con la ZBE de Barcelona tan cerca?",
-      "a": "Es una pregunta muy pertinente. La respuesta depende del tipo de avería y de tu uso. Si usas el coche principalmente por Sant Cugat y el Vallès, la ZBE no te afecta directamente. Una reparación rentable puede darte años de servicio. Si vas a diario a Barcelona, la situación cambia. Te damos un diagnóstico honesto y un presupuesto cerrado para que puedas valorar si la inversión te compensa frente a la compra de un coche nuevo o de segunda mano con etiqueta."
+      "q": "¿Por qué se me enciende tanto el aviso de DPF si solo conduzco por Sant Cugat?",
+      "a": "Porque los trayectos cortos son el peor enemigo del filtro de partículas diésel. El sistema necesita alcanzar y mantener una temperatura alta durante unos 15-20 minutos para quemar el hollín acumulado (regeneración). Al moverte por el centro, ir a la estación o al colegio, el motor no llega a calentarse lo suficiente y el filtro se satura. Nosotros podemos diagnosticar su estado real y forzar una regeneración en el taller."
     },
     {
-      "q": "Vivo en La Floresta y el coche duerme fuera. ¿Qué mantenimiento especial necesita?",
-      "a": "La humedad de las zonas boscosas de Collserola, especialmente en invierno, puede acelerar la corrosión de partes del escape, afectar a conexiones eléctricas y acortar la vida de la batería. Recomendamos una revisión anual de estos puntos, proteger los bornes de la batería con grasa específica y comprobar el estado de las gomas y manguitos, que pueden resecarse o agrietarse con los cambios de temperatura y humedad."
+      "q": "Vivo en Valldoreix y hay muchos badenes, ¿afecta a la suspensión de mi BMW?",
+      "a": "Sí, y mucho. Los badenes y el firme irregular de algunas calles fuerzan los amortiguadores, silentblocks y brazos de suspensión. Si notas ruidos, vibraciones o que el coche 'flanea', es hora de una revisión. Con el equipo adecuado, podemos diagnosticar holguras y desgaste en el tren de rodaje para que tu BMW mantenga el aplomo y la seguridad que esperas."
     },
     {
-      "q": "Uso el coche para trayectos cortos por Sant Cugat, ¿cómo evito problemas con el filtro de partículas?",
-      "a": "Es el talón de Aquiles de los diésel modernos en un entorno como Sant Cugat. Para evitar la obstrucción del FAP, te recomendamos que, al menos una o dos veces al mes, realices un trayecto por autopista (como la AP-7) durante unos 20-30 minutos a un régimen de revoluciones constante y algo elevado (sobre 2.500 rpm). Esto fuerza el ciclo de regeneración y limpia el filtro, ahorrándote costosas averías a largo plazo."
+      "q": "Tengo que pasar la ITV en el centro de Applus en Sant Joan Despí. ¿Vuestra pre-ITV gratuita revisa bien el tema de emisiones de mi diésel?",
+      "a": "Totalmente. Nuestra pre-ITV es exhaustiva, y en los diésel ponemos especial atención a la opacidad de los humos. Revisamos el estado del DPF, la EGR y todo el sistema de inyección. Si detectamos valores que puedan dar problemas en la ITV, te informamos y te damos una solución para que la pases a la primera sin contratiempos."
     },
     {
-      "q": "Tengo un BMW de 2010. ¿Usáis recambios de calidad original?",
-      "a": "Por supuesto. Para coches de gama alta fuera de garantía, utilizamos exclusivamente recambios de primeras marcas que son proveedores de los propios fabricantes (Bosch, Brembo, Sachs, etc.). Esto garantiza un rendimiento y una durabilidad idénticos al recambio original, pero con un coste más ajustado. Nunca comprometemos la calidad ni la seguridad de tu vehículo."
+      "q": "¿Usáis el mismo aceite que el concesionario oficial?",
+      "a": "Usamos aceites de primeras marcas (como Castrol, Motul, Shell) que cumplen o superan la especificación exacta que BMW exige para tu motor, como la BMW Longlife-04 (LL-04) para los diésel con DPF. La calidad es idéntica o superior, y es fundamental para la longevidad del motor, especialmente en motores modernos como los B47 o B58."
     },
     {
-      "q": "Tengo que pasar la ITV pronto. ¿Podéis hacer una revisión pre-ITV centrada en la prueba de humos de mi diésel?",
-      "a": "Sí, es uno de nuestros servicios más demandados. Hacemos una revisión pre-ITV completa que incluye frenos, luces, neumáticos, suspensión y, muy importante en tu caso, un análisis de gases de escape con nuestro opacímetro. Si los valores son altos, podemos realizar tratamientos de descarbonización o limpieza del sistema de inyección para asegurar que pases la prueba sin problemas."
+      "q": "Vengo desde Rubí, ¿me compensa el viaje hasta vuestro taller?",
+      "a": "Muchos de nuestros clientes vienen de Rubí, Cerdanyola o incluso Terrassa. La razón es la especialización. En lugar de ir a un taller genérico, vienen a un centro donde solo trabajamos con BMW y MINI, con diagnóstico oficial y a un precio más competitivo que el concesionario. El ahorro y la tranquilidad de un trabajo bien hecho compensan de sobra el corto trayecto."
     },
     {
-      "q": "He comprado un híbrido de segunda mano. ¿Hacéis una revisión para saber cómo está la batería?",
-      "a": "Sí. Entendemos la incertidumbre al comprar un híbrido usado. Con nuestro equipo de diagnosis específico para vehículos híbridos, podemos realizar un chequeo completo del estado de salud de la batería (SOH - State of Health), verificar el sistema de refrigeración de la misma y comprobar el correcto funcionamiento de la parte eléctrica y el motor de combustión. Te entregamos un informe para tu tranquilidad."
+      "q": "¿Podéis codificar funciones ocultas en mi coche, como desactivar el Start-Stop?",
+      "a": "Sí, con nuestro equipo de diagnóstico oficial ISTA y software avanzado podemos realizar codificaciones y reequipamientos. Podemos adaptar funciones como desactivar el Start-Stop por defecto, plegar los retrovisores con el mando, activar vídeo en movimiento o añadir nuevas funcionalidades si instalas un componente nuevo (re-equipamiento). Consúltanos tu caso concreto."
+    },
+    {
+      "q": "Mi MINI eléctrico necesita una revisión, ¿también trabajáis con modelos i/iX?",
+      "a": "Por supuesto. Estamos formados y equipados para trabajar con la creciente gama de vehículos eléctricos e híbridos de BMW y MINI (i3, iX, i4, MINI Cooper SE...). Realizamos el mantenimiento específico que requieren estos modelos, incluyendo el diagnóstico del sistema de baterías de alto voltaje y la electrónica de potencia, siempre con la máxima seguridad."
+    },
+    {
+      "q": "El calor del verano en Sant Cugat es intenso, ¿qué debo revisar en mi BMW?",
+      "a": "El calor es un factor clave aquí. Es vital revisar el sistema de refrigeración: nivel de anticongelante, estado de los manguitos y funcionamiento del electroventilador. Un fallo en la bomba de agua eléctrica es común y puede ser fatal para el motor. También es crucial verificar la presión de los neumáticos (sobre todo los run-flat) y el estado del sistema de aire acondicionado."
     }
   ],
-  "closingHeadline": "Tu coche de siempre, en buenas manos",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y cuéntanos qué necesita tu coche. Estamos en Sant Cugat para ayudarte."
+  "closingHeadline": "Tu especialista BMW y MINI en Sant Cugat",
+  "closingCta": "Deja tu coche en manos de quienes de verdad lo conocen. Pídenos un presupuesto cerrado para tu BMW o MINI en Sant Cugat por teléfono, WhatsApp o email. Estaremos encantados de ayudarte."
 }
