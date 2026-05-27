@@ -1,0 +1,191 @@
+{
+  "slug": "olesa-de-bonesvalls",
+  "name": "Olesa de Bonesvalls",
+  "province": "Barcelona",
+  "ccaa": "Cataluña",
+  "population": 1755,
+  "lat": 41.3531,
+  "lng": 1.84388,
+  "metaTitle": "Taller BMW y MINI Eléctrico/Híbrido en Olesa de Bonesvalls",
+  "metaDescription": "Especialistas en BMW y MINI eléctricos e híbridos en Olesa de Bonesvalls. Diagnóstico oficial ISTA, mantenimiento de baterías y mecánica para tu i4, iX3 o 330e.",
+  "heroSubtitle": "¿Buscas un especialista para tu BMW eléctrico o híbrido en el Garraf que entienda más allá de la mecánica tradicional?",
+  "trustChips": [
+    {
+      "icon": "🔋",
+      "text": "Expertos en BMW Eléctrico/Híbrido"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
+    }
+  ],
+  "introLocal": "Conducir un BMW eléctrico o híbrido enchufable en Olesa de Bonesvalls es una experiencia particular. No es lo mismo circular por el centro de Barcelona que gestionar la autonomía de un i4 en el trayecto diario por las curvas de la BV-2411 hacia Vallirana, o aprovechar la frenada regenerativa bajando hacia Avinyonet del Penedès. Los propietarios de modelos como el iX3, el 330e o el MINI Countryman SE que residen en urbanizaciones como Can Trias o el Pla del Pèlag conocen bien los desafíos: la necesidad de un punto de carga fiable, el estrés que el calor del Garraf impone sobre los sistemas de refrigeración de la batería y la importancia de una suspensión perfectamente ajustada para un asfalto exigente. Aquí es donde un taller genérico se queda corto y un concesionario oficial, a menudo en Sant Boi o L'Hospitalet, resulta impersonal y lejano.\n\nEl parque automovilístico de Olesa de Bonesvalls refleja su carácter residencial y su entorno privilegiado, con una notable presencia de modelos BMW y MINI de última generación, incluyendo un número creciente de versiones electrificadas. A diferencia de otras zonas, aquí los problemas no son solo el filtro de partículas de un motor B47 diésel por trayectos cortos. Aquí las dudas son otras: ¿está mi batería de alto voltaje funcionando a su capacidad óptima (SOH)? ¿Necesita el sistema de frenos de mi X5 45e un tipo de líquido específico debido a la baja frecuencia de uso del freno hidráulico? ¿Por qué ha saltado un aviso de fallo de carga si mi wallbox en casa parece funcionar correctamente? Estas son preguntas que requieren un conocimiento profundo de la arquitectura eléctrica de BMW, no solo de su mecánica tradicional.\n\nNuestro taller, homologado por Red ISTA, nace para dar respuesta a estas necesidades específicas. Entendemos que cuando el sistema iDrive de tu BMW iX muestra un mensaje de error, la solución no está en una llave inglesa, sino en un diagnóstico preciso. Utilizamos el equipo oficial ISTA/Rheingold, conectado en tiempo real a los servidores de BMW AG en Alemania. Esto nos permite no solo leer códigos de error, sino también diagnosticar el estado de salud de la batería de alto voltaje, reprogramar módulos electrónicos como el EME (Electrónica de la Máquina Eléctrica) o el SME (Gestión de Almacenamiento de Energía) y realizar actualizaciones de software con la misma capacidad que un servicio oficial. Somos el eslabón que faltaba entre la tecnología de tu coche y el mantenimiento de proximidad.\n\nComprendemos también el valor de tu inversión. Un BMW eléctrico o híbrido es un vehículo tecnológicamente avanzado cuyo mantenimiento debe ser riguroso para preservar su valor y fiabilidad. Nuestra filosofía se basa en la transparencia total. Antes de cualquier intervención, realizamos un diagnóstico completo y te presentamos un presupuesto cerrado y detallado. Te explicamos las opciones, diferenciando entre recambio original BMW y recambio de calidad OE (fabricantes como Bosch, Hella o ZF que suministran a la propia BMW), para que tomes una decisión informada. No hay costes ocultos ni sorpresas, solo un trabajo riguroso y profesional enfocado en la electrónica y los sistemas de alto voltaje que definen a tu vehículo.\n\nEn definitiva, somos la alternativa lógica para el conductor de un BMW o MINI moderno en el macizo del Garraf. Ofrecemos la misma competencia técnica y el mismo equipamiento de diagnóstico que un concesionario, pero con la cercanía, la agilidad y los costes de un taller especialista independiente. Si vives en Olesa de Bonesvalls o en municipios cercanos como Begues o Vallirana y quieres el mejor cuidado para la compleja tecnología de tu coche, has encontrado tu taller de confianza. Dejamos que otros se ocupen de los problemas del pasado; nosotros estamos centrados en la tecnología del presente y del futuro de BMW.",
+  "servicesIntro": "Ofrecemos un portfolio de servicios completo, con especial atención a las necesidades de los BMW y MINI eléctricos e híbridos enchufables de Olesa de Bonesvalls.",
+  "processIntro": "Trabajamos con un procedimiento metódico y transparente, garantizando que siempre tengas el control total sobre las decisiones que afectan a tu vehículo.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos, incluyendo los de alto voltaje, y localizamos el fallo exacto con la misma precisión que un concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada componente (original BMW u OE equivalente) y operación con su coste. Para un BMW eléctrico, esto puede incluir desde un sensor de batería hasta la reprogramación de un módulo, siempre con total claridad para que decidas."
+    },
+    {
+      "title": "Tu autorización expresa",
+      "body": "No realizamos ninguna intervención sin tu aprobación explícita. Si durante una reparación en el sistema de carga detectamos otra anomalía, nos detenemos, te contactamos y te explicamos las implicaciones técnicas y económicas antes de proceder."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Seguimos los protocolos de BMW, utilizando recambios OE o BMW original. Desde el uso del líquido de frenos de baja conductividad para híbridos hasta la calibración de sensores ADAS tras una intervención, aplicamos un rigor técnico máximo."
+    },
+    {
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los avisos de servicio CBS en el cuadro y actualizamos el historial digital de mantenimiento de tu coche. En intervenciones complejas, realizamos una prueba de carretera y contactamos contigo días después para asegurar que todo funciona perfectamente."
+    }
+  ],
+  "commonIssuesIntro": "Identificamos y resolvemos las averías más frecuentes en los BMW y MINI de Olesa de Bonesvalls, con un enfoque particular en los sistemas eléctricos e híbridos que sufren en nuestro entorno.",
+  "commonIssues": [
+    {
+      "title": "Fallos de carga en BMW PHEV/EV",
+      "body": "Un problema habitual para propietarios con puntos de carga domésticos en Olesa. Usando ISTA, diagnosticamos si el fallo proviene del módulo de carga del vehículo (KLE), del cable o de un error de software. Aislamos el problema de forma precisa para evitar sustituciones innecesarias y costosas."
+    },
+    {
+      "title": "Mantenimiento del sistema de frenos regenerativos",
+      "body": "En las carreteras sinuosas como la BV-2411, los BMW híbridos y eléctricos usan mucho el freno regenerativo. Esto provoca que los frenos hidráulicos se usen poco, pudiendo agarrotarse las pinzas o degradarse el líquido. Realizamos el servicio específico de líquido de frenos y una revisión exhaustiva del sistema."
+    },
+    {
+      "title": "Sobrecalentamiento de la batería en verano",
+      "body": "El calor estival del Garraf puede poner a prueba el sistema de refrigeración de la batería de alto voltaje. Un fallo en este circuito reduce la autonomía y la vida útil. Diagnosticamos el sistema, comprobamos el nivel y estado del refrigerante específico y reparamos cualquier fuga o fallo de la bomba."
+    },
+    {
+      "title": "Desgaste de suspensión en coches eléctricos",
+      "body": "El mayor peso y el par instantáneo de modelos como el BMW i4 o el MINI Cooper SE provocan un mayor desgaste en silentblocks y rótulas en las carreteras de curvas de Olesa. Realizamos alineaciones 3D según especificaciones de BMW y revisiones preventivas de todos los componentes del chasis."
+    },
+    {
+      "title": "Problemas con el módulo de climatización de alto voltaje",
+      "body": "En los BMW eléctricos, el compresor del aire acondicionado es eléctrico y de alto voltaje. Un fallo no solo afecta al confort, sino que también puede impactar en la refrigeración de la batería. Diagnosticamos y reparamos estos sistemas complejos, que un taller convencional no puede ni tocar."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Especialización en Eléctricos e Híbridos",
+      "body": "No solo reparamos BMW; entendemos la arquitectura de alto voltaje, los sistemas de gestión de batería y los módulos de carga de los modelos electrificados. Es nuestra área de especialización principal."
+    },
+    {
+      "title": "Tecnología de diagnóstico oficial",
+      "body": "Nuestro equipo ISTA/Rheingold es el mismo que utiliza la red de concesionarios BMW. Accedemos a la misma información técnica, esquemas eléctricos y procedimientos de reparación que ellos."
+    },
+    {
+      "title": "Homologación Red ISTA",
+      "body": "Formar parte de redista.com certifica nuestros procesos, formación y equipamiento. Es una garantía de que tu vehículo será tratado siguiendo los más altos estándares de calidad, establecidos para toda España."
+    },
+    {
+      "title": "Proximidad y trato personal",
+      "body": "Estamos en tu entorno, en el Garraf. Ofrecemos un servicio cercano y directo, evitando los desplazamientos y la burocracia de los grandes concesionarios del área metropolitana de Barcelona."
+    },
+    {
+      "title": "Transparencia económica",
+      "body": "Te proporcionamos presupuestos cerrados y claros. Explicamos cada partida y te damos a elegir entre diferentes calidades de recambio, siempre manteniendo la garantía del fabricante."
+    }
+  ],
+  "testimonialsIntro": "Estos son algunos ejemplos de casos reales que atendemos, reflejando las situaciones que nuestros clientes de Olesa de Bonesvalls y alrededores se encuentran.",
+  "testimonials": [
+    {
+      "name": "Anna",
+      "neighborhood": "Can Cases",
+      "car": "BMW i4 eDrive40 2022",
+      "body": "Me salió un aviso de 'Imposible cargar' en la pantalla. En el concesionario oficial me daban cita para dentro de tres semanas. Les llamé y me atendieron al día siguiente. Conectaron el coche al ISTA y diagnosticaron un fallo en el módulo KLE. Me explicaron el proceso y en dos días tenía el coche listo. Un servicio profesional y ágil.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "El Pla del Pèlag",
+      "car": "BMW X5 xDrive45e 2021",
+      "body": "Antes de irme de vacaciones quería hacer una revisión completa, sobre todo del estado de la batería y la suspensión neumática. Me hicieron un chequeo exhaustivo, me entregaron un informe del estado de salud de la batería (SOH) y me ajustaron la geometría. Se nota que saben lo que hacen con los híbridos.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Centro de Vallirana",
+      "car": "BMW 330e F30 2018",
+      "body": "Tocaba la revisión de aceite y filtros del motor de combustión, pero me daba reparo llevarlo a un taller que no entendiera de híbridos. Aquí hicieron el servicio CBS a la perfección, usando el aceite LL-04 correcto, y de paso hicieron una comprobación del sistema eléctrico. Muy profesionales y a un precio justo.",
+      "rating": 5
+    },
+    {
+      "name": "Marta",
+      "neighborhood": "Begues",
+      "car": "MINI Cooper SE 2022",
+      "body": "Notaba un pequeño ruido en la suspensión delantera al tomar las curvas de la carretera de Olesa. Por el peso extra del coche eléctrico, sospechaba de algún silentblock. Lo confirmaron con una revisión y lo cambiaron. El trato fue muy bueno y me explicaron por qué pasa esto en los eléctricos. Recomendables.",
+      "rating": 4
+    }
+  ],
+  "zoneText": "Nuestro taller da servicio principalmente a propietarios de BMW y MINI en Olesa de Bonesvalls y sus distintas urbanizaciones, como Can Trias, el Pla del Pèlag, l'Hospital y Can Cases. Por nuestra especialización en modelos eléctricos e híbridos y la falta de alternativas en la zona, somos el taller de referencia para conductores de municipios colindantes del Garraf y el Penedès, como Begues, Vallirana y Avinyonet del Penedès. El acceso es sencillo a través de la BV-2411, la vía principal que vertebra la zona y conecta con otras carreteras importantes como la N-340. Si resides en el entorno del Parc del Garraf, somos tu especialista BMW más cercano y competente.",
+  "zoneNeighborhoods": [
+    "Olesa de Bonesvalls",
+    "Can Trias",
+    "Pla del Pèlag",
+    "Can Cases",
+    "l'Hospital",
+    "Begues",
+    "Vallirana",
+    "Avinyonet del Penedès",
+    "Sant Pere de Ribes",
+    "Olivella"
+  ],
+  "zoneAccessRoutes": [
+    "BV-2411",
+    "BV-2415",
+    "N-340",
+    "C-15",
+    "AP-7"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Si hago el mantenimiento de mi BMW i4 con vosotros, conservo la garantía oficial?",
+      "a": "Sí, totalmente. Realizamos todas las intervenciones siguiendo estrictamente los procedimientos de BMW y utilizando recambios originales o de calidad equivalente OE. Además, actualizamos el historial de servicio digital de tu coche, por lo que la garantía oficial de BMW, incluida la de la batería de alto voltaje, se mantiene intacta."
+    },
+    {
+      "q": "Vivo en Olesa. ¿La batería de mi 330e necesita un cuidado especial por el calor del Garraf en verano?",
+      "a": "Es una excelente pregunta. El calor es un factor de estrés para las baterías. Aunque los sistemas de refrigeración de BMW son muy eficientes, recomendamos una revisión del circuito de refrigerante de la batería antes del verano. Con nuestro equipo ISTA, podemos verificar el correcto funcionamiento de la bomba y los sensores para asegurar un rendimiento óptimo y prevenir una degradación prematura."
+    },
+    {
+      "q": "¿Podéis actualizar el software de mi BMW iX3 como en el concesionario?",
+      "a": "Sí. Nuestra conexión directa a través de ISTA con los servidores de BMW AG nos permite realizar las mismas actualizaciones de software (I-Level) que un concesionario. Esto es crucial para solucionar bugs, mejorar la eficiencia del sistema híbrido o añadir nuevas funcionalidades que el fabricante haya liberado para tu modelo."
+    },
+    {
+      "q": "Tengo un wallbox en mi casa en Can Trias y a veces mi coche no carga. ¿Podéis decirme si el problema es del coche?",
+      "a": "Por supuesto. Es una consulta muy común. Mediante el diagnóstico ISTA, podemos analizar el registro de errores del sistema de carga de tu BMW. Identificaremos si el fallo ha sido registrado por los módulos del vehículo (KLE, EME). Esto nos permite determinar con alta fiabilidad si la incidencia reside en el coche o si debes consultar con tu instalador eléctrico."
+    },
+    {
+      "q": "El trayecto diario por la BV-2411 tiene muchas curvas. ¿Revisáis la suspensión y frenos de un eléctrico de forma diferente?",
+      "a": "Sí. Somos conscientes de que el mayor peso y el par instantáneo de un vehículo eléctrico someten a más estrés a la suspensión y los neumáticos en carreteras como la BV-2411. Por ello, en nuestras revisiones ponemos especial atención al estado de silentblocks, rótulas y amortiguadores, y realizamos una alineación 3D precisa según las especificaciones de BMW para modelos eléctricos."
+    },
+    {
+      "q": "Para la revisión de mi MINI Countryman híbrido, ¿usáis los recambios correctos?",
+      "a": "Absolutamente. Conocemos las especificaciones exactas para cada modelo. En un MINI Countryman SE (híbrido), esto implica usar el aceite de motor con la homologación correcta de BMW (ej. LL-04), el líquido de frenos de baja conductividad y los filtros OE. No dejamos nada al azar, cada componente es el que el fabricante exige."
+    },
+    {
+      "q": "¿Qué ventaja real me ofrece vuestro diagnóstico ISTA frente a una máquina multimarca en Olesa?",
+      "a": "La diferencia es abismal, sobre todo en un BMW moderno. Una máquina multimarca lee códigos de error genéricos. Nuestro ISTA oficial se comunica con cada uno de los más de 30 módulos de tu coche de forma nativa, nos permite ver datos en tiempo real, ejecutar planes de test guiados por BMW y codificar o programar módulos. Para un fallo electrónico, es la diferencia entre adivinar y saber."
+    }
+  ],
+  "closingHeadline": "El cuidado experto que tu BMW eléctrico necesita en Olesa de Bonesvalls",
+  "closingCta": "Pide tu cita previa a través de teléfono o WhatsApp para un diagnóstico preciso. Estamos en el corazón del Garraf para darte el servicio especializado que tu BMW o MINI merece."
+}
