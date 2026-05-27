@@ -6,188 +6,180 @@
   "population": 66375,
   "lat": 41.27794,
   "lng": 1.97033,
-  "metaTitle": "Taller mecánico en Castelldefels — Tu coche, a punto de todo",
-  "metaDescription": "Entendemos el desgaste de tu coche en Castelldefels, de la playa a la montaña. Presupuesto cerrado y diagnóstico honesto. Pide tu cita hoy.",
-  "heroSubtitle": "El mismo coche que sube a Montemar a diario no sufre lo mismo que el que aparca en La Pineda. Aquí entendemos esa doble vida.",
+  "metaTitle": "Taller BMW y MINI en Castelldefels — Red ISTA · Mantenimiento",
+  "metaDescription": "Especialistas en BMW y MINI en Castelldefels con +100.000 km. Mantenimiento preventivo de distribución, turbo y cajas ZF. Diagnóstico oficial ISTA.",
+  "heroSubtitle": "Tu BMW o MINI ya no es nuevo. En Castelldefels, el calor, el salitre y los trayectos cortos exigen un mantenimiento preventivo serio, no un simple cambio de aceite.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Conectados a servidores BMW AG"
     }
   ],
-  "introLocal": "En Castelldefels, un coche no es solo un coche; es una herramienta de doble filo. Es el vehículo familiar que por la mañana coge la C-32 hacia Barcelona, luchando contra el tráfico para llegar al trabajo, y por la tarde se convierte en el transporte escolar que serpentea por las cuestas de Bellamar o El Poal. Un día sufre el desgaste de la alta velocidad y el otro el esfuerzo de arrancar en pendiente. Esta dualidad es el pan de cada día para cualquier familia de la zona. El problema es que el mantenimiento estándar no suele tener en cuenta que tu coche vive dos vidas completamente distintas, a menudo en el mismo día. La mecánica de un vehículo que solo pisa el llano de Can Bou no tiene nada que ver con la de uno que tiene su plaza de garaje mirando al mar en Les Botigues de Sitges.\n\nEl factor costero es el enemigo silencioso. La brisa marina que tanto se agradece en verano trae consigo un pasajero invisible pero muy destructivo: el salitre. Si aparcas habitualmente en la zona de La Pineda o Lluminetes, especialmente en segunda o tercera línea de mar, esa fina capa de sal se adhiere a la carrocería, a los bajos y, lo que es peor, a componentes críticos como los discos de freno o el radiador. El salitre acelera la corrosión de una forma que no se ve en ciudades de interior. Es una oxidación lenta y constante que debilita el metal y puede provocar averías prematuras en el sistema de refrigeración o un agarrotamiento de las pinzas de freno, algo que notamos mucho en coches que pasan la ITV por primera vez después de cuatro años en Castelldefels.\n\nLuego está la orografía. Castelldefels es engañosamente plano en su zona centro y playa, pero en cuanto cruzas la autovía, el panorama cambia radicalmente. Barrios como Montemar son un desafío constante para la mecánica. Cada vez que se sube una de sus empinadas calles, el embrague (en los manuales) y el convertidor de par (en los automáticos) trabajan bajo una tensión enorme. Los frenos, por su parte, sufren el castigo inverso en cada bajada. Este ciclo de esfuerzo y retención calienta los componentes y acelera su desgaste de forma exponencial. No es una suposición, es física. Un juego de pastillas de freno en un coche que se mueve solo por el Passeig Marítim puede durar el doble que en uno cuyo día a día incluye llevar a los niños al colegio en la parte alta de la ciudad.\n\nEsta mezcla de usos define el parque móvil local. Un diésel moderno necesita los trayectos por la C-31 o la C-32 para regenerar su filtro de partículas, pero el uso intensivo para recados cortos por el centro o la playa acaba por saturarlo. El coche de gasolina, más adaptado a lo urbano, puede sufrir en los largos trayectos veraniegos hacia la Costa Brava por la AP-7. El coche familiar compartido es el que se lleva la peor parte, porque sufre todos estos escenarios. El motor, la suspensión, los neumáticos... cada pieza es un punto en un mapa de tensiones. Nuestro trabajo es ver ese mapa completo, entender que el traqueteo que escuchas al bajar de Vista Alegre no es el mismo que el que aparece al coger un badén en la Avenida dels Banys.\n\nPor eso, nuestro enfoque no es tratar tu coche como un modelo estándar salido de fábrica, sino como un vehículo con un historial de servicio único, forjado por las calles y carreteras de Castelldefels. Analizamos el desgaste como un geólogo estudia las capas de una roca: cada capa cuenta una historia de sal, pendientes y kilómetros de autopista. No es solo cambiar una pieza; es entender por qué se ha desgastado precisamente aquí y ahora. Es la diferencia entre un apaño temporal y una solución que te da tranquilidad, ya sea para cruzar el Garraf dirección Sitges o para aparcar frente a la playa sin preocuparte por lo que la brisa le está haciendo a tus frenos. Cuidar tu coche aquí es entender su geografía.",
-  "servicesIntro": "Desde la revisión para aguantar el trote diario por la C-32 hasta la reparación del embrague castigado por las cuestas de Montemar.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado para que decidas sin sorpresas ni letra pequeña.",
+  "introLocal": "Conducir un BMW o un MINI en Castelldefels es una experiencia de contrastes. Por un lado, la libertad de coger la C-32 hacia Sitges o Barcelona; por otro, el desgaste acumulado en el día a día. Si tu coche ya ha superado la barrera de los 100.000 o incluso 150.000 kilómetros, sabes que el mantenimiento estándar ya no es suficiente. Hablamos de ese Serie 3 F30 que sube y baja cada día a la Zona Franca, o ese X3 G01 que se mueve entre los colegios de Montemar y las compras en el centro. Estos vehículos, especialmente los equipados con motores diésel N47, B47 o los gasolina turboalimentados N20 y B48, entran en una fase crítica donde el mantenimiento preventivo no es una opción, sino una necesidad para evitar averías que pueden costar miles de euros. No es lo mismo un coche que solo pisa autopista que uno que combina el tráfico denso de la C-31 en hora punta con los arranques en frío para un trayecto corto a la estación de tren. Entendemos esta realidad porque la vivimos contigo; somos un taller de la red nacional Red ISTA, especializado en BMW y MINI, pero con raíces y taller en Castelldefels.\n\nEl clima de la costa del Garraf es idílico para vivir, pero puede ser un enemigo silencioso para la mecánica de tu coche. La combinación de calor intenso en verano, alta humedad y el salitre (la 'maresía') que lo impregna todo, especialmente en barrios como La Pineda o Baixador, acelera el envejecimiento de componentes clave. El sistema de refrigeración de tu BMW, por ejemplo, trabaja a destajo durante los atascos estivales para salir de la playa. La bomba de agua eléctrica, un componente conocido por fallar sin previo aviso en muchos modelos post-2012, sufre una tensión brutal. El aire acondicionado no es un lujo, es una necesidad, y su compresor también añade carga al motor. Por otro lado, la humedad salina se filtra por todas partes, afectando a conexiones eléctricas, módulos electrónicos situados en los bajos del coche e incluso pudiendo acelerar la corrosión de elementos de la suspensión o el escape. Un coche que duerme en la calle en Castelldefels no envejece igual que uno en el interior. Por eso, nuestro enfoque va más allá de lo que indica el ordenador de a bordo (CBS); inspeccionamos los puntos débiles que conocemos por experiencia en esta zona.\n\nEl patrón de uso de un BMW o MINI en Castelldefels es un factor determinante. Muchos propietarios realizan trayectos muy cortos: llevar a los niños al colegio, ir al CAP, bajar al Ànec Blau a comprar. Estos recorridos son veneno para los motores diésel modernos, especialmente para el filtro de partículas (DPF) y la válvula EGR. El motor apenas alcanza su temperatura óptima de funcionamiento, lo que impide que el DPF realice sus ciclos de regeneración automática. El resultado es una acumulación de carbonilla que, a la larga, provoca pérdida de potencia, tirones y costosas averías. Hemos visto innumerables casos de motores N47 y B47 con el DPF saturado prematuramente por este tipo de uso urbano. Nuestro equipo de diagnóstico oficial ISTA nos permite no solo leer el nivel de saturación real, sino también forzar regeneraciones en taller y realizar descarbonizaciones profundas del sistema de admisión y escape como medida preventiva, ahorrándote el reemplazo completo del filtro. Es el mantenimiento inteligente que tu coche necesita para sobrevivir al uso real que le das en el día a día.\n\nAquí es donde un taller homologado por Red ISTA en Castelldefels marca la diferencia frente a un taller genérico o el coste de un concesionario oficial. El dueño de un BMW 420d Gran Coupé con 140.000 km que vive en Bellamar y quiere hacer un mantenimiento preventivo de la cadena de distribución, o el propietario de un MINI Cooper S F56 que nota que la caja automática ya no va tan fina, necesita un especialista que hable su idioma. Conectamos tu coche al mismo sistema de diagnóstico ISTA/Rheingold que usan en Alemania, identificamos el desgaste real de los componentes y te ofrecemos un presupuesto cerrado y transparente. Te explicamos por qué es crucial cambiar el aceite y el filtro de la caja de cambios automática ZF 8HP antes de que dé problemas, o por qué revisar el estado de los tensores del sistema Vanos en tu motor de gasolina es una inversión inteligente. No somos una franquicia; somos tus vecinos, especialistas en la marca que conduces, y nuestra única prioridad es que tu BMW o MINI siga siendo fiable y seguro durante muchos kilómetros más, sin que te cueste un dineral.",
+  "servicesIntro": "Desde una revisión CBS según el plan de tu BMW hasta la compleja codificación de un módulo, aquí tienes los servicios clave para mantener tu coche en Castelldefels.",
+  "processIntro": "Trabajamos con un proceso claro y sin sorpresas. Así es como cuidamos de tu BMW o MINI, paso a paso, con tu aprobación en cada fase.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos. Analizamos tanto los fallos electrónicos como el desgaste mecánico visible, pensando siempre en cómo usas el coche en Castelldefels."
+      "title": "Diagnóstico oficial ISTA",
+      "body": "Conectamos tu BMW o MINI al software oficial ISTA/Rheingold, vinculado a los servidores centrales de BMW AG en Alemania. Leemos todos los módulos y localizamos el fallo exacto con la misma precisión que un concesionario."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, sin sorpresas. Lo que ves es lo que pagas, para que puedas decidir con toda la información sobre la mesa."
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Te detallamos cada pieza (original BMW u OE equivalente) y operación con su coste. Te explicamos las opciones para que decidas con total información y sin letra pequeña. Lo que ves es lo que pagas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu confirmación explícita. Tienes el control total. Si durante el proceso vemos algo más, te llamaremos para informarte antes de actuar."
+      "title": "Tu autorización expresa",
+      "body": "No se repara ni se sustituye nada sin tu visto bueno. Si durante la intervención detectamos algo imprevisto, paramos, te contactamos con fotos o vídeos por WhatsApp y te explicamos las opciones antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos conocen las particularidades de los coches que circulan por esta zona y trabajan de forma eficiente para que lo tengas de vuelta cuanto antes."
+      "title": "Reparación especializada",
+      "body": "Aplicamos los protocolos de BMW, con utillaje específico y recambios de calidad OE (Bosch, ZF, Mahle) o BMW original, tú eliges. Usamos aceites homologados LL-04 y respetamos cada par de apriete."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Te explicamos la reparación realizada al recoger tu coche. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el resultado. Tu tranquilidad es nuestro objetivo."
+      "title": "Entrega, borrado CBS y seguimiento",
+      "body": "Reseteamos los intervalos de servicio en tu cuadro (CBS), actualizamos el libro de mantenimiento digital si tu coche lo tiene, y realizamos una prueba en carretera. Nos aseguramos de que todo funcione a la perfección."
     }
   ],
-  "commonIssuesIntro": "El contraste entre la brisa marina cargada de salitre en La Pineda y las empinadas calles de Bellamar provoca un tipo de averías muy concretas en los coches de Castelldefels.",
+  "commonIssuesIntro": "En Castelldefels, el clima y el tipo de conducción provocan averías recurrentes en BMW y MINI. Estos son los problemas que más vemos y solucionamos, especialmente en coches que ya han pasado los 100.000 km.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos",
-      "body": "Las constantes subidas y bajadas en barrios como Montemar o El Poal someten a los frenos a un estrés térmico brutal. El material de fricción de las pastillas se cristaliza y los discos pueden alabearse. Revisamos todo el sistema para garantizar una frenada segura, no solo cambiamos las pastillas."
+      "title": "Distribución por cadena (N47/B47)",
+      "body": "El clásico problema de los motores diésel 2.0 de BMW. El uso mixto de autopista C-32 y ciudad agrava el desgaste de los tensores y patines. Realizamos el cambio preventivo del kit completo con recambio de calidad OE para evitar la rotura del motor. Es una inversión crucial para cualquier Serie 1, 3 o X1 con más de 120.000 km."
     },
     {
-      "title": "Corrosión en bajos y frenos",
-      "body": "El salitre del ambiente marino, especialmente si vives o aparcas cerca de la playa, es muy corrosivo. Acelera la oxidación de discos, pinzas de freno, latiguillos y el sistema de escape. Una inspección visual a tiempo puede evitar reparaciones mucho más costosas y problemas en la ITV."
+      "title": "Saturación del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y frecuentes por el núcleo urbano de Castelldefels son fatales para el DPF. El sistema no llega a regenerar y se obstruye. Con el diagnóstico ISTA, medimos la contrapresión, forzamos regeneraciones y realizamos limpiezas químicas antes de que la única solución sea una costosa sustitución."
     },
     {
-      "title": "Sufrimiento de embrague y cambio automático",
-      "body": "Arrancar repetidamente en las cuestas de la zona alta de Castelldefels es un castigo para el embrague y el convertidor de par de las cajas automáticas. Diagnosticamos tirones, patinazos o dificultad para engranar marchas para evitar que una pequeña avería se convierta en una reparación mayor."
+      "title": "Fallo de la bomba de agua eléctrica",
+      "body": "El calor extremo del verano en la costa pone al límite el sistema de refrigeración. Las bombas de agua eléctricas de muchos BMW modernos pueden fallar de repente, causando un sobrecalentamiento grave. Recomendamos su revisión y sustitución preventiva en mantenimientos de kilometraje elevado."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "La combinación de alta humedad y calor en verano fuerza al máximo el sistema de climatización. Las fugas en el circuito o un compresor con bajo rendimiento son habituales. Una recarga a tiempo y una revisión del sistema aseguran que no te quedes tirado en plena ola de calor."
+      "title": "Mantenimiento de la caja ZF 8HP",
+      "body": "Esta fantástica caja de cambios automática no es 'libre de mantenimiento' como a veces se dice. El aceite y el filtro (cárter) se degradan. Para los coches que hacen mucha autopista hacia Barcelona o Sitges, recomendamos un cambio de aceite y filtro cada 100.000 km para mantener su suavidad y prevenir averías en la mecatrónica."
     },
     {
-      "title": "Problemas con el filtro de partículas (FAP/DPF)",
-      "body": "Muchos diésel se usan para trayectos cortos por el pueblo, de casa al colegio o al supermercado. Este uso impide que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías caras. Realizamos limpiezas y regeneraciones forzadas para alargar su vida útil."
-    },
-    {
-      "title": "Suspensión y neumáticos fatigados",
-      "body": "La combinación de badenes en zonas residenciales, rotondas en la C-245 y los kilómetros a alta velocidad por la C-31 o C-32 desgasta amortiguadores, silentblocks y neumáticos de forma irregular. Un buen alineado y una suspensión en forma son clave para la seguridad, sobre todo con el asfalto mojado."
+      "title": "Fallos eléctricos por humedad y salitre",
+      "body": "La 'maresía' de Castelldefels es corrosiva. Afecta a módulos electrónicos, sensores del ABS, cableado del PDC (sensores de aparcamiento) y conexiones de los faros. Realizamos diagnósticos precisos para localizar el punto exacto del fallo, reparamos conexiones y sellamos componentes para protegerlos de la humedad."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos el terreno",
-      "body": "Sabemos que el salitre de la playa y las cuestas de Montemar no son leyendas urbanas, son factores reales que afectan a tu coche. Nuestro diagnóstico siempre tiene en cuenta el entorno de Castelldefels."
+      "title": "Enfoque en mantenimiento preventivo",
+      "body": "No esperamos a que se rompa. Nos centramos en los puntos débiles de tu modelo y kilometraje para anticiparnos a la avería, especialmente en coches con más de 100.000 km. Es la forma más inteligente de ahorrar dinero y ganar tranquilidad."
     },
     {
-      "title": "Presupuestos sin sustos",
-      "body": "Te damos un precio cerrado y claro. No empezarás con una cifra para acabar con otra. La transparencia es la base de la confianza, y queremos que vuelvas porque te sientes seguro, no porque no te quede más remedio."
+      "title": "Diagnóstico oficial BMW ISTA",
+      "body": "Usamos la misma herramienta que el concesionario, conectada a los servidores de BMW AG. Esto nos permite ver lo que otros no ven, realizar codificaciones y programar módulos con total garantía, sin salir de Castelldefels."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si tu coche es un SUV alemán, un utilitario francés o un compacto japonés. Tenemos la experiencia y el equipo para trabajar con la mayoría de vehículos que circulan por nuestras calles, sin importar la marca."
+      "title": "Presupuestos cerrados, sin sorpresas",
+      "body": "El precio que te damos es el que pagas. Detallamos cada concepto para que entiendas perfectamente el trabajo a realizar. Transparencia total, desde el primer momento hasta el último."
     },
     {
-      "title": "Tú das el visto bueno",
-      "body": "El coche es tuyo y las decisiones también. No tocamos nada sin tu aprobación explícita. Te explicamos las opciones, los pros y los contras, y tú eliges el camino a seguir. Sin presiones."
+      "title": "Especialización real en la marca",
+      "body": "Solo trabajamos con BMW y MINI. Conocemos los códigos de motor (N47, B48, B58...), las cajas de cambio (ZF, Getrag) y los sistemas electrónicos (NBT, EVO). No somos un taller genérico, somos especialistas."
     },
     {
-      "title": "Más allá de la reparación",
-      "body": "No solo arreglamos lo que está roto. Te aconsejamos sobre cómo un mantenimiento preventivo, adaptado a tu uso particular del coche en Castelldefels, puede ahorrarte dinero y problemas en el futuro."
+      "title": "Alternativa lógica al concesionario",
+      "body": "Ofrecemos la misma calidad técnica y diagnóstica que un servicio oficial, pero con la flexibilidad, el trato cercano y los precios de un taller independiente. La opción inteligente para tu BMW o MINI en Castelldefels."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas situaciones típicas que hemos resuelto, contadas por quienes las vivieron.",
+  "testimonialsIntro": "Estos son ejemplos de situaciones reales que solucionamos cada día en nuestro taller de Castelldefels para propietarios de BMW y MINI como tú.",
   "testimonials": [
     {
-      "name": "Marc",
-      "neighborhood": "Montemar",
-      "car": "Seat Ateca TSI 2018",
-      "body": "Vivimos en la parte alta y mi mujer y yo usamos el mismo coche. Yo para ir a la oficina a Cornellà y ella para moverse por el pueblo. Los frenos empezaron a chirriar una barbaridad. Pensé que sería una fortuna, pero aquí me explicaron que era por el calor de las bajadas. Me cambiaron pastillas y discos por un precio razonable y me dieron un par de consejos. Se nota que saben de lo que hablan.",
-      "rating": 5
-    },
-    {
-      "name": "Laia",
-      "neighborhood": "La Pineda",
-      "car": "Peugeot 208 HDI 2016",
-      "body": "Aparco en la calle, a dos manzanas de la playa. En la ITV me tiraron para atrás por óxido en los bajos y en los tubos de freno. Un desastre. Les traje el coche, lo sanearon todo, lo protegieron y pasó la inspección sin problemas. Me explicaron el tema del salitre y ahora lo llevo a lavar a menudo por debajo. Un servicio honesto.",
-      "rating": 5
-    },
-    {
       "name": "Jordi",
-      "neighborhood": "Can Bou",
-      "car": "Ford Focus Ecoboost 2015",
-      "body": "Uso el coche para todo: ir a comprar, llevar a los críos y alguna escapada de fin de semana. Notaba que el embrague patinaba un poco al subir hacia el castillo. Me dieron un presupuesto cerrado, cumplieron el plazo y el coche va como la seda. Además, me ofrecieron un coche de cortesía y no me quedé colgado.",
+      "neighborhood": "Montemar",
+      "car": "BMW X3 xDrive20d G01 2018",
+      "body": "Con 130.000 km, la caja de cambios automática empezaba a dar pequeños tirones. En el concesionario me decían que no necesitaba mantenimiento. Aquí me explicaron la importancia de cambiar el aceite y el filtro de la ZF 8HP. Lo hicieron en un día, con un presupuesto cerrado y ahora el coche va más suave que nunca. Un trabajo profesional.",
       "rating": 5
     },
     {
-      "name": "Silvia",
-      "neighborhood": "Centre",
-      "car": "Toyota Yaris Hybrid 2019",
-      "body": "Aunque es híbrido, hacemos bastante autopista para ir a ver a la familia a Tarragona. Me preocupaba el estado de las ruedas. Las revisaron, me dijeron que las de atrás aún aguantaban pero las de delante era mejor cambiarlas. No intentaron venderme las cuatro. Esa honestidad se agradece mucho.",
+      "name": "Marta",
+      "neighborhood": "La Pineda",
+      "car": "MINI Cooper Countryman 2017",
+      "body": "Uso el coche para todo por Castelldefels y me saltó el aviso del DPF. Estaba asustada por el coste de la reparación. Me hicieron un diagnóstico completo con la máquina oficial, forzaron una regeneración y limpiaron la admisión. El coche recuperó potencia y me ahorré una pasta. Muy agradecida por la honestidad.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos",
+      "neighborhood": "Els Canyars",
+      "car": "BMW 320d F30 2015",
+      "body": "Mi coche tiene 160.000 km y me preocupaba el tema de la cadena de distribución del motor N47. Les pedí presupuesto para el cambio preventivo. Fue claro, detallado y mucho más razonable que en otros sitios. Me dieron cita rápido y me tuvieron el coche listo cuando dijeron. Ahora conduzco mucho más tranquilo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna",
+      "neighborhood": "Bellamar",
+      "car": "BMW 118i F20 2016",
+      "body": "El coche se quedó sin batería y al poner una nueva, daba fallos por todas partes. No era solo cambiarla, había que registrarla en la centralita. Lo hicieron con el software oficial y de paso me revisaron el sistema de carga. Buen servicio y se nota que saben lo que tocan en estos coches.",
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a toda la zona de Castelldefels, desde los barrios más cercanos a la playa como Lluminetes y La Pineda hasta las zonas residenciales de montaña como Montemar, Bellamar y El Poal. Si vives en el centro, Can Bou o Can Roca, estamos a un paso. Nuestra ubicación nos permite ser el taller de referencia también para los vecinos de las localidades colindantes. Muchos de nuestros clientes vienen de Gavà Mar, por la proximidad y los problemas comunes derivados de la cercanía al mar, así como de Viladecans o Les Botigues de Sitges. Gracias a los accesos directos desde la autovía C-31 y la autopista C-32, llegar a nuestro taller es rápido y sencillo, evitando el tráfico denso del centro del pueblo. También estamos bien conectados a través de la C-245, que vertebra la comunicación con Gavà y Viladecans.",
+  "zoneText": "Nuestro taller especializado en BMW y MINI da servicio a toda la zona de Castelldefels y sus alrededores. Tanto si vives en las zonas residenciales de Montemar, Bellamar o El Poal, como si estás en los barrios más céntricos de Els Canyars o Vista Alegre, estamos a tu disposición. Nos encontramos en una ubicación de fácil acceso para los residentes de La Pineda y la zona de la playa. Además, nuestra proximidad a las principales vías de comunicación como la autovía C-31 y la autopista C-32 nos convierte en la opción ideal para propietarios de BMW y MINI de municipios vecinos como Gavà, Viladecans y Sitges, que buscan un servicio especializado sin tener que desplazarse hasta Barcelona.",
   "zoneNeighborhoods": [
-    "Centre",
-    "La Pineda",
-    "Lluminetes",
-    "Can Bou",
     "Montemar",
     "Bellamar",
     "El Poal",
+    "La Pineda",
+    "Els Canyars",
+    "Vista Alegre",
+    "Baixador",
     "Gavà Mar",
-    "Les Botigues de Sitges",
-    "Viladecans"
+    "Viladecans",
+    "Sitges"
   ],
   "zoneAccessRoutes": [
-    "C-31 (Autovía de Castelldefels)",
     "C-32 (Autopista Pau Casals)",
-    "C-245"
+    "C-31 (Autovía de Castelldefels)",
+    "C-245 (Carretera de Gavà a Sitges)"
   ],
   "faqLocal": [
     {
-      "q": "¿De verdad afecta tanto el salitre del mar si vivo en Castelldefels?",
-      "a": "Sí, y mucho más de lo que parece. La brisa marina transporta partículas de sal que se depositan en tu coche. Aunque no lo veas, acelera la corrosión de los metales, afectando a la carrocería, el chasis, el sistema de escape y, muy importante, a los componentes de los frenos. Un lavado frecuente, especialmente de los bajos, ayuda a mitigarlo, pero una revisión periódica es clave para evitar sorpresas en la ITV y garantizar tu seguridad."
+      "q": "¿El salitre de la playa de Castelldefels afecta de verdad a mi BMW?",
+      "a": "Sí, y más de lo que parece. La 'maresía' o ambiente salino acelera la corrosión de partes metálicas no protegidas del chasis, líneas de freno y escape. También puede afectar a las conexiones eléctricas de sensores externos (ABS, aparcamiento) y módulos electrónicos. Por eso, en nuestras revisiones en Castelldefels prestamos especial atención a estos puntos, aplicando limpiadores de contactos y protectores si es necesario."
     },
     {
-      "q": "Vivo en Montemar y subo y bajo cuestas todo el día, ¿debo revisar los frenos más a menudo?",
-      "a": "Sin ninguna duda. El uso intensivo en pendientes somete a los frenos a un estrés térmico muy elevado. Esto no solo desgasta las pastillas más rápido, sino que puede cristalizarlas (haciendo que pierdan eficacia) y deformar los discos. Recomendamos una revisión del sistema de frenado al menos una vez al año si tu conducción habitual es por esa zona, independientemente de la revisión oficial."
+      "q": "Vivo en Montemar y casi no uso el coche, ¿es perjudicial para mi diésel?",
+      "a": "Sí, es uno de los peores escenarios para un motor diésel moderno (N47, B47, B57). Los trayectos cortos y esporádicos impiden que el motor y el sistema de escape alcancen la temperatura necesaria para que el filtro de partículas (DPF) se limpie solo. Esto lleva a una saturación prematura y costosas averías. Te recomendamos hacer un trayecto más largo por autopista (C-32) al menos una vez por semana o visitarnos para un diagnóstico preventivo."
     },
     {
-      "q": "Mi coche es diésel y lo uso para trayectos cortos por el pueblo. ¿Es un problema?",
-      "a": "Puede serlo para el filtro de partículas (FAP/DPF). Este sistema necesita alcanzar altas temperaturas durante un tiempo sostenido (como en un trayecto por autopista) para limpiarse. Los trayectos cortos impiden este proceso, causando su obstrucción. Si notas pérdida de potencia o se enciende un testigo, tráelo. Podemos forzar una regeneración o limpiarlo para evitar una sustitución muy costosa."
+      "q": "Hago Castelldefels-Barcelona por la C-32 a diario, ¿qué mantenimiento es clave para mi X3 con 150.000 km?",
+      "a": "Para un uso intensivo en autopista, hay tres puntos críticos en un coche de ese kilometraje. Primero, el mantenimiento de la caja de cambios automática ZF 8HP (cambio de aceite y filtro). Segundo, la revisión del sistema de refrigeración, especialmente la bomba de agua y el termostato. Y tercero, si es diésel, una descarbonización de la admisión para eliminar la carbonilla acumulada por la EGR, lo que mejorará la respuesta y el consumo."
     },
     {
-      "q": "¿Qué tipo de neumáticos recomendáis para el clima y las carreteras de aquí?",
-      "a": "Para Castelldefels, lo ideal es un neumático de tipo 'touring' o de verano de buena calidad. Debe tener un buen rendimiento en seco para el calor del asfalto, pero sobre todo un excelente agarre en mojado. La combinación de humedad, rotondas y asfalto a veces deslizante exige un neumático que evacúe bien el agua. No es necesario un neumático de invierno, pero sí uno que responda bien en los días de lluvia intensa."
+      "q": "Tengo que pasar la ITV en Viladecans, ¿vuestra pre-ITV revisa bien la opacidad de los gases?",
+      "a": "Absolutamente. Sabemos que la prueba de opacidad es el punto crítico para los diésel en la ITV. Nuestra pre-ITV gratuita incluye un análisis de gases con un opacímetro profesional. Si los valores son altos, podemos realizar tratamientos de limpieza del sistema de inyección y escape para asegurar que pases la prueba sin problemas. Es un servicio que nuestros clientes de Castelldefels y Gavà valoran mucho."
     },
     {
-      "q": "Vengo de Gavà Mar, ¿es complicado llegar a vuestro taller?",
-      "a": "Al contrario, es muy sencillo. La forma más directa es coger la autovía C-31 dirección Sitges y tomar la salida correspondiente a Castelldefels. Estarás en nuestro taller en pocos minutos sin necesidad de cruzar el centro del pueblo, que es donde se suele concentrar el tráfico, sobre todo en temporada alta."
+      "q": "¿El mantenimiento de la suspensión de un X5 es más caro por las cuestas de Bellamar?",
+      "a": "Las cuestas y curvas de zonas como Bellamar o Montemar exigen más a los componentes de la suspensión, como los silentblocks, brazos y amortiguadores, especialmente en un coche pesado como un X5. No es que el mantenimiento sea más caro, pero sí que el desgaste puede ser más rápido. En las revisiones, inspeccionamos a fondo el tren de rodaje en busca de holguras para detectar el desgaste antes de que afecte a la seguridad o al comportamiento del coche."
     },
     {
-      "q": "¿Mi coche automático sufre más en las cuestas de Bellamar?",
-      "a": "Sufre de una manera diferente a un coche manual. El componente que más trabaja es el convertidor de par. Si notas que el coche da tirones al cambiar, revoluciona demasiado antes de engranar una marcha o le cuesta arrancar en pendiente, es síntoma de que el aceite de la caja de cambios (ATF) puede estar degradado o el sistema necesita una revisión. Es crucial mantenerlo bien para evitar averías graves."
-    },
-    {
-      "q": "¿Con el calor del verano, es importante revisar el aire acondicionado aunque enfríe?",
-      "a": "Sí. Que enfríe no significa que esté al 100%. Un sistema con poco gas o con el filtro sucio obliga al compresor a trabajar más, lo que aumenta el consumo de combustible y el riesgo de avería. Una revisión y recarga preventiva antes de que llegue el calor fuerte te asegura un verano fresco y te ahorra una posible reparación en el peor momento."
-    },
-    {
-      "q": "Tengo que pasar la ITV pronto, ¿hacéis una revisión pre-ITV específica para los problemas de aquí?",
-      "a": "Totalmente. Nuestra pre-ITV en Castelldefels pone especial atención a los puntos débiles locales: revisamos a fondo la corrosión en los bajos y los latiguillos de freno (por el salitre), el desgaste de la suspensión (por los badenes y rotondas) y el estado de los frenos (por las cuestas). Así te aseguras de ir a la estación de Viladecans con la máxima garantía de pasarla a la primera."
+      "q": "Tengo un BMW Serie 4 y voy mucho a Sitges, ¿tenéis experiencia con la caja ZF 8HP?",
+      "a": "Totalmente. La caja automática ZF 8HP es una de nuestras especialidades. Para un uso como el tuyo, que combina autopista con conducción más dinámica, es vital hacerle el mantenimiento preventivo con el aceite y el cárter-filtro correctos, siguiendo el procedimiento de ZF. Hacerlo entre los 80.000 y 120.000 km es la mejor inversión para garantizar que siga funcionando con suavidad y evitar averías muy caras en la mecatrónica."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Castelldefels",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita para revisar tu coche y darte una solución clara y honesta en Castelldefels."
+  "closingHeadline": "El cuidado que tu BMW o MINI se merece en Castelldefels",
+  "closingCta": "No dejes el mantenimiento de tu coche en manos de cualquiera. Pide tu cita en nuestro taller de Castelldefels por teléfono, WhatsApp o email y solicita un presupuesto cerrado y sin compromiso."
 }
