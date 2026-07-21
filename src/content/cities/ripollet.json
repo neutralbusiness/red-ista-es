@@ -182,5 +182,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW y MINI en Ripollet",
-  "closingCta": "Pide tu cita previa y descubre por qué cada vez más conductores del Vallès nos confían su BMW o MINI. Llámanos o escríbenos un WhatsApp y te daremos un presupuesto cerrado para lo que necesites en Ripollet."
+  "closingCta": "Pide tu cita previa y descubre por qué cada vez más conductores del Vallès nos confían su BMW o MINI. Llámanos o escríbenos un WhatsApp y te daremos un presupuesto cerrado para lo que necesites en Ripollet.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

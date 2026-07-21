@@ -190,5 +190,14 @@
     }
   ],
   "closingHeadline": "Servicio Especialista para tu BMW o MINI en Sant Feliu",
-  "closingCta": "Contacta con nuestro equipo en Sant Feliu para solicitar un diagnóstico preciso o un presupuesto cerrado para tu BMW o MINI. Te atenderemos por teléfono, WhatsApp o correo electrónico."
+  "closingCta": "Contacta con nuestro equipo en Sant Feliu para solicitar un diagnóstico preciso o un presupuesto cerrado para tu BMW o MINI. Te atenderemos por teléfono, WhatsApp o correo electrónico.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

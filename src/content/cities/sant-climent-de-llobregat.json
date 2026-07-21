@@ -191,5 +191,14 @@
     }
   ],
   "closingHeadline": "El cuidado experto que tu BMW merece en Sant Climent",
-  "closingCta": "Si tu BMW o MINI necesita un mantenimiento especializado o una reparación compleja, no lo dejes en manos de cualquiera. Llámanos o envíanos un WhatsApp para pedir cita en nuestro centro de Sant Climent de Llobregat y descubre la tranquilidad de estar en la Red ISTA."
+  "closingCta": "Si tu BMW o MINI necesita un mantenimiento especializado o una reparación compleja, no lo dejes en manos de cualquiera. Llámanos o envíanos un WhatsApp para pedir cita en nuestro centro de Sant Climent de Llobregat y descubre la tranquilidad de estar en la Red ISTA.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

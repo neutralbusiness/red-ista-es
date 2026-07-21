@@ -185,5 +185,14 @@
     }
   ],
   "closingHeadline": "Tu especialista MINI y BMW en Coslada",
-  "closingCta": "Hablamos el mismo idioma que tu coche. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y descubre por qué somos la alternativa inteligente al concesionario en Coslada."
+  "closingCta": "Hablamos el mismo idioma que tu coche. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y descubre por qué somos la alternativa inteligente al concesionario en Coslada.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

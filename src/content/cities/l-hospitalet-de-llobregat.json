@@ -182,5 +182,14 @@
     }
   ],
   "closingHeadline": "Cuida tu BMW o MINI en L'Hospitalet",
-  "closingCta": "¿Listo para darle a tu coche el trato que merece a un precio justo? Contacta con nosotros por teléfono o WhatsApp para pedir tu presupuesto cerrado. Estamos en L'Hospitalet para ayudarte."
+  "closingCta": "¿Listo para darle a tu coche el trato que merece a un precio justo? Contacta con nosotros por teléfono o WhatsApp para pedir tu presupuesto cerrado. Estamos en L'Hospitalet para ayudarte.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

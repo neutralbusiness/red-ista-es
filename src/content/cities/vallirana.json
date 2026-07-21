@@ -190,5 +190,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW y MINI en Vallirana",
-  "closingCta": "Pide tu cita y descubre por qué cada vez más conductores de BMW y MINI del Baix Llobregat confían en nosotros. Llámanos o envíanos un WhatsApp y te daremos un presupuesto sin compromiso."
+  "closingCta": "Pide tu cita y descubre por qué cada vez más conductores de BMW y MINI del Baix Llobregat confían en nosotros. Llámanos o envíanos un WhatsApp y te daremos un presupuesto sin compromiso.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

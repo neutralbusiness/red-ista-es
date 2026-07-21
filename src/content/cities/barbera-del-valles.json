@@ -186,5 +186,14 @@
     }
   ],
   "closingHeadline": "Tu BMW o MINI, en manos expertas en Barberà",
-  "closingCta": "Pídenos presupuesto sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos una cita para realizar un diagnóstico preciso de tu coche en nuestro taller de Barberà del Vallès."
+  "closingCta": "Pídenos presupuesto sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos una cita para realizar un diagnóstico preciso de tu coche en nuestro taller de Barberà del Vallès.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }

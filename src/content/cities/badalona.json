@@ -191,5 +191,14 @@
     }
   ],
   "closingHeadline": "La alternativa inteligente para tu BMW en Badalona",
-  "closingCta": "Pide tu cita para una diagnosis completa en Badalona. Llámanos o envíanos un WhatsApp y te daremos hora para conectar tu coche a ISTA y ofrecerte la tranquilidad que necesitas."
+  "closingCta": "Pide tu cita para una diagnosis completa en Badalona. Llámanos o envíanos un WhatsApp y te daremos hora para conectar tu coche a ISTA y ofrecerte la tranquilidad que necesitas.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }
