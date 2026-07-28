@@ -6,174 +6,124 @@
   "population": 10779,
   "lat": 41.74549,
   "lng": 1.80476,
-  "metaTitle": "Taller mecánico en Sant Joan de Vilatorrada — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Sant Joan de Vilatorrada para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora.",
-  "heroSubtitle": "Haces cada día el trayecto a Manresa o coges el Eix? Tu coche necesita estar a punto. Te ayudamos a que no te deje tirado.",
+  "metaTitle": "Taller BMW y MINI en Sant Joan de Vilatorrada · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Sant Joan de Vilatorrada. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Sant Joan de Vilatorrada y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives y conduces por Sant Joan de Vilatorrada, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar cada mañana a Manresa por la C-55, para llevar a los críos al colegio, para hacer la compra o para escaparte el fin de semana por el Eix Transversal (la C-25), dependes de él. Entendemos perfectamente la vida en el Pla de Bages: no es lo mismo conducir por el centro de Barcelona que moverse por aquí. El coche sufre un desgaste diferente, y nosotros, como mecánicos de la zona, lo conocemos de primera mano. Nuestro taller está pensado para ti, el conductor de Sant Joan, de Sant Fruitós, de Callús o de Fonollosa, que usa un SEAT, un Renault, un Peugeot o una furgoneta para trabajar y necesita que su vehículo sea fiable, seguro y no le dé sorpresas en la factura.\n\nEl clima de nuestra comarca es un factor clave que no se puede ignorar. Los inviernos fríos y con heladas del interior de Cataluña ponen a prueba las baterías cada mañana. ¿A quién no le ha costado arrancar el coche en un enero gélido? Por otro lado, los veranos secos y calurosos hacen que el sistema de refrigeración y el aire acondicionado trabajen a pleno rendimiento, sobre todo en los atascos para entrar o salir de Manresa. Este contraste térmico afecta a los líquidos, a los manguitos y a la presión de los neumáticos. En nuestro taller no solo cambiamos piezas; te aconsejamos sobre el mantenimiento preventivo específico para el clima del Bages, para que el frío no te deje tirado ni el calor te dé un susto.\n\nEl tipo de conducción por la zona también define el mantenimiento. La C-55, con sus rotondas y su tráfico denso en hora punta, es una máquina de desgastar embragues y pastillas de freno. Si es tu ruta diaria, lo notarás. En cambio, si usas a menudo el Eix Transversal (C-25) para ir hacia Vic o Lleida, tu coche circula a alta velocidad y de forma constante, lo que exige un control exhaustivo de neumáticos, alineación y suspensión para garantizar la seguridad. Y no nos olvidemos de las carreteras locales y comarcales que conectan con los pueblos de alrededor, que no siempre están en el mejor estado. Un buen diagnóstico de la suspensión o una revisión de los amortiguadores puede ahorrarte problemas y dinero a largo plazo.\n\nConocemos el parque móvil de Sant Joan de Vilatorrada y alrededores. Vemos a diario los coches que conducís: Volkswagen Golf TDI, SEAT León y Ateca, Peugeot 308, Citroën C4, Dacia Duster y también muchas furgonetas como la Berlingo, la Partner o la Kangoo de profesionales y autónomos que necesitan su herramienta de trabajo siempre a punto. Sabemos qué motores suelen dar más problemas de filtro de partículas por los trayectos cortos, qué modelos tienden a desgastar antes ciertos componentes y cómo optimizar el mantenimiento de cada uno. No tratamos tu coche como uno más, sino como lo que es: un vehículo con un uso y unas necesidades muy concretas, las tuyas.",
-  "servicesIntro": "Tanto si es para la revisión anual antes de ir a la ITV de Manresa como para cambiar el embrague por el trote diario en la C-55, lo cubrimos.",
-  "processIntro": "Un imprevisto con el coche ya es suficiente lío. Por eso nuestro proceso es simple: te damos un presupuesto claro y no hacemos nada sin tu permiso.",
+  "introLocal": "Cada vez vemos más BMW electrificados en Sant Joan de Vilatorrada: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Sant Joan de Vilatorrada, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sant Joan de Vilatorrada te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Sant Joan de Vilatorrada, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Después, nuestros técnicos lo revisan a fondo con equipos de diagnosis modernos para encontrar el origen real del problema, sin rodeos."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado y por escrito. El precio que ves es el que pagas, sin sorpresas ni extras de última hora. Si surge algo nuevo, te informamos antes de continuar."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "El coche es tuyo y tú decides. No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno explícito por teléfono o WhatsApp. Tú tienes el control total."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales y con garantía. Te mantenemos informado del proceso y cumplimos los plazos acordados para que te organices."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Te explicamos la reparación realizada y te lo entregamos limpio. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima del Bages, el sube y baja a Manresa y los trayectos cortos por el pueblo provocan averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Sant Joan de Vilatorrada.",
   "commonIssues": [
     {
-      "title": "Embrague y frenos gastados por la C-55",
-      "body": "El trayecto diario a Manresa, con sus rotondas, semáforos y tráfico intermitente, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Diagnosticamos el desgaste y te ofrecemos la mejor solución para que conduzcas seguro."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Problemas de batería en invierno",
-      "body": "Las mañanas con heladas en el Pla de Bages son la prueba de fuego para cualquier batería. El frío reduce su rendimiento y, si ya tiene unos años, es probable que te deje tirado. Comprobamos el estado de tu batería y el circuito de carga para que el coche arranque a la primera, incluso en los días más fríos."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Filtros de partículas diésel (FAP) obstruidos",
-      "body": "Muchos diésel modernos se usan para trayectos cortos por Sant Joan o pueblos cercanos, sin dar tiempo a que el motor se caliente y regenere el filtro de partículas. Esto provoca averías costosas y pérdida de potencia. Realizamos limpiezas y regeneraciones forzadas para evitar la sustitución completa del filtro."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Fallos del aire acondicionado en verano",
-      "body": "Cuando el calor aprieta de verdad en julio y agosto, el aire acondicionado no es un lujo. Las altas temperaturas fuerzan el sistema y pueden provocar fugas de gas o fallos en el compresor. Hacemos cargas de gas, detectamos fugas y reparamos el sistema para que viajes fresco y cómodo."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Desgaste de suspensión y neumáticos",
-      "body": "Entre las carreteras comarcales, los badenes del pueblo y algún que otro bache, la suspensión y los neumáticos sufren. Un desgaste irregular de las ruedas o ruidos al pasar por baches son síntomas claros. Revisamos amortiguadores, silentblocks y hacemos el paralelo para alargar la vida de tus neumáticos y mejorar la seguridad."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Somos de aquí",
-      "body": "Conocemos las carreteras, el clima y los coches de Sant Joan de Vilatorrada y el Bages. No te damos soluciones genéricas, sino las que funcionan para tu día a día en la comarca."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. La confianza empieza por la transparencia en la factura."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si llevas un Audi, un Dacia o una furgoneta Ford. Tenemos la experiencia y el equipo para realizar el mantenimiento y las reparaciones de cualquier vehículo con total garantía."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Pasa la ITV a la primera",
-      "body": "Sabemos qué miran con lupa en la estación de ITV de Manresa. Hacemos una revisión pre-ITV exhaustiva para que vayas tranquilo y la pases sin defectos."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Siempre en contacto",
-      "body": "Te mantenemos informado durante todo el proceso. Cualquier duda, cualquier imprevisto, te llamamos. La comunicación es clave para que estés tranquilo."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales de conductores de Sant Joan y alrededores que confían en nosotros para el mantenimiento de su coche.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Nucli Antic",
-      "car": "SEAT Ateca 1.5 TSI 2019",
-      "body": "Hago cada día el trayecto a Manresa por la C-55 y notaba que los frenos ya no respondían como antes. Me dieron cita rápido, me explicaron que las pastillas estaban en las últimas y me dieron un presupuesto cerrado. En el mismo día lo tenía listo. Muy profesionales y honestos, se agradece.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "Sant Fruitós de Bages",
-      "car": "Renault Clio dCi 2016",
-      "body": "Tenía que pasar la ITV y siempre me da pánico. Les pedí una revisión pre-ITV y me encontraron una luz de matrícula fundida y un silentblock que empezaba a tener holgura. Lo solucionaron todo por un precio razonable y pasé la ITV sin ningún fallo. Ahora voy mucho más tranquila.",
-      "rating": 5
-    },
-    {
-      "name": "Marc",
-      "neighborhood": "Joncadella",
-      "car": "Peugeot Partner 2018",
-      "body": "Soy autónomo y la furgoneta es mi oficina. Se me encendió el testigo de avería de motor y me asusté. Era un problema con el filtro de partículas por hacer tanto trayecto corto. Me hicieron una limpieza y me explicaron cómo evitar que volviera a pasar. Me salvaron de una reparación mucho más cara.",
-      "rating": 5
-    },
-    {
-      "name": "Laia",
-      "neighborhood": "Callús",
-      "car": "Volkswagen Golf TDI 2014",
-      "body": "El aire acondicionado dejó de enfriar justo al empezar el verano. En otros sitios me daban cita para dos semanas. Aquí me lo cogieron al día siguiente, encontraron una pequeña fuga, la repararon y recargaron el gas. El trato fue muy bueno y el precio me pareció justo. Buen servicio.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio principalmente a conductores de Sant Joan de Vilatorrada, desde el Nucli Antic hasta las zonas de Joncadella o el Sector Llobet. Nuestra ubicación nos convierte en el taller de confianza para muchos vecinos de Manresa, que buscan un trato más cercano y honesto. También cubrimos las necesidades de los pueblos cercanos como Sant Fruitós de Bages, Santpedor, Callús y Fonollosa. Si te mueves habitualmente por el Bages, nos tienes a mano. El acceso es muy sencillo a través de la C-55, que nos conecta directamente con Manresa y el sur de la comarca, y estamos a pocos minutos del Eix Transversal (C-25), una vía clave para quienes viajan hacia Vic o Lleida.",
-  "zoneNeighborhoods": [
-    "Sant Joan de Vilatorrada",
-    "Manresa",
-    "Sant Fruitós de Bages",
-    "Santpedor",
-    "Callús",
-    "Fonollosa",
-    "Nucli Antic",
-    "Joncadella"
-  ],
-  "zoneAccessRoutes": [
-    "C-55",
-    "C-25 (Eix Transversal)",
-    "C-37z"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Sant Joan de Vilatorrada y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión Pre-ITV para pasarla en la estación de Manresa?",
-      "a": "Sí, por supuesto. Es uno de nuestros servicios más demandados. Conocemos perfectamente los puntos críticos que revisan en la ITV de Manresa y hacemos una comprobación exhaustiva de luces, frenos, neumáticos, emisiones y suspensión. Nuestro objetivo es que vayas totalmente tranquilo y la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sant Joan de Vilatorrada?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "¿Qué tipo de neumáticos recomendáis para el clima del Bages?",
-      "a": "Dada la diferencia de temperatura entre el invierno y el verano en nuestra comarca, la mejor opción para la mayoría de conductores son los neumáticos 'all-season' o 'todo tiempo'. Ofrecen un buen agarre tanto con el calor del verano como con las bajas temperaturas o la lluvia del invierno, sin necesidad de tener dos juegos de ruedas. Si haces muchos kilómetros por carreteras de montaña, podríamos valorar un neumático de invierno específico."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Hago muchos kilómetros por la C-55 y el Eix, ¿qué mantenimiento especial necesita mi coche?",
-      "a": "Para un uso intensivo en carretera, es vital ser estricto con los cambios de aceite y filtros, usando siempre lubricantes de alta calidad que protejan el motor en trayectos largos. También es crucial revisar con más frecuencia el estado y la presión de los neumáticos, así como el sistema de frenos y la suspensión. Un coche bien alineado también te ahorrará combustible y desgaste de ruedas."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Mi diésel hace sobre todo trayectos cortos por el pueblo. ¿Cómo evito problemas con el filtro de partículas?",
-      "a": "Es un problema muy común. Para evitar la obstrucción del filtro (FAP o DPF), te recomendamos que, al menos una vez por semana, salgas a carretera (como la C-25) y conduzcas durante unos 15-20 minutos a un régimen de revoluciones algo más alto de lo normal (por ejemplo, en 4ª marcha a 100-110 km/h). Esto fuerza la regeneración y limpia el filtro. Si ya es tarde, podemos hacer una limpieza en el taller."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Si dejo el coche, ¿tenéis coche de cortesía? Lo necesito para ir a trabajar.",
-      "a": "Entendemos que no puedes quedarte parado. Disponemos de un número limitado de coches de cortesía para nuestros clientes. Te recomendamos solicitarlo al pedir tu cita para que podamos confirmar su disponibilidad y reservártelo, especialmente si la reparación va a durar más de un día. Consúltanos las condiciones al llamarnos."
-    },
-    {
-      "q": "¿Cuánto tardáis en hacer una revisión de mantenimiento normal?",
-      "a": "Una revisión estándar, como un cambio de aceite y filtros, suele llevar unas pocas horas. Si la dejas a primera hora de la mañana, lo más probable es que puedas recogerla a mediodía o a primera hora de la tarde. Si durante la revisión detectamos algo más, te llamaremos inmediatamente para informarte y darte un nuevo plazo, siempre con tu aprobación."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Sant Joan de Vilatorrada",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Llámanos o envíanos un WhatsApp para pedir tu presupuesto sin compromiso en nuestro taller de Sant Joan de Vilatorrada."
+  "closingHeadline": "Tu BMW y MINI en Sant Joan de Vilatorrada, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Sant Joan de Vilatorrada y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
