@@ -6,186 +6,124 @@
   "population": 126988,
   "lat": 41.54211,
   "lng": 2.4445,
-  "metaTitle": "Taller mecánico en Mataró — Multimarca y de confianza",
-  "metaDescription": "Tu taller multimarca en Mataró para revisiones, averías y neumáticos. Pide presupuesto cerrado y evita sorpresas. ¡Cuidamos tu coche con total transparencia!",
-  "heroSubtitle": "Harto de los atascos en la C-32 y el desgaste de ir a Barcelona cada día? Tu coche necesita un taller en Mataró que entienda tu rutina.",
+  "metaTitle": "Taller BMW y MINI en Mataró · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Mataró. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Mataró y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces por Mataró y el Maresme, sabes que tu coche no tiene una vida fácil. No es lo mismo usarlo solo para ir al Mataró Parc el fin de semana que hacer cada día el trayecto Mataró-Barcelona por la C-32 o la N-II. El tráfico denso al entrar en la capital, las caravanas en la Ronda de Dalt o las retenciones en la propia Ronda de Mataró a horas punta someten a tu embrague, frenos y motor a un estrés constante. En nuestro taller, no vemos solo un coche; vemos tu Peugeot 308 diésel que sufre en los semáforos del Camí Ral o tu SEAT León que necesita estar a punto para subir y bajar a diario a la zona universitaria. Entendemos el desgaste específico que provoca la rutina de un conductor del Maresme.\n\nEl clima de Mataró es otro factor clave que no se puede ignorar. La proximidad al mar Mediterráneo, aunque agradable, trae consigo un enemigo silencioso para tu vehículo: el salitre. Esta salinidad en el aire acelera la corrosión de los bajos del coche, el sistema de escape, los conductos de freno y cualquier parte metálica expuesta. Por eso, una revisión en Mataró debe incluir una inspección a fondo de estos elementos, algo que en un taller del interior quizás pasarían por alto. Además, los veranos calurosos y húmedos ponen a prueba el sistema de aire acondicionado, una avería muy común cuando más lo necesitas. Sabemos que un coche en la costa envejece de forma distinta.\n\nEl parque automovilístico de Mataró es tan diverso como sus barrios. Vemos a diario los coches de familias de Cerdanyola o Rocafonda, vehículos prácticos y fiables que necesitan un mantenimiento económico y honesto. Atendemos a los autónomos con sus furgonetas Citroën Berlingo o Renault Kangoo que trabajan en el polígono del Pla d'en Boet y no pueden permitirse tener la herramienta de trabajo parada un solo día. También cuidamos los coches de quienes viven en el Eixample o en urbanizaciones de Argentona o Cabrera de Mar, que buscan un servicio profesional sin los precios de un concesionario oficial. Sea cual sea tu coche y tu rutina, hablamos tu mismo idioma.\n\nTodo esto se traduce en un enfoque de mantenimiento y reparación adaptado a Mataró. Cuando diagnosticamos un problema en el filtro de partículas (FAP), a menudo se debe a los trayectos cortos por la ciudad que impiden su regeneración. Si un cliente se queja de ruidos en la suspensión, pensamos en los badenes de las zonas residenciales o en el estado de algunas calles secundarias. No aplicamos soluciones genéricas. Analizamos cómo usas tu coche aquí, en el Maresme, para darte una solución duradera y un presupuesto justo. Porque un taller local debe entender la realidad local, desde el tipo de asfalto hasta el efecto de la brisa marina.\n\nPor eso, si buscas un taller mecánico en Mataró que vaya más allá de cambiar aceite y filtros, estás en el lugar correcto. Somos un taller multimarca que ofrece la misma calidad que un servicio oficial pero con la cercanía, la transparencia y los precios de un negocio de confianza. Te damos un presupuesto cerrado antes de empezar y no tocamos un solo tornillo sin tu autorización. Queremos ser tu taller de referencia en Mataró, el que recomiendas a tus vecinos y familiares porque sabes que aquí, cuidamos de tu coche como si fuera nuestro.",
-  "servicesIntro": "Desde la revisión para pasar la ITV de Mataró sin problemas hasta esa avería que te ha dejado tirado en la N-II, lo cubrimos todo.",
-  "processIntro": "Sabemos que la confianza es clave. Por eso, te damos un presupuesto cerrado y no hacemos nada en tu coche sin tu visto bueno.",
+  "introLocal": "Cada vez vemos más BMW electrificados en Mataró: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Mataró, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Mataró te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Mataró, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y conectamos nuestro equipo de diagnosis para identificar la avería con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ninguna pieza ni empezamos la reparación hasta que nos das tu confirmación explícita. Tú tienes siempre el control total sobre tu coche y tu gasto."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso y los plazos."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando recoges tu coche, te explicamos la reparación realizada. Unos días después, te llamamos para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El salitre del mar, los atascos en la Ronda de Mataró y los trayectos diarios a Barcelona provocan averías muy típicas en los coches de la zona que conocemos bien.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Mataró.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico de Mataró, con sus cuestas en barrios como Cirera o Vista Alegre, y las retenciones diarias en la C-32 para ir a Barcelona, castigan el embrague y los frenos. Detectamos el desgaste a tiempo y usamos componentes de alta durabilidad para que aguantes más kilómetros."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Problemas con el filtro de partículas (FAP/DPF)",
-      "body": "Si usas tu diésel para trayectos cortos por la ciudad, como ir de Peramàs al centro, es normal que el filtro se sature. Somos especialistas en la diagnosis y limpieza de FAP, una solución mucho más económica que la sustitución que te propondrán en otros sitios."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Corrosión en bajos y sistema de escape",
-      "body": "Es el problema número uno en el Maresme. La brisa marina carga el aire de salitre que devora el metal. En cada revisión, inspeccionamos a fondo los bajos, las líneas de freno y el escape para detectar y frenar la corrosión antes de que se convierta en una avería grave y costosa."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Averías en el aire acondicionado",
-      "body": "Los veranos húmedos y calurosos de Mataró hacen que el aire acondicionado trabaje a pleno rendimiento durante meses. Esto provoca fugas de gas, fallos en el compresor o malos olores. Hacemos cargas, detectamos fugas y reparamos el sistema para que el calor no sea un problema."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Fallos en suspensión y silentblocks",
-      "body": "El asfalto irregular de algunas calles, los badenes para reducir la velocidad y las carreteras secundarias hacia Dosrius o el Montnegre i el Corredor, pasan factura a amortiguadores y silentblocks. Si notas ruidos o inestabilidad, lo revisamos para devolverte la seguridad al volante."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Mataró",
-      "body": "Entendemos cómo afecta a tu coche conducir por el Maresme, el salitre, los atascos de la C-32... Nuestro diagnóstico es más preciso porque conocemos el entorno."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el precio final. Si durante la reparación surge un imprevisto, paramos y te llamamos. Tú decides siempre."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Tenemos la tecnología y la experiencia para reparar tu coche, sea un Dacia Sandero de 2015 o un BMW X3 de 2012. Sin distinciones."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Transparencia total",
-      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos. Si quieres, te enseñamos las piezas sustituidas. Cero misterios."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Todas nuestras reparaciones y recambios están garantizados. Queremos que conduzcas con total tranquilidad sabiendo que hemos hecho un buen trabajo."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Mataró y cómo les hemos ayudado a volver a la carretera con confianza.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Cerdanyola",
-      "car": "SEAT León TDI 2016",
-      "body": "El coche me daba tirones y se encendió el testigo del motor. Lo uso mucho por Mataró para trayectos cortos y en el taller me explicaron que era el filtro de partículas. Me lo limpiaron y me dieron consejos para evitar que volviera a pasar. Un servicio honesto y mucho más barato que cambiar la pieza.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Centre",
-      "car": "Peugeot 208 2018",
-      "body": "Tenía que pasar la ITV y no quería sorpresas. Les pedí una revisión pre-ITV y me encontraron un silentblock en mal estado. Lo cambiaron el mismo día y pasé la ITV sin ningún fallo. Muy profesionales y el presupuesto fue exactamente el que me dijeron. Repetiré sin duda para la revisión anual.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Rocafonda",
-      "car": "Renault Kangoo 2015",
-      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución rápida. Me dieron cita enseguida, entendieron mi urgencia y cumplieron el plazo. El precio, muy correcto. Saber que hay un taller de confianza en Mataró que entiende a los profesionales es un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Argentona",
-      "car": "VW Golf 2013",
-      "body": "Oía un ruido metálico en las ruedas traseras y en el concesionario oficial me daban cita para dentro de dos semanas. Aquí me lo cogieron al día siguiente, diagnosticaron un problema en los rodamientos y me lo solucionaron. El trato fue mucho más cercano y me explicaron todo perfectamente. Vale la pena bajar a Mataró.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Mataró y a las poblaciones cercanas del Maresme. Tanto si vives en barrios céntricos como el Eixample o Peramàs, como en zonas más amplias como Cerdanyola, Rocafonda o Cirera, somos tu taller de proximidad. Muchos de nuestros clientes vienen de municipios colindantes como Argentona, Cabrera de Mar, Vilassar de Mar o Sant Andreu de Llavaneres, buscando un servicio transparente y profesional. Estamos perfectamente comunicados a través de las vías principales que vertebran la comarca, como la autopista C-32, la carretera N-II, la C-60 que conecta con Granollers y la ronda local B-40, lo que facilita que llegues a nuestro taller sin complicaciones.",
-  "zoneNeighborhoods": [
-    "Cerdanyola",
-    "Rocafonda",
-    "Peramàs-Eixample",
-    "Cirera",
-    "Pla d'en Boet",
-    "Vista Alegre",
-    "Argentona",
-    "Cabrera de Mar",
-    "Vilassar de Mar",
-    "Sant Andreu de Llavaneres"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "N-II",
-    "C-60 (Mataró-Granollers)",
-    "B-40 (Ronda de Mataró)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Mataró y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Estáis especializados en problemas de corrosión por el salitre del mar?",
-      "a": "Sí, totalmente. Es una de nuestras especialidades por estar en Mataró. En cada revisión, hacemos una inspección visual de los bajos, escape y conductos de freno, que son las zonas más afectadas por el ambiente marino del Maresme. Sabemos qué buscar y cómo prevenir averías graves."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Mataró?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Voy cada día a trabajar a Barcelona por la C-32, ¿qué mantenimiento es más importante para mi coche?",
-      "a": "Para ese tipo de uso intensivo, es crucial vigilar el desgaste de embrague, frenos y neumáticos. En los motores diésel, el turbo y el filtro de partículas también sufren mucho. Te recomendamos revisiones periódicas de estos elementos para evitar averías que te dejen tirado en plena autopista."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "La revisión pre-ITV que hacéis, ¿me asegura pasarla en la estación de Mataró?",
-      "a": "Nuestra revisión pre-ITV sigue punto por punto los mismos criterios que aplican en cualquier estación oficial, incluida la de Mataró. Comprobamos luces, frenos, emisiones, neumáticos, etc. Si detectamos algo, te damos presupuesto para solucionarlo y que vayas a la inspección con total garantía de pasarla a la primera."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo un Ford Focus de 2009. ¿Trabajáis con coches de más de 10 años?",
-      "a": "Por supuesto. De hecho, son la mayoría de los coches que reparamos. El parque automovilístico de Mataró tiene una media de edad elevada y estamos perfectamente equipados y formados para mantener y reparar vehículos de entre 4 y 15 años, sea cual sea la marca. Conocemos sus puntos débiles y cómo mantenerlos fiables."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Vivo en Cabrera de Mar, ¿por qué debería llevaros el coche a Mataró?",
-      "a": "Muchos clientes de Cabrera, Vilassar o Argentona nos eligen por nuestra política de presupuesto cerrado y transparencia. Saben que no se encontrarán sorpresas en la factura y que les explicaremos cualquier avería de forma clara. La confianza y la honestidad son nuestra mejor carta de presentación."
-    },
-    {
-      "q": "Mi coche diésel ha perdido fuerza, ¿puede ser el filtro de partículas?",
-      "a": "Es muy probable, sobre todo si haces muchos trayectos cortos por Mataró sin salir a carretera. El filtro se obstruye y el motor no respira bien. Antes de plantear una sustitución, que es muy cara, realizamos una diagnosis completa para ver si es posible limpiarlo y regenerarlo, ahorrándote mucho dinero."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Mataró",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos una solución clara y honesta para tu coche aquí, en Mataró.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Mataró",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@tallerbarcelona.com",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu BMW y MINI en Mataró, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Mataró y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
