@@ -6,178 +6,124 @@
   "population": 52484,
   "lat": 41.54026,
   "lng": 2.21306,
-  "metaTitle": "Taller mecánico en Mollet del Vallès — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Mollet. Presupuesto cerrado para revisiones, averías, neumáticos y más. Pide cita y evita sorpresas en la factura.",
-  "heroSubtitle": "¿Cansado de los atascos en la C-17 y de no saber cuánto te costará la reparación? En nuestro taller de Mollet, te damos un precio cerrado y claro.",
+  "metaTitle": "Taller BMW y MINI en Mollet del Vallès · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Mollet del Vallès. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Mollet del Vallès y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces a diario por Mollet del Vallès, sabes lo que significa. El tráfico denso en las rondas, los trayectos para ir a trabajar a Barcelona por la C-17 o la C-33, o los viajes de fin de semana por la AP-7. Todo esto pasa factura a tu coche. No es lo mismo un vehículo que solo pisa la autopista que uno que sufre el constante arranca-para de la vida en el Vallès. En nuestro taller de Mollet, entendemos perfectamente las necesidades de tu coche porque vivimos y conducimos aquí, como tú.\n\nEl parque automovilístico de nuestra zona es muy variado. Vemos a diario los SEAT León y Ateca de familias que viven en Can Borrell, los Peugeot 208 y 3008 que se mueven por el centro, y las furgonetas Renault Kangoo o Citroën Berlingo de los autónomos de los polígonos de Mollet y Parets. Conocemos las particularidades de los motores TDI, los PureTech y los dCi que dominan nuestras calles. Sabemos qué piezas suelen fallar y cómo repararlas de forma duradera, porque son los mismos coches que vemos cada día en la carretera de camino al trabajo.\n\nEl clima del Vallès Oriental también juega su papel. Los veranos calurosos y secos ponen a prueba los sistemas de aire acondicionado y refrigeración. Un sobrecalentamiento en un atasco en la C-59 en pleno julio es una avería muy común que sabemos cómo prevenir. Del mismo modo, la humedad de los inviernos puede afectar a la electrónica de coches que ya tienen unos años. Por eso, nuestras revisiones no son genéricas; se adaptan a las condiciones climáticas y de uso específicas de Mollet.\n\nYa vivas en Plana Lledó, Santa Rosa o vengas de municipios cercanos como Montmeló o La Llagosta, necesitas un taller que hable tu idioma y entienda tus problemas. No queremos que te preocupes por la factura. Por eso, nuestro pilar es el presupuesto cerrado: lo que te decimos que cuesta, es lo que pagas. Sin sorpresas, sin letra pequeña. Transparencia y profesionalidad para que tú solo te preocupes de conducir.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV sin problemas hasta el cambio del kit de distribución o la reparación del aire acondicionado para el calor de Mollet.",
-  "processIntro": "Queremos que confíes en nosotros. Por eso, en nuestro taller de Mollet del Vallès no hacemos nada sin tu permiso y con un presupuesto cerrado por delante.",
+  "introLocal": "En Mollet del Vallès vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Mollet del Vallès sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Mollet del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Mollet del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Analizamos el problema a fondo para encontrar la causa real, no solo el síntoma, y te explicamos qué hemos encontrado."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA, todo desglosado de forma clara. El precio que ves es el precio final, sin sorpresas de última hora."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos ni un solo tornillo sin tu confirmación explícita. Tienes el control total. Solo cuando nos das el 'vale', nuestro equipo se pone a trabajar en tu coche."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas y seguimos los procedimientos del fabricante. Te mantenemos informado del progreso y cumplimos los plazos acordados para que tengas tu coche lo antes posible."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Al recoger tu coche, te explicamos la reparación realizada y te entregamos la factura. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El uso diario por Mollet y los trayectos por la AP-7 o la C-17, sumado al clima del Vallès, provoca averías muy concretas que vemos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Mollet del Vallès.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico de Mollet, con sus rotondas y semáforos, junto a los atascos diarios en la C-17 para ir a Barcelona, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que tu coche responda perfectamente en el tráfico denso."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Problemas con el aire acondicionado",
-      "body": "El verano en el Vallès es intenso. Un aire acondicionado que no enfría lo suficiente puede convertir un viaje por la AP-7 en una pesadilla. Vemos muchas fugas en el circuito o compresores agotados por el calor. Hacemos una diagnosis completa del sistema para que vuelvas a pasar un verano fresco al volante."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallos en filtros de partículas (FAP/DPF)",
-      "body": "Muchos coches diésel hacen trayectos cortos por la ciudad, de Can Pantiquet al centro, por ejemplo. Esto impide que el filtro de partículas se regenere correctamente y acaba por obstruirse, provocando pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para evitar problemas mayores."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Combinar la alta velocidad en la C-33 con las calles de los polígonos industriales de Mollet o Parets, que no siempre están en perfecto estado, desgasta amortiguadores y neumáticos de forma irregular. Unos amortiguadores en mal estado aumentan la distancia de frenado. Revisamos todo el sistema para garantizar tu seguridad."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "El calor del verano y los atascos son una mala combinación para el sistema de refrigeración. Un manguito en mal estado o un electroventilador que no salta a tiempo puede provocar un calentón grave. Antes de que llegue el calor fuerte, revisamos todo el circuito para que no te lleves un susto."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que presupuestamos es lo que pagas. Sin extras inesperados en la factura final."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Conocemos los coches de aquí",
-      "body": "Estamos especializados en las marcas y modelos más habituales en Mollet y el Vallès (SEAT, Peugeot, Renault, VW...). Sabemos sus puntos débiles y cómo solucionarlos."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Solo reparamos lo necesario",
-      "body": "Nuestro diagnóstico es honesto. Si una pieza todavía tiene vida útil, te lo diremos. No cambiamos componentes por sistema si no es estrictamente necesario."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Todas nuestras reparaciones y piezas instaladas tienen garantía. Queremos que conduzcas con total tranquilidad después de pasar por nuestro taller."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Pasión por nuestro trabajo",
-      "body": "Somos mecánicos por vocación. Nos gusta lo que hacemos y tratamos cada coche como si fuera el nuestro, con el máximo cuidado y atención al detalle."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos para conductores de Mollet y alrededores. Así podrías ser tú.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Can Borrell",
-      "car": "SEAT León 1.6 TDI 2015",
-      "body": "El coche me daba tirones y se encendió el testigo del motor. Lo uso cada día para ir a trabajar a Parets y no podía quedarme tirado. Me diagnosticaron un problema en el filtro de partículas por los trayectos cortos. Me explicaron la solución de forma muy clara y el precio fue el que me dijeron. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Santa Rosa",
-      "car": "Peugeot 2008 1.2 PureTech 2017",
-      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos estaban bien. Les pedí una revisión pre-ITV. Me avisaron de que las pastillas traseras estaban en las últimas y me dieron presupuesto al momento. Lo acepté y en el mismo día lo tenía listo. La ITV la pasé sin ningún fallo. ¡Un servicio genial!",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Montmeló",
-      "car": "Renault Kangoo 1.5 dCi 2016",
-      "body": "Soy repartidor autónomo y mi furgoneta es mi oficina. En pleno junio, el aire acondicionado dejó de enfriar. Era un infierno. Les llamé desesperado y me hicieron un hueco. Detectaron una fuga, la repararon y recargaron el gas. Me salvaron el verano. Rápidos y eficientes, que es lo que necesito.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Centre",
-      "car": "Volkswagen Polo 1.0 TSI 2018",
-      "body": "Solo necesitaba la revisión anual, el cambio de aceite y filtros. Lo que más me gustó fue la transparencia. Me enviaron el presupuesto por WhatsApp y no empezaron hasta que di el OK. Al recogerlo, me explicaron todo lo que habían hecho. Aunque es un mantenimiento sencillo, se agradece el trato cercano.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Mollet del Vallès da servicio a toda la ciudad y sus alrededores. Si vives en barrios como Can Borrell, Plana Lledó, Santa Rosa o Can Pantiquet, estamos a pocos minutos. También somos el taller de confianza para muchos conductores de municipios vecinos como Parets del Vallès, Montmeló, La Llagosta y Sant Fost de Campsentelles. Nuestra ubicación es de fácil acceso desde las principales vías que conectan el Vallès, como la C-17, la C-33 y la autopista AP-7. Vengas de donde vengas, llegar a nuestro taller es sencillo y rápido.",
-  "zoneNeighborhoods": [
-    "Centre",
-    "Can Borrell",
-    "Plana Lledó",
-    "Santa Rosa",
-    "Can Pantiquet",
-    "Estació del Nord",
-    "Parets del Vallès",
-    "Montmeló",
-    "La Llagosta",
-    "Sant Fost de Campsentelles"
-  ],
-  "zoneAccessRoutes": [
-    "AP-7",
-    "C-17",
-    "C-33",
-    "C-59",
-    "N-152a"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Mollet del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es necesario pedir cita previa para la revisión en vuestro taller de Mollet?",
-      "a": "Sí, siempre recomendamos pedir cita. Así podemos reservarte un hueco y asegurarnos de que no tengas que esperar. Especialmente antes de puentes o periodos de vacaciones como verano y Navidad, la agenda se llena rápido. Puedes llamar o escribirnos un WhatsApp para encontrar el mejor momento para ti."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Mollet del Vallès?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche diésel hace solo trayectos cortos por Mollet, ¿qué mantenimiento especial necesita?",
-      "a": "Es una consulta muy común. Los diésel modernos con filtro de partículas (FAP/DPF) sufren en trayectos urbanos porque no alcanzan la temperatura para autolimpiarse. Te recomendamos que, una vez cada dos semanas, salgas a la C-17 o la AP-7 y conduzcas unos 15-20 minutos a un régimen más alto. Además, en el taller podemos realizar limpiezas preventivas para evitar averías."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Tengo una furgoneta de trabajo, ¿tenéis experiencia con este tipo de vehículos?",
-      "a": "Por supuesto. Muchos de nuestros clientes en Mollet y Parets son autónomos y pequeñas empresas. Entendemos que tu furgoneta es tu herramienta de trabajo y que la necesitas operativa lo antes posible. Priorizamos estas reparaciones y tenemos experiencia con los modelos más comunes como Kangoo, Berlingo, Partner o Transit."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Vivo en La Llagosta, ¿vale la pena traer el coche a vuestro taller en Mollet?",
-      "a": "Muchos de nuestros clientes vienen de La Llagosta, Montmeló o Parets. Valoran nuestra transparencia con el presupuesto cerrado y la calidad del trabajo. Estamos muy bien comunicados por la C-17, así que llegar es muy fácil. Además, podemos ofrecerte un coche de cortesía (consulta condiciones) para que no te quedes sin movilidad."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Qué revisáis en el servicio pre-ITV para la estación de Mollet?",
-      "a": "Conocemos perfectamente los puntos que revisan en la ITV de Mollet. Hacemos una inspección completa de los elementos clave: alumbrado y señalización, frenos (eficacia y desequilibrio), suspensión, holguras en la dirección, estado de los neumáticos y, muy importante, la prueba de emisiones de gases. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
-    },
-    {
-      "q": "El aire acondicionado no enfría para el calor del Vallès, ¿la reparación es muy cara?",
-      "a": "Depende de la causa. A veces es solo una recarga de gas, que es económica. Otras veces puede ser una fuga en el circuito o un problema en el compresor. Lo primero que hacemos es un diagnóstico completo del sistema para localizar el fallo exacto. Con esa información, te damos un presupuesto cerrado para que decidas sin compromiso."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Mollet del Vallès",
-  "closingCta": "No dejes que una avería te complique el día. Pide tu presupuesto cerrado para tu coche en Mollet. Llámanos, escríbenos un WhatsApp o rellena el formulario y te contestamos enseguida."
+  "closingHeadline": "Tu BMW y MINI en Mollet del Vallès, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Mollet del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
