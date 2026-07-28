@@ -6,177 +6,124 @@
   "population": 347342,
   "lat": 43.26271,
   "lng": -2.92528,
-  "metaTitle": "Taller mecánico en Bilbao — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Bilbao para revisiones, averías y neumáticos. Presupuestos cerrados sin sorpresas. Atendemos todas las marcas. Pide tu cita ahora.",
-  "heroSubtitle": "Harto de la humedad, los atascos en la A-8 y las cuestas de Bilbao castigando tu coche? Te damos un diagnóstico claro y un precio cerrado.",
+  "metaTitle": "Taller BMW y MINI en Bilbao · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Bilbao. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Bilbao y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Bilbao y Bizkaia tiene su aquel. No es lo mismo circular por la Gran Vía un martes por la mañana que subir las cuestas de Santutxu o Begoña a diario. Tampoco es igual hacer el trayecto diario desde Barakaldo o Getxo por la A-8, con sus atascos y su asfalto mojado por el sirimiri, que usar el coche solo los fines de semana para escapar por la AP-68. En nuestro taller entendemos estas diferencias porque las vivimos cada día. Sabemos que tu coche, ya sea un compacto para moverte por Indautxu o una furgoneta para trabajar por el Gran Bilbao, sufre unas condiciones muy particulares que no se dan en otras partes de España.\n\nEl clima de Bilbao es el primer factor que afecta a la mecánica. La humedad constante y la lluvia frecuente, más de 120 días al año, no solo obligan a tener neumáticos y escobillas en perfecto estado, sino que atacan silenciosamente los componentes metálicos de tu vehículo. Los bajos del coche, el sistema de escape y los discos de freno están más expuestos a la corrosión. Un coche que duerme en la calle en barrios como Deusto o Rekalde sufre mucho más que uno en un clima seco. Por eso, en nuestras revisiones, prestamos especial atención a estos puntos críticos que otros talleres pueden pasar por alto.\n\nLuego está la orografía. Bilbao es una ciudad de cuestas y tráfico denso. El uso intensivo del embrague y los frenos en los continuos arranca-para de los puentes como el de La Salve o en las rampas de los garajes es una causa directa de desgaste prematuro. Si vives en zonas altas o te mueves habitualmente por ellas, es muy probable que tu embrague o tus pastillas de freno duren menos de lo que indica el fabricante. Somos especialistas en diagnosticar estos desgastes y en aconsejarte sobre cómo optimizar tu conducción para alargar la vida de estos componentes tan castigados en nuestra ciudad.\n\nEl parque automovilístico de Bizkaia es variado, pero dominan los coches diésel y gasolina de entre 5 y 15 años: Seat León, Renault Mégane, Ford Focus, Opel Astra... vehículos fiables pensados para hacer kilómetros. Sin embargo, muchos de ellos, sobre todo los diésel, sufren con los trayectos cortos por la ciudad. Ir de Abando al Casco Viejo no es suficiente para que el filtro de partículas se regenere, lo que provoca averías costosas. Conocemos esta problemática a la perfección y sabemos cómo prevenirla y solucionarla sin que te cueste un dineral. Nuestro objetivo es que tu coche esté siempre a punto para enfrentarse a la realidad de Bilbao, con total confianza y sin sorpresas en la factura.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV en Trapagaran hasta un cambio de embrague por el uso urbano, cubrimos toda la mecánica de tu coche en Bilbao.",
-  "processIntro": "Sabemos que no quieres sorpresas. Por eso, en nuestro taller de Bilbao, te damos un presupuesto claro y no hacemos nada sin tu visto bueno.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Bilbao, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Bilbao, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Bilbao te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Bilbao, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuéntanos qué le pasa a tu coche. Lo escuchamos, lo probamos y usamos equipos de diagnosis para encontrar el origen del problema. Sin rodeos, vamos directos al grano para entender qué necesita tu vehículo."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin extras inesperados ni letra pequeña. Transparencia total desde el primer momento."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos des tu aprobación explícita. Tú tienes el control total sobre la reparación. Si decides no hacerla, no hay ningún compromiso."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos del estado de la reparación. Todas nuestras intervenciones tienen garantía para que conduzcas con total tranquilidad por las carreteras de Bizkaia."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche esté listo para recoger. Te explicamos la reparación realizada y, pasados unos días, puede que te llamemos para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima de Bilbao y sus cuestas no perdonan: la humedad ataca los bajos y la conducción urbana desgasta frenos y embragues a un ritmo muy superior a la media.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Bilbao.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos y embrague",
-      "body": "Las cuestas de barrios como Begoña o Santutxu y el tráfico denso en la Gran Vía o en los accesos por la A-8 son un castigo constante para el embrague y los frenos. Este uso intensivo de arrancar en pendiente y frenar continuamente acorta su vida útil. Realizamos revisiones específicas y sustituciones con componentes reforzados para aguantar el ritmo de Bilbao."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Corrosión en bajos y sistema de escape",
-      "body": "La humedad ambiental de Bilbao, el famoso sirimiri, y la salinidad por la cercanía del mar Cantábrico aceleran la oxidación de las partes metálicas inferiores del coche. En cada revisión, inspeccionamos a fondo el chasis, los conductos de freno y el escape para detectar y frenar la corrosión a tiempo, evitando averías graves y problemas en la ITV."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Problemas con el filtro de partículas (FAP)",
-      "body": "Muchos coches diésel en Bilbao se usan para trayectos cortos, como ir de Deusto a Indautxu. Esto impide que el motor alcance la temperatura necesaria para limpiar el filtro de partículas, provocando obstrucciones y costosas averías. Ofrecemos diagnosis, limpieza y regeneración forzada del FAP para que tu diésel respire bien."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Neumáticos y escobillas: seguridad bajo la lluvia",
-      "body": "En Bizkaia, conducir con neumáticos gastados o escobillas que no limpian bien es un peligro. La lluvia puede aparecer en cualquier momento. Comprobamos la presión y el desgaste de tus ruedas, asegurando que el dibujo sea seguro para el asfalto mojado de la N-634 o la AP-8. La visibilidad es seguridad."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Averías en climatización por humedad",
-      "body": "El ambiente húmedo de Bilbao es el caldo de cultivo perfecto para la proliferación de bacterias y moho en los conductos del aire acondicionado, causando malos olores y posibles alergias. Realizamos limpiezas del sistema y cargas de gas para que respires aire limpio y desempañes los cristales rápidamente."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Bilbao y tu coche",
-      "body": "Sabemos lo que implica conducir aquí. Nuestros diagnósticos tienen en cuenta el clima, las cuestas y el tipo de uso que le das al coche en Bizkaia, no solo lo que dice el manual."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que apruebas es lo que pagas al final. Sin sorpresas ni añadidos de última hora. Honestidad por delante."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Reparamos y mantenemos coches de todas las marcas y modelos, desde el Dacia Sandero más común hasta un Mercedes más exclusivo. Tenemos el conocimiento y la herramienta para todos."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Solo te recomendaremos cambiar lo que de verdad es necesario para la seguridad y fiabilidad de tu coche. Si una pieza puede aguantar, te lo diremos claramente."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todo nuestro trabajo y las piezas que instalamos están garantizados por escrito. Queremos que salgas del taller con la máxima tranquilidad y confianza."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores de Bilbao. Los nombres y coches son ilustrativos.",
-  "testimonials": [
-    {
-      "name": "Iker",
-      "neighborhood": "Deusto",
-      "car": "Seat León TDI 2016",
-      "body": "Notaba que el embrague patinaba un poco, sobre todo subiendo a Artxanda. Voy todos los días hasta el Parque Tecnológico de Zamudio y el atasco de la mañana es mortal. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Ahora las marchas entran suaves como la seda.",
-      "rating": 5
-    },
-    {
-      "name": "Leire",
-      "neighborhood": "Santutxu",
-      "car": "Peugeot 208 2018",
-      "body": "Tenía la ITV en una semana y no estaba segura de si la pasaría. Lo llevé para la revisión Pre-ITV y me detectaron las pastillas de freno delanteras en las últimas. Me avisaron, me dieron precio y lo autoricé por WhatsApp. Pasé la ITV a la primera en Trapagaran. Un servicio muy cómodo y profesional.",
-      "rating": 5
-    },
-    {
-      "name": "Javier",
-      "neighborhood": "Barakaldo",
-      "car": "Ford Focus 2015",
-      "body": "Me saltó el chivato del filtro de partículas. Uso el coche sobre todo para moverme por aquí, al Max Center y poco más, y me explicaron que por eso se obstruía. En lugar de cambiarlo, me hicieron una limpieza y regeneración. Me ahorré una pasta y el coche va mucho mejor. Se agradece la honestidad.",
-      "rating": 5
-    },
-    {
-      "name": "Amaia",
-      "neighborhood": "Indautxu",
-      "car": "Renault Clio 2019",
-      "body": "Solo necesitaba la revisión anual y el cambio de aceite. El trato fue muy correcto, me explicaron todo lo que iban a mirar y cumplieron el plazo que me dieron. Aunque no era una avería, me dio confianza ver que son organizados y transparentes. El precio, correcto. Probablemente repita el año que viene.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda el área del Gran Bilbao. Si vives o trabajas en barrios como Deusto, Indautxu, Abando, Santutxu, Begoña o Rekalde, nuestro taller es tu solución de confianza. También cubrimos los municipios colindantes más importantes, recibiendo a diario clientes de Barakaldo, Getxo (Las Arenas, Algorta), Leioa, Sestao, Portugalete, Basauri o Galdakao. Nuestras instalaciones son fácilmente accesibles desde las principales vías que vertebran Bizkaia, como la A-8 (Autovía del Cantábrico), la AP-8, la N-634 o los accesos desde la AP-68, para que venir al taller no te suponga un desvío.",
-  "zoneNeighborhoods": [
-    "Deusto",
-    "Indautxu",
-    "Abando",
-    "Santutxu",
-    "Begoña",
-    "Rekalde",
-    "Barakaldo",
-    "Getxo",
-    "Leioa",
-    "Basauri"
-  ],
-  "zoneAccessRoutes": [
-    "A-8 (Autovía del Cantábrico)",
-    "AP-8 (Autopista del Cantábrico)",
-    "N-634",
-    "AP-68 (Autopista Vasco-Aragonesa)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Bilbao y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "Mi diésel solo hace trayectos cortos por Bilbao, ¿qué debo vigilar?",
-      "a": "Es un uso muy común y problemático. Debes prestar especial atención al filtro de partículas (FAP), que puede obstruirse. También la válvula EGR tiende a acumular carbonilla y la batería sufre más. Te recomendamos que, al menos una vez por semana, salgas a carretera, como la A-8, y conduzcas unos 20 minutos a un régimen más alto para ayudar a limpiar el sistema."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Bilbao?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "¿Es verdad que el clima de Bilbao acelera la corrosión del coche?",
-      "a": "Sí, es totalmente cierto. La combinación de alta humedad durante todo el año y la proximidad al mar crea un ambiente muy agresivo para los metales. Los bajos del coche, el escape y los subchasis son los más afectados. En nuestras revisiones incluimos una inspección visual de estos puntos y podemos recomendarte tratamientos preventivos si es necesario."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en una cuesta en Santutxu, ¿es normal que el embrague me dure menos?",
-      "a": "Sí, es una consecuencia directa. Arrancar en pendientes fuertes de forma repetida somete al disco de embrague a un esfuerzo y fricción mucho mayores que en terreno llano. Es normal que su vida útil se acorte. Podemos revisar su estado y darte algunos consejos de conducción para maximizar su duración."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "¿Hacéis la revisión Pre-ITV para pasarla en las estaciones de Bizkaia?",
-      "a": "Por supuesto. Revisamos más de 80 puntos clave del vehículo, siguiendo los mismos criterios que aplican en las estaciones de ITV de Trapagaran, Amorebieta o Zamudio. Nuestro objetivo es que vayas sobre seguro y la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Uso la Supersur (Variante Sur Metropolitana) a diario, ¿qué mantenimiento es clave?",
-      "a": "La conducción a alta velocidad de forma sostenida exige que los neumáticos estén en perfecto estado de presión y equilibrado, y que la alineación de la dirección sea correcta para evitar desgastes irregulares y garantizar la estabilidad. Los frenos y amortiguadores también son cruciales para la seguridad a esas velocidades. Nos aseguramos de que todo esté perfecto para esos trayectos."
-    },
-    {
-      "q": "¿Tengo un coche eléctrico o híbrido, podéis hacerle el mantenimiento?",
-      "a": "Sí, nuestro equipo cuenta con la formación y herramientas necesarias para realizar el mantenimiento y diagnóstico de la mayoría de vehículos híbridos y eléctricos del mercado. Podemos encargarnos del sistema de frenado, suspensión, neumáticos y diagnosis electrónica, aunque para reparaciones específicas de la batería de alto voltaje te derivaríamos al servicio oficial."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para las calles de Bilbao",
-  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para nuestro taller en Bilbao por teléfono, WhatsApp o rellenando el formulario online. Te daremos una solución clara y honesta."
+  "closingHeadline": "Tu BMW y MINI en Bilbao, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Bilbao y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
