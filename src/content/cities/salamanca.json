@@ -6,178 +6,124 @@
   "population": 144825,
   "lat": 40.96882,
   "lng": -5.66388,
-  "metaTitle": "Taller mecánico en Salamanca — Multimarca y de confianza",
-  "metaDescription": "Tu taller mecánico en Salamanca para revisiones, averías y neumáticos. Presupuesto cerrado y garantía. Pide tu cita ahora y conduce tranquilo.",
-  "heroSubtitle": "Para que la próxima helada en el Zurguén o el calor de julio no te dejen tirado de camino al trabajo por la A-62.",
+  "metaTitle": "Taller BMW y MINI en Salamanca · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Salamanca. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Salamanca y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Todas las marcas"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Revisión Pre-ITV"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Salamanca y su alfoz tiene sus particularidades, y lo sabes bien. No es lo mismo hacer trayectos cortos por el centro para ir a la Facultad o al trabajo, que el viaje diario desde Santa Marta de Tormes, Carbajosa de la Sagrada o Villamayor. Ese uso urbano, de arrancar y parar constantemente por el Paseo de Canalejas o la Gran Vía, es especialmente duro para los coches diésel, que son mayoría en nuestro parque móvil. El filtro de partículas sufre, el embrague se desgasta y el consumo se dispara. En nuestro taller entendemos esta realidad porque la vivimos cada día. Sabemos que tu coche, ya sea un SEAT León para moverte por la ciudad o una furgoneta para trabajar por la provincia, necesita un mantenimiento adaptado a las condiciones de Salamanca, no un manual genérico.\n\nEl clima de Castilla y León es otro factor clave que no podemos ignorar. Las heladas y la niebla densa que nos acompañan durante meses en invierno, especialmente en zonas como Pizarrales o El Zurguén, son una prueba de fuego para las baterías. Cada año, con la primera bajada seria de temperaturas, vemos la misma escena: coches que no arrancan y clientes que llegan tarde al trabajo. Por otro lado, el verano nos trae un calor seco e intenso que pone a prueba el sistema de refrigeración y el aire acondicionado. Quedarse sin aire acondicionado en pleno agosto, atrapado en un atasco en la A-66, no es una opción. Por eso, nuestras revisiones siempre tienen en cuenta estos extremos climáticos, comprobando el estado de la batería, el nivel de anticongelante y el circuito del climatizador.\n\nAdemás, muchos de nosotros usamos el coche para salir de la ciudad, cogiendo la Autovía de Castilla (A-62) hacia Valladolid o la Ruta de la Plata (A-66) hacia el norte o el sur. Estos trayectos por autovía exigen que los neumáticos, los frenos y la suspensión estén en perfecto estado. No es solo una cuestión de pasar la ITV en el polígono de Castellanos de Moriscos, es una cuestión de seguridad para ti y tu familia. Unos amortiguadores en mal estado o unos neumáticos gastados en un día de lluvia en la autovía son un riesgo que no debes correr. En nuestro taller de Salamanca, nos tomamos muy en serio la seguridad, y cada coche que revisamos sale preparado para circular con garantías tanto por las calles de Garrido como por las carreteras nacionales.\n\nEntendemos que tu coche es una herramienta fundamental. Ya seas un autónomo que se mueve por toda la provincia, un estudiante que lo usa para volver a casa los fines de semana o una familia que vive en el alfoz, necesitas un taller de confianza, que te hable claro y te dé un presupuesto cerrado. No queremos que te lleves sorpresas. Nuestro compromiso es ofrecerte un diagnóstico honesto y una reparación de calidad, utilizando recambios de primeras marcas, para que puedas seguir con tu día a día en Salamanca sin preocuparte por la mecánica. Conocemos los coches que se conducen aquí, desde el Peugeot 208 hasta la Citroën Berlingo, y sabemos qué necesitan para funcionar de forma fiable en nuestro entorno.",
-  "servicesIntro": "Desde la revisión anual antes de irte de vacaciones hasta esa avería inesperada, cubrimos todas las necesidades de tu coche en Salamanca.",
-  "processIntro": "Trabajamos con total transparencia para que siempre sepas qué le pasa a tu coche y cuánto te va a costar, sin sorpresas ni letra pequeña.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Salamanca — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Salamanca sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Salamanca te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Salamanca, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico inicial",
-      "body": "Cuando traes tu coche, un mecánico especialista lo revisa a fondo y escucha tus preocupaciones. Utilizamos equipos de diagnosis modernos para identificar con precisión el origen del problema, sea mecánico o electrónico."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te preparamos un presupuesto detallado y por escrito. Lo que ves es lo que pagas. Si durante la reparación surgiera un imprevisto, te contactaríamos inmediatamente para informarte y pedir tu aprobación."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No empezamos ninguna reparación ni cambiamos ninguna pieza sin tu consentimiento explícito. Tienes el control total sobre lo que se le hace a tu vehículo y sobre el coste final de la factura."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación y piezas",
-      "body": "Nuestros mecánicos realizan el trabajo siguiendo las especificaciones del fabricante. Solo utilizamos recambios de primeras marcas con garantía, asegurando una reparación duradera y fiable para tu coche."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura detallada. Nos aseguramos de que te vayas completamente satisfecho con el servicio."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima extremo de Salamanca y el tipo de conducción en la ciudad y su alfoz provocan una serie de averías muy características que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Salamanca.",
   "commonIssues": [
     {
-      "title": "Baterías que mueren en invierno",
-      "body": "El frío intenso y las heladas de Salamanca son el enemigo número uno de las baterías. Si tu coche duerme en la calle en barrios como Capuchinos o San José, es probable que una mañana no arranque. Revisamos y comprobamos el estado de tu batería para evitar que te deje tirado en el peor momento."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Filtro de partículas (DPF) obstruido",
-      "body": "Muchos salmantinos usan su coche diésel para trayectos cortos por la ciudad, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca pérdida de potencia y averías costosas. Realizamos limpiezas y regeneraciones forzadas para alargar la vida del DPF y evitar su sustitución."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor seco y sofocante del verano en Castilla pone el sistema de climatización al límite. Una fuga en el circuito o la falta de gas pueden convertir tu coche en un horno. Hacemos cargas de gas y detectamos fugas para que puedas combatir el calor de julio y agosto sin problemas."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El tráfico de entrar y salir de Salamanca en hora punta, especialmente si vienes de municipios como Carbajosa o Villares de la Reina, castiga mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche frena menos, es hora de una revisión."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas de suspensión y silentblocks",
-      "body": "Aunque las carreteras principales como la A-62 están bien, algunas calles de la ciudad y carreteras comarcales de la provincia tienen un asfalto irregular. Esto, sumado a los badenes, acaba dañando amortiguadores y silentblocks, provocando ruidos y un mal comportamiento del coche."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Expertos en el clima local",
-      "body": "Conocemos el efecto que el frío de enero y el calor de agosto tienen en tu coche. Adaptamos cada revisión a las condiciones climáticas de Salamanca para prevenir las averías más comunes de cada estación."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Para el coche que usas aquí",
-      "body": "Sabemos que el parque móvil de Salamanca es variado. Desde un utilitario para la ciudad hasta un 4x4 para el campo, entendemos las necesidades de cada vehículo y su tipo de uso en nuestra provincia."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Presupuestos sin sustos",
-      "body": "Te damos un presupuesto cerrado antes de empezar. Sin costes ocultos ni sorpresas en la factura final. La honestidad es la base de la confianza, y queremos que vuelvas."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todas nuestras intervenciones y los recambios que utilizamos están garantizados por escrito. Queremos que conduzcas con total tranquilidad sabiendo que el trabajo está bien hecho."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Cerca de ti y de tus rutas",
-      "body": "Estamos ubicados en un punto estratégico de Salamanca, con fácil acceso desde las principales vías como la SA-20 o la A-66, para que dejar y recoger tu coche sea cómodo y rápido."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día, contadas por conductores de Salamanca y alrededores como tú.",
-  "testimonials": [
-    {
-      "name": "Javier",
-      "neighborhood": "Garrido",
-      "car": "SEAT León 1.6 TDI 2016",
-      "body": "Lo uso todos los días para ir a trabajar al polígono y notaba que el coche había perdido fuerza. Me dijeron que era el filtro de partículas por hacer tanto trayecto corto. Me lo solucionaron rápido, con una limpieza, y me explicaron cómo evitar que vuelva a pasar. Muy profesionales y claros.",
-      "rating": 5
-    },
-    {
-      "name": "Isabel",
-      "neighborhood": "Santa Marta de Tormes",
-      "car": "Renault Clio 2018",
-      "body": "Tenía que pasar la ITV y no estaba segura de si los frenos y las luces estaban bien. Les pedí una revisión pre-ITV y me encontraron una bombilla fundida y las pastillas de freno delanteras algo gastadas. Me lo cambiaron en el mismo día y pasé la ITV sin ningún problema. Un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "Pizarrales",
-      "car": "Ford Focus 2012",
-      "body": "Con el frío de enero, el coche empezó a hacer el tonto al arrancar hasta que un día no hubo manera. La batería estaba muerta. Les llamé, me dieron cita para esa misma tarde y me pusieron una nueva a un precio razonable. Me salvaron de una buena. Muy agradecido por la rapidez.",
-      "rating": 5
-    },
-    {
-      "name": "Sara",
-      "neighborhood": "Carbajosa de la Sagrada",
-      "car": "Peugeot 3008 2017",
-      "body": "El aire acondicionado no enfriaba nada, solo echaba aire caliente. Con el verano que nos esperaba, era un drama. Me encontraron una pequeña fuga en el circuito, la repararon y me recargaron el gas. Ahora enfría perfectamente. El trato fue bueno, aunque tardaron un poco más de lo previsto.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Salamanca y a los principales municipios de su alfoz. Si vives en barrios como Garrido, El Zurguén, Pizarrales, Capuchinos, San Bernardo o Vidal, nuestro taller te queda a mano. También somos el taller de confianza para muchos conductores que viven en Santa Marta de Tormes, Carbajosa de la Sagrada, Villamayor, Villares de la Reina o Aldeatejada y que entran a Salamanca a diario para trabajar o estudiar. Gracias a nuestra ubicación, puedes llegar fácilmente desde las principales vías de acceso como la A-62 (Autovía de Castilla), la A-66 (Ruta de la Plata) o la circunvalación SA-20, evitando el tráfico del centro de la ciudad.",
-  "zoneNeighborhoods": [
-    "Garrido",
-    "Pizarrales",
-    "El Zurguén",
-    "San Bernardo",
-    "Vidal",
-    "Capuchinos",
-    "Santa Marta de Tormes",
-    "Carbajosa de la Sagrada",
-    "Villamayor",
-    "Villares de la Reina"
-  ],
-  "zoneAccessRoutes": [
-    "A-62 (Autovía de Castilla)",
-    "A-66 (Autovía Ruta de la Plata)",
-    "SA-20 (Ronda Sur de Salamanca)",
-    "N-620",
-    "N-630"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Salamanca y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es necesario poner neumáticos de invierno en Salamanca?",
-      "a": "No es obligatorio, pero sí muy recomendable. Los inviernos en Salamanca son fríos, con heladas frecuentes y posibilidad de nieve. Un neumático de invierno o un 'todo tiempo' con certificación invernal te dará mucha más seguridad y agarre por debajo de 7°C, algo habitual durante varios meses al año, especialmente si circulas a primera hora de la mañana."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Salamanca?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Uso mi coche diésel solo para moverme por la ciudad. ¿Qué mantenimiento especial necesita?",
-      "a": "El uso exclusivo en ciudad es muy perjudicial para los diésel modernos. El filtro de partículas (DPF) no alcanza la temperatura para regenerarse y se obstruye. Te recomendamos que, al menos una vez por semana, salgas a carretera y conduzcas durante 20-30 minutos a un régimen de revoluciones más alto (por ejemplo, en 4ª a 100-110 km/h por la A-62) para forzar esa limpieza."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Tengo que pasar la ITV en el polígono de Castellanos de Moriscos, ¿revisáis los puntos clave?",
-      "a": "Sí, por supuesto. Ofrecemos un servicio de revisión Pre-ITV muy completo. Comprobamos todos los puntos críticos que miran en la inspección: luces, frenos, neumáticos, suspensión, niveles de líquidos y emisiones de gases. Así te aseguras de pasarla a la primera y te ahorras tiempo y dinero."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "En invierno echan mucha sal en las carreteras, ¿puede dañar mi coche?",
-      "a": "Sí, la sal es muy corrosiva para los bajos del coche, el sistema de escape, los frenos y la carrocería. Es muy importante lavar el coche con frecuencia en invierno, prestando especial atención a los bajos, para eliminar los restos de sal y prevenir la oxidación prematura de componentes metálicos."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Mi coche tiene ya más de 10 años, ¿seguís trabajando con modelos más antiguos?",
-      "a": "Claro que sí. Somos un taller multimarca y estamos acostumbrados a trabajar con el parque automovilístico real de Salamanca, que incluye muchos coches de entre 8 y 15 años. Tenemos la experiencia y el equipo para diagnosticar y reparar tanto modelos recientes como vehículos más veteranos."
-    },
-    {
-      "q": "¿Puedo esperar en el taller mientras hacéis una reparación rápida?",
-      "a": "Para intervenciones cortas como un cambio de aceite, de pastillas de freno o la sustitución de una batería, puedes esperar en nuestra zona de clientes. Para reparaciones más largas, te recomendamos dejar el coche y te avisaremos por teléfono en cuanto esté listo para recoger."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Salamanca",
-  "closingCta": "Pide tu presupuesto sin compromiso o reserva tu cita. Llámanos o escríbenos un WhatsApp y te atenderemos encantados para resolver cualquier duda sobre tu coche en Salamanca."
+  "closingHeadline": "Tu BMW y MINI en Salamanca, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Salamanca y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
