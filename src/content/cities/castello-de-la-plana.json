@@ -6,178 +6,124 @@
   "population": 171857,
   "lat": 39.98567,
   "lng": -0.04935,
-  "metaTitle": "Taller mecánico en Castelló de la Plana — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Castelló. Presupuesto cerrado para revisiones, averías, neumáticos e ITV en todas las marcas. Pide tu cita ahora.",
-  "heroSubtitle": "Para ti, que usas el coche cada día por la Ronda Este o la CV-10 y no quieres sorpresas ni averías tontas en el peor momento.",
+  "metaTitle": "Taller BMW y MINI en Castelló de la Plana · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Castelló de la Plana. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Castelló de la Plana y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Castelló tiene sus particularidades. Lo sabemos porque también las vivimos. Cogemos el coche para ir a trabajar a Vila-real por la CV-10, para llevar a los niños al colegio en la zona de Lledó, para hacer la compra o para bajar al Grao el fin de semana. Entendemos perfectamente lo que significa depender de un coche que arranque a la primera, que el aire acondicionado enfríe de verdad en julio y que los frenos respondan al instante en una de las mil rotondas de la ciudad. No eres un número más; eres un vecino de Castelló que necesita su Renault Mégane, su SEAT León o su furgoneta del trabajo a punto, sin excusas ni facturas infladas.\n\nEl clima de la Plana no perdona. El sol intenso de verano castiga la pintura y los plásticos interiores, pero sobre todo pone a prueba el sistema de climatización. Y qué decir del salitre. Si vives o trabajas cerca del Grao, sabes que la humedad y la salinidad del aire se comen poco a poco los bajos del coche, el escape y los conductos de freno. No es una exageración, es una realidad que vemos cada día en el elevador. Por eso, nuestras revisiones van más allá de un simple cambio de aceite; buscamos esos puntos débiles que el clima mediterráneo ataca sin piedad, para que una pequeña corrosión no se convierta en una avería seria y cara.\n\nConocemos el parque móvil de Castelló. No es el de una gran capital, es el de una ciudad trabajadora. Vemos a diario los Peugeot 308, los Ford Focus y los Opel Astra que circulan por la N-340. También las Citroën Berlingo y las Peugeot Partner de autónomos y pequeñas empresas del sector cerámico o de la construcción, vehículos que necesitan estar siempre en marcha. Sabemos cuáles son los fallos endémicos del motor diésel que hace muchos trayectos cortos por la ciudad, los puntos débiles de la suspensión que sufre en los polígonos o los problemas eléctricos más comunes en los modelos de entre 5 y 15 años que forman el grueso de nuestro trabajo.\n\nNuestro enfoque es sencillo: mecánica honesta y adaptada a la realidad de Castelló. No te vamos a recomendar un cambio de piezas que no necesitas ni a usar un lenguaje técnico que no entiendas. Te explicaremos qué le pasa a tu coche, por qué le pasa (seguramente por una mezcla del tráfico de la Ronda de la Magdalena y el calor del verano) y te daremos un presupuesto cerrado para solucionarlo. Queremos ser tu taller de confianza en Castelló, el sitio al que vienes tranquilo porque sabes que cuidaremos de tu coche como si fuera nuestro.",
-  "servicesIntro": "Cubrimos todo lo que tu coche necesita para moverse con seguridad por Castelló y alrededores, desde la revisión anual hasta esa avería inesperada.",
-  "processIntro": "Trabajamos con total transparencia para que sepas qué le pasa a tu coche, cuánto cuesta y decidas tú. Sin sorpresas en la factura final.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Castelló de la Plana — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Castelló de la Plana, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Castelló de la Plana te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Castelló de la Plana, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa y conectamos nuestros equipos de diagnosis para identificar el origen exacto del problema. No dejamos nada al azar, revisamos el coche a fondo para entender la causa real."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos por WhatsApp o email un presupuesto detallado y en euros, sin letra pequeña. Incluye piezas, mano de obra e IVA. El precio que ves es el precio que pagas, ni un céntimo más."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Tienes el control total. Si decides no reparar, solo se factura el tiempo de diagnóstico si procede."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado, informándote si surge cualquier imprevisto."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El calor, la humedad del mar y el tráfico diario en Castelló provocan una serie de averías muy características que vemos y solucionamos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Castelló de la Plana.",
   "commonIssues": [
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "De junio a septiembre, el climatizador de un coche en Castelló trabaja a pleno rendimiento. El calor extremo y la humedad provocan fugas en el circuito, fallos del compresor y filtros que se saturan. Hacemos una diagnosis completa del sistema, localizamos fugas con nitrógeno y recargamos el gas para que vuelvas a pasar un verano fresco al volante."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Filtros de partículas (DPF) obstruidos",
-      "body": "Muchos diésel en Castelló hacen trayectos cortos: del barrio de Sensal al centro, o a la UJI. Este uso urbano impide que el filtro de partículas se regenere correctamente, provocando pérdida de potencia y averías caras. Realizamos limpiezas químicas y regeneraciones forzadas para devolverle la vida y evitar su sustitución."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Corrosión en bajos y sistema de escape",
-      "body": "El salitre del Grao es implacable. Acelera la oxidación de los componentes metálicos expuestos, como el escape, los silenblocks y los conductos de freno. En nuestras revisiones prestamos especial atención a estos puntos críticos, sobre todo si aparcas habitualmente cerca de la playa, para garantizar tu seguridad y evitarte sustos en la ITV."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico de Castelló, con sus incontables rotondas y semáforos en arterias como la Ronda Mijares o la Avenida de Valencia, castiga el sistema de embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Cambiamos kits de embrague y sistemas de frenado para que conduzcas con total seguridad."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas de suspensión y neumáticos",
-      "body": "Entre los badenes de las zonas residenciales y el asfalto a veces irregular de los polígonos industriales como el del Serrallo, la suspensión sufre. Un amortiguador en mal estado no solo es incómodo, sino que alarga la frenada y desgasta mal los neumáticos. Revisamos y sustituimos amortiguadores, silentblocks y rótulas para que tu coche pise firme."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado por escrito. Lo que apruebas es lo que pagas. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. La honestidad es nuestra principal herramienta."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Especialistas en tu coche",
-      "body": "Conocemos perfectamente los coches que se conducen en Castelló, desde un SEAT Ibiza a una furgoneta de trabajo. Sabemos sus puntos débiles y cómo solucionarlos de forma eficaz, sin perder el tiempo."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Olvídate de tecnicismos. Te explicamos las cosas para que las entiendas, por teléfono o WhatsApp. Te enviamos fotos o vídeos si es necesario. Queremos que confíes en nosotros."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Garantía en todas las reparaciones",
-      "body": "Todas nuestras intervenciones y los recambios que instalamos están cubiertos por la garantía legal. Puedes estar tranquilo, tu coche está en buenas manos y respondemos por nuestro trabajo."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Nos adaptamos a ti",
-      "body": "Sabemos que necesitas el coche. Intentamos darte cita lo antes posible y cumplimos los plazos. Si la reparación se alarga, consulta la disponibilidad de nuestro coche de cortesía para que no te quedes parado."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de situaciones reales de conductores de Castelló que ya han confiado en nosotros.",
-  "testimonials": [
-    {
-      "name": "José Manuel",
-      "neighborhood": "Grao de Castelló",
-      "car": "Renault Scénic 1.5 dCi 2015",
-      "body": "Vivimos en el Grao y la humedad nos estaba destrozando los bajos del coche. En la pre-ITV me detectaron corrosión en el escape y un conducto de freno. Me lo explicaron todo con fotos, me dieron un presupuesto muy razonable y en dos días lo tenía listo. Pasé la ITV sin problemas. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Carla",
-      "neighborhood": "Zona UJI",
-      "car": "SEAT Ibiza 1.0 TSI 2018",
-      "body": "El aire acondicionado dejó de enfriar justo a principios de verano. Con el calor que hace aquí, era imposible ir en el coche. Me dieron cita rápido, encontraron una pequeña fuga en una tubería y lo solucionaron en el mismo día. El precio, el que me dijeron al principio. Un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "Marc",
-      "neighborhood": "Almassora",
-      "car": "Peugeot Partner Tepee 2016",
-      "body": "Uso la furgoneta para trabajar y me saltó el aviso de 'riesgo de obstrucción FAP'. Hago mucho reparto por Castelló y Vila-real. Me hicieron una limpieza del filtro y me explicaron cómo conducir para evitar que volviera a pasar. Me ahorraron una pasta al no tener que cambiarlo. Muy agradecido.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Sensal",
-      "car": "Ford Focus 1.6 2014",
-      "body": "Notaba un ruido raro en la rueda delantera al girar en las rotondas. Pensaba que sería algo grave. Resultó ser una rótula de la suspensión. Me cambiaron las dos del eje delantero por seguridad y el coche va como la seda. El trato fue muy bueno, aunque tardaron un poco más de lo previsto.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Castelló de la Plana, desde los barrios del centro hasta el distrito marítimo del Grao, pasando por zonas como Rafalafena, Lledó o el área de la UJI. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes que vienen de municipios cercanos, ya que estamos conectados con las principales vías.\n\nSi vives o trabajas en localidades colindantes como Almassora, Vila-real, Benicàssim o Borriol, llegar a nuestro taller es muy sencillo. Muchos de nuestros clientes aprovechan su trayecto diario por la CV-10 (Autovía de la Plana), la N-340 o la CS-22 para dejar su vehículo a primera hora y recogerlo al volver del trabajo. Olvídate de callejear por el centro, estamos en una zona accesible para que cuidar de tu coche sea fácil y no una pérdida de tiempo.",
-  "zoneNeighborhoods": [
-    "Castelló de la Plana",
-    "Grao de Castelló",
-    "Almassora",
-    "Vila-real",
-    "Benicàssim",
-    "Borriol",
-    "Sensal",
-    "Rafalafena",
-    "Lledó",
-    "Peri 18"
-  ],
-  "zoneAccessRoutes": [
-    "CV-10 (Autovía de la Plana)",
-    "N-340",
-    "AP-7",
-    "CS-22 (Acceso al Puerto)",
-    "CV-18 (Carretera de Almassora)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Castelló de la Plana y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión pre-ITV para la estación de Castelló?",
-      "a": "Sí, por supuesto. Conocemos perfectamente los puntos que más miran en la estación de ITV de Castelló. Hacemos una revisión exhaustiva de frenos, luces, neumáticos, emisiones y posibles holguras para que vayas con la total tranquilidad de que vas a pasarla a la primera. Si detectamos algo, te damos presupuesto para solucionarlo antes de que vayas."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Castelló de la Plana?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Vivo en el Grao, ¿debería hacer algún mantenimiento especial por el salitre?",
-      "a": "Es una muy buena pregunta. La salinidad acelera la corrosión. Te recomendamos, al menos una vez al año, hacer una inspección visual de los bajos en un elevador. En nuestro taller, durante la revisión anual, prestamos especial atención al estado del sistema de escape, los conductos de freno y la cuna del motor, que son las zonas más expuestas. Así prevenimos averías graves."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría lo suficiente para el verano de aquí, ¿es una recarga y ya está?",
-      "a": "No siempre. Una pérdida de rendimiento suele indicar una fuga en el circuito. Antes de recargar sin más, comprobamos la estanqueidad del sistema con nitrógeno. Así nos aseguramos de que la reparación sea duradera y no tengas que volver en unas semanas. En Castelló, un A/C que funcione bien no es un lujo, es una necesidad."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo un diésel y hago muchos trayectos cortos por la ciudad. ¿Qué puedo hacer?",
-      "a": "Es un problema muy común en Castelló. Para evitar la saturación del filtro de partículas (DPF), te recomendamos que al menos una vez por semana salgas a carretera, por ejemplo por la CV-10, y conduzcas durante unos 15-20 minutos a un régimen de unas 2.500 rpm. Esto ayuda a que el filtro se regenere. Si ya tienes problemas, podemos hacer una limpieza profesional en el taller."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Trabajáis con furgonetas de autónomos?",
-      "a": "Claro que sí. Sabemos que tu furgoneta es tu herramienta de trabajo y no puede estar parada. Damos prioridad a los vehículos profesionales para que la tengas de vuelta lo antes posible. Hacemos mantenimientos, embragues, distribuciones y cualquier avería en las furgonetas más habituales de la zona (Partner, Berlingo, Kangoo, Transit...)."
-    },
-    {
-      "q": "Voy a comprar un coche de segunda mano en Castelló, ¿podéis revisarlo antes?",
-      "a": "Sí, ofrecemos un servicio de revisión pre-compra. Es una inversión muy pequeña que te puede ahorrar mucho dinero y disgustos. Lo subimos al elevador, conectamos la diagnosis y revisamos más de 50 puntos clave del vehículo para darte un informe completo de su estado real. Así compras con total confianza."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Castelló",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Castelló. Estamos para ayudarte."
+  "closingHeadline": "Tu BMW y MINI en Castelló de la Plana, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Castelló de la Plana y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
