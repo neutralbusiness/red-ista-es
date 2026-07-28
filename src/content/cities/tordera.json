@@ -6,178 +6,124 @@
   "population": 15345,
   "lat": 41.69914,
   "lng": 2.71888,
-  "metaTitle": "Taller mecánico en Tordera — Multimarca y de confianza",
-  "metaDescription": "Tu coche a punto en Tordera. Presupuestos cerrados para revisión, averías y neumáticos. Cerca de la N-II y Palafolls. Pide tu cita sin compromiso.",
-  "heroSubtitle": "Cansado de los talleres que te lían con facturas sorpresa? Aquí te damos un presupuesto cerrado para que conduzcas tranquilo por la N-II.",
+  "metaTitle": "Taller BMW y MINI en Tordera · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Tordera. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Tordera y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En nuestro taller de Tordera entendemos que tu coche es una herramienta esencial, no un lujo. Sabemos lo que significa vivir aquí, a caballo entre el Maresme y La Selva, y depender del vehículo para todo: para ir a trabajar a los polígonos de la zona, para llevar a los niños al colegio o para hacer la compra semanal. Comprendemos perfectamente el desgaste que supone el trayecto diario hacia Blanes, Mataró o incluso Girona, utilizando constantemente la N-II o buscando la entrada a la AP-7. Ese uso intensivo, con tramos de carretera nacional y paradas constantes en las rotondas de acceso a Palafolls o Malgrat, es el día a día de la mayoría de coches que vemos por aquí, y sabemos exactamente qué componentes sufren más.\n\nEl parque móvil de Tordera es un reflejo de su gente: práctico y trabajador. Vemos a diario los SEAT Ibiza y León, los Renault Clio, los Peugeot 308 y los Ford Focus que forman el grueso de los coches familiares. También conocemos al dedillo las furgonetas como la Citroën Berlingo, la Peugeot Partner o la Ford Transit, imprescindibles para los autónomos y pequeñas empresas de los polígonos de Can Verdalet o el polígon Fibracolor. La mayoría son diésel de hace unos años, coches fiables que necesitan un mantenimiento preventivo para evitar problemas con el filtro de partículas por los trayectos cortos dentro del pueblo, desde urbanizaciones como Tordera Parc hasta el centro.\n\nEl clima de Tordera, con la humedad que aporta el río y los veranos calurosos, también deja su huella en la mecánica. No es lo mismo un coche que duerme en la calle en la zona de Sant Pere, expuesto a la humedad nocturna, que uno guardado en garaje. Esta humedad afecta a las baterías, a los sistemas de arranque y puede acelerar la corrosión en los bajos si no se vigila. En verano, un sistema de aire acondicionado que funcione a pleno rendimiento no es una opción, es una necesidad para soportar los atascos en la N-II dirección a las playas de la Costa Brava.\n\nSabemos que tu coche no solo circula por asfalto. Muchos de nuestros clientes aprovechan la cercanía del Parc Natural del Montnegre i el Corredor para hacer escapadas de fin de semana, circulando por pistas y caminos que ponen a prueba la suspensión y los neumáticos. Otros hacen un uso puramente urbano, moviéndose entre las diferentes urbanizaciones como Agora Parc o Mas Martí, lo que implica un desgaste diferente, más centrado en frenos y embrague. Sea cual sea tu caso, conocemos las condiciones y adaptamos nuestro diagnóstico a la realidad de conducir en Tordera y sus alrededores.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Blanes sin sustos hasta cambiar un embrague gastado de tanto circular por la N-II, cubrimos todas tus necesidades.",
-  "processIntro": "En nuestro taller de Tordera, la transparencia es la pieza más importante. Te damos un presupuesto claro y no movemos un tornillo sin tu autorización.",
+  "introLocal": "En Tordera vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEn los MINI que vemos en Tordera, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Tordera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Tordera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin extras ni sorpresas de última hora. Así sabes exactamente cuánto te va a costar."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. Hasta que no nos confirmas que estás de acuerdo, tu coche no se toca. Tú tienes siempre el control total."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Nos ponemos manos a la obra utilizando piezas de primera calidad. Te mantenemos informado del proceso y cumplimos con los plazos acordados para que recuperes tu coche lo antes posible."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos cuando tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para asegurar que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "Los coches en Tordera sufren por el tráfico de la N-II, la humedad del río y los trayectos cortos por el pueblo. Estos son los problemas que más vemos y solucionamos:",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Tordera.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El uso diario de la N-II hacia Blanes o Mataró, con sus retenciones y rotondas, junto con el tráfico interno de Tordera, castiga mucho el embrague y los frenos. Realizamos sustituciones con componentes de calidad para asegurar una frenada segura y cambios de marcha suaves, adaptados a este tipo de conducción mixta."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Fallos en el sistema de aire acondicionado",
-      "body": "Los veranos húmedos y calurosos de la zona hacen que el aire acondicionado trabaje a máxima potencia. Es común que aparezcan fugas de gas o fallos en el compresor. Hacemos diagnósticos precisos, recargas de gas y reparaciones para que puedas afrontar el calor sin problemas."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Problemas de batería y arranque en frío",
-      "body": "La humedad del entorno del río Tordera, especialmente en invierno, afecta a la capacidad de la batería. Si además haces trayectos cortos, como ir de una urbanización al centro, la batería no se recarga por completo. Comprobamos el estado de tu batería y alternador para evitar que te deje tirado."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Entre las calles del pueblo, las carreteras comarcales hacia Hostalric y los caminos rurales cerca del Montnegre, la suspensión y los neumáticos sufren mucho. Revisamos amortiguadores, silentblocks y alineamos la dirección para garantizar tu seguridad y confort, sea cual sea el firme por el que conduzcas."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Averías en filtros de partículas (FAP/DPF)",
-      "body": "Muchos diésel en Tordera se usan para recorridos cortos que no permiten que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas y regeneraciones forzadas para alargar la vida del FAP y evitar que el coche entre en modo de emergencia."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Tordera",
-      "body": "Sabemos cómo afecta a tu coche conducir a diario por la N-II, la humedad del río o los caminos del Montnegre. Nuestro diagnóstico siempre tiene en cuenta la realidad local."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Sin letra pequeña ni extras inesperados en la factura final. Claridad ante todo."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Técnicos, no comerciales",
-      "body": "Hablamos tu idioma. Te explicamos las averías de forma sencilla y honesta, centrándonos en la solución que realmente necesitas, sin intentar venderte reparaciones innecesarias."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Expertos en tu marca",
-      "body": "Desde un SEAT León para ir a trabajar hasta una furgoneta Peugeot Partner para tu negocio, conocemos el parque móvil de la zona y tenemos la experiencia para tratar cada coche como se merece."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y las piezas que utilizamos están garantizadas por escrito. Queremos que salgas del taller con total tranquilidad y confianza en el trabajo realizado."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones reales que nos encontramos. Quizá te sientas identificado con la experiencia de estos conductores de Tordera y alrededores.",
-  "testimonials": [
-    {
-      "name": "Anna",
-      "neighborhood": "Tordera Parc",
-      "car": "SEAT Ibiza 1.6 TDI 2015",
-      "body": "Hago cada día el trayecto Tordera-Mataró por la nacional y el coche empezaba a hacer un ruido raro al cambiar de marcha. Pensé que sería una pasta. Aquí me lo miraron, me explicaron que era el embrague y me dieron un presupuesto cerrado. Cumplieron con el precio y el plazo. Ahora va perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
-      "neighborhood": "Sant Pere",
-      "car": "Peugeot Partner 2018",
-      "body": "Uso la furgoneta para trabajar por todo el Maresme y no puedo permitirme que falle. La traje para la revisión completa antes de un pico de trabajo y me detectaron un desgaste en las pastillas de freno que otros no habían visto. Muy profesionales, entienden que para algunos el vehículo es nuestra oficina.",
-      "rating": 5
-    },
-    {
-      "name": "Carme",
-      "neighborhood": "Palafolls",
-      "car": "Renault Clio 2016",
-      "body": "Tenía que pasar la ITV en Blanes y siempre voy con miedo. Los traje para una revisión pre-ITV y me ajustaron los faros y un par de cosas más que seguro me habrían tirado para atrás. La pasé a la primera sin problemas. Un servicio que te ahorra tiempo y dinero.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "Fogars de la Selva",
-      "car": "Ford Focus 2013",
-      "body": "Se me encendió una luz de avería del motor volviendo a casa por la GI-512. Me asusté bastante. Llamé y me atendieron rápido. Resultó ser un sensor del filtro de partículas. No fue una reparación barata, pero me explicaron bien el porqué y me dieron opciones. Agradezco la honestidad.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Tordera y sus alrededores. Tanto si vives en el núcleo urbano como en barrios y urbanizaciones como Tordera Parc, Sant Pere, Fibracolor, Mas Martí o Agora Parc, estamos a tu disposición. Nuestra ubicación es ideal para clientes de municipios vecinos que buscan un taller de confianza, como Palafolls, Blanes, Malgrat de Mar, Santa Susanna y Fogars de la Selva. Gracias a nuestro fácil acceso desde la N-II y la BV-5122, llegar a nuestro taller es muy sencillo. También estamos a pocos minutos de los accesos a las principales vías rápidas como la AP-7 y la C-32.",
-  "zoneNeighborhoods": [
-    "Tordera Parc",
-    "Sant Pere",
-    "Fibracolor",
-    "Mas Martí",
-    "Agora Parc",
-    "Sant Daniel",
-    "Palafolls",
-    "Blanes",
-    "Malgrat de Mar",
-    "Fogars de la Selva"
-  ],
-  "zoneAccessRoutes": [
-    "N-II",
-    "AP-7",
-    "C-32",
-    "BV-5122",
-    "GI-512"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Tordera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la Pre-ITV? Tengo que ir a la de Blanes y siempre me ponen pegas.",
-      "a": "Sí, por supuesto. Es uno de nuestros servicios más solicitados. Sabemos que la ITV de Blanes es exigente. Hacemos una revisión exhaustiva de los mismos puntos que miran ellos: luces, frenos, emisiones, neumáticos, suspensión... Así te aseguras de ir sobre seguro y pasarla a la primera, ahorrándote un segundo viaje y el coste de la reinspección."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Tordera?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche es diésel y casi solo lo uso por Tordera, ¿necesita un mantenimiento especial?",
-      "a": "Sí, es muy importante vigilarlo. Los diésel modernos con filtro de partículas (FAP) necesitan carretera para regenerarse. Si solo haces trayectos cortos por Tordera, el filtro puede obstruirse y provocar averías graves. Te recomendamos traerlo para revisiones periódicas donde podemos forzar la regeneración o realizar una limpieza si es necesario, y te daremos consejos para cuidarlo."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en una urbanización como Agora Parc, ¿el desgaste por esos caminos es diferente?",
-      "a": "Totalmente. Las calles de muchas urbanizaciones, con pendientes pronunciadas, curvas cerradas y a veces un asfalto más irregular, castigan más la suspensión, los neumáticos y los frenos. En nuestras revisiones prestamos especial atención a estos elementos si nos comentas que vives en una de estas zonas de Tordera, para garantizar tu seguridad."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Trabajo con la furgoneta por los polígonos de Tordera y Palafolls, ¿entendéis de vehículos comerciales?",
-      "a": "Claro que sí. Conocemos perfectamente las necesidades de los profesionales y autónomos de la zona. Sabemos que tu furgoneta es tu herramienta de trabajo y que no puede estar parada. Priorizamos estas reparaciones y entendemos el tipo de desgaste que sufren por la carga y el uso intensivo, tanto en motor como en frenos y embrague."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Tengo que coger la AP-7 todos los días, ¿qué revisión recomendáis para estar seguro?",
-      "a": "Para un uso intensivo en autopista, la seguridad es clave. Recomendamos una revisión enfocada en neumáticos (presión y desgaste), sistema de frenado, niveles de líquidos (aceite y refrigerante) y el estado de la correa de distribución si se acerca al kilometraje recomendado por el fabricante. Conducir a alta velocidad exige que el coche esté en perfecto estado."
-    },
-    {
-      "q": "El aire acondicionado de mi coche no enfría bien en verano, ¿es por la humedad de aquí?",
-      "a": "La humedad ambiental no debería afectar directamente al rendimiento si el sistema está bien, pero sí hace que la sensación de calor sea mayor y necesites que funcione al 100%. Lo más probable es que tu sistema tenga una pequeña fuga y haya perdido parte del gas refrigerante. Lo revisamos, detectamos la fuga si la hay y lo recargamos para que vuelva a enfriar como el primer día."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para Tordera",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes más. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Tordera sin ningún compromiso."
+  "closingHeadline": "Tu BMW y MINI en Tordera, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Tordera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
