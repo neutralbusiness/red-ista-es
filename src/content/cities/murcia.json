@@ -6,178 +6,124 @@
   "population": 471982,
   "lat": 37.98704,
   "lng": -1.13004,
-  "metaTitle": "Taller mecánico en Murcia — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Murcia para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide tu cita ahora y conduce con tranquilidad.",
-  "heroSubtitle": "Harto del calor de Murcia castigando tu coche y de talleres con sorpresas en la factura? Te damos un presupuesto claro y cerrado.",
+  "metaTitle": "Taller BMW y MINI en Murcia · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Murcia. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Murcia y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir en Murcia es un desafío único para tu coche. No es solo el tráfico denso de la Ronda Oeste a primera hora o los atascos para cruzar el Segura por el centro. Es el clima. Es saber que tu coche va a pasar meses soportando más de 35 grados, aparcado al sol mientras trabajas o haces la compra. Entendemos perfectamente lo que significa depender del coche para ir a la Universidad de Murcia en Espinardo, para el trabajo diario desde Molina de Segura o Alcantarilla, o simplemente para disfrutar de un fin de semana escapando por la A-30 hacia la costa.\n\nEl calor implacable de la región es el enemigo número uno de la mecánica. El sistema de refrigeración de tu coche, ya sea un SEAT León o un Peugeot 3008, trabaja a pleno rendimiento durante casi medio año. El aire acondicionado no es un lujo, es una necesidad vital que fuerza al compresor y puede provocar fugas de gas. El asfalto de la A-7 en agosto se convierte en una lija para tus neumáticos y el sol castiga la pintura, los plásticos y, sobre todo, la batería. A esto se suma el polvo fino, casi omnipresente, que viene de la huerta y de los episodios de calima, obstruyendo filtros y reduciendo la eficiencia del motor.\n\nSabemos que tu coche es una herramienta esencial. Quizás eres un autónomo con una Citroën Berlingo que necesita para repartir productos de la huerta, o un comercial que recorre la provincia de punta a punta. O puede que seas una familia de La Flota o Vistalegre que usa su monovolumen para todo. El parque automovilístico de Murcia es variado, pero los problemas suelen ser comunes y están directamente ligados a nuestro entorno: embragues que sufren en las cuestas de las urbanizaciones y en el tráfico urbano, frenos que se desgastan en los trayectos cortos y repetitivos, y motores diésel con filtros de partículas que se ahogan por no poder regenerar en los trayectos por la ciudad.\n\nPor eso, nuestro enfoque va más allá de un simple cambio de aceite. Cuando traes tu coche para una revisión, no solo miramos los puntos estándar. Comprobamos el estado del circuito de refrigeración, la carga del aire acondicionado y la salud de la batería, anticipándonos a las averías más típicas del verano murciano. Realizamos una pre-ITV exhaustiva pensando en los estándares de las estaciones de la región, para que vayas tranquilo. Conocemos los coches que se conducen aquí y los problemas que dan, y te hablamos claro, sin tecnicismos innecesarios y con un presupuesto que no cambia.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV en Espinardo sin sustos hasta el cambio de embrague por el tráfico de la Ronda Sur, cubrimos todo.",
-  "processIntro": "Creemos que la confianza es clave. Por eso, te explicamos todo claro, te damos un precio final por escrito y no hacemos nada sin tu permiso.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Murcia, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Murcia sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Murcia te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Murcia, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando tu coche llega, escuchamos lo que te preocupa y realizamos una inspección completa. Usamos equipos de diagnosis modernos para identificar la raíz del problema, sea mecánica o electrónica, sin rodeos."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye mano de obra y piezas, con el IVA desglosado. El precio que ves es el que pagas. Sin sorpresas ni añadidos de última hora."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Tienes el control total. Si durante la reparación surgiera algo imprevisto, te volveríamos a contactar."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Nuestro objetivo es devolverte el coche lo antes posible, pero siempre priorizando un trabajo bien hecho y con garantía."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Al recoger tu coche, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuros mantenimientos y nos aseguramos de que todo funcione perfectamente. Tu tranquilidad es nuestro objetivo."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El sol implacable, el polvo del campo y los atascos en la A-30 para ir a trabajar generan averías muy típicas en los coches de Murcia. Aquí te contamos las más comunes.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Murcia.",
   "commonIssues": [
     {
-      "title": "Fallo del aire acondicionado",
-      "body": "En Murcia, el aire acondicionado no es opcional. Las temperaturas de más de 40°C fuerzan el sistema al máximo, provocando fugas de gas, averías en el compresor o fallos en el electroventilador. Es la avería reina del verano. Revisamos el circuito para que no te quedes tirado sudando en la Ronda Oeste."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "El calor extremo y el tráfico lento son la peor combinación para el sistema de refrigeración. Un radiador obstruido por el polvo de la huerta o un termostato defectuoso pueden causar un sobrecalentamiento grave. Un mantenimiento preventivo del circuito es clave para evitar una avería costosa."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Desgaste acelerado de neumáticos",
-      "body": "El asfalto murciano en verano es una plancha caliente que degrada el compuesto de las ruedas mucho más rápido. Unos neumáticos con presión incorrecta o mal alineados se desgastan de forma irregular y peligrosa. Es vital revisarlos, especialmente antes de coger la A-7 para un viaje largo."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Baterías que mueren de repente",
-      "body": "El calor extremo es más dañino para las baterías que el frío. Las altas temperaturas aceleran la degradación química interna, y un día, sin previo aviso, el coche no arranca. Es un clásico al salir del trabajo tras dejar el coche aparcado al sol. Comprobamos su estado en cada revisión."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Obstrucción del filtro de partículas (FAP)",
-      "body": "Muchos diésel en Murcia hacen trayectos cortos por ciudad, sin salir a autovía el tiempo suficiente. Esto impide que el filtro de partículas se regenere correctamente, provocando obstrucciones, pérdida de potencia y costosas averías. Podemos diagnosticar su estado y forzar una regeneración si es necesario."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de aquí",
-      "body": "Sabemos qué le duele a un diésel que hace el trayecto Molina-Murcia cada día y qué necesita un gasolina que solo se mueve por el centro. Esta experiencia local nos permite ir directos al grano."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Sin letra pequeña ni imprevistos. Creemos en la transparencia para que puedas organizar tu pasta con total tranquilidad."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Recambios de primeras marcas",
-      "body": "Tu seguridad es lo primero. Solo instalamos piezas con garantía de fabricante, equivalentes a las originales. Para que conduzcas con la misma confianza que cuando tu coche era nuevo."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Te lo explicamos todo",
-      "body": "Olvídate de sentirte perdido en el taller. Te explicamos qué le pasa a tu coche, por qué ha pasado y qué vamos a hacer para solucionarlo. Si quieres, te enseñamos la pieza vieja."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Pasión por la mecánica",
-      "body": "Somos mecánicos por vocación, no simples cambia-piezas. Nos gusta nuestro trabajo y nos satisface entregar un coche que funciona a la perfección. Queremos que vuelvas por confianza, no por obligación."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de conductores de Murcia que buscaban un taller de confianza. Sus casos, de la revisión a la avería, podrían ser el tuyo.",
-  "testimonials": [
-    {
-      "name": "José",
-      "neighborhood": "El Carmen",
-      "car": "Renault Mégane 1.5 dCi 2016",
-      "body": "Se me fue el aire acondicionado en pleno julio. Imposible vivir así en Murcia. Les llamé, me dieron cita rápido y encontraron la fuga en el circuito en un momento. El presupuesto fue claro desde el principio y el precio final, el mismo. Ahora vuelve a enfriar como el primer día. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "Vistalegre",
-      "car": "SEAT Ibiza 1.0 TSI 2018",
-      "body": "Lo llevé para la revisión antes de la ITV. Pensaba que estaba todo perfecto, pero me llamaron para decirme que una rótula de la suspensión empezaba a tener holgura. Me explicaron que sería un fallo grave en la inspección. La cambiaron y pasé la ITV sin problemas. Me ahorraron un segundo viaje y el mal rato.",
-      "rating": 5
-    },
-    {
-      "name": "Antonio",
-      "neighborhood": "La Flota",
-      "car": "Citroën Berlingo 2015",
-      "body": "Uso la furgoneta para trabajar y el embrague ya patinaba de tanto reparto por el centro. Necesitaba tenerla lista cuanto antes. Cumplieron el plazo que me dieron y el precio fue muy razonable. Se nota que entienden que para algunos el vehículo es nuestra herramienta de trabajo. Muy agradecido.",
-      "rating": 5
-    },
-    {
-      "name": "Lucía",
-      "neighborhood": "Molina de Segura",
-      "car": "Nissan Qashqai 2017",
-      "body": "Hago todos los días el trayecto a Murcia por la autovía y empecé a oír un ruido raro al acelerar. Estaba bastante preocupada. Dieron con el problema, era un tensor de la correa auxiliar. Tardaron un día más de lo previsto en recibir la pieza, pero me mantuvieron informada en todo momento. El coche va perfecto ahora.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Murcia y sus alrededores. Si vives en barrios como El Carmen, Vistalegre, Infante Juan Manuel, La Flota o El Ranero, estamos a tu lado. También somos el taller de confianza para muchos conductores que vienen a diario desde municipios cercanos como Alcantarilla, Molina de Segura, Las Torres de Cotillas o Santomera, y de pedanías clave como Espinardo, El Palmar o Puente Tocinos. Nuestra ubicación permite un acceso cómodo y rápido desde las principales vías que conectan el área metropolitana, como la autovía A-30 (Ronda Oeste) y la A-7, facilitando que dejes tu coche sin perder toda la mañana.",
-  "zoneNeighborhoods": [
-    "El Carmen",
-    "Vistalegre",
-    "Infante Juan Manuel",
-    "La Flota",
-    "Santa María de Gracia",
-    "El Ranero",
-    "Alcantarilla",
-    "Molina de Segura",
-    "Espinardo",
-    "Puente Tocinos"
-  ],
-  "zoneAccessRoutes": [
-    "A-30 (Autovía de Murcia)",
-    "A-7 (Autovía del Mediterráneo)",
-    "N-301a (Avenida Juan de Borbón)",
-    "Ronda Sur (RM-30)",
-    "Ronda Oeste"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Murcia y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es realmente necesario un aceite de mayor calidad por el calor de Murcia?",
-      "a": "Sí, totalmente. Las altas temperaturas constantes degradan el aceite más rápido, haciendo que pierda sus propiedades de lubricación y protección. Un aceite sintético de buena calidad mantiene su viscosidad por más tiempo, protegiendo el motor en las condiciones extremas del verano murciano. Es una inversión pequeña para evitar averías grandes."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Murcia?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Vivo en una pedanía de la huerta, ¿el polvo afecta mucho al coche?",
-      "a": "Muchísimo. El polvo fino se acumula en el filtro de aire del motor, restringiendo el flujo de aire y aumentando el consumo de combustible. También satura el filtro del habitáculo, empeorando la calidad del aire que respiras. Es recomendable cambiar ambos filtros con más frecuencia de la que indica el fabricante."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Espinardo, ¿sois muy estrictos con la pre-ITV?",
-      "a": "Somos tan estrictos como ellos. Conocemos los puntos en los que más se fijan en las ITV de la región y replicamos su proceso de inspección: frenos, suspensión, dirección, luces, y sobre todo, emisiones. Nuestro objetivo es que apruebes a la primera y no pierdas ni tiempo ni dinero."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Mi coche es diésel y hago trayectos cortos por la ciudad. ¿Qué problemas puedo tener?",
-      "a": "El principal problema es la saturación del filtro de partículas (FAP o DPF). Este sistema necesita trayectos por autovía para alcanzar la temperatura que le permite limpiarse (regenerarse). Si solo haces ciudad, se obstruye, causando pérdida de potencia y averías caras. Podemos revisar su estado y, si es necesario, forzar una regeneración en el taller."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Con el calor, ¿cada cuánto debo revisar la presión de los neumáticos?",
-      "a": "Como mínimo, una vez al mes y siempre en frío. En verano es aún más crítico, ya que el calor del asfalto y del ambiente aumenta la presión interna. Una presión incorrecta provoca un desgaste irregular, aumenta el consumo y, en el peor de los casos, puede causar un reventón en plena autovía."
-    },
-    {
-      "q": "¿Ofrecéis coche de cortesía si vengo desde Alcantarilla o Molina de Segura?",
-      "a": "Disponemos de un número limitado de coches de cortesía para minimizar las molestias, especialmente para clientes como tú que dependen del coche para su desplazamiento diario. Te recomendamos solicitarlo al pedir tu cita para asegurar su disponibilidad. *Sujeto a disponibilidad y condiciones del servicio."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Murcia",
-  "closingCta": "No dejes que una avería te amargue el día. Pide tu presupuesto cerrado para tu coche en Murcia por teléfono, WhatsApp o rellenando el formulario. Te esperamos para cuidarlo como se merece."
+  "closingHeadline": "Tu BMW y MINI en Murcia, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Murcia y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
