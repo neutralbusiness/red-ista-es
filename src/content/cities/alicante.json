@@ -6,177 +6,124 @@
   "population": 348901,
   "lat": 38.34517,
   "lng": -0.48149,
-  "metaTitle": "Taller mecánico en Alicante — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Alicante para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Atendemos todas las marcas. ¡Pide tu cita ahora!",
-  "heroSubtitle": "Cansado de sorpresas en la factura y de no saber qué le pasa a tu coche en el tráfico de Alicante? Aquí hablamos claro.",
+  "metaTitle": "Taller BMW y MINI en Alicante · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Alicante. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Alicante y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces a diario por Alicante, sabes lo que es sufrir el tráfico de la Gran Vía en hora punta, buscar aparcamiento por el centro en verano o coger la A-70 para ir a trabajar a Elche o San Vicente del Raspeig. Tu coche también lo sabe. El constante arranca-para desgasta el embrague y los frenos, mientras que los trayectos por autovía exigen que neumáticos y suspensión estén en perfecto estado. No es lo mismo usar el coche solo para ir a la playa de San Juan el fin de semana que hacer cada día el trayecto desde Mutxamel. Entendemos estas diferencias y adaptamos el mantenimiento a tu uso real, no a un manual genérico.\n\nEl clima de Alicante es fantástico para vivir, pero un desafío para la mecánica. El salitre del mar, que notas en el aire si vives en la Albufereta o el Cabo de las Huertas, es el enemigo número uno de la chapa, los bajos del coche y el sistema de escape, acelerando la corrosión de forma invisible. Por otro lado, el calor intenso desde junio hasta bien entrado septiembre pone a prueba el sistema de refrigeración y el aire acondicionado. Un fallo en cualquiera de los dos en pleno agosto puede convertir un simple atasco en la A-31 en una auténtica pesadilla. Por eso, en nuestro taller, prestamos especial atención a estos puntos críticos que el clima local castiga.\n\nConocemos el parque móvil de Alicante como la palma de nuestra mano. Vemos a diario los SEAT Ibiza y León, los Renault Clio, los Peugeot 208 y 308, y los Ford Focus que llenan nuestras calles, desde Carolinas hasta Benalúa. Sabemos qué averías son comunes en ese Volkswagen Golf TDI del 2014 que usas para todo o en ese Nissan Qashqai familiar. Ya sea un motor diésel con sus achaques por la edad y los kilómetros, o un gasolina más moderno, tenemos la experiencia y el equipo de diagnosis para tratar cada coche con el conocimiento que requiere, sin experimentos ni pérdidas de tiempo.\n\nUn taller de confianza en Alicante debe entender que tu coche es una herramienta esencial. Por eso, nuestra filosofía es la transparencia total. Antes de cambiar una sola pieza, recibirás un presupuesto cerrado y detallado. Si durante la reparación encontramos algo inesperado, paramos, te llamamos, te enviamos fotos si hace falta y te explicamos las opciones. Tú tienes siempre el control. Queremos ser tu taller de referencia, el lugar al que vienes tranquilo sabiendo que te diremos la verdad y que solo haremos lo que sea estrictamente necesario para que conduzcas seguro por la ciudad y alrededores.",
-  "servicesIntro": "Desde la revisión anual para tu coche que usas por Alicante hasta cambiar un embrague gastado en el tráfico del centro, lo cubrimos todo.",
-  "processIntro": "Creemos que la confianza es clave. Por eso, nuestro proceso es transparente: te explicamos todo con claridad y tú decides. Sin letra pequeña.",
+  "introLocal": "Cada vez vemos más BMW electrificados en Alicante: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Alicante, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Alicante te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Alicante, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa. Conectamos nuestros equipos de diagnosis y hacemos una inspección visual completa para entender el problema de raíz, no solo el síntoma."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado por escrito. El precio que ves es el que pagas. Si surge algo imprevisto, paramos y te llamamos inmediatamente."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita por teléfono o WhatsApp. Tú tienes siempre el control total sobre la reparación y el gasto."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas con garantía. Nuestros mecánicos se ponen manos a la obra para tener tu coche listo en el plazo acordado, manteniéndote informado si hay alguna novedad."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo va perfecto."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima de Alicante, con su salitre y calor extremo, junto al tráfico urbano y de circunvalación, provoca averías muy concretas. Estas son las que más vemos en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Alicante.",
   "commonIssues": [
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "El verano alicantino no perdona. El uso intensivo del climatizador de junio a septiembre fuerza el compresor y puede provocar fugas en el circuito. Muchos coches llegan con el A/C sin enfriar. Realizamos un diagnóstico completo del sistema, localizando la fuga o el componente eléctrico que falla, para una reparación duradera."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de frenos y embrague",
-      "body": "El tráfico denso en el centro, la Gran Vía o los accesos a las playas en temporada alta significa un uso constante de freno y embrague. Este castigo acelera su desgaste. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Óxido en bajos y sistema de escape",
-      "body": "El salitre es un enemigo silencioso, sobre todo para los coches que duermen en la calle en barrios costeros como la Playa de San Juan o la Albufereta. Ataca los bajos, las líneas de freno y el escape. En las revisiones, prestamos especial atención a estos puntos para prevenir averías graves y problemas en la ITV."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Sobrecalentamiento del motor en verano",
-      "body": "Un atasco en la A-70 a 40 grados puede ser fatal para un sistema de refrigeración que no esté al 100%. Radiadores obstruidos, termostatos que no abren o ventiladores que no saltan son averías típicas que vemos antes y durante el verano. Una revisión a tiempo evita que te quedes tirado."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Faros opacos por el sol",
-      "body": "El sol intenso de Alicante 'quema' la capa protectora de los faros de policarbonato, dejándolos amarillentos y opacos. Esto no solo es un problema estético, sino que reduce peligrosamente la visibilidad nocturna y es un fallo grave en la ITV. Ofrecemos un servicio de pulido que los deja como nuevos."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Somos de Alicante",
-      "body": "Conocemos los coches que se conducen aquí y los problemas que dan. No te tratamos como un número, sino como un vecino de Carolinas, San Blas o La Florida."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuestos sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación vemos algo más, te llamamos, te lo explicamos y tú decides. Sin sustos en la factura final."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si llevas un Dacia para el día a día o un BMW para disfrutar de la carretera. Tenemos el equipo y el conocimiento para cuidar de tu coche, sea cual sea."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No cambiamos piezas por cambiar. Buscamos el origen real de la avería para darte una solución duradera y económica, explicándote qué pasa con palabras que entiendes."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y los recambios que instalamos están cubiertos por la garantía legal. Puedes estar tranquilo, tu coche está en buenas manos."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones típicas que nos encontramos. Quizás te sientas identificado con la experiencia de estos conductores de Alicante.",
-  "testimonials": [
-    {
-      "name": "Lucía",
-      "neighborhood": "Playa de San Juan",
-      "car": "MINI Cooper 2016",
-      "body": "El aire acondicionado dejó de enfriar en pleno julio. En otros sitios me querían cambiar el compresor directamente. Aquí revisaron el circuito, encontraron una pequeña fuga en un manguito y lo solucionaron por mucho menos. Unos cracks, honestos y rápidos.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "San Blas",
-      "car": "Peugeot 308 HDI 2015",
-      "body": "Uso el coche todos los días para ir a trabajar al polígono de Rabasa y el embrague ya patinaba. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Cumplieron con el plazo y el coche va como la seda. Muy recomendable.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "El Campello",
-      "car": "SEAT Ateca 2018",
-      "body": "Tenía que pasar la ITV y los faros estaban opacos por el sol. Además, las pastillas de freno estaban en las últimas. Me hicieron el pulido de faros y el cambio de pastillas en la misma mañana. Pasé la ITV sin un solo fallo. Servicio eficiente.",
-      "rating": 5
-    },
-    {
-      "name": "Javier",
-      "neighborhood": "Centro",
-      "car": "Ford Focus 2012",
-      "body": "Notaba un ruido metálico por debajo y pensé que sería el escape. Lo subieron al elevador y me enseñaron que era una chapa anticalórica suelta por el óxido. Me la fijaron en 15 minutos y casi no me cobraron. Podrían haberme dicho cualquier cosa, muy legales.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Alicante da servicio a conductores de toda la ciudad y alrededores. Si vives en barrios como Pla del Bon Repós, Carolinas, San Blas o La Florida, estamos a un paso. También somos el taller de confianza para muchos vecinos de municipios cercanos como San Vicente del Raspeig, Sant Joan d'Alacant o Mutxamel, que bajan a diario a Alicante para trabajar. Gracias a nuestro acceso rápido desde grandes vías como la Gran Vía o la A-70 (la Circunvalación), dejar y recoger tu coche es cómodo y no te desvía de tu ruta habitual. Tanto si vienes del centro como de la zona de playas, llegar es fácil.",
-  "zoneNeighborhoods": [
-    "Pla del Bon Repós",
-    "Carolinas Altas",
-    "Carolinas Bajas",
-    "San Blas-Santo Domingo",
-    "Benalúa",
-    "La Florida",
-    "Albufereta",
-    "Playa de San Juan",
-    "San Vicente del Raspeig",
-    "Sant Joan d'Alacant"
-  ],
-  "zoneAccessRoutes": [
-    "A-70 (Circunvalación de Alicante)",
-    "A-31 (Autovía de Alicante)",
-    "N-332",
-    "Gran Vía (CV-31)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Alicante y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Revisáis el coche para la ITV de Alicante? ¿Son muy estrictos?",
-      "a": "Sí, hacemos una revisión pre-ITV completa. Las estaciones de ITV de Alicante y San Vicente son rigurosas, sobre todo con emisiones en diésel antiguos, frenos y la opacidad de los faros por el sol. Nos aseguramos de que esos puntos estén perfectos para que la pases a la primera sin problemas."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Alicante?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche duerme en la calle cerca de la playa, ¿necesita algún cuidado especial?",
-      "a": "Absolutamente. El salitre del ambiente marino en zonas como El Postiguet o la Albufereta es muy corrosivo. Acelera el óxido en los bajos, el escape y los discos de freno. Recomendamos un lavado de bajos frecuente y revisiones periódicas para detectar y tratar la corrosión a tiempo."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "¿Tenéis experiencia con coches que sufren en el tráfico de verano?",
-      "a": "Es nuestro día a día. El calor y los atascos para ir a las playas o por el centro en agosto fuerzan el embrague, los frenos y la refrigeración. Conocemos los puntos débiles de los modelos más comunes en Alicante y sabemos cómo reforzarlos para que aguanten el verano sin problemas."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Voy a hacer un viaje largo desde Alicante por la A-7, ¿qué debería revisar?",
-      "a": "Para un viaje largo, es crucial revisar niveles de aceite y refrigerante, la presión y estado de los neumáticos (el asfalto caliente los desgasta más), el sistema de frenos y, por supuesto, el aire acondicionado. Un chequeo rápido puede evitarte un disgusto y una factura enorme lejos de casa."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Tengo un diésel de más de 10 años, ¿me dará problemas de humos en la ITV?",
-      "a": "Es una preocupación común. Los diésel de cierta edad, sobre todo si hacen mucha ciudad por Alicante, acumulan carbonilla. Antes de la ITV, recomendamos una buena descarbonización del motor y revisar el sistema de inyección y el filtro de partículas. Así te aseguras de pasar la prueba de opacidad."
-    },
-    {
-      "q": "¿Cambiáis neumáticos? Con el calor de Alicante, ¿cuáles recomendáis?",
-      "a": "Sí, trabajamos con todas las marcas de neumáticos. Para el clima de Alicante, lo ideal son neumáticos de verano o 'all-season' de buena calidad. Aguantan mejor las altas temperaturas del asfalto, evacuan bien en caso de 'gota fría' y ofrecen un agarre seguro. Te asesoramos sobre la mejor opción para tu coche y tu presupuesto."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Alicante",
-  "closingCta": "No dejes que una avería te amargue el día. Pide tu presupuesto cerrado para tu taller en Alicante. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso."
+  "closingHeadline": "Tu BMW y MINI en Alicante, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Alicante y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
