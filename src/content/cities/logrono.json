@@ -6,178 +6,124 @@
   "population": 151164,
   "lat": 42.46615,
   "lng": -2.45115,
-  "metaTitle": "Taller mecánico en Logroño — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Logroño para revisiones, averías y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide tu cita online, por teléfono o WhatsApp.",
-  "heroSubtitle": "Harto de las nieblas del Ebro y de no saber si tu coche arrancará por la mañana? En nuestro taller de Logroño, lo ponemos a punto.",
+  "metaTitle": "Taller BMW y MINI en Logroño · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Logroño. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Logroño y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Logroño es una mezcla de rutinas y contrastes. Es cruzar el Puente de Piedra a primera hora, coger la circunvalación LO-20 para llegar a los polígonos de Cantabria o La Portalada, y también es el atasco ocasional en Vara de Rey. Sabemos que usas el coche para todo: para llevar a los niños al cole, para ir a trabajar desde Lardero o Villamediana, o para esa escapada de fin de semana a una bodega en la Rioja Alavesa. Tu coche no es un lujo, es una herramienta esencial en tu día a día, y entendemos perfectamente la importancia de que funcione como un reloj.\n\nEl clima de La Rioja no da tregua, y tu coche lo sabe. Los inviernos aquí son fríos, con heladas y esas nieblas densas y húmedas del Ebro que se meten en los huesos y en la mecánica. Una batería que no está al 100% te puede dejar tirado una mañana cualquiera en el parking del Espolón. Luego llega el verano, con un calor seco y asfixiante que pone a prueba el sistema de refrigeración y el aire acondicionado. Este clima continental exige un mantenimiento específico que va más allá de un simple cambio de aceite; se trata de anticiparse a los problemas que el frío y el calor provocan en tu vehículo.\n\nEl parque móvil de Logroño y sus alrededores es un reflejo de su gente: práctico y trabajador. Vemos a diario los coches que de verdad se usan en La Rioja: el SEAT León diésel para los que hacen kilómetros por la N-232, el Renault Clio de gasolina para moverse por la ciudad, el Peugeot 308 familiar para los fines de semana, y por supuesto, las furgonetas Citroën Berlingo o Renault Kangoo que son la oficina móvil de tantos autónomos y viticultores de la zona. No importa si tu coche tiene 5, 10 o 15 años; conocemos sus puntos débiles y cómo mantenerlo fiable y seguro.\n\nEntendemos que tu principal preocupación cuando el coche falla es doble: cuánto va a costar y cuánto tiempo estarás sin él. Por eso, nuestro compromiso se basa en la honestidad. Antes de cambiar una sola pieza, realizamos un diagnóstico completo, te explicamos el problema en un lenguaje claro y te entregamos un presupuesto cerrado. Sin sorpresas, sin añadidos de última hora. Queremos ser tu taller de confianza en Logroño, ese al que acudes sabiendo que cuidarán de tu coche como si fuera nuestro, ya sea para la revisión anual antes de la ITV o para esa avería inesperada que te ha complicado la semana.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV sin líos hasta esa avería que te ha dejado tirado en la N-232, cubrimos toda la mecánica de tu coche en Logroño.",
-  "processIntro": "Creemos en la transparencia total. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no hacemos nada sin tu visto bueno.",
+  "introLocal": "En Logroño vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Logroño sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Logroño te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Logroño, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa. Nuestros técnicos utilizan equipos de diagnosis modernos para identificar con precisión el origen del problema, combinando tecnología con años de experiencia en los modelos más comunes de Logroño."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin compromiso. Verás claramente qué piezas hay que cambiar y el coste de la mano de obra. El precio que te damos es el que pagas, sin sorpresas."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos ni un tornillo sin tu confirmación explícita. Te llamamos o te enviamos el presupuesto para que lo revises con calma. Solo cuando nos das el 'vale', empezamos a trabajar en tu coche. Tú tienes siempre el control."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía del fabricante. Nuestros mecánicos realizan la reparación siguiendo los estándares de calidad para asegurar un resultado duradero y fiable. Te mantenemos informado del proceso si surge cualquier duda."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Guardamos el historial de tu vehículo para futuras revisiones, asegurando un seguimiento coherente y profesional del mantenimiento de tu coche."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima de La Rioja y el uso diario del coche por Logroño y sus alrededores, desde la AP-68 a los caminos de viñas, provocan unas averías muy concretas.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Logroño.",
   "commonIssues": [
     {
-      "title": "Problemas de arranque en invierno",
-      "body": "Las mañanas de niebla y helada en Logroño son la prueba de fuego para cualquier batería. Si tu coche duerme en la calle en barrios como La Cava o Yagüe, es fácil que un día no arranque. Revisamos y comprobamos el estado de tu batería, el alternador y los calentadores en los diésel para que el frío no te deje tirado."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico urbano de Logroño, con sus semáforos en la Gran Vía y las rotondas de la circunvalación LO-20, castiga mucho el embrague y los frenos. Si además vienes a diario de pueblos cercanos como Navarrete o Fuenmayor, el desgaste se acelera. Realizamos sustituciones con componentes de calidad para devolverle a tu coche la suavidad y seguridad."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor seco de julio y agosto en el valle del Ebro hace que un aire acondicionado que no enfría sea una tortura. Las fugas en el circuito o la falta de gas son habituales. Hacemos una diagnosis completa del sistema, detectamos fugas y realizamos la carga para que puedas volver a conducir fresco por la AP-68 sin problemas."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Filtro de partículas (FAP) en diésel",
-      "body": "Muchos diésel en Logroño se usan para trayectos cortos por la ciudad, lo que es fatal para el filtro de partículas. Si se enciende el testigo en tu Megane o tu Focus, es un aviso. Conocemos este problema a la perfección y aplicamos soluciones eficaces, desde la regeneración forzada hasta la limpieza profesional, para evitar averías más caras."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Ruidos y holguras en la suspensión",
-      "body": "Entre los badenes de las zonas residenciales y las carreteras comarcales que llevan a las bodegas, que no siempre están perfectas, la suspensión sufre. Un ruido al pasar por un bache o inestabilidad en curvas son síntomas claros. Revisamos amortiguadores, silentblocks y rótulas para que tu coche pise con seguridad en las carreteras riojanas."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de aquí",
-      "body": "Sabemos qué coches se conducen en La Rioja y cuáles son sus problemas habituales. Desde el coche de diario para ir a trabajar hasta la furgoneta del autónomo, hablamos tu mismo idioma."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "La honestidad es nuestra base. Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Así de simple, así de transparente."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Diagnóstico claro y honesto",
-      "body": "Te explicamos la avería de tu coche de forma que la entiendas, sin tecnicismos que confunden. Queremos que sepas exactamente qué le pasa a tu vehículo y por qué lo reparamos."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Trabajamos con recambios de primeras marcas y confiamos en el trabajo de nuestros mecánicos. Por eso, todas nuestras reparaciones y piezas están garantizadas por escrito."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Facilidades para tu día a día",
-      "body": "Sabemos que estar sin coche es un problema. Te ofrecemos opciones como el coche de cortesía (consulta condiciones) para que tu rutina no se detenga mientras cuidamos de tu vehículo."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estas son algunas situaciones típicas con las que nuestros clientes de Logroño llegan al taller. Sus historias podrían ser la tuya.",
-  "testimonials": [
-    {
-      "name": "Javier",
-      "neighborhood": "Cascajos",
-      "car": "Renault Megane dCi 2016",
-      "body": "Tenía la ITV en una semana y con el tema de los humos del diésel no me fiaba un pelo. Lo traje para la revisión Pre-ITV y me lo miraron todo. Me cambiaron un filtro y ajustaron un par de cosas. Fui a la estación del polígono Cantabria y la pasé a la primera, sin un solo fallo. Un alivio y un servicio muy profesional.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "El Cubo",
-      "car": "SEAT Ibiza 1.2 TSI 2015",
-      "body": "Empecé a oír un ruido metálico en la rueda delantera y me asusté pensando que sería una avería gorda. Aquí me atendieron súper rápido, lo subieron al elevador y vieron que era una pastilla de freno desgastada. Me dieron el presupuesto al momento, que me pareció muy razonable, y por la tarde ya lo tenía listo. Muy transparentes.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Lardero",
-      "car": "Citroën Berlingo 2018",
-      "body": "Soy fontanero y la furgoneta es mi herramienta de trabajo. El embrague empezó a patinar y no podía arriesgarme a quedarme tirado. Me entendieron perfectamente, me dieron prioridad y me tuvieron el embrague cambiado en el tiempo que me dijeron. La comunicación fue constante, que es lo que más valoro. Unos profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Ana",
-      "neighborhood": "Centro",
-      "car": "Toyota Yaris Hybrid 2017",
-      "body": "Llevé el coche para la revisión anual. Aunque es híbrido, no tuvieron ningún problema. El trato fue muy amable y me explicaron todo lo que le hicieron. Tardaron un poco más de lo que me dijeron inicialmente, pero me avisaron por teléfono, así que no hubo problema. En general, una buena experiencia y se nota que saben.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Logroño y a su área metropolitana. Si vives en barrios como Cascajos, La Cava-Fardachón, Yagüe, Varea o el centro, nuestro taller te queda a mano. También somos el taller de confianza para muchos conductores que vienen a diario a trabajar a la capital desde los municipios colindantes más importantes como Lardero, Villamediana de Iregua, Fuenmayor, Navarrete e incluso desde Oyón, en la Rioja Alavesa. Nuestras instalaciones son fácilmente accesibles desde las principales vías que conectan la comarca, como la circunvalación LO-20, la autopista AP-68, la N-232 y la Autovía del Camino A-12.",
-  "zoneNeighborhoods": [
-    "Cascajos",
-    "La Cava-Fardachón",
-    "Yagüe",
-    "Varea",
-    "Centro",
-    "Lardero",
-    "Villamediana de Iregua",
-    "Fuenmayor",
-    "Navarrete",
-    "Oyón-Oion"
-  ],
-  "zoneAccessRoutes": [
-    "LO-20 (Circunvalación)",
-    "AP-68",
-    "N-232",
-    "A-12 (Autovía del Camino)",
-    "N-111"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Logroño y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "Mi coche es diésel y hago trayectos cortos por Logroño, ¿debo preocuparme por el FAP?",
-      "a": "Sí, es una de las averías más comunes que vemos. Los trayectos cortos impiden que el filtro de partículas (FAP) se regenere correctamente, provocando obstrucciones y averías costosas. Te recomendamos que, al menos una vez por semana, salgas a carretera por la LO-20 o la A-12 y conduzcas unos 15-20 minutos a un régimen más alto (unas 2.500 rpm) para forzar la limpieza. Si ya tienes el testigo encendido, tráelo para un diagnóstico."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Logroño?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Con las nieblas del Ebro, ¿qué mantenimiento extra necesitan las luces y la batería?",
-      "a": "La humedad constante de la niebla puede afectar a las conexiones eléctricas y acelera el desgaste de las escobillas del limpiaparabrisas. Además, el uso intensivo de luces y luneta térmica consume mucha batería. Recomendamos una revisión anual del sistema de carga (batería y alternador) antes del invierno y mantener los faros limpios y bien reglados para garantizar la máxima visibilidad y seguridad en esas condiciones."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Voy a pasar la ITV en el polígono Cantabria, ¿qué revisáis en la Pre-ITV para ir sobre seguro?",
-      "a": "Nuestra revisión Pre-ITV es exhaustiva y se centra en los puntos críticos que miran en la estación de Logroño. Comprobamos frenos, suspensión, dirección, neumáticos, alumbrado y, muy importante, las emisiones de gases, que es un punto de fallo común, sobre todo en los diésel. Te damos un informe completo y si hay algo que reparar, te ofrecemos un presupuesto antes de hacer nada."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo una furgoneta tipo Berlingo, ¿tenéis experiencia con vehículos comerciales?",
-      "a": "Por supuesto. Sabemos que para un autónomo o una pequeña empresa de Logroño, la furgoneta es vital. Estamos totalmente acostumbrados a trabajar con los modelos más comunes como la Citroën Berlingo, Peugeot Partner o Renault Kangoo. Entendemos la urgencia y priorizamos estas reparaciones para que puedas volver al trabajo lo antes posible."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Vivo en Lardero y trabajo en Logroño, ¿qué es lo que más se desgasta en mi coche?",
-      "a": "Ese trayecto diario es un uso mixto que combina carretera con tráfico urbano denso al entrar y salir de Logroño. Lo que más sufre es el sistema de embrague y frenos por el para-arranca de la ciudad. También los neumáticos y la suspensión, por las rotondas y badenes. Una revisión periódica de estos elementos es clave para evitar sustos y averías mayores."
-    },
-    {
-      "q": "El aire acondicionado no enfría para el calor de julio en La Rioja, ¿cuánto tardáis en repararlo?",
-      "a": "Sabemos que en verano es una reparación urgente. Una recarga de gas, si no hay fugas, suele ser un proceso rápido que podemos hacer en el mismo día. Si hay una fuga en el circuito, el diagnóstico puede llevar algo más de tiempo, pero te informaremos en todo momento. Nuestro objetivo es que puedas afrontar el calor riojano con total comodidad lo antes posible."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para las carreteras de La Rioja",
-  "closingCta": "No dejes que una avería te arruine el día. Pide tu presupuesto cerrado para tu taller en Logroño. Llámanos, escríbenos por WhatsApp o rellena el formulario y te contactamos nosotros."
+  "closingHeadline": "Tu BMW y MINI en Logroño, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Logroño y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
