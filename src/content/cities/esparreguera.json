@@ -6,177 +6,124 @@
   "population": 21855,
   "lat": 41.53809,
   "lng": 1.87025,
-  "metaTitle": "Taller mecánico en Esparreguera — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Esparreguera para revisiones, mecánica y neumáticos. Presupuesto cerrado y garantía. Atendemos todas las marcas. ¡Pide cita y olvídate de problemas!",
-  "heroSubtitle": "Harto del tráfico de la A-2 y de que el coche te dé problemas? En nuestro taller de Esparreguera lo dejamos a punto para que solo te preocupes de conducir.",
+  "metaTitle": "Taller BMW y MINI en Esparreguera · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Esparreguera. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Esparreguera y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives en Esparreguera, sabes lo que significa depender del coche cada día. Ya sea para coger la A-2 y plantarte en Barcelona para trabajar, para acercarte a Martorell o para subir a Olesa, tu vehículo es una herramienta imprescindible. Entendemos perfectamente el desgaste que supone el atasco matutino a la altura de Abrera, ese constante arranca-para que castiga el embrague y los frenos. Conocemos las cuestas de barrios como Can Rial o Mas d'en Gall y cómo afectan a la suspensión, y sabemos que el coche tiene que estar listo para cualquier escapada de fin de semana a Montserrat o más allá.\n\nEn nuestro taller de Esparreguera no vemos solo coches, vemos las herramientas de trabajo y de vida de nuestros vecinos. El parque móvil de la zona es un reflejo de nuestra gente: muchos SEAT, como es lógico estando tan cerca de la fábrica de Martorell, pero también una gran cantidad de Peugeot, Renault, Citroën y Ford que llevan años demostrando su fiabilidad. Son coches, en su mayoría diésel y gasolina de entre 5 y 15 años, que necesitan un mantenimiento honesto y a un precio razonable, lejos de los costes de los concesionarios oficiales. También vemos cada vez más híbridos y furgonetas de autónomos que necesitan su vehículo para ganarse la vida.\n\nEl clima del Baix Llobregat interior también juega su papel. Los veranos calurosos ponen a prueba el sistema de refrigeración y el aire acondicionado, que se convierten en elementos no de confort, sino de necesidad. Por otro lado, las mañanas de invierno, con la humedad del Llobregat cerca, pueden ser el golpe de gracia para una batería que ya flaquea, dejándote tirado justo cuando tienes más prisa. Estos factores, combinados con el tipo de conducción que exige la A-2 o la C-55, crean un conjunto de necesidades muy específicas para los vehículos de la zona.\n\nPor eso, nuestro enfoque es local y práctico. No te hablaremos con tecnicismos innecesarios. Te explicaremos qué le pasa a tu coche, por qué le pasa (seguramente por las condiciones que ambos conocemos) y qué opciones tienes, siempre con un presupuesto cerrado por delante. Queremos ser tu taller de confianza en Esparreguera, ese al que vienes sabiendo que seremos transparentes y que entenderemos que necesitas el coche a punto para tu día a día, sin sorpresas ni gastos imprevistos. Somos mecánicos, pero también somos de aquí.",
-  "servicesIntro": "Desde la revisión para pasar la ITV sin dramas hasta la reparación del embrague castigado por el tráfico de la A-2, cubrimos todas las necesidades de tu coche en Esparreguera.",
-  "processIntro": "Trabajamos con total transparencia. Te damos un presupuesto cerrado por adelantado y no movemos un tornillo sin tu aprobación.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Esparreguera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Esparreguera sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Esparreguera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Esparreguera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que te preocupa, probamos el coche si es necesario y conectamos nuestros equipos de diagnosis para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás el coste de las piezas y la mano de obra claramente desglosado. El precio que ves es el que pagas, sin sorpresas."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisamos el presupuesto contigo por teléfono y resolvemos cualquier duda. La reparación solo comienza cuando nos das tu visto bueno. Tú tienes siempre el control total sobre la intervención."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado si surge cualquier imprevisto, aunque no es lo habitual."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando recoges el coche, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El uso diario por la A-2, el clima variable del Vallès y las cuestas hacia Montserrat provocan una serie de averías muy típicas en los coches de Esparreguera y alrededores. Estas son las que más vemos.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Esparreguera.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico lento y las paradas constantes en la A-2 en hora punta hacia Barcelona son un castigo para el embrague y los frenos. Si notas que el pedal del embrague está duro o el coche frena menos, es hora de una revisión. Nos aseguramos de montar componentes de calidad que aguanten el ritmo diario."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Averías en el filtro de partículas (FAP)",
-      "body": "Muchos diésel se usan para trayectos cortos dentro de Esparreguera o en el atasco de la autovía, lo que impide que el filtro se regenere correctamente y acaba por obstruirse. Realizamos limpiezas químicas, regeneraciones forzadas y, si es necesario, la sustitución para que pases la ITV y el motor respire bien."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallos del aire acondicionado en verano",
-      "body": "El calor intenso de julio y agosto en la zona obliga al climatizador a trabajar al máximo. Esto puede provocar fugas de gas o averías en el compresor. Si notas que no enfría como antes, ven a que lo revisemos antes de que el problema (y la factura) se haga más grande."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Entre los badenes de urbanizaciones como Can Rial y las carreteras secundarias con asfalto irregular que rodean el municipio, los amortiguadores y los neumáticos sufren mucho. Unos amortiguadores en mal estado aumentan la distancia de frenado y desgastan mal las ruedas. Hacemos una revisión completa y te aconsejamos."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas de batería en invierno",
-      "body": "Las mañanas frías y húmedas cerca del Llobregat son la prueba de fuego para las baterías. Si a tu coche le cuesta arrancar por la mañana, es muy probable que la batería esté en las últimas. La comprobamos gratuitamente y, si hace falta, la cambiamos para que no te deje tirado de camino al trabajo."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Entendemos tu rutina",
-      "body": "Sabemos lo que es el trayecto diario por la A-2 y la importancia de tener el coche siempre a punto. Hablamos tu mismo idioma y conocemos los problemas reales de conducir por Esparreguera y alrededores."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Un taller de proximidad",
-      "body": "Estamos en Esparreguera, para la gente de aquí y de pueblos vecinos como Olesa, Abrera o Collbató. Olvídate de tener que ir hasta un polígono lejano para un servicio de calidad y confianza."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "El precio que te damos es el que pagas. Sin extras de última hora ni conceptos que no entiendes. La claridad es nuestra norma para que puedas organizar tus gastos sin imprevistos."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Especialistas multimarca",
-      "body": "Reparamos todas las marcas, con especial experiencia en los modelos más comunes en la zona como SEAT, Peugeot, Renault o Ford. Tenemos el conocimiento y el equipo para cuidar de tu coche, sea cual sea."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras intervenciones y los recambios que utilizamos están garantizados por ley. Puedes estar tranquilo sabiendo que tu coche está en buenas manos y el trabajo bien hecho."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Esparreguera y alrededores.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "La Plana",
-      "car": "SEAT León TDI 2016",
-      "body": "Hago cada día el trayecto a Martorell y el embrague empezaba a patinar. En el concesionario me daban un presupuesto altísimo y cita para dentro de dos semanas. Aquí me lo miraron al día siguiente, me dieron un precio cerrado mucho más razonable y en dos días tenía el coche listo. Se nota que saben lo que hacen.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Can Rial",
-      "car": "Peugeot 2008 2018",
-      "body": "Tenía que pasar la ITV y quería asegurarme de que todo estaba bien. Me hicieron una revisión pre-ITV y vieron que un amortiguador delantero estaba para cambiar, seguramente de tanto badén en la urbanización. Me lo explicaron todo muy bien y me lo cambiaron rápido. La ITV la pasé a la primera. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Centre Vila",
-      "car": "Renault Kangoo 2015",
-      "body": "Soy autónomo y la furgoneta es mi oficina. En pleno julio dejó de funcionar el aire acondicionado y era imposible trabajar. Les llamé, entendieron la urgencia y me hicieron un hueco. Era una fuga en un manguito. En 24 horas estaba reparada y yo podía seguir trabajando sin asarme. Un servicio de 10.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Olesa de Montserrat",
-      "car": "Ford Focus 2013",
-      "body": "El coche hacía un ruido raro al girar y ya me temía lo peor. En otros sitios a veces parece que te quieren cambiar medio coche. Aquí fueron súper honestos, lo subieron al elevador y me enseñaron que era solo una pieza pequeña del protector del disco de freno que se había doblado. Me lo enderezaron en 10 minutos. Agradezco mucho la honradez.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller mecánico en Esparreguera da servicio a toda la zona del Baix Llobregat Nord. Si vives en cualquier barrio de la ciudad, desde el Centre Vila, La Plana o Barri Font hasta urbanizaciones como Can Rial o Mas d'en Gall, estamos a tu lado. Muchos de nuestros clientes vienen también de municipios vecinos que confían en nuestro trabajo, como Olesa de Montserrat, Abrera, Collbató e incluso Martorell, buscando una alternativa de confianza a los servicios oficiales. Nuestra ubicación es de fácil acceso desde las principales vías que conectan la comarca, como la autovía A-2, el eje del Llobregat C-55 o carreteras locales como la BV-1201.",
-  "zoneNeighborhoods": [
-    "Centre Vila",
-    "La Plana",
-    "Can Rial",
-    "Mas d'en Gall",
-    "Barri Font",
-    "El Castell",
-    "Olesa de Montserrat",
-    "Abrera",
-    "Collbató",
-    "Martorell"
-  ],
-  "zoneAccessRoutes": [
-    "A-2 (Autovía del Nordeste)",
-    "C-55 (Eix del Llobregat)",
-    "BV-1201",
-    "AP-7 (via Martorell)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Esparreguera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión pre-ITV? ¿A qué estación es mejor ir desde Esparreguera?",
-      "a": "Sí, realizamos una revisión pre-ITV completa para que vayas sobre seguro. Comprobamos los puntos clave: frenos, luces, emisiones, neumáticos, etc. Las estaciones de ITV más cercanas y habituales para los vecinos de Esparreguera son las de Abrera, Sant Andreu de la Barca o la de Sant Vicenç de Castellet. Te dejamos el coche listo para que apruebes a la primera en cualquiera de ellas."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Esparreguera?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche diésel hace sobre todo ciudad y atascos en la A-2, ¿debo preocuparme por el filtro de partículas?",
-      "a": "Es una preocupación muy común y justificada. Ese tipo de uso impide que el filtro de partículas (FAP) se regenere correctamente, lo que puede causar averías y un aumento del consumo. Te recomendamos que, si puedes, salgas a la autovía una vez a la semana y conduzcas a revoluciones más altas durante unos 15-20 minutos. Si ya notas tirones o se enciende el testigo, tráenoslo para hacer una diagnosis."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en Olesa de Montserrat, ¿me compensa llevaros el coche?",
-      "a": "Totalmente. Estamos a menos de 10 minutos en coche y muchos de nuestros clientes son de Olesa, Abrera o Collbató. Valoran nuestra transparencia, los precios ajustados en comparación con otros talleres y el trato cercano. Coger la C-55 o la A-2 es un momento y te aseguras un servicio de confianza sin tener que ir más lejos."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría como antes, ¿es una avería cara?",
-      "a": "No tiene por qué. Muchas veces es simplemente una falta de gas por pequeñas fugas que se producen con el tiempo. Una recarga es una operación rápida y económica. Si la avería está en el compresor u otra pieza, el coste es mayor, pero siempre te daremos un presupuesto cerrado antes de hacer nada para que tú decidas."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Tengo un SEAT, ¿usáis recambios originales?",
-      "a": "Trabajamos con recambios de primeras marcas que cumplen o superan las especificaciones del fabricante original, como Bosch, Valeo, Brembo, etc. Ofrecen la misma calidad y garantía a un precio más competitivo. Si un cliente nos pide expresamente un recambio original de SEAT, también podemos conseguirlo y montarlo sin problema."
-    },
-    {
-      "q": "Necesito el coche para ir a trabajar a Barcelona, ¿tenéis coche de sustitución?",
-      "a": "Sí, disponemos de coches de cortesía para nuestros clientes (consulta condiciones y disponibilidad al pedir cita). Entendemos que no puedes quedarte sin vehículo, especialmente si lo usas para el desplazamiento diario. Nuestro objetivo es que la reparación de tu coche te afecte lo menos posible a tu rutina."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Esparreguera",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no lo dejes pasar. Llámanos o envíanos un WhatsApp y te daremos cita en nuestro taller de Esparreguera sin ningún compromiso."
+  "closingHeadline": "Tu BMW y MINI en Esparreguera, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Esparreguera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
