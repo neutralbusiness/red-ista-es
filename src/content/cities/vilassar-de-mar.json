@@ -6,175 +6,124 @@
   "population": 20764,
   "lat": 41.50507,
   "lng": 2.39227,
-  "metaTitle": "Taller mecánico en Vilassar de Mar — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Vilassar de Mar. Presupuesto cerrado para revisiones, averías y neumáticos. Pide cita y evita sorpresas en el Maresme.",
-  "heroSubtitle": "El salitre, los atascos en la N-II y los badenes de Vilassar pasan factura. Ponemos tu coche a punto con un presupuesto cerrado y sin rodeos.",
+  "metaTitle": "Taller BMW y MINI en Vilassar de Mar · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Vilassar de Mar. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Vilassar de Mar y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Vilassar de Mar y el Maresme es un placer, pero también un desafío para tu coche. No es lo mismo usarlo solo para ir al mercado de la flor que bajar cada día a Barcelona por la C-32 o aguantar el tráfico denso de la N-II en hora punta. Entendemos perfectamente que tu vehículo no es solo un medio de transporte, es la herramienta que te permite ir a trabajar a Mataró, llevar a los niños al colegio o escaparte el fin de semana a la montaña. Por eso, cada coche que entra en nuestro taller de Vilassar recibe un trato adaptado a su vida real, no a un manual genérico.\n\nEl clima del Maresme es fantástico para vivir, pero la humedad y el salitre son enemigos silenciosos de la mecánica. Esa brisa marina que tanto nos gusta acelera la corrosión de los bajos, los discos de freno y los componentes del escape. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, especialmente en las retenciones para salir de la playa. Y en invierno, la humedad puede afectar a la electrónica y al arranque. Conocemos estos problemas porque los sufrimos y los reparamos a diario en coches como el tuyo.\n\nEl parque móvil de Vilassar de Mar es tan diverso como sus habitantes. Vemos desde el SEAT León o el Peugeot 3008 de familias que viven en la zona de El Veral, hasta el Volkswagen Golf de quien se mueve entre el pueblo y Vilassar de Dalt, pasando por furgonetas de autónomos que trabajan por toda la comarca. Sabemos que muchos de estos coches son diésel de la última década y conocemos a fondo la problemática de los filtros de partículas con los trayectos cortos por el pueblo. También estamos preparados para el mantenimiento de los híbridos y gasolina más modernos que cada vez se ven más por nuestras calles.\n\nNuestro compromiso es ofrecerte un servicio de mecánica en Vilassar de Mar que sea transparente, profesional y, sobre todo, honesto. No vamos a contarte historias. Hacemos un diagnóstico claro, te presentamos un presupuesto cerrado y te explicamos qué le pasa a tu coche y por qué. Tanto si es la revisión anual, un ruido extraño en la suspensión al pasar por un badén o una avería que te ha dejado tirado, aquí encontrarás a profesionales que entienden tu coche y tu contexto. Porque somos de aquí y queremos ser tu taller de confianza en el Maresme durante muchos años.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Mataró sin problemas hasta diagnosticar por qué tu coche se calienta en los atascos de la N-II, lo cubrimos todo.",
-  "processIntro": "No nos gustan las sorpresas con la factura del taller, y sabemos que a ti tampoco. Por eso nuestro proceso es claro: diagnóstico, presupuesto y tu OK.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Vilassar de Mar, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Vilassar de Mar sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vilassar de Mar te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Vilassar de Mar, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le notas al coche y lo conectamos a nuestros equipos de diagnosis. Hacemos una primera valoración completa para entender el origen del problema, no solo el síntoma."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email con el coste de las piezas y la mano de obra. El precio que ves es el que pagas, sin extras de última hora ni letra pequeña."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo sin tu aprobación explícita. Si durante la reparación encontramos algo más, te llamaremos para informarte y darte un nuevo presupuesto."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas, con la misma calidad que los originales y con total garantía. Te mantenemos informado de los plazos para que sepas cuándo tendrás tu coche listo."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando vengas a recoger tu coche, te explicaremos en detalle el trabajo realizado. Nos aseguramos de que te vayas satisfecho y contactamos contigo días después para confirmar que todo va perfecto."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "La combinación de salitre, humedad y los trayectos cortos o los atascos hacia Barcelona genera averías muy típicas en Vilassar que sabemos cómo atajar.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Vilassar de Mar.",
   "commonIssues": [
     {
-      "title": "Corrosión en frenos y chasis",
-      "body": "La brisa marina de Vilassar de Mar es implacable. El salitre acelera la oxidación de los discos de freno, pinzas y latiguillos, provocando ruidos, pérdida de eficacia y un suspenso en la ITV. También afecta al escape y a los bajos del coche. Realizamos inspecciones y tratamientos preventivos para proteger tu vehículo."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste prematuro de embrague",
-      "body": "El tráfico de la N-II, las rotondas de acceso a la C-32 y el callejeo por el centro de Vilassar o Premià de Mar castigan el embrague. Si notas que el pedal está duro o que el coche patina al acelerar, es hora de revisarlo antes de que te deje tirado."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallo del aire acondicionado en verano",
-      "body": "El calor húmedo del Maresme hace que el aire acondicionado trabaje a pleno rendimiento. Las fugas de gas, fallos del compresor o filtros sucios son habituales. No esperes a agosto para comprobarlo, una recarga a tiempo puede evitarte una reparación mucho más cara y un verano de sudar en el coche."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Problemas con el filtro de partículas (FAP/DPF)",
-      "body": "Muchos diésel de Vilassar se usan para trayectos cortos, lo que impide que el filtro de partículas se regenere correctamente. Esto provoca que se encienda el testigo de avería y una pérdida de potencia. Conocemos el problema y aplicamos soluciones de limpieza o regeneración forzada para evitar su costosa sustitución."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Ruidos y holguras en la suspensión",
-      "body": "Los badenes para reducir la velocidad en zonas residenciales como El Veral o algunas calles peor asfaltadas en los alrededores de Vilassar acaban pasando factura a los amortiguadores, silentblocks y rótulas. Si oyes un 'clonk' al girar o en los baches, es una señal clara de que algo necesita atención."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Somos del Maresme",
-      "body": "No somos una franquicia sin alma. Vivimos aquí y entendemos cómo afecta a tu coche el clima y las carreteras de Vilassar. Hablamos tu mismo idioma y conocemos los problemas reales de los conductores de la zona."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio final por escrito antes de empezar. Si durante la reparación vemos algo más, paramos, te llamamos y tú decides. La transparencia es nuestra principal herramienta."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todos los coches",
-      "body": "Da igual si conduces un SUV familiar, un utilitario para ir a la estación o una furgoneta para tu negocio. Tenemos la tecnología y la experiencia para trabajar con todas las marcas del mercado."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "La ITV a la primera",
-      "body": "Conocemos los puntos críticos que miran en las estaciones de ITV de Mataró y Badalona. Hacemos una revisión pre-ITV exhaustiva para que vayas sobre seguro y no pierdas tiempo ni dinero."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Explicaciones claras",
-      "body": "Te explicamos las averías sin tecnicismos que no entiendas. Queremos que sepas qué le pasa a tu coche, qué opciones tienes y por qué te recomendamos una reparación concreta. La confianza se basa en entenderse."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de casos que resolvemos a diario para conductores de Vilassar y pueblos de alrededor. Tu historia podría ser la próxima.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Centre Vila",
-      "car": "SEAT Ateca TDI 2018",
-      "body": "Me saltó el aviso del filtro de partículas. Uso el coche para ir a la oficina en Mataró y trayectos cortos por el pueblo. Me explicaron por qué pasaba, hicieron una regeneración y me dieron consejos para evitarlo. Muy profesionales y honestos, no intentaron venderme una pieza nueva directamente.",
-      "rating": 5
-    },
-    {
-      "name": "Laia",
-      "neighborhood": "El Veral",
-      "car": "Peugeot 208 2016",
-      "body": "Los frenos hacían un ruido horrible, sobre todo con la humedad de la mañana. Pensaba que sería una fortuna, pero me enseñaron los discos oxidados por el salitre. Me dieron un presupuesto cerrado para discos y pastillas y el coche ahora frena perfecto y sin ruidos. Un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Vilassar de Dalt",
-      "car": "BMW Serie 3 2015",
-      "body": "Tenía que pasar la ITV y el coche no iba fino en las curvas. Me encontraron una holgura en una rótula de la suspensión. Lo arreglaron rápido, me alinearon la dirección y pasó la ITV sin un solo fallo. Me ahorraron un segundo viaje y el mal trago. Muy recomendables.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "Barri de la Mar",
-      "car": "Renault Clio 2013",
-      "body": "El aire acondicionado dejó de enfriar justo en junio. En otros sitios me daban cita para dentro de dos semanas. Aquí me hicieron un hueco para diagnosticarlo, vieron que era una pequeña fuga y lo recargaron. Tardaron un poco más de lo previsto pero me mantuvieron informada. El trato, genial.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Vilassar de Mar da servicio a toda la localidad, desde el Centre Vila y el Barri de la Mar hasta las zonas residenciales de El Veral o Les Pinedes. Gracias a nuestra ubicación, estamos a pocos minutos de los municipios vecinos. Si vives en Vilassar de Dalt, Cabrera de Mar o Premià de Mar, somos tu opción más cercana y de confianza, evitando que tengas que desplazarte hasta el centro de Mataró.\n\nEl acceso es muy sencillo tanto si vienes por la antigua N-II como si sales de la autopista C-32. Esto nos permite atender cómodamente a clientes de Cabrils, Argentona e incluso de los barrios más cercanos de Mataró, que buscan un trato más personal y un servicio profesional sin las esperas de los grandes concesionarios.",
-  "zoneNeighborhoods": [
-    "Centre Vila",
-    "El Veral",
-    "La Xinesca",
-    "Barri de la Mar",
-    "Vilassar de Dalt",
-    "Cabrera de Mar",
-    "Premià de Mar",
-    "Cabrils"
-  ],
-  "zoneAccessRoutes": [
-    "N-II",
-    "C-32",
-    "C-31",
-    "BV-5022"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Vilassar de Mar y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es realmente tan malo el salitre del mar para el coche en Vilassar?",
-      "a": "Sí, y mucho. Aunque no lo veas, la brisa marina deposita partículas de sal en toda la carrocería, pero sobre todo en los bajos, el sistema de escape y los frenos. Esta sal acelera la corrosión muchísimo más que en zonas de interior. Por eso en la pre-ITV ponemos especial atención a estos puntos y recomendamos una limpieza de bajos anual."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vilassar de Mar?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Hago cada día el trayecto Vilassar-Barcelona por la C-32, ¿qué debería vigilar más?",
-      "a": "Ese trayecto implica un uso intensivo a alta velocidad. Lo más importante es vigilar el estado y la presión de los neumáticos, ya que es tu principal elemento de seguridad. También, el nivel y calidad del aceite, que se degrada más rápido. Y por supuesto, los frenos. Un mantenimiento preventivo es clave para evitar sustos en la autopista."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en Cabrera de Mar, ¿por qué debería traeros el coche a vosotros?",
-      "a": "Estamos a menos de 5 minutos en coche por la N-II. Te ofrecemos la misma calidad y tecnología que un taller de una ciudad más grande como Mataró, pero con un trato más cercano y, normalmente, con más agilidad para darte cita. Ahorrarás tiempo y ganarás en tranquilidad y confianza."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Mi coche diésel casi no sale del pueblo, ¿es por eso que se enciende el testigo del motor?",
-      "a": "Es muy probable. Los diésel modernos tienen un filtro de partículas (FAP) que necesita trayectos por carretera para limpiarse (regenerarse). Si solo haces recorridos cortos por Vilassar, el filtro se satura y provoca averías. Podemos hacerle una limpieza forzada y te aconsejaremos sobre cómo evitar que vuelva a ocurrir."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Revisáis coches híbridos?",
-      "a": "Sí. Nuestro equipo está en formación continua para atender las necesidades específicas del mantenimiento de los coches híbridos, que son cada vez más comunes en el Maresme. Disponemos de las herramientas de diagnosis para las marcas más habituales del mercado (Toyota, Hyundai, Kia, etc.) para la parte de motor de combustión y chequeos generales."
-    },
-    {
-      "q": "Si os hago la pre-ITV, ¿me garantizáis que la pasaré?",
-      "a": "Realizamos una inspección visual y mecánica de los mismos puntos que revisa el técnico de la ITV, desde luces y frenos hasta emisiones y holguras. Si encontramos algún defecto, te damos un presupuesto para repararlo. Si nos das el visto bueno, te aseguras al 99% pasarla a la primera, salvo por algún criterio muy subjetivo del inspector."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Vilassar de Mar",
-  "closingCta": "No dejes que una avería te complique la vida en el Maresme. Pide tu presupuesto cerrado y sin compromiso por teléfono, WhatsApp o a través de nuestra web. En nuestro taller de Vilassar de Mar te atenderemos encantados."
+  "closingHeadline": "Tu BMW y MINI en Vilassar de Mar, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Vilassar de Mar y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
