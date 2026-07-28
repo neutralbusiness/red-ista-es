@@ -6,178 +6,124 @@
   "population": 213943,
   "lat": 37.60197,
   "lng": -0.98397,
-  "metaTitle": "Taller mecánico en Cartagena — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Cartagena para revisión, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora y conduce tranquilo.",
-  "heroSubtitle": "¿Cansado de que el salitre y el calor de Cartagena pasen factura a tu coche? Te damos un diagnóstico claro y un precio cerrado.",
+  "metaTitle": "Taller BMW y MINI en Cartagena · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Cartagena. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Cartagena y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces por Cartagena, sabes que tu coche no tiene una vida fácil. No es lo mismo circular por el centro, con el tráfico denso de la Alameda de San Antón o del Paseo Alfonso XIII, que hacer kilómetros diarios por la A-30 para ir a trabajar a Murcia o por la autovía del Mar Menor (RM-2) para escapar a la playa el fin de semana. Quizás usas tu furgoneta para trabajar en el Puerto o en el polígono industrial de Cabezo Beaza. Cada trayecto, cada rutina, somete a tu vehículo a un estrés particular, y nosotros lo entendemos porque vivimos y trabajamos aquí.\n\nEl clima de Cartagena es el mayor enemigo silencioso de tu coche. La combinación de sol intenso durante casi todo el año, la alta humedad y, sobre todo, el salitre del ambiente marino, es un cóctel corrosivo. Este ambiente acelera la oxidación de los bajos, los discos de freno y cualquier pequeña muesca en la chapa. El sol implacable castiga la pintura, los plásticos exteriores y el salpicadero, mientras que el sistema de aire acondicionado trabaja a pleno rendimiento de mayo a octubre, sufriendo un desgaste enorme. Por eso, un mantenimiento preventivo en Cartagena no es un lujo, es una necesidad para evitar averías costosas y alargar la vida de tu vehículo.\n\nConocemos el parque móvil de la zona. Sabemos que por nuestras calles circulan muchísimos SEAT Ibiza y León, Renault Mégane, Citroën C4 o Peugeot 308, coches fiables y perfectos para el día a día. También vemos a diario las furgonetas de autónomos y pequeñas empresas, como la Berlingo, la Partner o la Kangoo, que son herramientas de trabajo indispensables. Sea cual sea tu coche, un diésel con años que hace la ruta de La Unión a diario o un gasolina más moderno para moverte por la ciudad, conocemos sus puntos débiles y cómo mantenerlo en perfecto estado de revista.\n\nEntendemos la desconfianza que genera un taller. Las facturas que crecen, las reparaciones que no se han pedido. Nuestro compromiso es radicalmente distinto. Te ofrecemos un presupuesto cerrado y detallado. No tocamos un solo tornillo sin tu autorización explícita. Queremos ser tu taller de confianza en Cartagena, el lugar al que vienes sabiendo que te diremos la verdad sobre el estado de tu coche y te daremos un precio justo, sin sorpresas. Nuestra filosofía es sencilla: transparencia total para que conduzcas con total tranquilidad, ya sea para pasar la ITV o para irte de vacaciones.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Los Camachos sin agobios hasta cambiar un embrague gastado por el tráfico de la ciudad, cubrimos toda la mecánica de tu coche en Cartagena.",
-  "processIntro": "Sabemos que dejar el coche en el taller genera dudas. Por eso, nuestro proceso es 100% transparente: presupuesto cerrado por escrito y no hacemos nada sin tu visto bueno.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Cartagena, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Cartagena, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Cartagena te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Cartagena, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos qué le pasa a tu coche y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado y por escrito, explicando cada punto. El precio que ves es el precio que pagas, sin sorpresas ni extras de última hora. Lo prometemos."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto con calma y nos das tu aprobación. Hasta que no tenemos tu OK explícito, tu coche no se toca. Tú tienes siempre el control total de la reparación."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Procedemos a la reparación utilizando recambios de primera calidad y con garantía. Te mantenemos informado de los plazos para que sepas cuándo estará listo tu vehículo."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te entregamos el coche reparado y te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima de Cartagena no perdona: el calor extremo de verano, la humedad del mar y el polvo en suspensión causan averías muy concretas que vemos a diario en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Cartagena.",
   "commonIssues": [
     {
-      "title": "Fallo del aire acondicionado",
-      "body": "En Cartagena, el aire acondicionado no es un lujo, es una necesidad. El uso intensivo de mayo a octubre y las altas temperaturas fuerzan el compresor y pueden provocar fugas en el circuito. Realizamos diagnósticos precisos, recargas de gas y reparación de componentes para que el calor no te pille por sorpresa."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Corrosión en frenos y bajos",
-      "body": "La brisa marina, cargada de salitre, es el peor enemigo del metal. Acelera la oxidación de los discos y pastillas de freno, reduciendo su eficacia y seguridad, así como de los bajos del coche. Hacemos una revisión exhaustiva del sistema de frenado y del chasis para evitar problemas graves."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Los atascos en la A-30 en pleno agosto o callejear por el centro con 40 grados a la sombra ponen al límite el sistema de refrigeración. Un nivel bajo de anticongelante o un radiador obstruido pueden causar una avería muy seria. Verificamos todo el circuito para que el motor trabaje siempre a su temperatura ideal."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Baterías que mueren sin avisar",
-      "body": "El calor extremo es el principal factor que acorta la vida de una batería. Evapora el líquido interno y degrada los componentes mucho más rápido que en climas fríos. Por eso, en Cartagena una batería puede fallar de repente en el momento más inoportuno. Comprobamos su estado en cada revisión para que no te deje tirado."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "La orografía de Cartagena, con sus cuestas, y el tráfico urbano de 'arranca y para' en zonas como el Paseo Alfonso XIII o el Ensanche, provocan un desgaste acelerado del embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Precio cerrado, sin sustos",
-      "body": "Te damos un presupuesto claro y por escrito antes de empezar. El importe acordado es el que pagas al final, sin costes ocultos ni imprevistos. Honestidad por delante."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Especialistas en tu coche",
-      "body": "Trabajamos con todas las marcas y modelos que ves por Cartagena, desde un Ford Focus hasta una furgoneta Peugeot. Conocemos sus particularidades y usamos el recambio adecuado."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No te vamos a vender una reparación que no necesitas. Te explicamos cuál es el problema real, las posibles soluciones y te aconsejamos la mejor opción para tu seguridad y tu bolsillo."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras reparaciones y los recambios que instalamos están cubiertos por garantía. Trabajamos para que el problema quede solucionado de forma duradera y fiable."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Tu aliado para la ITV",
-      "body": "Sabemos lo que miran en la estación ITV de Los Camachos. Hacemos una revisión pre-ITV completa para que vayas sobre seguro y la pases a la primera, ahorrándote tiempo y dinero."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Cartagena nos confían cada día. Tu caso podría ser el siguiente.",
-  "testimonials": [
-    {
-      "name": "Antonio",
-      "neighborhood": "San Antón",
-      "car": "SEAT León 2.0 TDI 2014",
-      "body": "El aire acondicionado dejó de enfriar justo a principios de junio. Con el calor que hace aquí, era un drama. Me dieron cita rápido, encontraron una pequeña fuga en un manguito y me lo solucionaron con un presupuesto cerrado. Ahora vuelve a ser un congelador. Muy profesionales y honestos.",
-      "rating": 5
-    },
-    {
-      "name": "Carmen",
-      "neighborhood": "Ensanche-Almarjal",
-      "car": "Peugeot 2008 2018",
-      "body": "Tenía que pasar la ITV y siempre me da pánico. Lo llevé para la revisión pre-ITV y me detectaron que las pastillas de freno traseras estaban en las últimas por el salitre. Me las cambiaron el mismo día y pasé la inspección sin un solo fallo. Me ahorraron un segundo viaje y muchos nervios.",
-      "rating": 5
-    },
-    {
-      "name": "José",
-      "neighborhood": "Los Dolores",
-      "car": "Citroën Berlingo 2016",
-      "body": "Uso la furgoneta para trabajar y notaba que el embrague patinaba. Me preocupaba quedarme tirado. Me explicaron el problema, me dieron un precio fijo para el kit de embrague y cumplieron el plazo. Valoro mucho la claridad y que entiendan que mi vehículo es mi herramienta de trabajo.",
-      "rating": 5
-    },
-    {
-      "name": "Lucía",
-      "neighborhood": "Canteras",
-      "car": "Ford Fiesta 2015",
-      "body": "El coche hacía un ruido raro al girar. En otro sitio seguro que me habrían contado una milonga. Aquí lo subieron al elevador, me enseñaron que era un guardapolvos de la transmisión roto y me lo cambiaron. Me gustó que me lo mostraran y me explicaran qué era. Se han ganado mi confianza.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la ciudad de Cartagena y sus alrededores. Si vives en barrios como el Ensanche, el Casco Antiguo, San Antón, Los Dolores o el Barrio de la Concepción, estamos a tu disposición. También atendemos a clientes que se desplazan a diario desde municipios cercanos como La Unión, El Algar, Pozo Estrecho, Los Alcázares o Fuente Álamo.\n\nNuestra ubicación es de fácil acceso desde las principales vías que conectan la comarca. Puedes llegar cómodamente a través de la autovía A-30 si vienes de Murcia, la AP-7 si te mueves por la costa, o la carretera nacional N-332. Entendemos que tu tiempo es importante, por eso buscamos agilizar al máximo la recepción y entrega de tu vehículo.",
-  "zoneNeighborhoods": [
-    "Casco Antiguo",
-    "Ensanche-Almarjal",
-    "San Antón",
-    "Los Dolores",
-    "Barrio de la Concepción",
-    "Canteras",
-    "Santa Lucía",
-    "El Bohío",
-    "La Unión",
-    "El Algar"
-  ],
-  "zoneAccessRoutes": [
-    "A-30 (Autovía de Murcia)",
-    "AP-7 (Autopista del Mediterráneo)",
-    "N-332",
-    "RM-2 (Autovía del Mar Menor)",
-    "CT-32"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Cartagena y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta el problema del salitre de Cartagena en las reparaciones?",
-      "a": "Totalmente. Es uno de los factores que más vigilamos. En cada revisión, prestamos especial atención al estado de los bajos, sistema de escape y, sobre todo, los componentes de freno, que son los más expuestos a la corrosión por el ambiente marino. Usamos productos protectores y te avisamos si detectamos oxidación prematura para atajarla a tiempo."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Cartagena?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche es diésel y hago muchos trayectos cortos por la ciudad, ¿qué mantenimiento especial necesita?",
-      "a": "Es una situación muy común en Cartagena. Este tipo de uso puede saturar el filtro de partículas (FAP) y la válvula EGR. Te recomendamos hacer una salida a carretera por la A-30 o la AP-7 de vez en cuando, a un régimen más alto, para ayudar a la regeneración. En el taller, podemos comprobar el estado de estos sistemas y realizar limpiezas específicas para evitar averías costosas."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Voy a pasar la ITV en el polígono de Los Camachos, ¿qué revisáis en la Pre-ITV?",
-      "a": "Nuestra revisión Pre-ITV es exhaustiva y se centra en los puntos críticos que miran en la estación de Cartagena: luces, frenos (eficacia y desequilibrio), holguras en la dirección y suspensión, estado de los neumáticos y, muy importante, la emisión de gases. Nos aseguramos de que todo esté en orden para que la pases a la primera sin problemas."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría como antes, ¿es normal con el calor de aquí?",
-      "a": "Sí, es un síntoma muy habitual. El calor extremo y el uso constante fuerzan todo el sistema. Puede ser simplemente que necesite una recarga de gas por pequeñas pérdidas naturales, o que haya una fuga o un problema en el compresor. Lo mejor es hacer un diagnóstico para localizar el problema exacto y solucionarlo antes de que llegue lo peor del verano."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Trabajáis con furgonetas de autónomos o empresas?",
-      "a": "Por supuesto. Sabemos que para un profesional de Cartagena, la furgoneta es una herramienta de trabajo vital. Damos prioridad a estas reparaciones para que el vehículo esté inmovilizado el menor tiempo posible. Hacemos mantenimientos, embragues, distribuciones y cualquier avería en los modelos más comunes como Berlingo, Partner, Kangoo, etc."
-    },
-    {
-      "q": "Vivo en La Manga, ¿me compensa traer el coche a vuestro taller en Cartagena?",
-      "a": "Muchos clientes de La Manga y el Mar Menor confían en nosotros. El ambiente en La Manga es aún más agresivo por el salitre. Te compensa porque realizamos un mantenimiento preventivo enfocado en la corrosión que puede ahorrarte mucho dinero a largo plazo. Además, nuestro presupuesto cerrado te garantiza que el viaje merecerá la pena."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Cartagena",
-  "closingCta": "No dejes que una avería te complique la vida. Pide tu presupuesto cerrado para tu coche en Cartagena. Llámanos o envíanos un WhatsApp y te atenderemos sin ningún compromiso."
+  "closingHeadline": "Tu BMW y MINI en Cartagena, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Cartagena y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
