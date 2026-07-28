@@ -6,177 +6,124 @@
   "population": 65890,
   "lat": 41.22392,
   "lng": 1.72511,
-  "metaTitle": "Taller mecánico en Vilanova i la Geltrú — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Vilanova i la Geltrú para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. ¡Pide tu cita ahora!",
-  "heroSubtitle": "Para ti, que usas el coche cada día por la C-32 o te mueves por Vilanova y no quieres sorpresas con el mantenimiento ni con la factura.",
+  "metaTitle": "Taller BMW y MINI en Vilanova i la Geltrú · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Vilanova i la Geltrú. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Vilanova i la Geltrú y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir en Vilanova i la Geltrú tiene sus particularidades. No es lo mismo usar el coche solo para ir a comprar al mercado del centro que coger cada mañana la C-32 para trabajar en Barcelona. Conocemos perfectamente esa rutina: el tráfico denso a la altura de Castelldefels, las frenadas constantes y el desgaste que eso supone para tu embrague y tus frenos. También sabemos lo que significa vivir junto al mar. El salitre del Garraf es implacable, no solo con la chapa, sino con componentes críticos como los discos de freno, el sistema de escape y los bajos del coche. Por eso, nuestro enfoque no es genérico; es un mantenimiento pensado para el parque móvil real de Vilanova, compuesto en su mayoría por SEAT, Peugeot, Renault y Volkswagen con unos cuantos años a sus espaldas.\n\nEntendemos que tu coche es una herramienta esencial. Quizás lo usas para llevar a los niños al colegio en La Collada, para desplazarte a tu trabajo en el polígono o para escaparte el fin de semana a Sitges por la C-31. Cada uno de estos trayectos tiene un impacto diferente en el vehículo. Los trayectos cortos por el núcleo urbano, con sus calles a veces estrechas como las del barrio de La Geltrú, son especialmente duros para los motores diésel y sus filtros de partículas. Por otro lado, la humedad constante de nuestro clima mediterráneo puede afectar a la electrónica y generar olores en el sistema de climatización, un elemento indispensable durante los veranos calurosos y húmedos que tenemos aquí.\n\nNuestro trabajo es anticiparnos a esos problemas. Cuando revisamos un coche en Vilanova, no solo miramos el kilometraje. Tenemos en cuenta si aparcas en la calle en el Barri de Mar, expuesto a la brisa marina, o si haces a menudo el trayecto hasta Vilafranca por la C-15. Esta visión local nos permite detectar un desgaste prematuro en la suspensión de un coche que circula habitualmente por zonas con badenes, o la necesidad de una limpieza del circuito de refrigeración en un vehículo que sufre los atascos veraniegos para ir a la playa de Ribes Roges. No es lo mismo un coche que solo se mueve por la ciudad que uno que sube regularmente al Parc del Garraf.\n\nPor eso, cuando buscas un taller en Vilanova i la Geltrú, no solo necesitas a alguien que sepa de mecánica, sino a alguien que entienda tu día a día. Alguien que sepa que la ITV de Sant Pere de Ribes es exigente con las emisiones y los frenos, y que prepare tu coche a conciencia para superarla sin problemas. Ofrecemos un servicio honesto, con presupuestos cerrados para que no te lleves sustos, y una comunicación clara y directa. Queremos ser tu taller de confianza, el que entiende que tu Renault Clio o tu SEAT Ibiza no es solo un número de bastidor, sino la clave de tu movilidad en el Garraf.",
-  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, cubrimos todas las necesidades de tu vehículo aquí en Vilanova i la Geltrú.",
-  "processIntro": "Trabajamos con total transparencia. Te explicamos todo claro y te damos un presupuesto cerrado. No movemos un tornillo sin tu aprobación.",
+  "introLocal": "En Vilanova i la Geltrú vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEn los MINI que vemos en Vilanova i la Geltrú, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vilanova i la Geltrú te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Vilanova i la Geltrú, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, un mecánico especialista lo revisa a fondo. Escuchamos lo que te preocupa y usamos equipos de diagnosis para identificar el origen del problema con precisión, sin especulaciones."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas. Sin letra pequeña ni sorpresas de última hora."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisa el presupuesto tranquilamente. Si tienes cualquier duda, nos llamas y te la aclaramos. Solo cuando nos das tu visto bueno, empezamos a trabajar en tu coche. Tú tienes siempre el control."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado del proceso."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima costero de Vilanova, el tráfico hacia Barcelona y el tipo de recorridos urbanos provocan una serie de averías muy características en los coches de la zona.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Vilanova i la Geltrú.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos por la C-32",
-      "body": "El trayecto diario a Barcelona por la C-32 o la C-31 implica constantes paradas y arranques, sobre todo en los accesos. Este ritmo castiga enormemente el embrague y los frenos. En nuestro taller de Vilanova revisamos el grosor de las pastillas y discos, y el recorrido del pedal de embrague para evitar que te quedes tirado en plena autopista."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Corrosión acelerada por el salitre marino",
-      "body": "Vivir en el Garraf es un lujo, pero el salitre es muy corrosivo. Afecta a los bajos del coche, líneas de escape y, sobre todo, a los componentes de los frenos como discos y pinzas, que se oxidan y pueden llegar a bloquearse. Realizamos inspecciones específicas para detectar y frenar esta corrosión a tiempo."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Averías en el sistema de climatización",
-      "body": "Los veranos en Vilanova son calurosos y húmedos. Un aire acondicionado que no enfría lo suficiente es un problema serio. Las fugas de gas, fallos en el compresor o filtros sucios son habituales. Hacemos una diagnosis completa del sistema para que puedas afrontar el calor con garantías."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Filtro de partículas (DPF) atascado",
-      "body": "Muchos coches diésel en Vilanova se usan para trayectos cortos: del Prat de Vilanova al centro, de Sant Joan a la playa... Esto impide que el filtro de partículas se regenere correctamente, provocando averías costosas. Ofrecemos diagnosis y soluciones de limpieza para evitar la sustitución."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas de suspensión y neumáticos",
-      "body": "El estado de algunas calles, los badenes en zonas residenciales como La Collada y la circulación por las carreteras con curvas como las del Pantà de Foix, exigen mucho a la suspensión y los neumáticos. Unos amortiguadores en mal estado aumentan la distancia de frenado y el desgaste de las ruedas."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de aquí",
-      "body": "Sabemos qué problemas dan los coches en Vilanova por el clima y el tipo de uso. No aplicamos soluciones genéricas, vamos directos al grano porque conocemos tu entorno."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio cerrado y claro desde el principio. Lo que apruebas es lo que pagas al final. Se acabaron las facturas infladas y las sorpresas desagradables."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Tú decides siempre",
-      "body": "No cambiamos ni una sola pieza sin tu autorización explícita. Te explicamos qué le pasa a tu coche y te damos opciones para que tú tomes la mejor decisión."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Especialistas en Pre-ITV",
-      "body": "Conocemos los puntos críticos que miran en la estación de ITV de Sant Pere de Ribes. Hacemos una revisión exhaustiva para que la pases a la primera y te olvides de problemas."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un SEAT, un BMW, un Peugeot o un Hyundai. Tenemos la formación y el equipo de diagnosis para trabajar con todas las marcas con la misma calidad que el servicio oficial."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de casos reales de conductores de Vilanova que ya confían en nosotros para el cuidado de su coche.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Barri de Mar",
-      "car": "SEAT León ST 2017",
-      "body": "Hago cada día el trayecto Vilanova-Barcelona por la C-32 y notaba que el embrague empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Se nota que entienden el desgaste que sufrimos los que hacemos este trayecto a diario. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "La Geltrú",
-      "car": "Peugeot 2008 2018",
-      "body": "El aire acondicionado dejó de enfriar justo al empezar junio. Con dos niños pequeños, era una urgencia. Me atendieron súper rápido, encontraron una pequeña fuga, la repararon y recargaron el gas. El trato fue muy cercano y me explicaron todo el proceso. ¡Nos salvaron el verano!",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "La Collada",
-      "car": "Ford Focus 2014",
-      "body": "Tenía que pasar la ITV y siempre me da pánico. Les pedí una revisión pre-ITV y encontraron que las pastillas de freno traseras estaban en las últimas y una luz de posición fundida. Lo arreglaron en la misma mañana. Fui a la ITV de Sant Pere de Ribes y la pasé sin un solo fallo. Merece la pena la tranquilidad.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Sant Joan",
-      "car": "Renault Clio 2015",
-      "body": "El coche me daba tirones y se encendió el testigo de motor. Como solo lo uso por Vilanova, me temía lo peor con el filtro de partículas. Me hicieron una diagnosis y me confirmaron que era eso. En lugar de cambiarlo, me ofrecieron una limpieza que salió mucho más económica. El coche va perfecto ahora. Agradezco la honestidad.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Vilanova i la Geltrú. No importa si vives en el centro, en el Prat de Vilanova, en Ribes Roges o en La Collada-Els Sis Camins. Nuestra ubicación nos convierte también en una opción muy cómoda para conductores de los municipios vecinos. Si vienes de Sitges o Sant Pere de Ribes por la C-31, o desde Cubelles, estás a pocos minutos. También somos el taller de referencia para muchos clientes de Canyelles que bajan por la C-15. Nuestro acceso es sencillo desde las principales vías que conectan la comarca del Garraf, como la C-32 (salida Vilanova), la C-31 y la C-15.",
-  "zoneNeighborhoods": [
-    "Centre Vila",
-    "Barri de Mar",
-    "La Geltrú",
-    "Sant Joan",
-    "La Collada-Els Sis Camins",
-    "Prat de Vilanova",
-    "Ribes Roges",
-    "Sitges",
-    "Sant Pere de Ribes",
-    "Cubelles"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista Pau Casals)",
-    "C-31 (Carretera de les Costes)",
-    "C-15 (Eix Diagonal)",
-    "BV-2115"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Vilanova i la Geltrú y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Por qué mis discos de freno se oxidan tan rápido en Vilanova?",
-      "a": "Es un efecto directo del ambiente marino. La sal y la humedad del aire (el salitre) aceleran la oxidación del metal. Aunque algo de óxido superficial es normal y se va con las primeras frenadas, una corrosión profunda puede afectar al rendimiento y la seguridad. Por eso, en Vilanova recomendamos revisar el sistema de frenos con más frecuencia, especialmente si el coche duerme en la calle cerca del mar."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vilanova i la Geltrú?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Tengo un diésel y casi solo me muevo por la ciudad, ¿qué debo vigilar?",
-      "a": "El principal riesgo es la saturación del filtro de partículas (DPF). Estos sistemas necesitan trayectos por carretera (como por la C-32 o C-15) para alcanzar la temperatura necesaria y autolimpiarse. Si solo haces recorridos cortos por Vilanova, el filtro se atasca, provocando pérdida de potencia y averías caras. Te recomendamos salir a carretera al menos una vez por semana durante 20 minutos a un ritmo constante."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Voy a pasar la ITV en Sant Pere de Ribes, ¿hay algo especial que deba mirar?",
-      "a": "Sí. En la ITV de Sant Pere de Ribes, como en todas, son muy estrictos con los elementos de seguridad: frenos, neumáticos, luces y suspensión. Por la proximidad al mar, prestan especial atención a la corrosión en los bajos y en el sistema de frenado. También son rigurosos con las emisiones, sobre todo en los diésel. Nuestra revisión pre-ITV se centra en todos estos puntos críticos para que vayas sobre seguro."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Conduzco a menudo por las Costas del Garraf (C-31), ¿necesita mi coche un cuidado extra?",
-      "a": "Sí. Esa carretera, aunque preciosa, es exigente. Sus curvas constantes suponen un mayor trabajo para la suspensión y los neumáticos, provocando un desgaste más rápido de los flancos de las ruedas. Además, el sistema de frenos se usa intensamente. Recomendamos revisar la presión de los neumáticos con frecuencia y hacer un control de amortiguadores y frenos de forma periódica si es tu ruta habitual."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "En verano, el coche se calienta mucho en los atascos para ir a la playa, ¿es normal?",
-      "a": "Un ligero aumento de la temperatura en un atasco puede ser normal, pero si la aguja sube a la zona roja, hay un problema en el sistema de refrigeración. El calor de Vilanova en verano, sumado al tráfico lento, pone a prueba el radiador, el ventilador y el líquido refrigerante. Es vital tener el sistema en perfecto estado para evitar un sobrecalentamiento grave del motor. Una revisión antes de la temporada de verano es muy recomendable."
-    },
-    {
-      "q": "¿Tenéis coche de cortesía? Lo necesito para seguir yendo a trabajar.",
-      "a": "Sí, disponemos de coche de cortesía para que no te quedes parado mientras reparamos el tuyo. Entendemos que muchos de nuestros clientes en Vilanova dependen del coche para su día a día, ya sea para ir a trabajar o para las tareas familiares. Este servicio está sujeto a disponibilidad, por lo que te recomendamos solicitarlo al pedir tu cita para poder garantizarlo."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Vilanova",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Vilanova i la Geltrú para revisar tu coche con la confianza que buscas."
+  "closingHeadline": "Tu BMW y MINI en Vilanova i la Geltrú, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Vilanova i la Geltrú y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
