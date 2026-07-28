@@ -6,177 +6,124 @@
   "population": 122943,
   "lat": 37.28287,
   "lng": -5.92088,
-  "metaTitle": "Taller mecánico en Dos Hermanas — Multimarca y de confianza",
-  "metaDescription": "Presupuestos cerrados para tu coche en Dos Hermanas. Revisión, averías, neumáticos y pre-ITV. Cuidamos tu coche del calor y del uso diario. Pide tu cita.",
-  "heroSubtitle": "Harto de atascos en la A-4 y sorpresas en la factura del taller? En Dos Hermanas, te damos un presupuesto cerrado para que conduzcas tranquilo.",
+  "metaTitle": "Taller BMW y MINI en Dos Hermanas · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Dos Hermanas. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Dos Hermanas y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Dos Hermanas y sus alrededores es una prueba de resistencia para cualquier coche. Si cada mañana coges la A-4 o la SE-40 para ir a trabajar a Sevilla, sabes de lo que hablamos: el arranca-para constante, el embrague sufriendo en los atascos de entrada a la capital y los frenos trabajando a destajo. Tu SEAT León, tu Peugeot 3008 o tu furgoneta para el trabajo acumulan kilómetros en unas condiciones que no son precisamente un paseo. No es lo mismo circular por la Avenida de España en hora punta que hacer un viaje largo por la autovía; el desgaste diario en este entorno metropolitano es intenso y requiere un mantenimiento específico que entienda esta realidad.\n\nLuego está el factor que define nuestra tierra: el calor. Cuando el termómetro supera los 40 grados en julio y agosto, el asfalto de la N-IV parece derretirse y tu coche lo sufre en silencio. El aire acondicionado funciona sin descanso, el sistema de refrigeración va al límite para evitar un calentón en mitad de la SE-30 y la batería se degrada a un ritmo mucho más rápido que en climas más suaves. Este calor extremo no es una anécdota, es una condición que afecta directamente a la vida útil de componentes clave. Ignorarlo significa arriesgarse a una avería en el peor momento posible, como volviendo de la playa de Matalascañas un domingo por la tarde.\n\nEn nuestro taller de Dos Hermanas conocemos perfectamente este escenario. Entendemos el parque móvil de la zona, dominado por coches diésel y gasolina de marcas como Renault, Citroën, Ford o Volkswagen, vehículos fiables pensados para el día a día de familias de Vistazul o Montequinto y para autónomos que se mueven por los polígonos como La Isla. Sabemos que tu coche no es un lujo, es la herramienta que te permite llevar a los niños al colegio, hacer la compra o, simplemente, ganarte la vida. Por eso, nuestro enfoque es práctico, honesto y adaptado a las necesidades reales de los conductores nazarenos.\n\nAquí no te hablaremos con tecnicismos innecesarios ni intentaremos venderte reparaciones que no necesitas. Nuestro compromiso es simple: un diagnóstico claro, un presupuesto cerrado y sin sorpresas, y la garantía de que solo usamos recambios de calidad. Tanto si necesitas la revisión anual para pasar la ITV en Gelves sin problemas, como si has notado un ruido raro en la suspensión después de coger uno de tantos baches, o si simplemente el aire acondicionado ha decidido dejar de enfriar justo cuando empieza la feria. Estamos aquí para que tu coche siga siendo tu aliado y no una fuente de problemas y gastos imprevistos.",
-  "servicesIntro": "Desde el cambio de aceite para tu coche familiar hasta la reparación del embrague de tu furgoneta de trabajo, cubrimos todas las necesidades de tu vehículo en Dos Hermanas.",
-  "processIntro": "Queremos que estés tranquilo. Por eso nuestro proceso es 100% transparente: te explicamos el problema, te damos un presupuesto cerrado y no hacemos nada sin tu permiso.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Dos Hermanas, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Dos Hermanas, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Dos Hermanas te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Dos Hermanas, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo revisamos a fondo. Usamos equipos de diagnosis para encontrar el origen exacto del problema, sin especulaciones. Te explicamos qué hemos encontrado en un lenguaje que entiendas."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te entregamos un presupuesto detallado por escrito o por WhatsApp. El precio que ves es el que pagas, sin extras de última hora ni sorpresas desagradables. Incluye piezas, mano de obra e IVA. Todo claro desde el principio."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos des tu visto bueno. Si durante la reparación surgiera algo nuevo e inesperado (es raro, pero puede pasar), te llamaremos inmediatamente para informarte y decidir."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Nuestros mecánicos se ponen manos a la obra utilizando recambios de primeras marcas o equivalentes, siempre con garantía. Te mantenemos informado de los plazos para que sepas cuándo podrás recoger tu coche."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada y te entregamos la factura. Unos días después, es posible que te contactemos para asegurarnos de que todo va perfecto."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El calor asfixiante de Sevilla, el polvo del campo y los kilómetros diarios hacia la capital dejan huella. Estos son los problemas más comunes que vemos en los coches de Dos Hermanas.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Dos Hermanas.",
   "commonIssues": [
     {
-      "title": "El aire acondicionado no enfría",
-      "body": "En pleno agosto, un A/C que no funciona es un drama. El uso intensivo durante meses provoca fugas en el circuito o agota el gas. Revisamos el sistema de climatización, detectamos posibles fugas, recargamos el gas y cambiamos el filtro del habitáculo para que vuelvas a respirar aire fresco y limpio."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso para entrar a Sevilla por la A-4 o los recorridos urbanos por Montequinto castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Un cambio a tiempo evita averías mayores y más caras."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Baterías que mueren de repente",
-      "body": "El calor extremo del verano sevillano acorta drásticamente la vida de las baterías. No es raro que un coche que arrancaba perfectamente por la mañana, por la tarde no dé señales de vida. Comprobamos el estado de tu batería y el alternador para que no te quedes tirado en el peor momento."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Quedarse parado por un calentón en la SE-30 a 45 grados es una pesadilla. El calor y el esfuerzo constante pueden provocar fugas de refrigerante, fallos en el termostato o problemas en el radiador. Realizamos una revisión completa del circuito de refrigeración para garantizar que tu motor trabaje a su temperatura ideal."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Filtros de aire y polen obstruidos",
-      "body": "La cercanía del campo y el polen en primavera hacen que los filtros de aire y del habitáculo se saturen rápidamente en Dos Hermanas. Esto aumenta el consumo de combustible y reduce la calidad del aire que respiras dentro. Es una operación de mantenimiento económica que mejora el rendimiento y tu confort."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico honesto",
-      "body": "Te decimos lo que tu coche necesita de verdad, ni más ni menos. No inflamos las facturas con reparaciones innecesarias. Nuestra reputación en Dos Hermanas se basa en la confianza."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Entendemos tu día a día",
-      "body": "Sabemos lo que implica moverse por el área metropolitana de Sevilla. Por eso, nuestras soluciones son prácticas y buscan que pases el menor tiempo posible sin tu vehículo."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el precio final. Creemos que la transparencia es la base de una buena relación. Así, puedes organizar tus gastos sin miedo a sustos de última hora."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Expertos en tu coche",
-      "body": "Trabajamos con todas las marcas, desde un Ford Fiesta a una Volkswagen Transporter. Conocemos los puntos débiles y fuertes de los modelos más comunes en nuestras carreteras."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Todas nuestras reparaciones y los recambios que instalamos están cubiertos por garantía. Conducirás con la tranquilidad de saber que el trabajo está bien hecho."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos a diario. Los nombres y coches son representativos, pero los problemas son los que sufren los conductores de Dos Hermanas.",
-  "testimonials": [
-    {
-      "name": "José",
-      "neighborhood": "Montequinto",
-      "car": "SEAT León TDI 2016",
-      "body": "Hago todos los días el trayecto a La Cartuja y el embrague ya empezaba a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. Se nota la diferencia una barbaridad. Muy profesionales y claros en todo momento.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "Vistazul",
-      "car": "Peugeot 3008 2018",
-      "body": "Justo una semana antes de irnos de vacaciones a Cádiz, el aire acondicionado dejó de enfriar. Fue una faena. Los llamé, me dieron cita rápido, encontraron una pequeña fuga y lo solucionaron en el día. Me salvaron el viaje. ¡Un servicio de 10!",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "La Motilla",
-      "car": "Citroën Berlingo 2019",
-      "body": "Soy autónomo y la furgoneta es mi oficina. Tenía que pasar la ITV y no tenía tiempo de nada. Les pedí una revisión pre-ITV y me la hicieron de un día para otro, cambiaron una bombilla fundida y un filtro. La pasó a la primera. Eficaces y entienden que mi tiempo es oro.",
-      "rating": 5
-    },
-    {
-      "name": "Ana",
-      "neighborhood": "El Chaparral",
-      "car": "Ford Focus 2012",
-      "body": "El coche no me arrancó un día de mucho calor. Pensé que sería algo grave, pero me dijeron que era la batería, que con estos veranos es normal. Me la cambiaron en un rato y el precio fue razonable. Agradezco la honestidad, porque en otros sitios igual me hubieran contado una historia.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Dos Hermanas y sus alrededores. Si vives en barrios como Montequinto, Vistazul, La Motilla, Arco Norte o Las Portadas, estamos a un paso de ti. También somos el taller de confianza para muchos conductores de municipios cercanos como Alcalá de Guadaíra, Bellavista, o incluso de Coria del Río y Los Palacios y Villafranca que buscan un servicio profesional y con precios claros. Nuestro fácil acceso desde las principales vías como la A-4 (Autovía del Sur), la SE-40 y la antigua N-IV, así como desde la A-376 (carretera de Utrera), hace que llegar a nuestro taller sea cómodo y rápido, evitando el denso tráfico del centro de la ciudad.",
-  "zoneNeighborhoods": [
-    "Montequinto",
-    "Vistazul",
-    "La Motilla",
-    "Arco Norte",
-    "Las Portadas",
-    "Fuente del Rey",
-    "El Chaparral",
-    "Bellavista",
-    "Alcalá de Guadaíra"
-  ],
-  "zoneAccessRoutes": [
-    "A-4 (Autovía del Sur)",
-    "SE-40",
-    "AP-4 (Autopista del Sur)",
-    "N-IV",
-    "A-376 (Autovía Sevilla-Utrera)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Dos Hermanas y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión pre-ITV para la estación de Gelves?",
-      "a": "Sí, por supuesto. Es la estación a la que acuden la mayoría de nuestros clientes. Hacemos una revisión completa de los puntos clave que miran en la inspección: luces, frenos, neumáticos, emisiones, etc. Nuestro objetivo es que la pases a la primera y te ahorres tiempo y un segundo viaje."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Dos Hermanas?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche sufre mucho en verano, ¿qué revisión especial recomendáis?",
-      "a": "Para el verano de Sevilla, recomendamos una revisión centrada en el sistema de refrigeración (niveles de anticongelante, estado de manguitos y radiador), el aire acondicionado (carga de gas y filtro de habitáculo) y la batería. Son los tres componentes que más fallan con el calor extremo y una revisión preventiva puede evitarte una avería importante."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Voy todos los días a Sevilla a trabajar, ¿cuándo debería revisar el embrague?",
-      "a": "El uso intensivo en atascos acorta la vida del embrague. No hay un kilometraje fijo, pero si notas que el pedal está más duro de lo normal, que el coche vibra al salir en primera o que el motor se revoluciona pero el coche no gana velocidad como antes, es el momento de que lo revisemos. Cogerlo a tiempo puede evitar dañar el volante motor, una reparación mucho más cara."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas tipo Berlingo, Partner o Kangoo?",
-      "a": "Totalmente. Son vehículos muy comunes entre los profesionales y autónomos de Dos Hermanas y conocemos a la perfección su mecánica. Realizamos mantenimientos, cambios de distribución, embragues y cualquier reparación que necesiten para que sigan siendo una herramienta de trabajo fiable."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Vivo en Montequinto, ¿tardáis mucho en dar cita?",
-      "a": "Intentamos ser lo más ágiles posible porque sabemos que necesitas tu coche. Normalmente podemos darte cita en 24-48 horas para revisiones o problemas comunes. Para averías urgentes, buscamos siempre un hueco lo antes posible. Llámanos y te confirmamos la disponibilidad al momento."
-    },
-    {
-      "q": "Con el polvo del campo y las obras de la SE-40, noto que entra mucho polvo. ¿Qué puedo hacer?",
-      "a": "Ese es un problema muy habitual aquí. La solución es sencilla y económica: cambiar el filtro del habitáculo (o filtro de polen). Recomendamos hacerlo una vez al año. Mejorará radicalmente la calidad del aire dentro del coche y el rendimiento del sistema de climatización."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Dos Hermanas",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso para tu taller en Dos Hermanas. Llámanos o envíanos un WhatsApp y te atenderemos encantados para resolver cualquier duda."
+  "closingHeadline": "Tu BMW y MINI en Dos Hermanas, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Dos Hermanas y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
