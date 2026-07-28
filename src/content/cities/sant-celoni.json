@@ -6,177 +6,124 @@
   "population": 16860,
   "lat": 41.68921,
   "lng": 2.48965,
-  "metaTitle": "Taller mecánico en Sant Celoni — Multimarca y de confianza",
-  "metaDescription": "Tu taller multimarca en Sant Celoni para revisión, averías y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita ahora y conduce tranquilo.",
-  "heroSubtitle": "Harto de los talleres que no te cogen el teléfono y las facturas con sorpresa en el Baix Montseny? Respira, has llegado al sitio correcto.",
+  "metaTitle": "Taller BMW y MINI en Sant Celoni · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Sant Celoni. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Sant Celoni y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Sant Celoni y el Baix Montseny no es como hacerlo en una gran ciudad. Aquí tu coche es una herramienta esencial, ya sea para el trayecto diario a Granollers o Mollet por la C-35, para llevar a los niños al colegio en el centro, o para esa escapada de fin de semana a Santa Fe del Montseny. Conocemos el parque móvil de la zona: el SEAT León diésel que acumula kilómetros por la AP-7, el Peugeot 2008 de gasolina para moverse por el pueblo y alrededores, o la furgoneta Renault Kangoo del autónomo que trabaja por toda la comarca. Entendemos que tu vehículo no es un lujo, sino una necesidad que debe ser fiable en todo momento, y por eso nuestro enfoque es directo, honesto y adaptado a la realidad de Sant Celoni.\n\nEl clima del Vallès Oriental, con su humedad palpable y sus inviernos fríos y neblinosos por la cercanía del Tordera, pasa factura. No es raro que las baterías sufran más de la cuenta o que los sistemas de encendido den problemas por la mañana. En verano, el calor intenso pone a prueba el sistema de refrigeración y el aire acondicionado, sobre todo en los atascos que se forman en la AP-7 en operación salida. Las lluvias torrenciales de otoño exigen tener neumáticos y frenos en perfecto estado para circular con seguridad por carreteras como la BV-5114 hacia Vallgorguina. Nuestro mantenimiento preventivo tiene en cuenta estas condiciones climáticas específicas para que tu coche no te deje tirado.\n\nEl tipo de uso que le das a tu coche aquí también es particular. Los trayectos cortos y repetidos para ir a comprar al centro de Sant Celoni o para moverte entre barrios como Les Borrelles o Can Valls castigan los filtros de partículas de los diésel y desgastan el embrague. Por otro lado, los kilómetros de autopista a velocidad constante para ir a trabajar a Barcelona exigen un buen mantenimiento del motor y la distribución. Y si eres de los que disfrutan de las curvas y pendientes del Montseny, sabes que la suspensión, los frenos y los neumáticos trabajan el doble. En nuestro taller analizamos cómo usas tu coche para recomendarte el mantenimiento que realmente necesita, sin extras innecesarios.\n\nSabemos que el coche es una inversión importante para las familias de Sant Celoni, La Batllòria o Santa Maria de Palautordera. Por eso, nos especializamos en alargar la vida útil de vehículos de entre 4 y 15 años. No te vamos a recomendar cambiar de coche a la primera de cambio. Nuestra prioridad es encontrar la solución más inteligente y económica para que tu Ford Focus, tu Opel Astra o tu Citroën C4 sigan funcionando de forma segura y eficiente durante muchos años más. Hablamos tu mismo idioma: el de la fiabilidad, la transparencia y un presupuesto que no te dé un susto a final de mes.",
-  "servicesIntro": "Desde la revisión anual para tu coche hasta la avería más compleja, aquí en Sant Celoni cubrimos todas las necesidades de tu vehículo.",
-  "processIntro": "Trabajamos con total transparencia. Te damos un diagnóstico claro, un presupuesto cerrado y nunca reparamos nada sin tu aprobación previa.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Sant Celoni, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Sant Celoni, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sant Celoni te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Sant Celoni, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Tu coche entra en nuestro taller de Sant Celoni y lo conectamos a nuestros equipos de diagnosis. Escuchamos el motor, revisamos los puntos clave y te explicamos el origen del problema con palabras que entiendes."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en mano, te preparamos un presupuesto detallado y sin letra pequeña. El precio que ves es el que pagas, sin sorpresas. Te lo enviamos por WhatsApp o email para que lo revises con calma."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos ni un tornillo sin tu 'vale'. Revisa el presupuesto y, si estás de acuerdo, danos luz verde. Si decides no reparar, no hay problema. Tú tienes siempre el control total sobre la intervención en tu coche."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas, equivalentes a los originales, para garantizar la fiabilidad. Nuestros mecánicos se ponen manos a la obra para dejar tu coche perfecto, cumpliendo los plazos que te hemos indicado."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona como la seda y estás satisfecho con el servicio."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima del Montseny y el uso diario por la AP-7 y la C-35 provocan averías muy concretas en los coches de Sant Celoni. Estas son las que más vemos en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Sant Celoni.",
   "commonIssues": [
     {
-      "title": "Desgaste prematuro de frenos y embrague",
-      "body": "El tráfico intermitente dentro de Sant Celoni, sumado a las retenciones en la C-35 en hora punta y las bajadas pronunciadas al volver del Montseny, castigan mucho los frenos y el embrague. Realizamos una revisión exhaustiva del sistema y te asesoramos sobre pastillas y discos adecuados para este tipo de uso mixto, asegurando una frenada segura y duradera."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Fallo de batería en invierno",
-      "body": "Las mañanas frías y húmedas del valle del Tordera son la prueba de fuego para las baterías. Muchos coches que solo hacen trayectos cortos por el pueblo no llegan a recargarla por completo. Comprobamos el estado de tu batería y el alternador para evitar que una mañana te encuentres con que el coche no arranca para ir a trabajar."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Problemas con el sistema de climatización",
-      "body": "El aire acondicionado funciona a pleno rendimiento durante los veranos calurosos del Vallès y en invierno es clave para desempañar los cristales por la humedad. Este doble uso puede provocar fugas o pérdida de eficacia. Hacemos diagnósticos de fugas, recargas de gas y reparaciones del compresor para que el clima interior de tu coche sea siempre el adecuado."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensión y neumáticos castigados",
-      "body": "Entre los badenes de zonas residenciales como Can Valls, el estado de algunas carreteras comarcales y las exigencias de las rutas de montaña, la suspensión y los neumáticos sufren. Unos amortiguadores en mal estado no solo son incómodos, sino peligrosos. Revisamos todo el conjunto para garantizar tu estabilidad y agarre en carretera."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Acumulación de carbonilla en motores diésel",
-      "body": "Muchos diésel de Sant Celoni combinan trayectos cortos urbanos con largos recorridos por la AP-7. Esta combinación es propensa a obstruir el filtro de partículas (FAP) y la válvula EGR. Realizamos limpiezas y descarbonizaciones para que tu motor diésel respire mejor, recupere potencia, consuma menos y pase la ITV sin problemas de humos."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches del Vallès",
-      "body": "Sabemos qué problemas dan los modelos más comunes en Sant Celoni y alrededores. No perdemos el tiempo en diagnósticos genéricos, vamos directos al grano porque conocemos el terreno."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuestos que no cambian",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos, te llamamos y te explicamos las opciones. Tú decides siempre."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Mecánica clara y honesta",
-      "body": "Te explicamos la avería de forma que la entiendas, sin tecnicismos innecesarios. Te diremos qué es urgente reparar y qué puede esperar, para que gestiones el mantenimiento de tu coche sin agobios."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un SEAT, un Renault, un Ford o un BMW. Tenemos la experiencia y el equipo de diagnosis para trabajar con todas las marcas y modelos que circulan por nuestras carreteras."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Tu taller de proximidad",
-      "body": "Estamos aquí, en Sant Celoni, para hacerte la vida más fácil. Olvídate de tener que desplazarte a Granollers o Mataró para el mantenimiento de tu coche. La solución la tienes al lado de casa."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que solucionamos cada día. Los nombres y coches son ficticios, pero los problemas te sonarán.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Can Valls",
-      "car": "SEAT León TDI 2016",
-      "body": "Hago cada día el trayecto Sant Celoni - Granollers por la C-35 y notaba un chirrido raro al frenar. Pensaba que sería una pasta. Me dieron un presupuesto cerrado, me explicaron que solo eran las pastillas y en medio día lo tenía listo. Muy transparentes y profesionales, se nota que saben lo que hacen.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "La Batllòria",
-      "car": "Renault Clio 2018",
-      "body": "Tenía que pasar la ITV y siempre me da pánico el tema de los humos. Les pedí una revisión pre-ITV. Me lo miraron todo, ajustaron un par de cosas y me dijeron que fuera tranquila. El coche pasó a la primera sin ningún fallo. Me ahorraron un segundo viaje y muchos nervios. Muy recomendable.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Centre Vila",
-      "car": "Ford Kuga 2015",
-      "body": "Justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Con el calor que hace aquí, era un drama. Les llamé, me hicieron un hueco rápido, detectaron una pequeña fuga y la repararon. Me salvaron las vacaciones. El precio, el que me dijeron desde el principio. Un 10.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Santa Maria de Palautordera",
-      "car": "Peugeot 2008 2017",
-      "body": "Se me encendió el testigo de fallo motor y ya me temía lo peor. En otros talleres me habían mareado. Aquí conectaron el ordenador, vieron que era un sensor y me dieron el presupuesto al momento. No intentaron venderme nada más. Valoro mucho esa honestidad. El coche va perfecto ahora.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda la zona del Baix Montseny desde nuestro taller en Sant Celoni. Si vives en el centro, en barrios como Les Borrelles, Can Valls o el Residencial Montseny, estamos a un paso. Nuestra ubicación es ideal para conductores de municipios cercanos que usan la C-35 o la AP-7 a diario. Recibimos clientes de Santa Maria de Palautordera, Sant Esteve de Palautordera, Vallgorguina y Llinars del Vallès que buscan un servicio de confianza sin tener que ir hasta capitales de comarca más grandes. También cubrimos núcleos como La Batllòria, Olzinelles o Fuirosos. Vengas de donde vengas, nuestro acceso es sencillo y rápido.",
-  "zoneNeighborhoods": [
-    "Centre Vila",
-    "Les Borrelles",
-    "Can Valls",
-    "La Batllòria",
-    "Santa Maria de Palautordera",
-    "Vallgorguina",
-    "Sant Esteve de Palautordera",
-    "Llinars del Vallès",
-    "Residencial Montseny",
-    "El Pujolet"
-  ],
-  "zoneAccessRoutes": [
-    "AP-7",
-    "C-35",
-    "BV-5114",
-    "BV-5301"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Sant Celoni y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es necesario pedir cita para la revisión si vivo en La Batllòria?",
-      "a": "Sí, te recomendamos pedir cita siempre. Aunque estés cerca, nos permite organizarnos mejor y dedicarle a tu coche el tiempo que necesita sin prisas. Especialmente antes de puentes o vacaciones, la agenda se llena rápido. Llámanos o envíanos un WhatsApp y te daremos hora lo antes posible."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sant Celoni?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche diésel hace muchos trayectos cortos por Sant Celoni, ¿qué mantenimiento especial necesita?",
-      "a": "Es un caso muy común aquí. Los trayectos cortos son perjudiciales para los diésel modernos, ya que el filtro de partículas (FAP) no se regenera bien. Te recomendamos que, al menos una vez por semana, salgas a la C-35 o la AP-7 y conduzcas unos 15-20 minutos a un régimen más alto para forzar esa limpieza. En el taller podemos revisar el estado del FAP y la EGR para evitar averías costosas."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Subo mucho al Montseny los fines de semana. ¿Debo revisar algo en particular?",
-      "a": "Absolutamente. Las carreteras de montaña son muy exigentes con los frenos, la suspensión y los neumáticos. Te recomendamos revisar la presión de las ruedas con más frecuencia y hacer una comprobación del estado de las pastillas y discos de freno al menos una vez al año. Unos amortiguadores en buen estado también son cruciales para la seguridad en esas curvas."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo que pasar la ITV en Granollers. ¿Vuestra pre-ITV cubre los puntos clave que miran allí?",
-      "a": "Sí, por supuesto. Seguimos el mismo manual de procedimiento que las estaciones de ITV. Revisamos todos los puntos críticos: luces, frenos, suspensión, neumáticos, cinturones y, sobre todo, las emisiones de gases. Nos aseguramos de que tu coche vaya en perfectas condiciones para que la pases a la primera sin problemas."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "El aire acondicionado de mi coche no enfría para el calor del Vallès. ¿Es cara la recarga?",
-      "a": "No tiene por qué serlo. Primero, diagnosticamos el sistema. Puede ser una simple recarga de gas, que es económica, o puede haber una pequeña fuga. Localizamos el problema y te damos un presupuesto cerrado antes de hacer nada. Es mejor solucionarlo que forzar el compresor y provocar una avería mucho más cara."
-    },
-    {
-      "q": "¿Qué marcas de coches son las que más reparáis en Sant Celoni?",
-      "a": "Por el tipo de parque móvil de la zona, vemos a diario coches del grupo Volkswagen (SEAT, VW, Skoda), marcas francesas como Renault, Peugeot y Citroën, y también muchos Ford y Opel. Sin embargo, estamos equipados para trabajar con cualquier marca, desde un Dacia hasta un Mercedes o un BMW, con total garantía."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Sant Celoni",
-  "closingCta": "No dejes que una avería te complique la vida. Contacta con nosotros por teléfono o WhatsApp y pide tu presupuesto sin compromiso para tu taller de confianza en Sant Celoni."
+  "closingHeadline": "Tu BMW y MINI en Sant Celoni, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Sant Celoni y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
