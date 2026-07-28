@@ -6,187 +6,124 @@
   "population": 172384,
   "lat": 40.34582,
   "lng": -3.82487,
-  "metaTitle": "Taller mecánico en Alcorcón — Multimarca y de confianza",
-  "metaDescription": "Presupuesto cerrado para la revisión, averías o neumáticos de tu coche en Alcorcón. Cerca de Móstoles y Leganés. Pide tu cita y evita sorpresas.",
-  "heroSubtitle": "Sabemos que tu día a día depende del coche para ir a Madrid por la A-5 o moverte por el sur. Deja tu coche en buenas manos y sin líos.",
+  "metaTitle": "Taller BMW y MINI en Alcorcón · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Alcorcón. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Alcorcón y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives y conduces en Alcorcón, sabes lo que significa depender del coche. No es un lujo, es una necesidad. Ya sea para el trayecto diario a Madrid por una A-5 que nunca descansa, para cruzar la M-40 o la M-50, o simplemente para moverte entre Parque Lisboa, el Ensanche Sur y los polígonos, tu vehículo es tu herramienta principal. Entendemos perfectamente el desgaste que supone este uso intensivo: los atascos, los kilómetros acumulados y el estrés mecánico que todo esto genera en embragues, frenos y sistemas de refrigeración. Nuestro taller está pensado para conductores como tú, que necesitan soluciones fiables y un servicio que entienda la realidad del sur de Madrid, sin rodeos ni sorpresas en la factura.\n\nEl clima de la Comunidad de Madrid es otro factor clave que no podemos ignorar. Los veranos secos y tórridos de Alcorcón ponen a prueba cualquier sistema de aire acondicionado y exigen un sistema de refrigeración del motor en perfecto estado para evitar sobrecalentamientos en pleno atasco en la autovía de Extremadura. Por otro lado, las mañanas heladas de invierno, con temperaturas bajo cero, son la prueba de fuego para las baterías. Un coche que no arranca a las siete de la mañana puede arruinarte el día. Por eso, en nuestras revisiones prestamos especial atención a estos elementos, adaptando el mantenimiento a la estacionalidad y asegurando que tu coche responda cuando más lo necesitas, ya sea en agosto o en enero.\n\nEl parque automovilístico de Alcorcón y de municipios vecinos como Móstoles o Leganés es muy variado, pero dominan los coches de trabajo y familiares: SEAT León, Renault Mégane, Peugeot 308, Ford Focus, y un sinfín de SUVs compactos. Muchos de ellos, especialmente los de entre 5 y 12 años, son diésel. Conocemos al dedillo los problemas recurrentes de estos motores (TDI, HDI, dCi...), sobre todo los relacionados con los filtros de partículas (FAP/DPF) y las válvulas EGR, que sufren especialmente con los trayectos cortos por la ciudad o los recorridos a baja velocidad. No nos limitamos a cambiar piezas; diagnosticamos la causa para ofrecerte una solución duradera y adaptada al uso real que le das a tu coche.\n\nPor todo esto, no somos un taller más. Somos tu taller local en Alcorcón, un equipo de profesionales que habla tu mismo idioma y conoce los desafíos a los que se enfrenta tu coche cada día. Desde una simple revisión antes de irte de vacaciones por la A-5 hasta una avería compleja de motor o electrónica, estamos aquí para ayudarte. Te ofrecemos un diagnóstico honesto, un presupuesto cerrado para que no haya sustos y la tranquilidad de saber que tu coche está en manos de gente que sabe lo que hace. Porque tu tiempo y tu tranquilidad son lo más importante.",
-  "servicesIntro": "Ofrecemos una cobertura total para tu coche en Alcorcón: desde la revisión oficial y pre-ITV hasta averías de motor, embragues o electrónica.",
-  "processIntro": "Trabajamos con total transparencia. Te explicamos qué le pasa a tu coche, te damos un presupuesto cerrado y no reparamos nada sin tu autorización.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Alcorcón, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Alcorcón, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Alcorcón te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Alcorcón, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, nuestros técnicos realizan una revisión completa para identificar el origen del problema. Escuchamos tus explicaciones y utilizamos equipos de diagnosis avanzados para ser precisos y no dar palos de ciego."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin compromiso. Verás el coste de las piezas y la mano de obra por separado. El precio que te damos es el que pagas, sin sorpresas."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos una sola tuerca sin tu consentimiento. Te llamamos, te explicamos la intervención necesaria y solo cuando nos das el 'vale', empezamos a trabajar. El control siempre es tuyo."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas con total garantía. Nuestros mecánicos realizan la reparación siguiendo los estándares del fabricante para asegurar un resultado óptimo y duradero. Te mantenemos informado del proceso."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando el coche está listo, te avisamos para que pases a recogerlo. Te explicamos la reparación realizada y te entregamos la factura detallada. Unos días después, te contactamos para confirmar que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El calor extremo, el frío invernal y los atascos diarios en la A-5 y la M-40 generan problemas muy específicos en los coches de Alcorcón que vemos cada día en nuestro taller.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Alcorcón.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso para entrar y salir de Madrid por la A-5, junto con la conducción urbana por Alcorcón, obliga a un uso constante del embrague y los frenos. Este ciclo de arrancar y parar acelera su desgaste. Realizamos sustituciones con componentes de calidad para devolverle a tu coche la suavidad y seguridad originales."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Averías en el aire acondicionado",
-      "body": "En julio y agosto, conducir por Alcorcón sin aire acondicionado es una tortura. El calor extremo de Madrid fuerza al máximo el compresor y puede provocar fugas en el circuito. Diagnosticamos el problema, ya sea una simple recarga de gas o una avería más compleja, para que vuelvas a conducir fresco."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Filtros de partículas (FAP/DPF) obstruidos",
-      "body": "Es el problema estrella de los diésel modernos que hacen mucha ciudad o trayectos cortos, algo muy común aquí. Si no sales a carretera con frecuencia, el filtro no se regenera y se tapona. Ofrecemos soluciones de limpieza y regeneración forzada para evitar una costosa sustitución."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Fallo de batería en invierno",
-      "body": "Las mañanas frías y secas del invierno madrileño son letales para las baterías con algunos años. El frío reduce su capacidad de arranque y, si el coche duerme en la calle, es fácil que una mañana te deje tirado. Comprobamos el estado de tu batería y te aconsejamos su cambio si es necesario."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas de suspensión y neumáticos",
-      "body": "Entre badenes, rotondas y el estado variable de algunas calles, los amortiguadores, silentblocks y neumáticos sufren mucho. Un desgaste irregular o ruidos extraños al girar son síntomas claros. Realizamos alineaciones de dirección y revisiones completas del tren de rodaje para garantizar tu seguridad y confort."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu coche y tu ciudad",
-      "body": "Somos especialistas en las marcas y modelos más comunes en Alcorcón y entendemos cómo les afecta el uso diario en la zona. No damos soluciones genéricas, sino adaptadas a la realidad local."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Te detallamos cada concepto para que sepas exactamente en qué se invierte tu dinero. La honestidad es nuestra principal herramienta."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No te haremos cambiar piezas que no necesitas. Nuestro objetivo es solucionar tu problema de forma eficiente y económica, construyendo una relación de confianza a largo plazo."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Facilidades para tu día a día",
-      "body": "Sabemos que necesitas el coche. Te ofrecemos opciones como el coche de cortesía (sujeto a disponibilidad) para que no te quedes parado mientras reparamos el tuyo."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Gestión integral de la ITV",
-      "body": "Ahorra tiempo y preocupaciones. Hacemos una revisión pre-ITV exhaustiva y, si quieres, llevamos nosotros mismos tu coche a la estación de Alcorcón para que tú no tengas que preocuparte por nada."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de casos reales de conductores de Alcorcón y alrededores que ya han confiado en nuestro taller. Tu experiencia podría ser la próxima.",
-  "testimonials": [
-    {
-      "name": "Javier",
-      "neighborhood": "Ensanche Sur",
-      "car": "SEAT León TDI 2016",
-      "body": "Se me encendió el testigo del filtro de partículas. Hago muchos trayectos cortos para llevar a los niños y casi no salgo a carretera. En el taller me explicaron el problema y me hicieron una regeneración forzada. Me ahorraron un dineral y el coche va perfecto. Muy honestos y profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "María",
-      "neighborhood": "Parque Lisboa",
-      "car": "Renault Clio 2018",
-      "body": "Llevé el coche para la revisión anual antes de irme de vacaciones. Me revisaron todos los puntos importantes, sobre todo el aire acondicionado y los neumáticos, que era lo que más me preocupaba. El trato fue genial, me dieron el presupuesto cerrado desde el principio y cumplieron el plazo. Volveré seguro.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "San José de Valderas",
-      "car": "Peugeot Partner 2015",
-      "body": "Soy autónomo y la furgoneta es mi oficina. El embrague empezó a patinar y necesitaba una solución rápida. Me dieron cita enseguida, entendieron la urgencia y en un par de días la tenía lista. El precio fue el que me dijeron. Un servicio eficaz, que es lo que necesito.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Prado Santo Domingo",
-      "car": "Ford Focus 2013",
-      "body": "El aire acondicionado dejó de enfriar en plena ola de calor. Me encontraron un hueco rápido para mirarlo. Resultó ser una fuga pequeña. Tardaron un poco más de lo previsto en conseguir la pieza, pero me mantuvieron informada en todo momento. Al final todo perfecto y el precio correcto.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Alcorcón da servicio a toda la ciudad, desde el centro histórico hasta los nuevos desarrollos como el Ensanche Sur. Si vives o trabajas en barrios como Parque Lisboa, San José de Valderas, Ondarreta o Prado Santo Domingo, estamos a tu lado. Además, nuestra ubicación es ideal para conductores de municipios colindantes que buscan un taller de confianza sin tener que entrar en Madrid. Damos servicio a diario a clientes de Móstoles, Leganés, Fuenlabrada y Villaviciosa de Odón, gracias al fácil acceso desde las principales vías como la A-5, la M-50 y la M-40. Llegar a nuestro taller es sencillo y rápido, estés donde estés en la zona sur.",
-  "zoneNeighborhoods": [
-    "Ensanche Sur",
-    "Parque Lisboa",
-    "San José de Valderas",
-    "Prado Santo Domingo",
-    "Móstoles",
-    "Leganés",
-    "Fuenlabrada",
-    "Villaviciosa de Odón",
-    "Ondarreta",
-    "Alcorcón Centro"
-  ],
-  "zoneAccessRoutes": [
-    "A-5 (Autovía de Extremadura)",
-    "M-50",
-    "M-40",
-    "R-5",
-    "M-501 (Carretera de los Pantanos)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Alcorcón y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "Vivo en Móstoles, ¿me viene bien vuestro taller en Alcorcón?",
-      "a": "Por supuesto. Estamos muy cerca del límite entre ambos municipios y tenemos un acceso muy cómodo, por lo que muchos de nuestros clientes son de Móstoles. Te resultará más rápido y sencillo que buscar un taller en otras zonas. Llámanos y te indicamos la forma más fácil de llegar desde tu casa."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Alcorcón?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche es diésel y hago trayectos cortos por Alcorcón, ¿qué mantenimiento especial necesita?",
-      "a": "Es un caso muy común. Este tipo de uso tiende a obstruir el filtro de partículas (FAP/DPF) y la válvula EGR. Te recomendamos que, al menos una vez al mes, salgas a carretera (M-50 o A-5) y conduzcas durante 20-30 minutos a un régimen de revoluciones más alto (unas 2.500-3.000 rpm) para forzar la regeneración. En nuestras revisiones, prestamos especial atención a estos sistemas."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Con el calor de Madrid en verano, ¿qué debo revisar en mi coche?",
-      "a": "Es fundamental tener el sistema de refrigeración en perfecto estado (nivel de anticongelante y estado de los manguitos), el aire acondicionado funcionando correctamente y los neumáticos con la presión adecuada, ya que el asfalto caliente aumenta el riesgo de reventón. Una revisión antes de julio es la mejor inversión para evitar sustos."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo que pasar la ITV en el centro de Alcorcón (calle Físicas), ¿ofrecéis servicio Pre-ITV?",
-      "a": "Sí. Ofrecemos un servicio completo de Pre-ITV donde revisamos todos los puntos críticos: luces, frenos, neumáticos, emisiones, etc. Si detectamos cualquier fallo, te damos presupuesto para solucionarlo. Si quieres, también podemos encargarnos de llevar tu coche a la estación de la ITV para que no pierdas tu tiempo."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Uso mucho el coche en los atascos de la A-5, ¿cómo afecta esto al embrague?",
-      "a": "El tráfico intermitente es el peor enemigo del embrague. Cada vez que arrancas y paras, el disco sufre un pequeño desgaste. Hacerlo cientos de veces al día acorta drásticamente su vida útil. Si notas que el pedal está más duro, que el coche vibra al salir o que el motor se revoluciona pero no gana velocidad, es hora de revisarlo."
-    },
-    {
-      "q": "Soy autónomo y tengo una furgoneta, ¿trabajáis con vehículos comerciales?",
-      "a": "Claro que sí. Entendemos que para un profesional, la furgoneta o el coche de trabajo es una herramienta indispensable. Damos un servicio ágil y prioritario para autónomos y pequeñas empresas de Alcorcón y alrededores, para que tu vehículo esté parado el mínimo tiempo posible y puedas seguir facturando."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Alcorcón",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y te daremos cita en nuestro taller de Alcorcón para que conduzcas con total tranquilidad.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Alcorcón",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@taller-madrid.es",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu BMW y MINI en Alcorcón, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Alcorcón y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
