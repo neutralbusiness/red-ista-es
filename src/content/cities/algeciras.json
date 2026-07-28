@@ -6,177 +6,124 @@
   "population": 121414,
   "lat": 36.13326,
   "lng": -5.45051,
-  "metaTitle": "Taller mecánico en Algeciras — Multimarca y presupuesto cerrado",
-  "metaDescription": "Tu taller de confianza en Algeciras para revisiones, averías y neumáticos. Presupuesto cerrado sin sorpresas. Pide tu cita y cuida tu coche.",
-  "heroSubtitle": "El salitre, el calor y el tráfico del puerto desgastan tu coche. Mantenlo a punto para el día a día en Algeciras con un diagnóstico honesto.",
+  "metaTitle": "Taller BMW y MINI en Algeciras · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Algeciras. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Algeciras y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir en Algeciras no es como hacerlo en cualquier otro sitio. Lo sabemos porque vivimos y trabajamos aquí, en el corazón del Campo de Gibraltar. Entendemos que tu coche no solo te lleva de Getares a El Rinconcillo, sino que es tu herramienta para el trabajo, para ir a la compra, para llevar a los niños al colegio o para hacer una escapada a Tarifa. El flujo constante de vehículos hacia el puerto, el tráfico denso en la A-7 en hora punta y las particularidades de nuestro clima definen el día a día de tu motor, tus frenos y tu carrocería.\n\nEl Estrecho nos regala vistas increíbles, pero también un ambiente cargado de salitre y humedad que es implacable con la mecánica. La corrosión no es una anécdota, es una realidad que ataca silenciosamente los bajos de tu coche, el sistema de escape y los componentes eléctricos. A esto se suma el sol intenso de Andalucía, que durante meses castiga la pintura, reseca los plásticos interiores, agrieta los neumáticos y pone al límite el sistema de refrigeración. Un coche en Algeciras necesita una protección extra contra los elementos, y nosotros sabemos cómo dársela.\n\nEl parque automovilístico de Algeciras es un reflejo de su gente: trabajador y diverso. Vemos a diario los coches que mueven la ciudad: SEAT León, Renault Clio, Peugeot 308, Ford Focus... muchos de ellos diésel, con unos cuantos años encima, que hacen trayectos cortos por la ciudad o recorridos diarios hacia La Línea, San Roque o el polígono de Palmones. Este tipo de uso, con constantes paradas y arranques en las rotondas de la Avenida Virgen del Carmen o en la salida hacia la autovía, provoca un desgaste prematuro del embrague, los frenos y el filtro de partículas (FAP).\n\nPor eso, nuestro enfoque no es genérico. Cuando traes tu coche a nuestro taller en Algeciras, no vemos solo una marca y un modelo; vemos un vehículo que sufre el calor, la sal, el viento de Levante y los atascos de la N-340. Realizamos un diagnóstico pensando en estos factores. Comprobamos puntos de óxido que en otros lugares no existen, prestamos especial atención al sistema de aire acondicionado antes de que llegue el verano y te aconsejamos sobre el mantenimiento específico que tu diésel necesita para no darte problemas en los trayectos urbanos. Ofrecemos un servicio honesto y adaptado a la realidad de conducir en el Campo de Gibraltar, con presupuestos cerrados para que no haya sorpresas.",
-  "servicesIntro": "Desde la revisión anual para evitar sustos con el salitre hasta un cambio de embrague por el tráfico de la A-7, cubrimos todas las necesidades de tu coche en Algeciras.",
-  "processIntro": "La confianza es lo primero. En nuestro taller de Algeciras te damos un presupuesto claro y cerrado, y no movemos un solo tornillo sin tu autorización previa.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Algeciras — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Algeciras, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Algeciras te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Algeciras, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestros equipos de diagnosis. Analizamos el problema pensando en las condiciones de conducción de Algeciras para encontrar la causa real."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA, sin letra pequeña. Lo que ves es lo que pagas, sin sorpresas de última hora."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No empezamos ninguna reparación hasta que nos das tu visto bueno. Si durante el proceso encontramos algo nuevo, te llamamos, te lo explicamos y te damos un nuevo presupuesto para que decidas."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te mantenemos informado sobre el progreso. Todas nuestras reparaciones y piezas cuentan con garantía para tu total tranquilidad."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El ambiente marino del Estrecho, el calor del verano y el tráfico denso de Algeciras pasan factura. Estos son los problemas que más vemos y solucionamos en los coches de la zona.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Algeciras.",
   "commonIssues": [
     {
-      "title": "Corrosión por salitre y humedad",
-      "body": "La brisa marina de Algeciras es muy agresiva con el metal. Acelera la oxidación de los bajos del coche, el escape y los conductos de freno. En nuestras revisiones pre-ITV ponemos especial atención a estos puntos críticos, aplicando tratamientos preventivos para alargar la vida de tu vehículo."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste prematuro de embrague y frenos",
-      "body": "El tráfico de la A-7, las retenciones para ir a Gibraltar y las cuestas de barrios como San García fuerzan constantemente el embrague y los frenos. Diagnosticamos el nivel de desgaste y te aconsejamos el mejor momento para sustituirlos, evitando averías más costosas y garantizando tu seguridad."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Sobrecalentamiento del motor en verano",
-      "body": "El calor andaluz pone a prueba el sistema de refrigeración. Un termostato defectuoso o un radiador obstruido pueden causar una avería grave en plena ola de calor. Revisamos todo el circuito: manguitos, líquido refrigerante y electroventilador para que tu coche soporte el verano sin problemas."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Filtro de partículas (FAP) obstruido",
-      "body": "Muchos diésel en Algeciras hacen trayectos cortos, de casa al trabajo o al centro comercial, sin dar tiempo a que el motor se caliente lo suficiente. Esto provoca que el filtro de partículas se sature. Realizamos limpiezas y regeneraciones forzadas para evitar su costosa sustitución."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Fallo del aire acondicionado",
-      "body": "En el Campo de Gibraltar, el aire acondicionado no es un lujo, es una necesidad. Las fugas en el circuito o un compresor agotado son averías comunes. Realizamos cargas de gas con detección de fugas y reparamos el sistema para que vuelvas a conducir fresco."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos Algeciras",
-      "body": "Entendemos cómo el salitre, el calor y el tráfico local afectan a tu coche. Nuestro diagnóstico y mantenimiento están adaptados a la realidad del Campo de Gibraltar."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado y detallado antes de empezar. Si surge un imprevisto, paramos y te consultamos. La transparencia es nuestra norma."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un SEAT Ibiza para moverte por la ciudad o una furgoneta para trabajar en el puerto. Tenemos la experiencia y el equipo para cuidar de tu vehículo."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "No te recomendaremos cambiar una pieza si no es estrictamente necesario. Te explicamos el porqué de cada reparación para que tomes la mejor decisión."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Preparamos tu coche para la ITV",
-      "body": "Conocemos los puntos débiles que miran con lupa en la estación de ITV de Algeciras. Hacemos una revisión exhaustiva para que la pases a la primera sin problemas."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de casos que hemos solucionado para conductores de Algeciras, reflejando problemas y situaciones que podrías haber vivido tú mismo.",
-  "testimonials": [
-    {
-      "name": "María",
-      "neighborhood": "El Rinconcillo",
-      "car": "Peugeot 208 2016",
-      "body": "Vivendo al lado de la playa, me daba pánico que el coche no pasara la ITV por el óxido. Lo llevé para una revisión pre-ITV y me enseñaron los puntos exactos donde empezaba a afectar el salitre. Me aplicaron un tratamiento protector y pasó sin un solo fallo. Muy profesionales y honestos.",
-      "rating": 5
-    },
-    {
-      "name": "José Antonio",
-      "neighborhood": "San García",
-      "car": "SEAT León TDI 2012",
-      "body": "Hago el trayecto a La Línea todos los días y el embrague ya patinaba mucho. Me dieron un presupuesto cerrado que era más barato que en el concesionario oficial. Me tuvieron el coche listo en el tiempo que me dijeron y ahora las marchas entran como la seda. Muy contento con el servicio.",
-      "rating": 5
-    },
-    {
-      "name": "Fátima",
-      "neighborhood": "Getares",
-      "car": "Renault Clio 2018",
-      "body": "En pleno julio y el aire acondicionado dejó de enfriar. Con dos niños pequeños, era un suplicio. Me lo miraron el mismo día, encontraron una pequeña fuga, la repararon e hicieron la carga de gas. Me salvaron el verano. Un trato muy cercano y eficaz.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "La Granja",
-      "car": "Ford Focus 2010",
-      "body": "Notaba un ruido raro al acelerar y me preocupaba que fuera algo serio. Era la correa de distribución, que estaba a punto de romperse. Me explicaron la urgencia sin meterme miedo y el presupuesto me pareció justo. Tardaron un día más de lo previsto, pero me mantuvieron informado en todo momento.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Algeciras y el Campo de Gibraltar. Si vives en barrios como San García, Getares, El Rinconcillo, La Granja o San José Artesano, estamos a tu lado. Nuestra ubicación nos permite un acceso rápido desde las principales vías, por lo que muchos de nuestros clientes vienen de municipios cercanos como Los Barrios, San Roque o La Línea de la Concepción buscando un servicio de confianza. Si utilizas a diario la A-7 (Autovía del Mediterráneo) o la N-340 para desplazarte por la comarca, nuestro taller es una parada cómoda y eficaz para el mantenimiento de tu vehículo. También cubrimos las necesidades de quienes se mueven hacia el interior por la A-381, ofreciendo una solución integral para todos los conductores de la zona.",
-  "zoneNeighborhoods": [
-    "Algeciras Centro",
-    "San García",
-    "Getares",
-    "El Rinconcillo",
-    "La Granja",
-    "San José Artesano",
-    "El Saladillo",
-    "Los Barrios",
-    "San Roque",
-    "La Línea de la Concepción"
-  ],
-  "zoneAccessRoutes": [
-    "A-7 (Autovía del Mediterráneo)",
-    "N-340",
-    "A-381 (Jerez-Los Barrios)",
-    "CA-9209 (Carretera del Rinconcillo)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Algeciras y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Tenéis en cuenta el problema del salitre en las revisiones en Algeciras?",
-      "a": "Por supuesto. Es uno de los puntos clave de nuestras revisiones. Inspeccionamos a fondo los bajos del vehículo, el sistema de escape, los manguitos y los conductos de freno en busca de signos de corrosión. Si es necesario, recomendamos y aplicamos tratamientos protectores para mitigar el efecto del ambiente salino y evitar averías costosas a largo plazo."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Algeciras?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche es diésel y solo lo uso por la ciudad, ¿necesita algún cuidado especial?",
-      "a": "Sí. Los trayectos cortos por Algeciras son el principal enemigo de los filtros de partículas (FAP) de los diésel, ya que no permiten que se complete el ciclo de regeneración. Te recomendamos salir a carretera, por ejemplo por la A-7, al menos una vez al mes y conducir a revoluciones más altas durante 15-20 minutos. Además, en el taller podemos forzar la regeneración si es necesario."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Voy a cruzar el Estrecho en verano, ¿qué debería revisar antes del viaje?",
-      "a": "Para un viaje largo y con calor, es fundamental revisar la presión y el estado de los neumáticos, el nivel de todos los líquidos (aceite, refrigerante, frenos) y, sobre todo, el sistema de aire acondicionado. Una revisión rápida en nuestro taller te dará la tranquilidad de que el coche está preparado para aguantar las esperas en el embarque y el viaje sin sobrecalentarse."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "¿Cómo afecta el viento de Levante al coche?",
-      "a": "El Levante, además de ser molesto, arrastra arena y polvo que pueden obstruir los filtros de aire y de habitáculo más rápidamente. También puede afectar a la estabilidad en carretera, especialmente en viaductos de la A-7. Recomendamos revisar los filtros con más frecuencia y comprobar que los amortiguadores están en buen estado para garantizar la seguridad."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Tengo que pasar la ITV en la estación de Algeciras, ¿revisáis los puntos clave?",
-      "a": "Sí, realizamos una inspección pre-ITV completa y exhaustiva. Nos centramos en los puntos que sabemos que miran con más detalle en la estación de Algeciras: holguras en la dirección y suspensión, estado de los bajos por corrosión, opacidad de humos en los diésel y, por supuesto, frenos, luces y neumáticos. Nuestro objetivo es que la pases a la primera."
-    },
-    {
-      "q": "Trabajo en Gibraltar y uso el coche a diario. ¿Ofrecéis un servicio ágil?",
-      "a": "Entendemos perfectamente tu situación. Sabemos que no puedes quedarte sin coche. Para operaciones de mantenimiento rápido como cambios de aceite y filtros, intentamos darte cita lo antes posible. Para averías más complejas, y según disponibilidad, podemos ofrecerte un coche de cortesía para que las colas de la frontera no te impidan seguir con tu rutina."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Algeciras",
-  "closingCta": "No dejes que una avería te complique el día. Pide tu presupuesto cerrado para tu coche en Algeciras por teléfono, WhatsApp o rellenando el formulario online. Estamos aquí para ayudarte."
+  "closingHeadline": "Tu BMW y MINI en Algeciras, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Algeciras y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
