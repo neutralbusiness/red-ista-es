@@ -6,177 +6,124 @@
   "population": 14172,
   "lat": 42.04627,
   "lng": 2.26679,
-  "metaTitle": "Taller mecánico en Torelló — Multimarca y de confianza",
-  "metaDescription": "Tu taller multimarca en Torelló para revisiones, mecánica y neumáticos. Presupuestos cerrados para tu coche. Pide cita y evita sorpresas en la factura.",
-  "heroSubtitle": "Cansado de la niebla en invierno y de los talleres poco claros? En Torelló, cuidamos tu coche con la misma claridad que un día de verano.",
+  "metaTitle": "Taller BMW y MINI en Torelló · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Torelló. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Torelló y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir por Torelló y la comarca de Osona tiene sus particularidades. Seguramente dependes del coche para todo: para bajar a Vic o Manlleu a trabajar cada mañana por la C-17, para llevar a los niños al colegio o para escaparte el fin de semana hacia el Ripollès. Entendemos que tu coche no es un lujo, es una herramienta indispensable en tu día a día. Por eso, cuando algo falla, necesitas una solución rápida, honesta y sin rodeos. En nuestro taller de Torelló, hablamos tu mismo idioma: el de la 'feina ben feta' (el trabajo bien hecho).\n\nConocemos el parque móvil de la zona. Sabemos que en los garajes de Torelló, Sant Vicenç o Sant Pere abundan los SEAT León, Volkswagen Golf, Peugeot 308 y Renault Mégane, muchos de ellos diésel de entre 2010 y 2018, que hacen kilómetros a diario por el Eix Transversal. También vemos muchas furgonetas como la Berlingo o la Kangoo de autónomos y pequeñas empresas locales, y cómo no, los Dacia Duster y otros 4x4 de quienes viven en masías o en las afueras. Sea cual sea tu coche, lo conocemos y sabemos qué puntos débiles tiene que vigilar.\n\nEl clima de la Plana de Vic es otro factor clave que no ignoramos. La famosa 'boira' (niebla) y la humedad invernal no solo dificultan la visibilidad, sino que son el enemigo número uno de las baterías y los componentes electrónicos. Las heladas matutinas ponen a prueba el sistema de arranque y el anticongelante. Y en verano, el calor intenso exige que el sistema de refrigeración y el aire acondicionado estén en perfecto estado para no quedarte tirado subiendo hacia Bellmunt. Cada revisión que hacemos en nuestro taller de Torelló tiene en cuenta estas condiciones climáticas tan específicas.\n\nEl tipo de conducción también cuenta. El constante arranca-para para salir de Torelló por las mañanas, las rotondas de la C-17 antes de llegar a Vic y el callejeo por el pueblo castigan los embragues, frenos y filtros de partículas de los diésel. Por otro lado, las carreteras de curvas que nos rodean, como la BV-5224, exigen tener la suspensión y los neumáticos en un estado óptimo para garantizar la seguridad. Nuestro enfoque no es solo cambiar piezas; es entender cómo usas tu coche en Torelló y ofrecerte un mantenimiento preventivo que te ahorre problemas y dinero a largo plazo.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Vic sin nervios hasta cambiar un embrague gastado de tanto circular por la C-17, cubrimos toda la mecánica de tu coche.",
-  "processIntro": "Creemos en la 'feina ben feta'. Por eso, te damos un presupuesto cerrado por adelantado y no hacemos nada en tu coche sin tu aprobación.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Torelló — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Torelló sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Torelló te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Torelló, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos qué te preocupa y nuestros mecánicos realizan una inspección completa para identificar el origen real del problema, no solo el síntoma visible."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas. Sin asteriscos ni sorpresas de última hora en la factura final."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Te explicamos la reparación que necesita tu coche en un lenguaje claro y sencillo. No pedimos ninguna pieza ni empezamos a trabajar hasta que nos das tu visto bueno explícito."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con calidad equivalente a la original. Todas nuestras reparaciones están garantizadas por escrito para tu total tranquilidad y te mantenemos informado del proceso."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto el coche está listo. Al recogerlo, te mostramos el trabajo realizado. Unos días más tarde, te contactamos para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima de Osona y el uso diario del coche para ir a Vic o Manlleu por la C-17 provocan averías muy concretas que conocemos y solucionamos cada día en nuestro taller de Torelló.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Torelló.",
   "commonIssues": [
     {
-      "title": "Baterías que fallan en invierno",
-      "body": "La humedad y las heladas matutinas de Torelló son letales para las baterías con algunos años. Una batería débil te dejará tirado en el peor momento. En cada revisión comprobamos su estado y te recomendamos cambiarla preventivamente si vemos que está al final de su vida útil, sobre todo si el coche duerme en la calle."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste prematuro de embrague",
-      "body": "El tráfico lento para salir de Torelló por las mañanas y las constantes rotondas en la C-17 camino a Vic o Manlleu fuerzan el embrague más de la cuenta. Si notas que el pedal está duro o el coche tiembla al arrancar, es un síntoma claro. Es una de las reparaciones más comunes que realizamos."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Filtros de partículas (DPF) obstruidos",
-      "body": "Muchos coches diésel de la zona no llegan a calentarse lo suficiente en los trayectos cortos por el pueblo, impidiendo que el filtro de partículas se regenere. Esto provoca pérdida de potencia y averías costosas. Realizamos diagnósticos y limpiezas profesionales para que pases la ITV y evites problemas mayores."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensión y neumáticos para carreteras locales",
-      "body": "Las carreteras secundarias como la BV-5224 hacia Sant Pere o las rutas con curvas hacia el Collsacabra no siempre están en perfecto estado. Esto acelera el desgaste de amortiguadores y neumáticos. Revisamos todo el sistema de suspensión para garantizar tu seguridad y confort en cualquier carretera de la comarca."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Problemas con el aire acondicionado y la calefacción",
-      "body": "En Osona, el climatizador trabaja a fondo todo el año: para combatir el calor del verano y para desempañar los cristales por la humedad en invierno. Si notas que ya no enfría o calienta como antes, lo revisamos y reparamos para que viajes siempre con la temperatura y visibilidad adecuadas."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu rutina",
-      "body": "Sabemos que necesitas el coche para ir a trabajar a Vic, Manlleu o llevar los niños al cole. Por eso nuestro servicio es ágil y eficiente, para que estés parado el mínimo tiempo posible."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuestos sin sorpresas",
-      "body": "El precio que te damos es el que pagas. Si durante la reparación surge un imprevisto, paramos el trabajo y te llamamos. Tú siempre tienes la última palabra."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Mecánicos, no vendedores",
-      "body": "Te explicamos las cosas de forma clara, sin tecnicismos ni intentando venderte reparaciones que no necesitas. Hablas directamente con la persona que toca tu coche."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Expertos en tu coche",
-      "body": "Da igual si conduces un SEAT León, un Peugeot 3008 o una furgoneta Ford Transit. Tenemos el equipo y la experiencia para cuidar de cualquier coche que circule por Torelló."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Todas nuestras intervenciones y las piezas que montamos están garantizadas. Tu confianza y tu seguridad son nuestra máxima prioridad."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Nuestros clientes de Torelló y alrededores son nuestros mejores embajadores. Aquí tienes algunos ejemplos de situaciones reales que resolvemos cada día.",
-  "testimonials": [
-    {
-      "name": "Marc",
-      "neighborhood": "Barri de Montserrat",
-      "car": "SEAT León 1.6 TDI 2015",
-      "body": "Voy cada día a trabajar a Granollers por la C-17 y el embrague empezó a patinar. Me dieron un presupuesto cerrado, mucho más razonable que en el concesionario. Me explicaron el problema claramente y en dos días tenía el coche listo. Se nota que controlan. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Casc Antic",
-      "car": "Peugeot 208 Gasolina 2018",
-      "body": "Tenía que pasar la ITV en Vic y siempre me pongo nerviosa. Les pedí una revisión pre-ITV. Me lo miraron todo, aceite, filtros, luces... El coche pasó a la primera sin un solo fallo. Te da una tranquilidad enorme y te ahorras un segundo viaje.",
-      "rating": 5
-    },
-    {
-      "name": "Joan",
-      "neighborhood": "Sant Vicenç de Torelló",
-      "car": "Citroën Berlingo 2016",
-      "body": "Soy autónomo y la furgoneta no puede parar. Empezó a hacer un ruido raro en una rueda. Me la cogieron enseguida, vieron que era una rótula de la suspensión y me la cambiaron en el mismo día. Un trato cercano y eficiente, que es justo lo que necesito.",
-      "rating": 5
-    },
-    {
-      "name": "Carla",
-      "neighborhood": "La Cabanya",
-      "car": "Renault Clio 2013",
-      "body": "Con el frío, al coche le costaba mucho arrancar por las mañanas. Pensé que sería una avería cara. Me comprobaron la batería y el alternador y vieron que la batería estaba ya para cambiar. Aprecio mucho la honestidad de no buscar problemas donde no los hay.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Torelló da servicio a toda la Vall del Ges y sus alrededores. Si vives en el centro o en barrios como Montserrat, el Congost o La Cabanya, estamos a un paso. Somos también el taller de confianza para muchos conductores de municipios vecinos como Sant Pere de Torelló, Sant Vicenç de Torelló y Orís, que valoran un trato cercano y profesional. Llegar a nuestro taller es muy fácil, tanto si vienes por la C-17 desde Vic o Manlleu, como si accedes por la BV-5224 desde la zona norte de la comarca.",
-  "zoneNeighborhoods": [
-    "Barri de Montserrat",
-    "El Congost",
-    "Casc Antic",
-    "La Cabanya",
-    "Sant Pere de Torelló",
-    "Sant Vicenç de Torelló",
-    "Manlleu",
-    "Orís",
-    "Borgonyà",
-    "Les Masies de Voltregà"
-  ],
-  "zoneAccessRoutes": [
-    "C-17",
-    "BV-5224",
-    "C-37 (Eix Vic-Olot)",
-    "BV-4608"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Torelló y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Tengo que ir a la ITV de Vic? ¿Hacéis revisión Pre-ITV?",
-      "a": "Sí, la estación de ITV más cercana está en Gurb, al lado de Vic. Para que no tengas que hacer dos viajes por la C-17, ofrecemos un servicio completo de Pre-ITV. Revisamos a fondo los puntos críticos: frenos, humos, luces, neumáticos... para que vayas con la total seguridad de pasarla a la primera."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Torelló?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche diésel echa mucho humo, ¿es por la humedad de la zona?",
-      "a": "La humedad y el frío de la Plana de Vic afectan al arranque, pero el humo suele venir del filtro de partículas (DPF) o la válvula EGR. Los trayectos cortos por Torelló impiden que el sistema se limpie bien. Podemos hacerle una diagnosis y una regeneración forzada o limpieza para que funcione correctamente y evites averías graves."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en una masía cerca de Torelló, ¿reparáis coches 4x4?",
-      "a": "Por supuesto. Conocemos bien las necesidades de quienes circulan por caminos y pistas forestales de la zona. Estamos acostumbrados a revisar y reparar suspensiones, sistemas de tracción y neumáticos de modelos como el Dacia Duster, Suzuki Vitara o pick-ups. Tu coche estará siempre a punto para el campo."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Trabajo en un polígono de Manlleu, ¿tenéis flexibilidad de horarios?",
-      "a": "Totalmente. Sabemos que los horarios de las fábricas son los que son. Puedes dejarnos el coche a primera hora de la mañana antes de ir a trabajar y te avisamos por WhatsApp en cuanto esté listo para que lo recojas a la vuelta. Nos adaptamos a tu jornada laboral."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Con el frío de Torelló, ¿qué mantenimiento especial necesita mi coche?",
-      "a": "El invierno en Osona es duro para los coches. Antes de las primeras heladas, recomendamos revisar tres puntos clave: la batería, que es el componente que más falla; el nivel y la calidad del líquido anticongelante, para proteger el motor; y el estado de los neumáticos, para asegurar un buen agarre con la carretera húmeda por la 'boira'."
-    },
-    {
-      "q": "Necesito cambiar los neumáticos, ¿cuáles me recomendáis para el clima de aquí?",
-      "a": "Sí, tenemos servicio de neumáticos y te asesoramos sin compromiso. Para el clima de Osona, siempre recomendamos neumáticos que tengan un buen rendimiento en mojado y a bajas temperaturas. Son un elemento de seguridad clave en nuestras carreteras, especialmente de otoño a primavera. Trabajamos con las principales marcas para ajustarnos a tu presupuesto."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Torelló",
-  "closingCta": "No dejes que una avería te complique la semana. Pide tu presupuesto cerrado y sin compromiso para tu coche en Torelló. Llámanos o envíanos un WhatsApp y te atenderemos encantados."
+  "closingHeadline": "Tu BMW y MINI en Torelló, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Torelló y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
