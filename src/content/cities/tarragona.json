@@ -7,8 +7,8 @@
   "lat": 41.11905,
   "lng": 1.24544,
   "metaTitle": "Taller BMW y MINI en Tarragona · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Tarragona. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Tarragona y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Tarragona. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente sin perder tu garantía.",
+  "heroSubtitle": "Entre la Part Alta, el Camp de Tarragona y la Costa Daurada, tu BMW o MINI necesita un especialista que conozca la ciudad. Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Tarragona, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Tarragona, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Tarragona te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Tarragona, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Tarragona tiene un parque de BMW y MINI muy particular: conviven los Serie 3 y X3 de quienes trabajan en la industria química de la zona sur (el conocido Polígono Químico Sur y Repsol), con los MINI y Serie 1 que circulan por la Part Alta y el Eixample, donde las calles empedradas y estrechas del casco antiguo, con sus desniveles hacia la Rambla Nova y el Balcó del Mediterrani, someten a la suspensión a un desgaste distinto al de cualquier otra ciudad.\n\nEl clima mediterráneo de Tarragona, con humedad marina constante y veranos largos y calurosos, es determinante en dos frentes: por un lado, el salitre del litoral —desde la playa del Miracle hasta la Savinosa— acelera la corrosión de los bajos y de los sistemas de escape en los vehículos que se aparcan habitualmente cerca del mar; por otro, el tráfico denso de la AP-7 y la N-340, arterias que cruzan la ciudad y que soportan un volumen constante de tráfico pesado vinculado al polo petroquímico, genera un desgaste de embrague y de caja ZF automática mayor del habitual en los conductores que hacen trayecto diario hacia Reus o Vila-seca.\n\nEn los motores diésel N47 y N57 que todavía circulan por Tarragona, sobre todo entre quienes usan el coche para desplazamientos largos hacia Barcelona por la AP-7, vemos con cierta frecuencia problemas de cadena de distribución, mientras que en los motores de inyección directa de gasolina más recientes —B48 y B58— la carbonilla en las válvulas de admisión aparece antes de lo esperado en los coches que combinan trayectos cortos urbanos con salidas ocasionales a autopista, un patrón muy propio del conductor de Tarragona que vive en el centro pero trabaja en el polígono industrial.\n\nLa proximidad al mar y la humedad ambiental también afectan a los sellos VANOS de los motores de gasolina, donde detectamos fugas de aceite con más frecuencia que en zonas de interior, y al sistema eléctrico en general, más expuesto a la oxidación de conectores en un ambiente salino permanente. Los propietarios de MINI del centro histórico, además, suelen consultarnos por amortiguadores y suspensión tras circular repetidamente por el adoquinado de la Part Alta y las rampas hacia el Mirador del Mediterráneo.\n\nNuestro taller en Tarragona trabaja con diagnóstico ISTA/Rheingold oficial, entendiendo las particularidades de una ciudad donde el mar, la industria química y el casco histórico conviven y exigen un enfoque de mantenimiento muy específico para cada BMW y MINI.",
+  "servicesIntro": "En Tarragona ajustamos cada revisión y reparación a la combinación real de salitre marino, tráfico industrial y calles del casco antiguo que vive tu BMW o MINI.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Tarragona.",
+  "commonIssuesIntro": "Estas son las averías más habituales que detectamos en los BMW y MINI que circulan por Tarragona y su área metropolitana.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión en bajos y escape por la humedad marina",
+      "body": "Los vehículos aparcados cerca del litoral, desde el Miracle hasta la Savinosa, sufren una oxidación acelerada en los bajos, líneas de escape y anclajes, especialmente visible en coches con más de seis años."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sellos VANOS con fugas de aceite por humedad ambiental",
+      "body": "La combinación de humedad constante y temperaturas suaves favorece que el variador de válvulas VANOS presente fugas antes de lo habitual en motores de gasolina con recorrido medio-alto."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Desgaste de caja ZF automática en trayectos AP-7/N-340",
+      "body": "El tráfico denso y constante hacia Reus, Vila-seca y el polo petroquímico exige cambios de marcha frecuentes que aceleran el desgaste de la caja automática si no se respeta el intervalo de cambio de aceite específico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Amortiguadores y suspensión castigados por la Part Alta",
+      "body": "Las calles empedradas y con desnivel del casco histórico de Tarragona generan un desgaste asimétrico en amortiguadores EDC y silentblocks, especialmente en MINI y Serie 1."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión por trayectos mixtos",
+      "body": "El patrón de conducción combinando centro urbano y salidas a autopista favorece la acumulación de carbonilla en los motores B48 y B58 de inyección directa."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real, no un lector genérico",
+      "body": "Trabajamos con el mismo software del concesionario oficial, con acceso a todos los módulos electrónicos del BMW o MINI."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En Tarragona sabemos que la confianza se gana con transparencia: el presupuesto no cambia una vez aceptado."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Experiencia con el efecto del salitre y la industria química",
+      "body": "Conocemos cómo la humedad marina y el entorno industrial de Tarragona afectan a componentes concretos de tu BMW o MINI, no aplicamos un protocolo genérico."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te permite reparar en un taller independiente especializado sin perder la garantía oficial de tu vehículo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ubicación accesible desde el Camp de Tarragona",
+      "body": "Trabajamos con clientes de toda la comarca, con posibilidad de coordinar recogida para quienes se desplazan a diario a Reus o Vila-seca."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Tarragona y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Tarragona capital y todo el Camp de Tarragona: Reus, Vila-seca, Salou, Cambrils, Torredembarra y Valls. Si tu día a día combina el centro histórico con desplazamientos por la AP-7 o la N-340, podemos ajustar el servicio a tu rutina.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Tarragona?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La humedad del mar afecta más a mi BMW en Tarragona que en otras ciudades?",
+      "a": "Sí, especialmente si aparcas cerca del litoral. La corrosión en bajos y conectores eléctricos aparece antes que en zonas de interior, por lo que recomendamos revisiones periódicas de los bajos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo mantener la garantía de fábrica reparando en vuestro taller en Tarragona en lugar del concesionario?",
+      "a": "Sí, el derecho europeo lo permite siempre que uses recambios de calidad equivalente y quede documentado con nuestro diagnóstico ISTA oficial."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Por qué mi MINI vibra más al pasar por la Part Alta?",
+      "a": "El adoquinado y los desniveles del casco histórico son muy exigentes con la suspensión. Revisamos amortiguadores y silentblocks, componentes que se desgastan antes en ese tipo de firme."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Tarragona, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Tarragona y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, entendido por quien conoce Tarragona de mar a polígono",
+  "closingCta": "Solicita tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen cada rincón de Tarragona."
 }

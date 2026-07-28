@@ -7,8 +7,8 @@
   "lat": 37.26638,
   "lng": -6.94004,
   "metaTitle": "Taller BMW y MINI en Huelva · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Huelva. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Huelva y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Huelva. Diagnóstico oficial ISTA, precio de taller independiente y Presupuesto cerrado sin sorpresas. Mantén tu garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI empieza a notar el calor onubense en el aire acondicionado o en la caja automática? Diagnóstico oficial ISTA en Huelva, con precio de taller independiente y sin perder ni un derecho de tu garantía.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Huelva — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Huelva sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Huelva te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Huelva, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Huelva es una ciudad donde el BMW y el MINI se ven casi siempre en dos perfiles muy marcados: el Serie 3 o Serie 5 diésel del directivo que se mueve entre la capital y el Polo Químico, y el X1 o X3 familiar que hace la ruta de colegio por Los Rosales, Pérez Cubillas o la zona de la Avenida de Andalucía antes de coger la autovía hacia la playa. A eso se suma un número creciente de MINI Cooper y Countryman que circulan por el centro histórico y la Alameda Sundheim, donde las calles estrechas y los bordillos altos del casco antiguo se cobran su peaje en llantas y suspensión.\n\nEl factor que más condiciona la mecánica aquí es el calor, y no es una frase hecha: Huelva capital roza con frecuencia los 40 grados en verano, y esa temperatura sostenida durante meses castiga especialmente el compresor y el condensador del aire acondicionado, que en los BMW con climatizador automático trabaja casi sin descanso. También vemos con más frecuencia que en otras provincias fallos en la bomba de agua eléctrica y en el termostato electrónico de los motores N20 y B48, porque el sistema de refrigeración está permanentemente exigido al límite entre el tráfico de la Ronda Este y las esperas en semáforo camino de Punta Umbría o Isla Cristina en temporada estival.\n\nLa arena y el ambiente salino de las playas cercanas —Punta Umbría, El Portil, Isla Cristina— entran en juego en los BMW y MINI que hacen el trayecto de fin de semana: la arena fina se cuela en los raíles de las guías, en los frenos y en los bajos, acelerando el desgaste de los discos y generando ruidos que muchos talleres generalistas no saben identificar porque no están familiarizados con la geometría específica de suspensión BMW. En los diésel más antiguos, matriculados sobre todo en la zona del Polo Químico y en los polígonos industriales de la periferia, seguimos viendo cadenas de distribución estiradas en motores N47, con el clásico ruido metálico en frío que muchos propietarios confunden con un problema menor.\n\nEl tráfico de Huelva no es denso comparado con una gran capital, pero sí es un tráfico de trayectos cortos y repetitivos: ir al centro, al hospital Juan Ramón Jiménez, al polígono, volver. Esa conducción de arrancadas y paradas frecuentes, con motor que no siempre llega a temperatura óptima, es precisamente el escenario ideal para que el DPF de los diésel se sature antes de tiempo y para que se acumule carbonilla en las válvulas de admisión de los motores de gasolina de inyección directa, algo que en Huelva detectamos con bastante regularidad en revisiones de mantenimiento.\n\nTrabajamos con diagnóstico ISTA/Rheingold real, el mismo software que usa el concesionario oficial, pero con la agilidad y el trato de un taller independiente que conoce las condiciones concretas de conducir un BMW o un MINI en Huelva: calor extremo, arena de playa y trayectos cortos que no perdonan un mantenimiento genérico.",
+  "servicesIntro": "En Huelva combinamos diagnóstico ISTA de fábrica con la experiencia de quien conoce cómo el calor y la arena de la costa afectan a cada componente de tu BMW o MINI.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Huelva.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan habitualmente por Huelva capital y su área metropolitana.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Compresor de aire acondicionado forzado por el calor",
+      "body": "Con temperaturas que superan los 38-40°C buena parte del verano, el compresor y el condensador del climatizador automático trabajan al límite constantemente. Detectamos fugas de gas y compresores agarrotados con mucha más frecuencia que en zonas de clima templado."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Bomba de agua eléctrica y termostato electrónico exigidos al máximo",
+      "body": "El calor sostenido y las paradas frecuentes en tráfico urbano fuerzan el sistema de refrigeración de los N20 y B48. La bomba de agua eléctrica suele avisar con un testigo de temperatura intermitente antes de fallar del todo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Arena y salitre en frenos y suspensión tras los desplazamientos a la playa",
+      "body": "Los trayectos habituales a Punta Umbría, El Portil o Isla Cristina introducen arena fina en discos, pinzas y guías de suspensión, generando chirridos y un desgaste prematuro que un taller no especialista tarda en diagnosticar."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "DPF saturado por trayectos cortos urbanos",
+      "body": "Los desplazamientos breves y repetidos por el centro y hacia el Polo Químico impiden que el filtro de partículas alcance la temperatura de regeneración, provocando pérdida de potencia y el testigo de motor encendido."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Cadena de distribución estirada en diésel N47",
+      "body": "En los Serie 3 y Serie 5 diésel más veteranos que circulan por Huelva, sobre todo vehículos de uso profesional en el polígono, seguimos encontrando cadenas de distribución con ruido en frío característico de este motor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real",
+      "body": "Usamos el mismo software de diagnóstico que el concesionario oficial de BMW, con acceso completo a los módulos electrónicos del vehículo, no un lector genérico OBD."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "En Huelva sabemos que el cliente quiere certeza, no sorpresas: cerramos el presupuesto antes de empezar cualquier reparación."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Conocemos el efecto del calor onubense en tu BMW",
+      "body": "No tratamos tu climatizador o tu sistema de refrigeración como un caso genérico: sabemos qué componentes fallan primero con las temperaturas de Huelva."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "La normativa europea te ampara para mantener tu garantía oficial reparando en un taller independiente especializado como el nuestro."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo y cercano, sin la rigidez de un concesionario grande",
+      "body": "En Huelva valoramos que te expliquen la avería en claro, sin tecnicismos innecesarios, y que puedas hablar directamente con quien repara tu coche."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Huelva y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Huelva capital y a toda su área de influencia: Aljaraque, Punta Umbría, Palos de la Frontera, San Juan del Puerto, Moguer y Gibraleón. Si trabajas en el Polo Químico o vives en la zona de playa, podemos coordinar recogida y entrega del vehículo para que no pierdas tiempo.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Huelva?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿El calor de Huelva en verano puede dañar la batería de mi BMW híbrido?",
+      "a": "Sí, las temperaturas extremas sostenidas aceleran el envejecimiento de las celdas de la batería de alto voltaje. Con diagnóstico ISTA revisamos el estado real de la batería y del sistema de refrigeración específico del pack, algo que va más allá de un simple testigo en el cuadro."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Merece la pena reparar en un taller independiente en Huelva o mejor ir al concesionario de otra provincia?",
+      "a": "Con nuestro diagnóstico ISTA oficial y precios de taller independiente no pierdes ni garantía ni calidad, y te ahorras el desplazamiento fuera de la provincia."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Por qué mi MINI pierde potencia en los trayectos cortos por el centro de Huelva?",
+      "a": "Es un síntoma típico de DPF saturado o de carbonilla en las válvulas de admisión, muy habitual en coches que hacen trayectos urbanos cortos y repetitivos como los del centro de Huelva."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Huelva, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Huelva y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado por quien entiende el calor de Huelva",
+  "closingCta": "Pide tu diagnóstico ISTA y presupuesto cerrado hoy mismo, y deja tu BMW o MINI en manos de especialistas que conocen Huelva."
 }

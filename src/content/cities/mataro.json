@@ -7,8 +7,8 @@
   "lat": 41.54211,
   "lng": 2.4445,
   "metaTitle": "Taller BMW y MINI en Mataró · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Mataró. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Mataró y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Mataró. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente. Mantén tu garantía de fábrica.",
+  "heroSubtitle": "Entre el Maresme y la C-32, tu BMW o MINI necesita un especialista que conozca Mataró de verdad. Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Mataró: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Mataró, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Mataró te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Mataró, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Mataró concentra un parque de BMW y MINI muy vinculado al perfil de commuter hacia Barcelona: Serie 3 y Serie 1 diésel que hacen a diario la C-32 y la N-II para entrar a la capital catalana, combinados con X1 y X3 familiares que se mueven por el Eixample de Mataró y los barrios de Rocafonda y Cerdanyola, y un número creciente de MINI que circulan por el centro histórico junto a la Riera y el Passeig Marítim.\n\nLa cercanía al mar es un factor constante en el mantenimiento de estos vehículos: la humedad salina del litoral del Maresme, muy presente en los coches que se aparcan cerca de la playa o del puerto, acelera la corrosión de los bajos y de las líneas de freno, y favorece la oxidación de conectores eléctricos con más rapidez que en zonas de interior. A esto se suma que buena parte de los desplazamientos diarios de Mataró son trayectos de commuter por la C-32 en hora punta, con tramos de velocidad sostenida seguidos de retenciones, un patrón que exige mucho al embrague de doble masa y a la caja ZF automática, sobre todo en los accesos a Barcelona donde las retenciones son habituales.\n\nEn los motores diésel que hacen este trayecto diario, es frecuente que detectemos DPF con regeneraciones incompletas, ya que aunque la C-32 permite tramos de velocidad alta, el tráfico denso en los accesos a la ciudad interrumpe con frecuencia el ciclo de regeneración del filtro de partículas antes de completarse. En los motores de gasolina de inyección directa, la carbonilla en válvulas de admisión aparece con relativa frecuencia en los vehículos que combinan trayecto de autopista con desplazamientos cortos por el centro de Mataró para hacer recados o llevar a los hijos al colegio.\n\nEl clima mediterráneo cálido y húmedo del Maresme también favorece la aparición de fugas en sellos VANOS antes de lo esperado en motores con recorrido medio, y los amortiguadores y elementos de suspensión sufren un desgaste añadido en las calles del centro histórico de Mataró, con calzadas irregulares heredadas del trazado urbano antiguo alrededor de la Plaça Gran y la Riera.\n\nTrabajamos con diagnóstico ISTA/Rheingold oficial en Mataró, entendiendo el perfil real de un conductor que combina cada día la vida costera del Maresme con los desplazamientos intensivos hacia Barcelona por la C-32.",
+  "servicesIntro": "En Mataró ajustamos el mantenimiento a la realidad de un conductor que combina la humedad del litoral con los trayectos diarios por la C-32 hacia Barcelona.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Mataró.",
+  "commonIssuesIntro": "Estas son las averías que más detectamos en los BMW y MINI que circulan por Mataró y el Maresme.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión en bajos y líneas de freno por la humedad del litoral",
+      "body": "Los vehículos aparcados cerca del Passeig Marítim o del puerto sufren una oxidación más rápida en bajos, anclajes y líneas de freno que los que circulan solo por el interior."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "DPF con regeneraciones incompletas por el tráfico de la C-32",
+      "body": "El tráfico denso en los accesos a Barcelona interrumpe con frecuencia el ciclo de regeneración del filtro de partículas, provocando saturación progresiva y pérdida de potencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Desgaste de embrague y caja ZF por el patrón de commuter diario",
+      "body": "La combinación de tramos de velocidad sostenida y retenciones en la C-32 exige mucho al embrague de doble masa y a la caja automática en el trayecto diario hacia Barcelona."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sellos VANOS con fugas de aceite adelantadas por la humedad",
+      "body": "El clima cálido y húmedo del Maresme favorece que el variador de válvulas VANOS presente fugas antes de lo habitual en motores con recorrido medio."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Suspensión desgastada por las calles irregulares del centro histórico",
+      "body": "El trazado antiguo alrededor de la Riera y la Plaça Gran, con calzadas irregulares, genera un desgaste añadido en amortiguadores y silentblocks."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real de fábrica",
+      "body": "El mismo software que utiliza el concesionario oficial de BMW, con acceso completo a todos los módulos electrónicos del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En Mataró sabemos que quien hace la C-32 cada día necesita previsibilidad, también en el taller."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Conocemos el efecto del litoral del Maresme en tu BMW",
+      "body": "No aplicamos un protocolo genérico: sabemos qué componentes se adelantan por la humedad marina de Mataró."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te permite reparar en un taller independiente especializado sin perder la cobertura oficial."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ubicación práctica para el commuter diario a Barcelona",
+      "body": "Coordinamos horarios y entrega para que el mantenimiento de tu BMW o MINI no interfiera con tu rutina diaria por la C-32."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Mataró y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Mataró y a todo el Maresme: Cabrera de Mar, Argentona, Premià de Mar, Vilassar de Mar y Cabrils. Si tu día a día combina el centro de Mataró con desplazamientos diarios a Barcelona por la C-32, ajustamos el servicio a tu rutina de commuter.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Mataró?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La humedad del Maresme afecta más a mi BMW en Mataró que en el interior de Cataluña?",
+      "a": "Sí, especialmente si aparcas cerca del litoral. Recomendamos revisar periódicamente los bajos y los conectores eléctricos para anticipar la corrosión salina."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi diésel pierde potencia en el trayecto diario por la C-32?",
+      "a": "Suele deberse a un DPF con regeneraciones incompletas, muy habitual en trayectos con tramos de retención que interrumpen el ciclo de limpieza del filtro."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de fábrica reparando en vuestro taller de Mataró?",
+      "a": "Sí, el derecho europeo lo respalda siempre que se documenten los recambios de calidad equivalente, algo que garantizamos con nuestro diagnóstico ISTA oficial."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Mataró, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Mataró y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el Maresme y la C-32",
+  "closingCta": "Pide tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen Mataró de mar a autopista."
 }

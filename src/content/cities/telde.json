@@ -7,8 +7,8 @@
   "lat": 27.99243,
   "lng": -15.41915,
   "metaTitle": "Taller BMW y MINI en Telde · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Telde. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Telde y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Telde, Gran Canaria. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente sin perder garantía.",
+  "heroSubtitle": "Con el salitre y la calima de Gran Canaria, tu BMW o MINI necesita un especialista que conozca Telde de verdad. Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Telde, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Telde sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima suave de las islas, sin apenas variación estacional, hace que el coche esté en uso constante durante todo el año, sin la pausa invernal que reduce el desgaste en otras zonas de España. La proximidad al mar y la calima ocasional aceleran además la corrosión de elementos metálicos, un punto que revisamos con atención en cada visita.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Telde te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Telde, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Telde tiene un parque de BMW y MINI condicionado por dos factores muy particulares del clima canario: el salitre constante de la cercanía al mar y la calima, ese fenómeno de polvo en suspensión procedente del Sahara que cubre la isla varias veces al año. Los modelos más habituales son X1, X3 y Serie 3 que se mueven a diario entre barrios como San Gregorio, Jinámar y el casco de Telde, con trayectos frecuentes hacia Las Palmas por la autovía GC-1, además de un número creciente de MINI que circulan por el centro histórico de la ciudad.\n\nEl clima subtropical de Gran Canaria, con humedad relativa alta durante todo el año y ausencia de las heladas propias de la península, no significa menos exigencia mecánica, sino una exigencia distinta: el salitre marino, muy presente en toda la costa este de la isla donde se ubica Telde, acelera la corrosión de los bajos, las líneas de freno y los conectores eléctricos de forma constante, sin la tregua estacional que existe en climas continentales. Es habitual que detectemos oxidación en vehículos relativamente jóvenes que en la península tardarían mucho más en mostrar estos síntomas.\n\nLa calima merece mención aparte: cuando el polvo sahariano cubre la isla, los filtros de aire y del habitáculo se saturan mucho antes de lo previsto, y hemos comprobado que el aire acondicionado pierde eficiencia de forma notable durante estos episodios si no se revisa el filtro con la frecuencia adecuada. En los motores diésel, la combinación de calima y trayectos cortos urbanos por Telde favorece que el DPF acumule partículas más rápido de lo habitual, con el consiguiente riesgo de saturación y pérdida de potencia.\n\nEl tráfico hacia Las Palmas por la GC-1, con tramos de velocidad alta seguidos de retenciones en los accesos a la capital, exige de forma constante al embrague y a la caja ZF automática de los vehículos que hacen ese trayecto a diario por motivos laborales, un patrón habitual entre los residentes de Telde que trabajan en la capital grancanaria. En los motores de gasolina de inyección directa, la carbonilla en válvulas de admisión aparece con cierta frecuencia en los vehículos que combinan ese trayecto de autovía con desplazamientos cortos dentro de la ciudad.\n\nTrabajamos con diagnóstico ISTA/Rheingold oficial en Telde, con el conocimiento específico de cómo el salitre marino y la calima sahariana condicionan el mantenimiento real de cada BMW y MINI en Gran Canaria, una realidad muy distinta a la de cualquier ciudad peninsular.",
+  "servicesIntro": "En Telde ajustamos cada revisión a la doble exigencia del clima canario: salitre marino constante y episodios recurrentes de calima sahariana.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Telde.",
+  "commonIssuesIntro": "Estas son las averías que más detectamos en los BMW y MINI que circulan por Telde y el área metropolitana de Las Palmas.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión acelerada por el salitre marino constante",
+      "body": "La humedad salina de la costa este de Gran Canaria oxida bajos, líneas de freno y conectores eléctricos de forma continua, sin la tregua estacional de los climas continentales."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Filtros de aire y habitáculo saturados por la calima",
+      "body": "Durante los episodios de polvo sahariano, los filtros se colmatan mucho antes de lo previsto, reduciendo notablemente la eficiencia del aire acondicionado si no se revisan con frecuencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado por calima y trayectos cortos urbanos",
+      "body": "La combinación de polvo en suspensión y desplazamientos breves por el casco de Telde favorece que el filtro de partículas diésel acumule saturación más rápido de lo habitual."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Desgaste de embrague y caja ZF en el trayecto diario por la GC-1",
+      "body": "Los tramos de velocidad alta seguidos de retenciones en los accesos a Las Palmas exigen de forma constante al embrague de doble masa y a la caja automática."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión por trayectos mixtos",
+      "body": "El patrón de conducción que combina autovía y desplazamientos cortos urbanos favorece la acumulación de carbonilla en los motores de inyección directa."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real de fábrica",
+      "body": "El mismo software que utiliza el concesionario oficial de BMW, con acceso completo a todos los módulos electrónicos del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En Telde sabemos que la confianza se construye con transparencia: el presupuesto aceptado no cambia."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Conocemos el efecto del salitre y la calima en tu BMW",
+      "body": "No aplicamos un protocolo genérico: sabemos qué componentes se adelantan por el clima subtropical de Gran Canaria."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te permite reparar en un taller independiente especializado sin perder la cobertura oficial."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención práctica para el commuter diario a Las Palmas",
+      "body": "Coordinamos horarios y entrega para que el mantenimiento no interfiera con tu trayecto diario por la GC-1."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Telde y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Telde y a toda el área metropolitana de Las Palmas de Gran Canaria: Ingenio, Valsequillo, Santa Brígida y la propia capital grancanaria. Si tu día a día combina Telde con desplazamientos diarios a Las Palmas por la GC-1, ajustamos el servicio a tu rutina.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Telde?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La calima puede dañar el motor de mi BMW si no cambio el filtro a tiempo?",
+      "a": "Puede reducir el rendimiento del motor y del aire acondicionado, y en casos prolongados afectar al DPF. Recomendamos revisar el filtro de aire tras cada episodio prolongado de calima."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi BMW se oxida más rápido en Telde que en un coche que tuve en la península?",
+      "a": "El salitre marino constante de la costa este de Gran Canaria, sin la tregua estacional de un clima continental, acelera la corrosión de bajos y conectores de forma notable."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de fábrica reparando en vuestro taller de Telde?",
+      "a": "Sí, el derecho europeo lo respalda siempre que se utilicen recambios de calidad equivalente y quede documentado con nuestro diagnóstico ISTA oficial."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Telde, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Telde y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el salitre y la calima de Gran Canaria",
+  "closingCta": "Pide tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen el clima real de Telde."
 }

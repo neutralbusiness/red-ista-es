@@ -7,8 +7,8 @@
   "lat": 38.87789,
   "lng": -6.97061,
   "metaTitle": "Taller BMW y MINI en Badajoz · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Badajoz. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Badajoz y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Badajoz. Diagnóstico oficial ISTA, preparados para el calor extremo extremeño y Presupuesto cerrado sin sorpresas.",
+  "heroSubtitle": "¿Tu BMW o MINI aguanta los 44 grados de Badajoz en agosto? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En Badajoz vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Badajoz sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Badajoz te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Badajoz, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Badajoz registra, año tras año, algunas de las temperaturas más altas de toda España en verano, con jornadas que superan los 42-44 grados durante semanas seguidas. Para un BMW o un MINI, ese calor extremo y sostenido es la prueba más dura a la que se puede someter cualquier sistema de refrigeración, y se nota especialmente en los motores de seis cilindros en línea y en los ocho cilindros de las berlinas y todocaminos más grandes que circulan por la ciudad, donde el radiador, la bomba de agua eléctrica y el termostato electrónico trabajan muy por encima de su ciclo habitual de diseño.\n\nEl parque de BMW en Badajoz tiene un componente particular por su condición de ciudad fronteriza: muchos propietarios cruzan a diario o con frecuencia hacia Elvas y el Alentejo portugués por la A-5 o la EX-A1, lo que añade kilometraje de autovía a alta velocidad en pleno calor extremo, justo el escenario donde más sufre el turbo y donde vigilamos con más atención los cojinetes y la refrigeración específica del propio turbocompresor, porque un turbo que trabaja caliente y sin margen de enfriamiento adecuado se degrada mucho antes de lo que indica el libro de mantenimiento.\n\nEl asfalto de Badajoz en pleno agosto alcanza temperaturas que superan con facilidad los 60-65 grados en superficie, y eso castiga directamente los neumáticos y las llantas de los BMW y MINI de la ciudad, con más presión interna de la recomendada si no se revisa con frecuencia, además de acelerar el envejecimiento del caucho de los amortiguadores y de los casquillos de suspensión en zonas como Reina Sofía o la zona del Guadiana, donde muchos propietarios tienen berlinas grandes con suspensión adaptativa EDC que sufre especialmente con el calor sostenido del pavimento.\n\nEl aire acondicionado es, sin discusión, el sistema más exigido en Badajoz durante buena parte del año: desde mayo hasta octubre el compresor trabaja prácticamente sin descanso, y es habitual que veamos pérdidas de gas y fallos de compresor antes de lo esperado en coches que en otras ciudades de clima más templado no darían ningún problema hasta bien entrada la garantía extendida. Revisamos la carga y la estanqueidad del circuito con el diagnóstico ISTA en cada visita de primavera, antes de que llegue el pico de calor extremeño.\n\nTrabajamos con el mismo protocolo oficial ISTA/Rheingold que el concesionario, pero entendiendo lo que el calor extremo de Badajoz y el kilometraje transfronterizo hacia Portugal le exigen a un BMW o un MINI. Documentamos cada intervención para que tu coche mantenga intacta su garantía de fábrica, sin necesidad de desplazarte hasta el concesionario.",
+  "servicesIntro": "En Badajoz preparamos cada BMW y MINI para el calor extremo extremeño, con especial atención a refrigeración, turbo y aire acondicionado, además del mantenimiento habitual con diagnóstico ISTA.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Badajoz.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes en los BMW y MINI que circulan por Badajoz y soportan su calor extremo.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Bomba de agua eléctrica y termostato sobreexigidos por el calor extremo",
+      "body": "Con temperaturas que superan los 42 grados durante semanas, estos componentes trabajan muy por encima de su ciclo de diseño, adelantando el riesgo de sobrecalentamiento."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo fatigado por autovía a alta velocidad en pleno calor",
+      "body": "Los trayectos frecuentes hacia Elvas y el Alentejo por la A-5 combinan velocidad sostenida con calor extremo, acortando la vida de los cojinetes del turbo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Pérdidas de gas y fallo de compresor de aire acondicionado",
+      "body": "El uso casi continuo del climatizador desde mayo hasta octubre desgasta el compresor antes que en ciudades de clima templado. Revisamos la estanqueidad con ISTA en primavera."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Envejecimiento acelerado de amortiguadores y casquillos por el asfalto caliente",
+      "body": "El pavimento de Badajoz supera los 60 grados en superficie en verano, degradando el caucho de amortiguadores y casquillos de suspensión, especialmente en modelos con EDC."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Presión de neumáticos elevada por el calor del asfalto",
+      "body": "El calor extremo del pavimento incrementa la presión interna del neumático por encima de lo recomendado si no se revisa con frecuencia, afectando al desgaste y a la seguridad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA adaptado al calor extremo de Badajoz",
+      "body": "Revisamos con prioridad los sistemas de refrigeración y climatización que el clima extremeño pone al límite antes que en el resto de España."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos el coche de kilometraje transfronterizo",
+      "body": "Cuidamos el turbo y la refrigeración con la exigencia real de quien cruza a diario hacia Elvas y el Alentejo."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "Sin sorpresas al recoger tu BMW o MINI, en cualquier época del año."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te permite el mantenimiento en taller independiente sin perder cobertura, documentado correctamente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato cercano de taller de Badajoz",
+      "body": "Con la misma tecnología de diagnóstico oficial y sin las esperas del concesionario."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Badajoz y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a propietarios de BMW y MINI en Badajoz capital, Reina Sofía, la zona del Guadiana, y localidades cercanas como Elvas, Talavera la Real y Montijo.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Badajoz?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué el aire acondicionado de mi BMW pierde fuerza en verano en Badajoz?",
+      "a": "Es habitual que sea una pérdida de gas o un desgaste del compresor por el uso casi continuo durante el verano extremeño. Revisamos la estanqueidad del circuito con ISTA antes del pico de calor."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Los cruces frecuentes a Portugal desgastan más mi BMW?",
+      "a": "Sí, la combinación de velocidad sostenida en la A-5 con el calor extremo de la zona exige más al turbo y a la refrigeración que un uso puramente urbano."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente de Badajoz?",
+      "a": "Sí, el derecho europeo lo permite si se usan piezas y procedimientos equivalentes, algo que documentamos en cada intervención."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Badajoz, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Badajoz y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el calor extremo de Badajoz",
+  "closingCta": "Pide tu Presupuesto cerrado con diagnóstico ISTA antes de que llegue el pico de agosto."
 }

@@ -1,0 +1,121 @@
+{
+  "slug": "cadiz",
+  "name": "Cádiz",
+  "province": "Cádiz",
+  "ccaa": "Andalucía",
+  "population": 116979,
+  "lat": 36.52672,
+  "lng": -6.2891,
+  "metaTitle": "Taller BMW y MINI en Cádiz · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Cádiz. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente sin perder tu garantía.",
+  "heroSubtitle": "Rodeada de mar y con el levante y el poniente marcando el día a día, tu BMW o MINI necesita un especialista que conozca Cádiz de verdad. Diagnóstico oficial ISTA con precio de taller independiente.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Cádiz es, literalmente, una ciudad rodeada de mar por casi todos sus costados, y esa condición extrema define el mantenimiento de cualquier BMW o MINI que circule por sus calles. El parque de vehículos aquí combina MINI y Serie 1 que se mueven a diario por el casco histórico —El Mirador, La Viña, el entorno de la Catedral— con calles estrechas y adoquinadas donde el espacio es mínimo y los roces son habituales, junto con X1 y Serie 3 familiares que cruzan a diario el puente Constitución de 1812 para entrar o salir de la ciudad hacia San Fernando y la Bahía.\n\nLa humedad relativa en Cádiz se mantiene alta prácticamente todo el año, y la combinación del viento de levante, seco pero cargado de partículas, con el poniente, húmedo y directamente marino, somete a los vehículos a ciclos constantes de exposición salina que no dan tregua. Esto se traduce en una corrosión de bajos, líneas de freno y anclajes de suspensión notablemente más rápida que en cualquier ciudad de interior, y en una oxidación de conectores eléctricos que provoca fallos intermitentes en sistemas de confort y asistencia a la conducción con una frecuencia que sorprende a quien nunca ha vivido junto al mar.\n\nLas calles estrechas del casco histórico gaditano, con su trazado medieval y sus bordillos altos, generan un desgaste particular en llantas y en la suspensión de los MINI y Serie 1 que circulan a diario por esta zona, mientras que el tráfico de entrada y salida por el puente Constitución de 1812 y la avenida de acceso, con retenciones habituales en hora punta, exige de forma sostenida al embrague de doble masa de los vehículos que hacen ese trayecto diario hacia la Bahía y San Fernando por motivos laborales.\n\nLos sellos VANOS con fugas de aceite son una consulta muy habitual entre los propietarios de BMW de Cádiz capital, precisamente por la humedad marina constante que acelera el deterioro de las juntas del variador de válvulas, y en los motores diésel que combinan trayectos cortos dentro del casco histórico con salidas hacia la Bahía, el DPF tiende a saturarse con relativa facilidad si no se completan regularmente trayectos a velocidad de carretera que permitan la regeneración completa del filtro.\n\nTrabajamos con diagnóstico ISTA/Rheingold oficial en Cádiz, con pleno conocimiento de cómo el levante, el poniente y la humedad marina permanente de una ciudad rodeada de agua condicionan el mantenimiento real de cada BMW y MINI de la capital gaditana.",
+  "servicesIntro": "En Cádiz ajustamos cada revisión a la exigencia de una ciudad rodeada de mar, con exposición salina constante por levante y poniente.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más detectamos en los BMW y MINI que circulan por Cádiz capital y su bahía.",
+  "commonIssues": [
+    {
+      "title": "Corrosión acelerada en bajos y frenos por la humedad marina permanente",
+      "body": "La exposición constante al levante y al poniente, sin tregua estacional al estar la ciudad rodeada de mar, acelera de forma notable la oxidación de bajos, líneas de freno y anclajes de suspensión."
+    },
+    {
+      "title": "Oxidación de conectores eléctricos con fallos intermitentes",
+      "body": "La humedad salina constante afecta a los conectores de sistemas de confort y asistencia a la conducción, generando fallos difíciles de diagnosticar sin equipo de diagnóstico oficial."
+    },
+    {
+      "title": "Sellos VANOS con fugas de aceite adelantadas por el clima gaditano",
+      "body": "La humedad marina constante acelera el deterioro de las juntas del variador de válvulas VANOS en los motores de gasolina con recorrido medio-alto."
+    },
+    {
+      "title": "Desgaste de suspensión y llantas por las calles del casco histórico",
+      "body": "El trazado estrecho y los bordillos altos de El Mirador y La Viña generan un desgaste particular en llantas y componentes de suspensión de MINI y Serie 1."
+    },
+    {
+      "title": "DPF saturado por trayectos cortos dentro del casco histórico",
+      "body": "Los desplazamientos breves dentro de la ciudad, sin salidas regulares a velocidad de carretera hacia la Bahía, impiden la regeneración completa del filtro de partículas diésel."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA/Rheingold real de fábrica",
+      "body": "El mismo software que emplea el concesionario oficial de BMW, con acceso completo a todos los módulos electrónicos del vehículo."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En Cádiz sabemos que la confianza se construye con un presupuesto que no cambia una vez aceptado."
+    },
+    {
+      "title": "Conocemos el efecto del levante y el poniente en tu BMW",
+      "body": "No aplicamos un protocolo genérico: sabemos qué componentes se adelantan por la humedad marina permanente de una ciudad rodeada de agua."
+    },
+    {
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te ampara para reparar en un taller independiente especializado sin perder la cobertura oficial."
+    },
+    {
+      "title": "Atención práctica para quien cruza a diario la Bahía",
+      "body": "Coordinamos horarios y entrega para que el mantenimiento no interfiera con tu trayecto diario por el puente Constitución de 1812."
+    }
+  ],
+  "zoneText": "Damos servicio a Cádiz capital y a toda la Bahía: San Fernando, Puerto Real, El Puerto de Santa María y Chiclana de la Frontera. Si cruzas a diario el puente Constitución de 1812 por motivos laborales, coordinamos recogida y entrega del vehículo.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW se oxida más rápido en Cádiz que en otras ciudades andaluzas de interior?",
+      "a": "Al estar la ciudad rodeada de mar, la exposición al levante y al poniente es constante durante todo el año, sin la tregua estacional que existe en zonas de interior, lo que acelera la corrosión de bajos y componentes eléctricos."
+    },
+    {
+      "q": "¿Puedo mantener la garantía de fábrica reparando en vuestro taller de Cádiz?",
+      "a": "Sí, el derecho europeo lo respalda siempre que se utilicen recambios de calidad equivalente y quede documentado con nuestro diagnóstico ISTA oficial."
+    },
+    {
+      "q": "¿Por qué mi diésel pierde potencia si solo lo uso para moverme dentro del casco histórico de Cádiz?",
+      "a": "Es un síntoma típico de DPF saturado por falta de trayectos a velocidad de carretera que permitan completar la regeneración del filtro de partículas."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, preparado para el levante y el poniente de Cádiz",
+  "closingCta": "Solicita tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen la Bahía de Cádiz."
+}

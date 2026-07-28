@@ -6,9 +6,9 @@
   "population": 156295,
   "lat": 36.51543,
   "lng": -4.88583,
-  "metaTitle": "Taller BMW y MINI en Marbella · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Marbella. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Marbella y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Marbella · Red ISTA · Especialistas Premium",
+  "metaDescription": "Taller especialista BMW y MINI en Marbella. Diagnóstico oficial ISTA para X5, X6, Serie 7 y M. Presupuesto cerrado, discreción y garantía intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI vive en la Milla de Oro o cerca de Puerto Banús? Diagnóstico oficial ISTA con la discreción y el nivel que merece tu coche.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Marbella, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Marbella, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Marbella te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Marbella, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Marbella tiene, probablemente, la concentración de BMW de alta gama más alta de España: X5, X6, X7, Serie 7, Serie 8 y modelos M conviven en la Milla de Oro, en Puerto Banús y en Nueva Andalucía con una densidad que no se ve en ninguna otra ciudad de esta lista. Aquí el propietario medio no busca solo un mecánico, busca un especialista que entienda que su coche es, a la vez, una herramienta de uso diario y una pieza de valor que debe mantener su documentación impecable, su historial de mantenimiento con diagnóstico oficial y su aspecto perfecto en cada revisión.\n\nEl clima de Marbella, con sol prácticamente los 365 días del año y una humedad salina constante por su proximidad al mar, es exigente de una forma muy distinta a la de otras ciudades: no hay heladas ni frío extremo, pero la radiación UV constante degrada gomas, juntas y plásticos del habitáculo antes que en el resto de España, y la combinación de sal marina con las altas temperaturas del asfalto en verano acelera la corrosión de llantas de aleación premium, pinzas de freno de gran diámetro y componentes de suspensión adaptativa EDC, muy presentes en los X5 y X6 que circulan por Sierra Blanca y Nueva Andalucía.\n\nEl uso real del coche en Marbella también es particular: muchos BMW de gama alta hacen trayectos cortos entre la Milla de Oro, Puerto Banús y el centro, con aire acondicionado al máximo la mayor parte del año, lo que exige mucho al compresor y al sistema de refrigeración. En los seis y ocho cilindros de gasolina, vigilamos con especial atención los sellos de VANOS, porque el calor sostenido del motor combinado con trayectos cortos favorece las fugas de aceite antes de lo esperado, un problema que en un coche de esta gama exige una reparación impecable, sin manchas ni rastros en el compartimento motor.\n\nEn los diésel de las berlinas grandes que hacen la AP-7 hacia Málaga o Estepona a diario, el filtro de partículas y la caja ZF automática trabajan en un contexto de calor ambiental elevado casi todo el año, lo que acorta ligeramente los intervalos recomendados de revisión respecto a un clima templado. Y en los modelos M y de altas prestaciones, tan habituales entre los propietarios de la zona, prestamos especial atención a los discos y pastillas de freno de altas prestaciones y a la presión de neumáticos de perfil bajo, muy sensibles al calor del asfalto marbellí en pleno verano.\n\nTrabajamos con el mismo diagnóstico ISTA/Rheingold que el concesionario oficial, pero con la discreción, la flexibilidad de horarios y el nivel de acabado que espera un propietario de la Milla de Oro o de Puerto Banús. Documentamos cada intervención con el máximo detalle para que tu BMW o MINI mantenga intacta su garantía de fábrica y su valor de reventa, sin necesidad de pasar por el concesionario.",
+  "servicesIntro": "En Marbella ofrecemos un servicio premium de mantenimiento y reparación BMW y MINI, con diagnóstico ISTA, discreción y el nivel de acabado que exige la gama alta de la Milla de Oro y Puerto Banús.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Marbella.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes en los BMW y MINI de alta gama que circulan por Marbella, Puerto Banús y Sierra Blanca.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Sellos VANOS con fugas de aceite por calor sostenido",
+      "body": "El calor casi constante y los trayectos cortos por la Milla de Oro favorecen fugas antes de lo esperado en seis y ocho cilindros. Reparación con el acabado impecable que exige un coche de esta gama."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Corrosión salina en llantas y suspensión adaptativa EDC",
+      "body": "La combinación de sal marina y calor del asfalto ataca llantas premium y componentes de suspensión de X5, X6 y X7 antes que en zonas de interior."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Gomas y juntas degradadas por radiación UV constante",
+      "body": "El sol casi permanente de Marbella envejece juntas de motor y plásticos del habitáculo más rápido que en el resto de España, incluso sin tráfico intenso."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Compresor de aire acondicionado exigido al máximo",
+      "body": "El uso casi continuo del clima en trayectos cortos por Puerto Banús y Nueva Andalucía desgasta el compresor y el sistema de refrigeración antes de tiempo."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Discos y pastillas de freno de altas prestaciones sobreexigidos",
+      "body": "En modelos M y de altas prestaciones, el calor del asfalto en verano acelera el desgaste de frenos de gran diámetro, requiriendo revisión más frecuente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en la gama alta de BMW y MINI",
+      "body": "Trabajamos a diario con X5, X6, X7, Serie 7 y modelos M, con el acabado y la discreción que estos coches merecen."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA con el mismo nivel que el concesionario",
+      "body": "Detectamos averías reales sin adivinar, protegiendo el valor y la documentación de tu coche."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Discreción y flexibilidad de horarios",
+      "body": "Adaptamos el servicio al ritmo de vida de la Milla de Oro y Puerto Banús."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "Sin sorpresas, con la transparencia que esperas de un especialista de confianza."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Mantienes tu garantía de fábrica y el valor de reventa",
+      "body": "Documentamos cada intervención conforme a la normativa europea, protegiendo tanto la garantía como el historial de tu coche."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Marbella y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a propietarios de BMW y MINI en Marbella, la Milla de Oro, Puerto Banús, Nueva Andalucía, Sierra Blanca, y localidades cercanas como San Pedro de Alcántara, Benahavís y Estepona.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Marbella?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo mantener la garantía de fábrica de mi BMW llevándolo a un especialista en Marbella en lugar del concesionario?",
+      "a": "Sí, el derecho europeo lo permite si se usan piezas y procedimientos equivalentes, algo que documentamos con el máximo detalle en cada intervención, protegiendo también el valor de reventa de tu coche."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi X5 pierde aceite bajo el motor en verano?",
+      "a": "Es habitual que sean los sellos de VANOS, degradados por el calor sostenido y los trayectos cortos típicos de la zona. Confirmamos el diagnóstico con ISTA antes de intervenir con el acabado que exige un coche de esta gama."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿La cercanía al mar en Puerto Banús afecta a las llantas y la suspensión de mi BMW?",
+      "a": "Sí, la sal marina combinada con el calor del asfalto acelera la corrosión de llantas premium y componentes de suspensión adaptativa, por eso lo revisamos de forma sistemática en cada visita."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Marbella, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Marbella y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, con el trato que merece en la Milla de Oro",
+  "closingCta": "Pide tu Presupuesto cerrado con diagnóstico ISTA y la discreción de un verdadero especialista."
 }

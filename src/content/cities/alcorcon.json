@@ -7,8 +7,8 @@
   "lat": 40.34582,
   "lng": -3.82487,
   "metaTitle": "Taller BMW y MINI en Alcorcón · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Alcorcón. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Alcorcón y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Alcorcón. Diagnóstico oficial ISTA, mecánicos de marca y Presupuesto cerrado. Ideal para el tráfico de Madrid sur.",
+  "heroSubtitle": "¿Tu BMW o MINI se pasa la vida en atascos de la M-40 y la M-50? Diagnóstico oficial ISTA con precio de taller independiente en Alcorcón.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Alcorcón, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Alcorcón, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Alcorcón te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Alcorcón, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Alcorcón vive pegado a las principales arterias del sur de Madrid: M-40, M-50, A-5 y Avenida de Leganés forman parte del día a día de cualquier propietario de BMW o MINI de la ciudad, y ese patrón de conducción tan particular, con arrancadas y frenadas constantes, deja una huella muy concreta en el coche. No es lo mismo un Serie 3 que hace autovía despejada que uno que pasa una hora diaria en la retención de la M-40 a la altura de Alcorcón, con el motor entrando y saliendo de temperatura óptima constantemente.\n\nEl síntoma más habitual que vemos en el taller es el DPF saturado en los diésel: el tráfico denso y los trayectos cortos hacia Móstoles, Leganés o el centro de Madrid impiden que el filtro de partículas alcance la temperatura necesaria para regenerarse con frecuencia suficiente, y el coche entra en modo de emergencia con pérdida de potencia justo cuando el conductor menos lo espera, en plena hora punta. En los gasolina de inyección directa, ese mismo patrón deja carbonilla en las válvulas de admisión, algo que confirmamos sistemáticamente con ISTA en los BMW y MINI de uso predominantemente urbano de la ciudad.\n\nAlcorcón tiene también un parque considerable de BMW Serie 1 y MINI comprados para el día a día en zonas como Parque Oeste o el Ensanche Sur, urbanizaciones más recientes con perfil de familia joven, y aquí el desgaste típico está en el embrague de doble masa y en las cajas automáticas ZF, sometidas a un ciclo de parada y arranque continuo en los semáforos de la Avenida de Los Castillos o en los accesos a la M-50, muy distinto al ciclo de carretera para el que están optimizadas.\n\nLa altitud de Madrid, por encima de los 600 metros, y las temperaturas que superan con frecuencia los 35 grados en verano en el sur metropolitano, exigen también más al turbo en las incorporaciones a la M-40 y a la A-5, donde el conductor suele acelerar con fuerza para ganar el hueco en el tráfico. Es un patrón de conducción muy distinto al de una autovía fluida, y se refleja en un desgaste de turbo y de sistema de refrigeración distinto al que veríamos en una ciudad más pequeña sin esa densidad de tráfico.\n\nEn nuestro taller de Alcorcón trabajamos con el mismo diagnóstico ISTA/Rheingold que el concesionario oficial de Madrid, pero entendemos el uso real de un coche que vive entre semáforos, rondas y atascos del sur metropolitano. Documentamos cada intervención para que tu BMW o MINI mantenga la garantía de fábrica intacta, sin necesidad de desplazarte hasta el concesionario y sin las esperas propias de la capital.",
+  "servicesIntro": "En Alcorcón ofrecemos mantenimiento y reparación BMW y MINI con diagnóstico ISTA, con especial atención al desgaste que provoca el tráfico denso del sur de Madrid.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Alcorcón.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes en los BMW y MINI que circulan a diario por Alcorcón, la M-40 y la M-50.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "DPF saturado por tráfico denso y trayectos cortos",
+      "body": "Los atascos habituales en la M-40 y los trayectos cortos a Móstoles o Madrid impiden la regeneración completa del filtro de partículas. Forzamos regeneración asistida con ISTA."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Carbonilla en válvulas de admisión por conducción urbana",
+      "body": "El uso predominantemente urbano deja carbonilla en motores de inyección directa. Se detecta por pérdida de potencia y ralentí irregular."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Embrague de doble masa desgastado por parada y arranque",
+      "body": "El ciclo constante de semáforos y atascos en Alcorcón acelera el desgaste de este componente en cajas manuales, mucho más que en un uso de carretera."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF exigida por el tráfico urbano",
+      "body": "Las cajas ZF, pensadas también para carretera fluida, sufren un desgaste distinto con el ciclo de parada y arranque continuo de la M-40 y la Avenida de Los Castillos."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Turbo desgastado por aceleraciones bruscas en incorporaciones",
+      "body": "Ganar hueco en la M-40 o la A-5 exige aceleraciones fuertes y repetidas que desgastan el turbo antes de tiempo si no se cuida la refrigeración tras el esfuerzo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA para el coche de tráfico denso",
+      "body": "Sabemos qué falla primero en un BMW que vive entre la M-40 y la M-50 y lo revisamos de forma prioritaria."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Cerca de tu día a día en el sur de Madrid",
+      "body": "Sin desplazarte hasta el centro ni perder horas en el concesionario."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "El precio que te damos al entrar es el que pagas al recoger tu coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te ampara en un taller independiente, documentado correctamente en cada intervención."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Rapidez adaptada a tu ritmo de trabajo",
+      "body": "Entendemos que necesitas el coche para moverte a diario por Madrid y ajustamos tiempos de entrega."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Alcorcón y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a propietarios de BMW y MINI en Alcorcón, Parque Oeste, Ensanche Sur, y localidades cercanas como Móstoles, Leganés, Fuenlabrada y Madrid capital.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Alcorcón?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi BMW diésel entra en modo de emergencia en atascos de la M-40?",
+      "a": "Es habitual que el DPF se sature por falta de regeneraciones completas en tráfico denso. Con ISTA forzamos una regeneración asistida y revisamos si el aditivo está en buen estado."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿El tráfico de Alcorcón desgasta más rápido el embrague de mi MINI?",
+      "a": "Sí, el ciclo constante de parada y arranque en semáforos y atascos acelera el desgaste del embrague de doble masa respecto a un uso de carretera fluida."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente de Alcorcón?",
+      "a": "Sí, el derecho europeo lo permite si se usan piezas y procedimientos equivalentes, algo que documentamos en cada intervención para que tu cobertura quede intacta."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Alcorcón, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Alcorcón y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado para el tráfico real del sur de Madrid",
+  "closingCta": "Pide tu Presupuesto cerrado con diagnóstico ISTA y evita el modo de emergencia en plena M-40."
 }

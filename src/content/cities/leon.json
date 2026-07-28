@@ -7,8 +7,8 @@
   "lat": 42.60003,
   "lng": -5.57032,
   "metaTitle": "Taller BMW y MINI en León · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en León. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en León y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en León. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente. Mantén tu garantía de fábrica.",
+  "heroSubtitle": "Con el frío intenso de la meseta norte, tu BMW o MINI necesita un especialista que conozca León de verdad. Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en León: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nLos MINI más recientes con motor B38 y B48 que circulan por León sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en León te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en León, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "León es una ciudad donde el frío no es un detalle menor, sino el factor que más condiciona el mantenimiento real de un BMW o un MINI. Los inviernos de la meseta norte traen heladas prolongadas, nieve ocasional y temperaturas que se mantienen bajo cero durante buena parte del día en enero y febrero, algo que afecta directamente al comportamiento de los Serie 3, X1 y X3 diésel que predominan en la ciudad, muy presentes entre quienes se desplazan a diario desde barrios como Eras de Renueva o Puente Castro hacia el centro y hacia los polígonos industriales de la periferia.\n\nEl arranque en frío extremo es el escenario donde más problemas detectamos: la batería de 12V pierde capacidad de forma notable con el frío, y en los BMW modernos con start-stop y numerosos sistemas electrónicos en espera, una batería debilitada por el invierno leonés genera fallos intermitentes que muchos talleres generalistas atribuyen erróneamente a otros componentes. El termostato electrónico también sufre en estas condiciones, ya que debe gestionar arranques con el motor a temperaturas muy por debajo de lo habitual en el resto de España, y no es raro que se quede abierto o cerrado de forma anómala tras varios inviernos de uso intensivo.\n\nLa sal y los fundentes que se aplican en las calzadas durante los episodios de nieve y hielo, habituales en la Ruta de la Plata (A-66) y en los accesos a la ciudad, aceleran de forma notable la corrosión de los bajos, las líneas de freno y los anclajes de suspensión, un problema que en León vemos con más frecuencia que en ciudades de clima templado y que exige revisiones periódicas específicas de los bajos del vehículo, sobre todo en coches con más de cinco inviernos leoneses a sus espaldas.\n\nEn los motores diésel N47 que todavía prestan servicio en la ciudad, sobre todo en vehículos de uso profesional que cubren la comarca leonesa y el Bierzo, la cadena de distribución sigue siendo un punto de atención habitual, mientras que en los motores de gasolina de inyección directa más recientes, la carbonilla en las válvulas de admisión aparece con cierta frecuencia en los vehículos que hacen trayectos cortos dentro de la ciudad sin llegar nunca a alcanzar temperatura de trabajo óptima, algo muy común en los meses más fríos del año.\n\nTrabajamos con diagnóstico ISTA/Rheingold oficial en León, con pleno conocimiento de cómo el frío intenso de la meseta, la sal de las carreteras y los inviernos largos condicionan el mantenimiento real de cada BMW y MINI de la ciudad.",
+  "servicesIntro": "En León ajustamos cada revisión al reto real del frío intenso de la meseta norte, desde la batería hasta la corrosión provocada por la sal en las calzadas.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por León.",
+  "commonIssuesIntro": "Estas son las averías más habituales que detectamos en los BMW y MINI que circulan por León durante los meses de frío.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Batería de 12V debilitada por el frío intenso",
+      "body": "Las heladas prolongadas de León reducen notablemente la capacidad de la batería auxiliar, provocando fallos intermitentes en sistemas electrónicos y start-stop que suelen confundirse con otras averías."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Termostato electrónico con comportamiento anómalo tras varios inviernos",
+      "body": "La gestión de arranques con el motor a temperaturas muy bajas de forma repetida acaba forzando el termostato electrónico, que puede quedarse abierto o cerrado de forma incorrecta."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Corrosión acelerada por la sal en calzadas nevadas",
+      "body": "Los episodios de nieve y hielo en la Ruta de la Plata y los accesos a León requieren fundentes que aceleran la oxidación de bajos, líneas de freno y anclajes de suspensión."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Carbonilla en válvulas de admisión por arranques en frío repetidos",
+      "body": "Los trayectos cortos urbanos en los meses más fríos impiden que el motor alcance temperatura óptima, favoreciendo la acumulación de carbonilla en los motores de inyección directa."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Cadena de distribución en diésel N47 de uso profesional",
+      "body": "Los vehículos que cubren a diario la comarca leonesa y el Bierzo, con muchos kilómetros en condiciones de frío, presentan el característico ruido de cadena estirada en arranque en frío."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real de fábrica",
+      "body": "El mismo software que emplea el concesionario oficial de BMW, con acceso completo a todos los módulos electrónicos del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En León valoramos la certeza: el presupuesto que aceptas es el que pagas, sin ampliaciones de última hora."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Experiencia real con el frío de la meseta norte",
+      "body": "Sabemos qué componentes fallan primero en un invierno leonés, y revisamos de forma preventiva antes de que la avería se manifieste."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te ampara para reparar en un taller independiente especializado sin perder la cobertura oficial de tu BMW o MINI."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención cercana para vehículos de uso profesional en la comarca",
+      "body": "Entendemos la necesidad de disponibilidad del vehículo para quien recorre a diario León, el Bierzo y la Ruta de la Plata."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en León y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a León capital y a toda su área de influencia: San Andrés del Rabanedo, Villaquilambre, Armunia, La Virgen del Camino y Trobajo del Camino. Si tu actividad te obliga a circular a diario por la A-66 o la N-601 en condiciones de frío y nieve, podemos priorizar revisiones preventivas antes del invierno.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en León?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi BMW cuesta más de arrancar las mañanas de helada en León?",
+      "a": "Suele ser un síntoma de batería de 12V debilitada por el frío intenso. Con diagnóstico ISTA comprobamos el estado real de carga, algo que un simple probador de batería no detecta con precisión."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Debo revisar los bajos de mi BMW con más frecuencia por la sal de las carreteras de León?",
+      "a": "Sí, recomendamos una revisión anual específica de bajos, líneas de freno y anclajes tras los inviernos con más episodios de nieve y sal en las calzadas."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de fábrica reparando en vuestro taller de León?",
+      "a": "Sí, el derecho europeo lo respalda siempre que se utilicen recambios de calidad equivalente y quede documentado con nuestro diagnóstico ISTA oficial."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en León, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en León y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el frío de la meseta leonesa",
+  "closingCta": "Solicita tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen el invierno de León."
 }

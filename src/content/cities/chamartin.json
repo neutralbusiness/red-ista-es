@@ -6,9 +6,9 @@
   "population": 140000,
   "lat": 40.46206,
   "lng": -3.6766,
-  "metaTitle": "Taller BMW y MINI en Chamartín · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Chamartín. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Chamartín y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Chamartín (Madrid) · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Chamartín, Madrid. Diagnóstico ISTA oficial, Presupuesto cerrado y precio de taller independiente sin perder tu garantía.",
+  "heroSubtitle": "Si tu BMW o MINI vive entre El Viso, Nueva España y la Castellana, merece un especialista de verdad, no un taller multimarca más. Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Chamartín, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Chamartín sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Chamartín te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Chamartín, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Chamartín es, probablemente, el distrito con mayor densidad de BMW y MINI por metro cuadrado de todo Madrid. En El Viso, Nueva España y Ciudad Jardín es habitual ver Serie 5, X5 y X6 de gama alta aparcados junto a MINI Cooper S y Countryman que hacen el trayecto diario al colegio o al centro por la Avenida de América y el Paseo de la Castellana. Es un parque de vehículos jóvenes, muy bien equipados, con mucha electrónica embarcada —suspensión adaptativa EDC, sistemas de asistencia a la conducción, climatizador de varias zonas— que exige un diagnóstico preciso, no una revisión genérica.\n\nEl factor determinante en Chamartín no es el clima, sino el tráfico: la combinación de la M-30, el nudo de Plaza de Castilla, la Castellana y las calles saturadas de Nueva España genera un patrón de conducción de arrancadas, frenadas y paradas constantes que es extremadamente duro para el embrague, para la caja ZF automática (que en estos vehículos gestiona cambios continuos a baja velocidad) y para el DPF de los diésel, que rara vez alcanza temperatura de regeneración en trayectos tan cortos y lentos como los que se hacen a diario dentro del distrito.\n\nEn los motores de gasolina de inyección directa —N20, B48 y B58, muy presentes en los Serie 3 y X3 de la zona— vemos con mucha frecuencia carbonilla en las válvulas de admisión, precisamente por ese patrón de trayectos cortos urbanos combinados con arrancadas en frío repetidas cada mañana camino del trabajo. También es habitual que los propietarios de vehículos con más de 60.000 km nos consulten por sellos VANOS con fugas de aceite, un síntoma que en esta zona detectamos antes que en zonas de conducción más fluida, precisamente por el estrés mecánico del tráfico madrileño.\n\nLos amortiguadores EDC y la suspensión adaptativa sufren un desgaste particular por los numerosos badenes, resaltos y bordillos altos de las calles residenciales de El Viso y Nueva España, diseñadas para calmar el tráfico pero que en la práctica generan microimpactos constantes que acortan la vida útil de los componentes de suspensión electrónica, mucho más caros de reparar que en un sistema convencional si no se detectan a tiempo.\n\nEn Chamartín trabajamos con diagnóstico ISTA/Rheingold oficial, con la agilidad de un taller independiente frente a la rigidez y los tiempos de espera de los concesionarios oficiales de la zona, y con pleno conocimiento de que aquí el BMW y el MINI no son un capricho, sino el vehículo de uso diario de quien exige que todo funcione sin fisuras.",
+  "servicesIntro": "En Chamartín entendemos que tu BMW o MINI es un vehículo de uso diario intensivo en tráfico denso, y ajustamos cada revisión a ese desgaste real.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Chamartín.",
+  "commonIssuesIntro": "Estas son las averías más habituales que vemos en los BMW y MINI que circulan a diario por Chamartín y el norte de Madrid.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Embrague y caja ZF forzados por el tráfico de la M-30 y la Castellana",
+      "body": "Los arranques y paradas constantes en Plaza de Castilla, la M-30 y las calles saturadas de Nueva España aceleran el desgaste del embrague de doble masa y exigen cambios de marcha continuos en la caja automática."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "DPF saturado por trayectos cortos dentro del distrito",
+      "body": "Los desplazamientos breves y lentos habituales en El Viso y Ciudad Jardín impiden que el filtro de partículas diésel alcance la temperatura de regeneración necesaria, generando pérdida de potencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Carbonilla en válvulas de admisión por arrancadas en frío diarias",
+      "body": "El patrón de uso diario con trayectos cortos y arrancadas en frío repetidas favorece la acumulación de carbonilla en los motores N20, B48 y B58 de inyección directa."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sellos VANOS con fugas de aceite en vehículos con uso urbano intensivo",
+      "body": "El estrés mecánico del tráfico denso adelanta la aparición de fugas en el variador de válvulas VANOS respecto a vehículos con conducción más fluida en carretera."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Amortiguadores EDC dañados por badenes y bordillos residenciales",
+      "body": "Las calles de tráfico calmado de El Viso y Nueva España, con numerosos resaltos, generan microimpactos constantes que acortan la vida de la suspensión adaptativa electrónica."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold real, sin lector genérico",
+      "body": "Trabajamos con el mismo software que el concesionario oficial, imprescindible en vehículos con tanta electrónica embarcada como los de Chamartín."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado, sin ampliaciones sorpresa",
+      "body": "Sabemos que en Chamartín el tiempo del cliente vale, y que la confianza se construye con un presupuesto que no cambia."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Más ágiles que el concesionario oficial de la zona",
+      "body": "Sin las esperas ni la rigidez de cita de los grandes concesionarios de Madrid, con el mismo nivel de diagnóstico técnico."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "El derecho europeo te ampara para reparar en un taller independiente especializado sin perder la cobertura oficial de tu BMW o MINI."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Entendemos el desgaste específico del tráfico madrileño",
+      "body": "No tratamos tu coche como un caso genérico: sabemos qué falla primero en un BMW que hace el trayecto diario por la Castellana y la M-30."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Chamartín y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todo el distrito de Chamartín —El Viso, Nueva España, Ciudad Jardín, Prosperidad, Hispanoamérica— y a los distritos y municipios colindantes del norte de Madrid: Tetuán, Fuencarral, Alcobendas y San Sebastián de los Reyes. Coordinamos recogida y entrega para minimizar tu tiempo de espera.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Chamartín?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Merece la pena llevar mi BMW a un taller independiente en Chamartín en lugar del concesionario oficial?",
+      "a": "Sí, con diagnóstico ISTA oficial obtienes el mismo nivel técnico, mantienes tu garantía de fábrica y evitas las largas esperas de cita de los concesionarios de la zona."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi X3 pierde potencia en los trayectos cortos por El Viso?",
+      "a": "Es un síntoma habitual de DPF saturado, muy común en vehículos que solo hacen trayectos urbanos cortos dentro del distrito sin salir nunca a vías rápidas."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Los badenes de las calles de Nueva España pueden dañar la suspensión adaptativa de mi Serie 5?",
+      "a": "Sí, los microimpactos repetidos aceleran el desgaste de los amortiguadores EDC. Con diagnóstico ISTA revisamos el estado real del sistema antes de que se convierta en una avería mayor."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Chamartín, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Chamartín y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado por quien entiende el tráfico de Chamartín",
+  "closingCta": "Solicita tu diagnóstico ISTA y presupuesto cerrado, y confía tu BMW o MINI a especialistas que conocen el norte de Madrid."
 }
