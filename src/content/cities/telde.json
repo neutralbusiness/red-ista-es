@@ -6,177 +6,124 @@
   "population": 123265,
   "lat": 27.99243,
   "lng": -15.41915,
-  "metaTitle": "Taller mecánico en Telde — Multimarca y de confianza",
-  "metaDescription": "Tu taller en Telde para revisiones, averías y neumáticos. Presupuesto cerrado y para todas las marcas. Cuidamos tu coche del salitre y la calima. Pide cita.",
-  "heroSubtitle": "El salitre, la calima y los kilómetros por la GC-1 desgastan tu coche. En nuestro taller de Telde lo sabemos y tenemos la solución.",
+  "metaTitle": "Taller BMW y MINI en Telde · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Telde. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Telde y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives o trabajas en Telde, sabes que conducir aquí tiene sus particularidades. No es lo mismo mover el coche solo los fines de semana por la costa, entre Melenara y Salinetas, que hacer cada día el trayecto de ida y vuelta a Las Palmas por la GC-1. El tráfico denso a primera hora, las retenciones y el ritmo constante de la autopista exigen mucho a tu embrague, frenos y motor. Quizás uses tu furgoneta para repartir por el Polígono de El Goro o te muevas por el centro, entre San Gregorio y San Juan. Cada uso y cada zona de Telde implica un desgaste diferente para tu vehículo.\n\nEl clima de nuestra isla es una maravilla, pero para la mecánica de un coche es un desafío constante. La proximidad al mar en barrios como La Garita o Tufia significa que el salitre está siempre presente en el aire. Esta brisa marina, aunque agradable, es corrosiva para la chapa, los bajos del coche y componentes metálicos como los discos de freno. Por otro lado, tenemos la calima. Ese polvo sahariano tan característico no solo ensucia el coche por fuera; se cuela en el filtro del aire, ahogando al motor y aumentando el consumo, y satura el filtro del habitáculo, afectando al rendimiento del aire acondicionado justo cuando más lo necesitas.\n\nEn nuestro taller de Telde entendemos perfectamente esta realidad. Conocemos el parque móvil de la zona: desde el SEAT Ibiza o Renault Clio que se usa para ir a la universidad o al trabajo, hasta el Volkswagen Caddy o Peugeot Partner del autónomo, pasando por el Toyota o Hyundai familiar para llevar a los niños al colegio. Sabemos que la mayoría son coches de gasolina o diésel con unos cuantos años y kilómetros, vehículos que necesitan un mantenimiento preventivo y honesto para seguir siendo fiables en la subida a Valsequillo por la GC-41 o en un viaje al sur por la autopista.\n\nPor eso, nuestro enfoque no es tratar tu coche como uno más. Es entender cómo lo usas y dónde vives. Analizamos si el desgaste de tus neumáticos es coherente con las rotondas de la circunvalación (GC-10), si tus frenos sufren por el tráfico urbano o si tu sistema de refrigeración está preparado para un verano teldense. No te hablamos con tecnicismos incomprensibles, te explicamos qué le pasa a tu coche y por qué, dándote un presupuesto cerrado para que no haya sorpresas. Queremos ser tu taller de confianza en Telde, el sitio al que vienes sabiendo que cuidaremos de tu coche como si fuera nuestro.",
-  "servicesIntro": "Desde la revisión oficial para tu coche hasta averías complejas, cubrimos todas las necesidades de tu vehículo aquí en Telde.",
-  "processIntro": "Trabajamos con total transparencia. Recibes un diagnóstico claro y un presupuesto cerrado. No hacemos nada sin tu aprobación previa.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Telde, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Telde sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima suave de las islas, sin apenas variación estacional, hace que el coche esté en uso constante durante todo el año, sin la pausa invernal que reduce el desgaste en otras zonas de España. La proximidad al mar y la calima ocasional aceleran además la corrosión de elementos metálicos, un punto que revisamos con atención en cada visita.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Telde te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Telde, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche a nuestro taller en Telde, escuchamos qué te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con equipos de última generación."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás claramente el coste de las piezas y la mano de obra, sin sorpresas ni letra pequeña. Es un precio final, garantizado."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Revisas el presupuesto tranquilamente y nos das tu visto bueno. Nunca, bajo ningún concepto, empezamos una reparación o cambiamos una pieza sin que tú nos hayas dado luz verde primero."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado sobre el progreso y los plazos de la reparación de tu coche."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona a la perfección."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "La combinación de salitre de la costa, calima del Sahara y el tráfico de la GC-1 provoca problemas muy concretos que vemos a diario en nuestro taller de Telde.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Telde.",
   "commonIssues": [
     {
-      "title": "Filtros de aire y habitáculo saturados",
-      "body": "La calima es el enemigo número uno de los filtros en Gran Canaria. Un filtro de aire sucio reduce la potencia y aumenta el consumo de combustible. El del habitáculo, si está obstruido, fuerza el sistema de aire acondicionado y empeora la calidad del aire que respiras. En Telde recomendamos revisarlos con más frecuencia de lo habitual."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso en la GC-1 para ir a Las Palmas, callejear por San Gregorio o las constantes rotondas de la circunvalación de Telde castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión para evitar averías mayores."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Problemas con el aire acondicionado",
-      "body": "En Telde usamos el aire acondicionado casi todo el año. El calor y la calima fuerzan el compresor y pueden obstruir el circuito. Si no enfría como antes o huele mal, probablemente necesite una recarga de gas y una limpieza de conductos para funcionar eficientemente y sin bacterias."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Corrosión en bajos y sistema de frenos",
-      "body": "Si vives cerca de la costa, en zonas como Melenara o La Garita, la brisa marina acelera la oxidación. Esta corrosión afecta a los bajos del coche, las líneas de escape y, peligrosamente, a los componentes de los frenos como pinzas y latiguillos. Una inspección a tiempo previene problemas de seguridad."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Deterioro de plásticos y gomas exteriores",
-      "body": "El sol intenso que tenemos en Canarias durante todo el año es muy agresivo con las partes de plástico y goma del coche. Escobillas del limpiaparabrisas que se resecan, molduras que pierden color y neumáticos que se cuartean son problemas comunes. Un buen mantenimiento alarga su vida útil y mejora la seguridad."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos los coches de Telde",
-      "body": "Sabemos cómo afectan la calima, el salitre y las carreteras locales a tu vehículo. Nuestro diagnóstico es más preciso porque entendemos el entorno en el que te mueves cada día."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuestos sin sorpresas",
-      "body": "Te damos un precio cerrado y detallado antes de empezar. Lo que apruebas es lo que pagas. Sin extras inesperados ni letra pequeña al final de la factura."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas y modelos",
-      "body": "Da igual si conduces un utilitario, un SUV, un diésel con años o una furgoneta de trabajo. Tenemos la tecnología y el conocimiento para cuidar de cualquier vehículo que circule por Telde."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Tú tienes el control",
-      "body": "No tocamos un solo tornillo sin tu autorización explícita. Te explicamos las opciones y tú decides qué hacer, sin presión y con toda la información sobre la mesa."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todas nuestras reparaciones y las piezas que utilizamos están garantizadas por escrito. Tu tranquilidad es nuestra prioridad. Queremos que vuelvas porque confías en nuestro trabajo."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No podemos compartir datos de clientes reales, pero estas son situaciones típicas que resolvemos cada día en nuestro taller de Telde.",
-  "testimonials": [
-    {
-      "name": "Yeray",
-      "neighborhood": "El Calero",
-      "car": "Renault Clio 2017",
-      "body": "Hago todos los días el trayecto a Las Palmas por la GC-1 y notaba un ruido raro al frenar. Pensé que sería una pasta. Aquí me explicaron que solo eran las pastillas traseras. Me mandaron el presupuesto al móvil, di el OK y por la tarde ya lo tenía. Muy transparentes, la verdad.",
-      "rating": 5
-    },
-    {
-      "name": "Gara",
-      "neighborhood": "La Garita",
-      "car": "Nissan Qashqai 2015",
-      "body": "El aire acondicionado dejó de enfriar en pleno julio. Con los niños y el calor era imposible. Me lo solucionaron súper rápido, era una fuga pequeña en el circuito. Me enseñaron la pieza y me explicaron por qué se había picado, seguramente por el salitre de vivir al lado de la playa.",
-      "rating": 5
-    },
-    {
-      "name": "Domingo",
-      "neighborhood": "San Gregorio",
-      "car": "Citroën Berlingo 2018",
-      "body": "Uso la furgoneta para trabajar por todo Telde y no puedo permitirme tenerla parada. Me tocaba la revisión gorda, con cambio de correa de distribución. Me dieron cita enseguida y cumplieron el plazo que me dijeron. Un servicio profesional, que es lo que buscamos los autónomos.",
-      "rating": 5
-    },
-    {
-      "name": "Fátima",
-      "neighborhood": "Jinámar",
-      "car": "Opel Corsa 2014",
-      "body": "Tenía que pasar la ITV y el coche echaba mucho humo. Estaba preocupada por si no la pasaba. Les pedí una revisión pre-ITV y me ajustaron un par de cosas del motor y los filtros. Pasé la inspección sin un solo fallo. Me ahorraron tiempo y un segundo viaje a la estación.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Telde da servicio a todos los barrios y zonas del municipio. Tanto si vives en el casco, en San Juan o San Gregorio, como si resides en la costa, en barrios como La Garita, Melenara o Salinetas, estamos a tu disposición. Cubrimos también las zonas de expansión como El Calero o Lomo Cementerio y damos soporte a los profesionales del Polígono Industrial de El Goro. Gracias a nuestra ubicación estratégica y el fácil acceso desde la GC-1 y la circunvalación GC-10, también somos el taller de confianza para muchos conductores de municipios cercanos como Ingenio, Valsequillo o la zona sur de Las Palmas de Gran Canaria.",
-  "zoneNeighborhoods": [
-    "San Gregorio",
-    "San Juan",
-    "El Calero",
-    "La Garita",
-    "Melenara",
-    "Salinetas",
-    "Jinámar",
-    "El Goro",
-    "Lomo Cementerio",
-    "Casas Nuevas"
-  ],
-  "zoneAccessRoutes": [
-    "GC-1 (Autopista del Sur)",
-    "GC-10 (Circunvalación de Telde)",
-    "GC-41 (Carretera de Telde a Valsequillo)",
-    "GC-100 (Carretera de la Costa)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Telde y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Cómo afecta la calima de Telde a mi coche y qué debo hacer?",
-      "a": "La calima obstruye el filtro de aire del motor, lo que le hace perder potencia y gastar más combustible. También satura el filtro del habitáculo, afectando al aire acondicionado. Recomendamos revisar y cambiar los filtros con más frecuencia de lo que indica el fabricante. Además, es aconsejable lavar el coche después de un episodio fuerte para proteger la pintura."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Telde?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Vivo en la costa de Telde, ¿necesita mi coche un cuidado especial contra el salitre?",
-      "a": "Sí, sin duda. El ambiente salino de zonas como La Garita o Melenara acelera la corrosión de los bajos, el sistema de escape y los componentes de los frenos. Es muy recomendable lavar los bajos del coche con agua a presión de vez en cuando y realizar inspecciones visuales periódicas en el taller para detectar y tratar el óxido a tiempo."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Paso la ITV en la estación de Telde, ¿vuestra revisión Pre-ITV es completa?",
-      "a": "Sí. Nuestra Pre-ITV es un chequeo exhaustivo de los mismos puntos que miran en la inspección oficial de Telde: luces, frenos, suspensión, neumáticos, emisiones de gases, etc. El objetivo es que vayas sobre seguro y la pases a la primera, ahorrándote tiempo y el coste de una segunda inspección."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Hago muchos kilómetros por la GC-1, ¿qué mantenimiento es más importante?",
-      "a": "Si usas la GC-1 a diario, el desgaste principal se centra en neumáticos, frenos y embrague (por las retenciones). Es crucial revisar la presión y el estado de los neumáticos regularmente. También recomendamos no apurar los cambios de aceite, ya que el motor funciona a altas revoluciones de forma sostenida. Una revisión de frenos anual es fundamental por seguridad."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Tenéis experiencia con furgonetas y vehículos de autónomos?",
-      "a": "Por supuesto. Sabemos que para un profesional en Telde, la furgoneta es su herramienta de trabajo y no puede estar parada. Priorizamos la rapidez en el diagnóstico y la reparación, y entendemos el desgaste específico que sufren estos vehículos por la carga y el uso intensivo en zonas como el Polígono El Goro o el reparto urbano."
-    },
-    {
-      "q": "¿Puedo llevar mi coche para la revisión aunque esté en garantía oficial?",
-      "a": "Sí. Gracias a la normativa europea, puedes realizar la revisión oficial de tu coche en un taller multimarca como el nuestro sin perder la garantía del fabricante. Sellamos el libro de mantenimiento y utilizamos siempre piezas y lubricantes que cumplen las especificaciones de tu marca. Es la misma calidad, pero con un trato más cercano y personal."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Telde",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Telde para revisar tu coche."
+  "closingHeadline": "Tu BMW y MINI en Telde, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Telde y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
