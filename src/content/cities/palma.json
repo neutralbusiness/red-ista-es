@@ -6,177 +6,124 @@
   "population": 438234,
   "lat": 39.56939,
   "lng": 2.65024,
-  "metaTitle": "Taller mecánico en Palma de Mallorca — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Palma. Presupuestos cerrados para revisión, mecánica y averías. Cuidamos tu coche del salitre y el calor. Pide cita sin compromiso.",
-  "heroSubtitle": "Atascos en la Vía de Cintura, humedad, salitre... Tu coche sufre el día a día de Palma. Dale el mantenimiento que necesita.",
+  "metaTitle": "Taller BMW y MINI en Palma · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Palma. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Palma y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Conducir en Palma es una experiencia única, y tu coche lo sabe. No es lo mismo circular por la península que hacerlo aquí. Cada día te enfrentas a los atascos de la Vía de Cintura (Ma-20) para ir a trabajar, a las calles estrechas del centro o a las cuestas de barrios como Gènova o El Terreno. Y el fin de semana, quizás te escapas por la Ma-10 hacia la Serra de Tramuntana o buscas una cala por la carretera de Llucmajor. Este uso mixto, de arranca-para constante en ciudad y curvas exigentes en la sierra, provoca un desgaste específico en embragues, frenos y suspensiones que conocemos muy bien.\n\nEl clima de Mallorca es nuestro paraíso, pero un desafío para la mecánica. La humedad y el salitre que trae el 'embat' no descansan nunca. Se filtran por debajo del coche, acelerando la corrosión en el chasis, los escapes y los conductos de freno de una forma que no se ve en Madrid o Zaragoza. A esto se suma el sol intenso del verano, que castiga la pintura, reseca los plásticos interiores y exteriores, y pone al límite el sistema de aire acondicionado justo cuando más lo necesitas. Un mantenimiento estándar no es suficiente; se necesita una revisión que entienda las condiciones de la isla.\n\nSabemos que el parque móvil de Palma es muy diverso. En nuestro taller vemos a diario el SEAT León del residente de Pere Garau que va cada día a su trabajo en el polígono de Son Castelló, la furgoneta del autónomo que reparte por toda la ciudad, el Volkswagen Golf de una familia de Marratxí o el Audi A4 de alguien que vive en Son Vida. También atendemos esos coches de alquiler, a menudo de pequeño tamaño como un Fiat 500 o un Renault Clio, que sufren un uso intensivo durante la temporada alta. Sea cual sea tu coche, tenemos la experiencia y el equipo para tratarlo como se merece, entendiendo su historia y el uso que le das.\n\nPor eso, cuando hablamos de una revisión o una reparación en Palma, vamos más allá de un simple cambio de aceite. Comprobamos puntos críticos de corrosión, revisamos el circuito del aire acondicionado para que no te falle en pleno agosto, y nos aseguramos de que tus neumáticos y frenos estén listos tanto para el asfalto mojado de una tormenta de otoño como para el calor extremo del verano. Nuestro enfoque no es genérico, es local. Es un servicio pensado por y para los conductores de Mallorca, que valoran la transparencia y un trabajo bien hecho, sin sorpresas en la factura final.",
-  "servicesIntro": "Desde la revisión anual para pasar la ITV en Son Oms hasta la reparación del embrague por los atascos de la Ma-20, aquí tienes lo que hacemos.",
-  "processIntro": "Sabemos que ir al taller genera desconfianza. Por eso, te damos un presupuesto cerrado y no hacemos nada sin tu permiso. Claridad total.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Palma — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Palma sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Palma te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Palma, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos lo que le pasa a tu coche y lo conectamos a nuestro sistema de diagnóstico. Identificamos el problema real, sin especulaciones, para entender qué necesita tu vehículo aquí en Palma."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. El precio que ves es el que pagas, sin costes ocultos ni sorpresas de última hora. Así de claro."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No pedimos ni una sola pieza ni aflojamos un tornillo hasta que nos das tu visto bueno. Tienes el control total sobre la reparación de tu coche en todo momento."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con recambios de primeras marcas y te informamos del tiempo estimado. Todas nuestras reparaciones tienen garantía para que conduzcas con total tranquilidad por la isla."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos cuando tu coche está listo para recoger. Te explicamos la reparación realizada y, pasados unos días, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El salitre, el calor y los atascos de Palma provocan averías muy concretas. Estas son las que más vemos en nuestro taller y cómo las solucionamos para ti.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Palma.",
   "commonIssues": [
     {
-      "title": "Corrosión acelerada por el salitre",
-      "body": "La brisa marina de Palma ('embat') es implacable con los metales. El salitre se acumula en los bajos del coche, atacando el sistema de escape, los conductos de freno y el subchasis. Realizamos inspecciones específicas y aplicamos tratamientos preventivos para proteger tu coche de este enemigo silencioso y evitar reparaciones costosas en el futuro."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso en las Avenidas y la Vía de Cintura, sumado a las carreteras con pendientes de la Serra, fuerza a usar el embrague y los frenos constantemente. Este patrón de 'arranca y para' acorta su vida útil. Diagnosticamos el desgaste con precisión y montamos componentes de alta calidad para garantizar tu seguridad y confort."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "En Mallorca, el aire acondicionado no es un lujo, es una necesidad. El uso intensivo de mayo a octubre y las altas temperaturas fuerzan el compresor y pueden provocar fugas de gas. Nos especializamos en la recarga, detección de fugas y reparación del sistema para que el calor del verano no sea un problema."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Deterioro de plásticos y gomas",
-      "body": "El sol balear es muy potente. La radiación UV agrieta los salpicaderos, quema los faros dejándolos opacos y reseca las gomas de las puertas y las escobillas del limpiaparabrisas. Además de sustituir estas piezas, te aconsejamos sobre productos para protegerlas y alargar su vida útil, manteniendo el valor de tu coche."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Sobrecalentamiento del motor",
-      "body": "Un atasco en la Ma-19 en pleno agosto o subir una cuesta pronunciada puede llevar el sistema de refrigeración al límite. Un nivel bajo de anticongelante, un radiador sucio o un ventilador que no funciona bien pueden causar una avería grave. Revisamos a fondo todo el circuito para que tu motor trabaje siempre a la temperatura ideal."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "El precio que te damos es el precio que pagas. Se acabó la incertidumbre al dejar el coche en el taller. Honestidad desde el primer momento."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Conocemos los coches de Palma",
-      "body": "Sabemos cómo afecta el salitre, el calor y el tipo de conducción en la isla. No aplicamos soluciones genéricas, sino un mantenimiento adaptado a la realidad de Mallorca."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Expertos en todas las marcas",
-      "body": "Da igual si conduces un utilitario para moverte por la ciudad, un SUV familiar o una furgoneta de trabajo. Tenemos la tecnología y el conocimiento para cuidar de tu coche."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Pre-ITV para pasarla a la primera",
-      "body": "Conocemos los puntos críticos que revisan en las estaciones de ITV de Mallorca, como la de Son Oms. Hacemos una comprobación exhaustiva para que no pierdas tiempo ni dinero."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos qué le pasa a tu coche de forma que lo entiendas, sin tecnicismos. Si es necesario, te enviamos fotos o vídeos del problema. La confianza es clave."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de situaciones reales que resolvemos cada día para conductores como tú aquí en Palma y alrededores.",
-  "testimonials": [
-    {
-      "name": "Marga",
-      "neighborhood": "Santa Catalina",
-      "car": "Renault Clio 2018",
-      "body": "El aire acondicionado dejó de enfriar en pleno julio. Con el calor que hace en Palma, era imposible coger el coche. Me dieron cita rápido, encontraron una pequeña fuga, la repararon y lo recargaron. El presupuesto fue exactamente el que me dijeron. Un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "Jaume",
-      "neighborhood": "Son Ferriol",
-      "car": "Volkswagen Caddy 2017",
-      "body": "Uso la furgoneta para trabajar por toda la isla y el embrague empezaba a patinar. Mucho trote entre Palma, Inca y Manacor. Me explicaron por qué se había desgastado y me ofrecieron un kit reforzado. Ahora las marchas entran suaves. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "El Arenal",
-      "car": "SEAT León 2015",
-      "body": "Tenía la ITV en Son Oms en una semana y oía un ruido raro en la rueda delantera al frenar. Eran las pastillas, que estaban en las últimas. Me las cambiaron en el día y de paso me revisaron las luces y los neumáticos. Pasé la ITV sin un solo fallo.",
-      "rating": 5
-    },
-    {
-      "name": "Lucía",
-      "neighborhood": "Gènova",
-      "car": "Audi A3 2016",
-      "body": "Noté unas manchas de óxido en los bajos y me preocupé por el tema del salitre. Me lo subieron al elevador, me enseñaron las zonas afectadas y me explicaron el tratamiento. Me quedé mucho más tranquila. Se agradece que no intenten venderte lo que no necesitas.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Palma de Mallorca, desde los barrios más céntricos como Foners o Pere Garau hasta las zonas residenciales de Son Vida o Gènova. Si vives o trabajas en municipios cercanos, también somos tu taller. Cubrimos toda el área metropolitana, recibiendo clientes a diario de Marratxí, Calvià (zonas de Palmanova, Magaluf, Santa Ponça) y Llucmajor. Gracias a nuestros fáciles accesos desde las principales vías de la isla como la Vía de Cintura (Ma-20), la autopista de Llevant (Ma-19) o la autopista de Inca (Ma-13), llegar a nuestro taller es cómodo y rápido vengas de donde vengas.",
-  "zoneNeighborhoods": [
-    "Santa Catalina",
-    "El Terreno",
-    "Son Espanyolet",
-    "Foners",
-    "Pere Garau",
-    "S'Arenal",
-    "Son Vida",
-    "Marratxí",
-    "Calvià",
-    "Llucmajor"
-  ],
-  "zoneAccessRoutes": [
-    "Ma-20 (Vía de Cintura)",
-    "Ma-19 (Autopista de Llevant)",
-    "Ma-13 (Autopista d'Inca)",
-    "Ma-1 (Autopista de Ponent)"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Palma y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿La revisión que hacéis tiene en cuenta la corrosión por el salitre de Palma?",
-      "a": "Sí, totalmente. Es uno de nuestros puntos clave de inspección. No nos limitamos a la mecánica general; levantamos el coche y revisamos a fondo el estado del chasis, línea de escape, suspensiones y conductos de freno, que son las zonas más afectadas por la salinidad del ambiente marino de Mallorca. Si detectamos corrosión incipiente, te informamos y te proponemos soluciones para frenarla."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Palma?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi aire acondicionado enfría poco, ¿es normal con el calor de aquí?",
-      "a": "Aunque el calor intenso exige más al sistema, no es normal que enfríe poco. Suele ser síntoma de falta de gas por una pequeña fuga o de un compresor que no trabaja eficientemente. En Palma, un A/C en perfecto estado es vital. Lo revisamos, detectamos el origen del problema y lo solucionamos para que puedas combatir el calor del verano sin problemas."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en Marratxí y bajo a Palma a diario. ¿Qué debería vigilar en mi coche?",
-      "a": "Ese trayecto diario, especialmente con el tráfico de la Ma-13 y la Vía de Cintura, implica un uso intensivo de embrague y frenos. Te recomendamos revisiones periódicas del grosor de las pastillas y discos de freno, así como del tacto del pedal de embrague. Un mantenimiento preventivo en estos elementos te evitará averías más caras y te garantizará seguridad en tus desplazamientos."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "¿Preparáis el coche para la ITV de Son Oms?",
-      "a": "Por supuesto. Realizamos una inspección Pre-ITV completa siguiendo los mismos criterios que aplican en la estación de Son Oms (o la de Inca, si te va mejor). Nos centramos en los puntos de fallo más comunes en la isla: estado de los neumáticos por el calor, opacidad de faros por el sol y holguras en la suspensión por el estado de algunas carreteras secundarias."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "El sol ha dejado los plásticos del interior de mi coche blanquecinos, ¿tiene solución?",
-      "a": "Sí, es un problema estético muy común en Mallorca por la intensidad del sol. Dependiendo del grado de deterioro, existen tratamientos de hidratación y acondicionado de plásticos que pueden recuperar gran parte de su color y aspecto original. Si el daño es muy severo, también podemos presupuestar la sustitución de las piezas afectadas. Consúltanos y vemos tu caso."
-    },
-    {
-      "q": "¿Por qué mis neumáticos parecen durar menos en Mallorca?",
-      "a": "El asfalto en verano alcanza temperaturas muy altas, lo que acelera el desgaste del compuesto de goma del neumático. Además, la combinación de rotondas, tráfico urbano y carreteras de curvas en la sierra exige más a las ruedas que una conducción lineal por autopista. Por eso es crucial revisar la presión y el estado de los neumáticos con más frecuencia aquí."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto para Palma",
-  "closingCta": "Pide tu presupuesto cerrado para nuestro taller en Palma. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso. Tu coche te lo agradecerá."
+  "closingHeadline": "Tu BMW y MINI en Palma, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Palma y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
