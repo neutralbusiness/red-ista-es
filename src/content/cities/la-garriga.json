@@ -6,176 +6,124 @@
   "population": 14991,
   "lat": 41.68333,
   "lng": 2.28333,
-  "metaTitle": "Taller mecánico en la Garriga — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en la Garriga para revisiones, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas para tu coche. Pide cita hoy mismo.",
-  "heroSubtitle": "Tu coche te lleva cada día por la C-17. En nuestro taller de la Garriga, te damos la tranquilidad de un presupuesto cerrado y un servicio honesto.",
+  "metaTitle": "Taller BMW y MINI en la Garriga · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en la Garriga. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en la Garriga y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives en la Garriga, sabes que tu coche no es un lujo, es una necesidad. Lo usas para todo: para bajar a Granollers a hacer gestiones, para coger la C-17 cada mañana dirección Barcelona o Vic, o para llevar a los niños al colegio. Este uso intensivo, que combina el callejeo por el centro con los tramos a alta velocidad de la autovía, genera un desgaste muy particular en embragues, frenos y neumáticos. Lo vemos a diario en nuestro taller: coches con pocos años pero muchos kilómetros de autovía que necesitan una atención específica, diferente a la de un coche que solo se mueve por ciudad. Entendemos perfectamente la rutina de parar y arrancar en el acceso a la C-17 en hora punta y cómo eso afecta a la mecánica de tu vehículo.\n\nEl clima del Vallès Oriental también juega su papel. No es lo mismo un coche que duerme en la calle en els Tremolencs durante una helada de enero, que uno que sufre el calor intenso de julio en el centro. Las mañanas frías y húmedas de invierno son la prueba de fuego para las baterías, y muchos conductores de la Garriga se han encontrado con la desagradable sorpresa de que el coche no arranca. En verano, el asfalto de la autovía quema y el aire acondicionado trabaja a destajo. Estos extremos climáticos, junto con la proximidad al Montseny y sus carreteras con curvas, exigen un mantenimiento preventivo para evitar averías costosas. Revisar el anticongelante, el estado de la batería o el sistema de climatización no es una opción, es una necesidad para conducir con seguridad por nuestra comarca.\n\nEl parque móvil de la Garriga y sus alrededores, como L'Ametlla del Vallès o Les Franqueses, es un reflejo de sus habitantes: práctico y funcional. Vemos muchos SEAT León, Peugeot 3008, Renault Mégane y Volkswagen Golf, coches fiables para el día a día. También atendemos a muchos profesionales autónomos con sus furgonetas tipo Citroën Berlingo o Peugeot Partner, herramientas de trabajo que no pueden permitirse estar paradas. Conocemos a la perfección los motores diésel TDI y HDi que predominan en estos modelos, sus puntos fuertes y sus averías más comunes, como los relacionados con el filtro de partículas por no poder regenerar correctamente en trayectos cortos.\n\nPor todo esto, nuestro taller en la Garriga no es un taller más. Somos mecánicos de aquí, que conducimos por las mismas carreteras que tú. Cuando traes tu coche, no vemos solo una matrícula, vemos al vecino que necesita llegar a su trabajo en Parets, a la familia que se escapa el fin de semana al Montseny o al comercial que recorre toda la provincia. Por eso nuestro compromiso es doble: ofrecerte un diagnóstico honesto, un presupuesto cerrado para que no haya sustos y una reparación hecha con la profesionalidad que tu coche y tu tranquilidad merecen. Trabajamos con todas las marcas porque sabemos que en la puerta de casa tienes un Ford, tu pareja un Opel y tu hijo un Renault.",
-  "servicesIntro": "Desde la revisión para pasar la ITV en Granollers sin problemas hasta cambiar un embrague gastado de tanto ir a Barcelona, lo cubrimos todo.",
-  "processIntro": "Creemos en la transparencia. Por eso, antes de hacer nada en tu coche, te damos un presupuesto claro, detallado y cerrado. Sin letra pequeña.",
+  "introLocal": "En la Garriga vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEn los MINI que vemos en la Garriga, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en la Garriga te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en la Garriga, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Nos cuentas qué le pasa a tu coche y lo escuchamos. Luego, conectamos nuestros equipos de diagnosis para identificar el problema con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico en la mano, te preparamos un presupuesto detallado por escrito. Verás claramente el coste de las piezas y de la mano de obra. El precio que ves es el que pagas."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos ni un tornillo sin tu visto bueno. Te llamamos o te enviamos un WhatsApp con el presupuesto y solo cuando nos das el OK, empezamos a trabajar en tu coche."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos piezas de primeras marcas con garantía y seguimos los procedimientos del fabricante. Te mantenemos informado del proceso si la reparación se alarga más de lo previsto."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Cuando el coche está listo, te avisamos. Al recogerlo, te explicamos la reparación realizada. Y si tienes cualquier duda días después, estamos aquí para ayudarte."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El uso diario por el Vallès, el clima y las carreteras de la zona de la Garriga provocan averías muy concretas que conocemos bien. Aquí tienes las más habituales.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por la Garriga.",
   "commonIssues": [
     {
-      "title": "Embragues y frenos castigados",
-      "body": "El trayecto diario por la C-17, con sus aceleraciones y las retenciones para entrar en Barcelona o Granollers, desgasta prematuramente el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Conocemos este patrón de desgaste y te ofrecemos una solución duradera."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "La batería no responde en invierno",
-      "body": "Las mañanas de invierno en la Garriga son frías y húmedas, el peor enemigo de una batería con algunos años. Si a tu coche le cuesta arrancar, es probable que la batería esté en las últimas. Hacemos una comprobación gratuita del estado de tu batería y sistema de carga para que no te deje tirado."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Aviso del filtro de partículas (FAP)",
-      "body": "Muchos diésel que circulan por la Garriga combinan trayectos cortos por el pueblo con la autovía. A veces, esto no es suficiente para que el filtro de partículas se regenere, provocando que se encienda el testigo de avería. Realizamos limpiezas y regeneraciones forzadas del FAP para evitar una sustitución muy costosa."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Suspensiones y neumáticos sufridos",
-      "body": "No todas las carreteras son la C-17. Las vías secundarias que conectan con Cànoves, Samalús o Figaró tienen un firme más irregular. Los baches y las curvas cerradas afectan a amortiguadores, silentblocks y provocan un desgaste desigual de los neumáticos. Una alineación a tiempo y una revisión de la suspensión son clave."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "El aire acondicionado no enfría",
-      "body": "Cuando llega el calor de junio al Vallès, el aire acondicionado es imprescindible. La causa más común de que no enfríe es una fuga en el circuito o falta de gas. Realizamos la diagnosis completa del sistema, detectamos fugas y recargamos el circuito para que vuelvas a viajar fresco."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos la Garriga",
-      "body": "No somos una franquicia sin alma. Vivimos aquí, conducimos por las mismas carreteras y entendemos los problemas específicos de los coches del Vallès. Hablamos tu mismo idioma."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuesto sin sustos",
-      "body": "La confianza empieza por la claridad. Te damos un presupuesto cerrado antes de empezar. El precio que te decimos es el que pagas al final, sin sorpresas ni extras inesperados."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un SEAT, un Peugeot, un Mercedes o un Dacia. Tenemos la formación y el equipo para realizar el mantenimiento y las reparaciones en cualquier vehículo con total garantía."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Nuestro objetivo es solucionar tu problema, no venderte reparaciones que no necesitas. Si una pieza se puede reparar en lugar de sustituir, te lo diremos. Tu confianza es nuestro mayor activo."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Comunicación directa y clara",
-      "body": "Te explicamos las averías de forma que las entiendas, sin tecnicismos innecesarios. Siempre sabrás qué le pasa a tu coche, qué vamos a hacer y por qué es necesario hacerlo."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "Estos son ejemplos de casos reales de conductores de la Garriga y alrededores. Quizás te sientas identificado con sus historias.",
-  "testimonials": [
-    {
-      "name": "Anna",
-      "neighborhood": "Centre",
-      "car": "SEAT León ST 2016",
-      "body": "Uso el coche todos los días para ir a trabajar a Granollers y empecé a oír un zumbido raro en la rueda delantera. Me preocupé bastante. Los llamé, me dieron cita para el día siguiente y lo miraron enseguida. Era un rodamiento. Me dieron el presupuesto por WhatsApp, acepté y por la tarde ya lo tenía listo. Súper eficientes y claros.",
-      "rating": 5
-    },
-    {
-      "name": "Jordi",
-      "neighborhood": "L'Ametlla del Vallès",
-      "car": "Citroën Berlingo 2018",
-      "body": "Soy autónomo y la furgoneta es mi oficina. No puede estar parada. Tenía que pasar la ITV y se la llevé para una revisión Pre-ITV. Me encontraron un silentblock del trapecio que estaba para cambiar. Si no es por ellos, me tiran para atrás en la ITV y pierdo una mañana entera. Me lo cambiaron en el momento. Un servicio que vale oro.",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Els Tremolencs",
-      "car": "Peugeot 3008 2017",
-      "body": "Justo antes de irnos de vacaciones en agosto, el aire acondicionado dejó de enfriar. Con dos niños pequeños, era un drama. Llamé a varios talleres y me daban largas. Aquí me hicieron un hueco, encontraron la fuga, cargaron el gas y salvaron nuestras vacaciones. Muy profesionales y se nota que entienden la urgencia.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Can Noguera",
-      "car": "Renault Clio 2014",
-      "body": "Una mañana de enero, con el frío que hacía, el coche no arrancó. La batería murió. Llamé al taller y aunque estaban a tope, me dijeron que se lo llevara la grúa. Tardaron un poco más de lo que me dijeron en llamarme, pero por la tarde ya tenía la batería nueva puesta y el coche funcionando. El trato fue bueno y el precio correcto.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller mecánico en la Garriga da servicio a toda la comarca. Estamos ubicados en un punto de fácil acceso, tanto si vienes del centro del pueblo como de urbanizaciones como Can Noguera o el Padró. Recibimos cada día a clientes de municipios vecinos que valoran un servicio de confianza, como L'Ametlla del Vallès, Les Franqueses del Vallès o Canovelles. Nuestra proximidad a la C-17 nos convierte en una opción muy cómoda para quienes utilizan esta vía a diario para desplazarse. También es sencillo llegar desde Figaró-Montmany o Cànoves i Samalús a través de las carreteras locales como la BP-5107. Si vives o trabajas en la zona, somos tu taller de referencia.",
-  "zoneNeighborhoods": [
-    "La Garriga Centre",
-    "El Padró",
-    "Els Tremolencs",
-    "Can Noguera",
-    "L'Ametlla del Vallès",
-    "Les Franqueses del Vallès",
-    "Canovelles",
-    "Figaró-Montmany",
-    "Cànoves i Samalús"
-  ],
-  "zoneAccessRoutes": [
-    "C-17 (Autovia de l'Ametlla)",
-    "AP-7 (Autopista del Mediterrani)",
-    "BP-5107",
-    "BV-1432"
-  ],
+  "zoneText": "Atendemos BMW y MINI en la Garriga y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "Vivo en L'Ametlla del Vallès, ¿estáis muy lejos?",
-      "a": "Para nada, estamos a pocos minutos en coche. Muchos de nuestros clientes son de L'Ametlla y nos eligen por la facilidad de acceso y la confianza. Puedes llegar rápidamente por las carreteras locales o cogiendo un momento la C-17. Dejar el coche por la mañana y recogerlo por la tarde es muy sencillo."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en la Garriga?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Tengo que pasar la ITV en Granollers, ¿me preparáis el coche?",
-      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión Pre-ITV completa de los puntos clave: luces, frenos, neumáticos, emisiones, suspensiones... Así te aseguras de pasarla a la primera y te ahorras el viaje y el dinero de una segunda inspección. Conocemos perfectamente lo que miran en la estación de Granollers."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Mi coche diésel hace trayectos cortos por la Garriga, ¿qué mantenimiento necesita?",
-      "a": "Es una consulta muy habitual. Los diésel modernos con filtro de partículas (FAP) sufren si no salen a carretera. Te recomendamos usar un aditivo de calidad para el combustible de vez en cuando y, al menos una vez por semana, hacer un trayecto por la C-17 durante unos 20 minutos a un régimen estable para ayudar a que el filtro se limpie. En el taller podemos comprobar su estado y forzar una regeneración si es necesario."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Con el frío de invierno en el Vallès, ¿qué debo revisar en el coche?",
-      "a": "El frío es exigente con la mecánica. Lo fundamental es revisar el estado de la batería, que es lo que más falla. También es crucial comprobar el nivel y la calidad del líquido anticongelante para evitar averías graves en el motor, así como el estado de los neumáticos y las escobillas de los limpiaparabrisas, vitales para la seguridad con lluvia o niebla."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Tenéis experiencia con las marcas más comunes de la zona como SEAT o Peugeot?",
-      "a": "Totalmente. Aunque somos un taller multimarca, la mayoría de coches que reparamos son de las marcas más vendidas en España: SEAT, Peugeot, Renault, Volkswagen, Ford, Citroën... Conocemos sus motores, su electrónica y sus puntos débiles. Tenemos el equipo de diagnosis específico para comunicarnos con sus centralitas y solucionar cualquier avería."
-    },
-    {
-      "q": "Voy mucho de ruta por el Montseny, ¿qué revisión me recomendáis?",
-      "a": "Si disfrutas de las carreteras del Montseny, la seguridad es lo primero. Te recomendamos una revisión específica de lo que más sufre en ese tipo de conducción: frenos (estado de pastillas, discos y líquido), neumáticos (presión y desgaste) y suspensión (amortiguadores). Así te aseguras de que el coche responda perfectamente en cada curva."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en la Garriga",
-  "closingCta": "Si notas algo raro en tu coche o simplemente te toca la revisión, no lo dejes pasar. Llámanos o envíanos un WhatsApp para pedir un presupuesto para tu taller en la Garriga. Te atenderemos encantados."
+  "closingHeadline": "Tu BMW y MINI en la Garriga, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en la Garriga y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
