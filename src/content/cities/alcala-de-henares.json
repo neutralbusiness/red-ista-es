@@ -6,187 +6,124 @@
   "population": 193751,
   "lat": 40.48205,
   "lng": -3.35996,
-  "metaTitle": "Taller mecánico en Alcalá de Henares — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Alcalá de Henares. Presupuesto cerrado para revisiones, mecánica y neumáticos. Pide cita y olvídate de problemas.",
-  "heroSubtitle": "Para ti, que cada día coges la A-2 o callejeas por Alcalá. Mantenemos tu coche a punto para que nada te pare.",
+  "metaTitle": "Taller BMW y MINI en Alcalá de Henares · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Alcalá de Henares. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Alcalá de Henares y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces por Alcalá de Henares, sabes lo que significa depender del coche. Ya sea para el trayecto diario a Madrid por una A-2 que nunca descansa, para moverte entre el polígono de La Garena y el centro, o para llevar a los niños al colegio en El Ensanche, tu vehículo es una pieza clave. Entendemos perfectamente que un coche parado es un problema serio. Por eso, nuestro taller en Alcalá está pensado para darte soluciones reales, adaptadas a las condiciones de conducción del Corredor del Henares, donde el asfalto quema en verano y las heladas sorprenden en invierno.\n\nEl clima continental de Alcalá no da tregua. Los veranos secos y por encima de los 35 grados ponen a prueba el sistema de refrigeración y el aire acondicionado de cualquier coche, especialmente en los atascos para entrar o salir de la ciudad. En invierno, las mañanas bajo cero en barrios como Espartales o El Val son la causa principal de que muchas baterías digan basta sin previo aviso. Este contraste térmico acelera el desgaste de componentes y fluidos, algo que tenemos muy presente en cada revisión. No es lo mismo un coche que duerme en garaje en el Casco Histórico que uno que pasa la noche a la intemperie en Chorrillo.\n\nConocemos el parque móvil de la zona. Sabemos que por nuestras calles circulan muchísimos SEAT León, Renault Mégane, Peugeot 308 y Volkswagen Golf, coches de batalla para ir y volver del trabajo. También vemos a diario las furgonetas de autónomos y pymes que se mueven por los polígonos industriales como Azque o Camporroso. Sea un diésel con cientos de miles de kilómetros hechos en la A-2 o un gasolina que apenas sale del núcleo urbano, cada motor tiene unas necesidades específicas. Nuestro diagnóstico no es genérico; tiene en cuenta si tu rutina es cruzar la Vía Complutense en hora punta o hacer kilómetros por la R-2.\n\nPor eso, nuestro enfoque es local y práctico. Cuando traes tu coche, no solo vemos un modelo y un año; vemos un vehículo que sufre el tráfico de la rotonda de la Cruz Verde, que sube y baja las cuestas de Reyes Católicos y que necesita estar listo para pasar la ITV en el centro de la carretera de Daganzo. Desde una simple recarga del aire acondicionado antes de que llegue julio hasta un cambio de kit de distribución para ese coche que ya tiene sus años pero te sigue llevando a Torrejón de Ardoz cada día. Estamos aquí para que confíes en tu coche, vivas en Alcalá o en Meco, Camarma de Esteruelas o Villalbilla.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu coche necesita para circular con seguridad por Alcalá de Henares y las carreteras de Madrid.",
-  "processIntro": "Trabajamos con total transparencia. Te explicamos todo claro y te damos un presupuesto cerrado para que no haya sorpresas.",
+  "introLocal": "En BMW más veteranos que siguen circulando por Alcalá de Henares, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Alcalá de Henares, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Alcalá de Henares te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Alcalá de Henares, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Escuchamos qué le pasa a tu coche y lo revisamos a fondo. Usamos equipos de diagnosis multimarca para identificar el problema real, tanto si es un ruido extraño como un testigo encendido en el cuadro."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Incluye piezas, mano de obra e IVA. El precio que ves es el que pagas, sin extras inesperados ni letra pequeña. Así de simple."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No movemos una sola tuerca sin tu confirmación explícita. Revisa el presupuesto con calma y, si estás de acuerdo, danos el visto bueno. Si decides no reparar, no hay ningún compromiso."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Nuestros mecánicos se ponen manos a la obra utilizando piezas de primeras marcas o equivalentes. Todas nuestras reparaciones y piezas cuentan con garantía. Te mantenemos informado de los plazos en todo momento."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche esté listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El calor extremo, las heladas y los atascos diarios en la A-2 provocan averías muy características en los coches de Alcalá. Estas son las que más vemos.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Alcalá de Henares.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso en la Vía Complutense y los atascos diarios en la A-2 para ir a Madrid castigan el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, es hora de una revisión. Nos aseguramos de que respondan perfectamente en el tráfico de Alcalá."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Aire acondicionado que no enfría",
-      "body": "Llegar a julio en Alcalá con un aire acondicionado que solo echa aire caliente es una pesadilla. El calor extremo del Corredor del Henares fuerza el sistema. Hacemos recargas, detectamos fugas y reparamos el compresor para que puedas sobrevivir a los 40 grados del verano."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallo de batería por el frío",
-      "body": "Las mañanas de invierno en Alcalá, con heladas frecuentes, son la prueba de fuego para las baterías. Si tu coche tiene más de 4 años y duerme en la calle, es probable que un día no arranque. Comprobamos el estado de tu batería y el alternador para evitarte ese mal trago."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Problemas en motores diésel por trayectos cortos",
-      "body": "Muchos coches diésel en Alcalá se usan para trayectos urbanos cortos, lo que provoca acumulación de carbonilla y fallos en el filtro de partículas (FAP) o la válvula EGR. Realizamos descarbonizaciones y regeneraciones forzadas para que el motor respire y pase la ITV sin problemas de humos."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Ruidos en suspensión y desgaste de neumáticos",
-      "body": "Entre los badenes de barrios como El Ensanche o Espartales y el asfalto a veces irregular de algunas calles, los amortiguadores, silentblocks y rótulas sufren. Un ruido al pasar por un bache es el primer síntoma. Revisamos todo el tren de rodaje para garantizar tu seguridad y confort."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuesto sin sustos",
-      "body": "Te damos un precio cerrado y claro desde el principio. Lo que apruebas es lo que pagas. Se acabaron las facturas infladas y las sorpresas de última hora."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Conocemos tu coche y tu ciudad",
-      "body": "Sabemos cómo afecta a tu coche el clima y el tráfico de Alcalá de Henares. No aplicamos soluciones genéricas, sino un mantenimiento adaptado a las condiciones locales."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un Ford, un BMW, un Dacia o un Hyundai. Tenemos la experiencia y el equipo de diagnosis para trabajar con la gran mayoría de coches del parque móvil español."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Transparencia total",
-      "body": "Te explicamos la avería de forma que la entiendas, sin tecnicismos innecesarios. Si quieres, te enseñamos las piezas viejas. Queremos que confíes en nosotros a largo plazo."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Pasamos la Pre-ITV por ti",
-      "body": "Revisamos los puntos clave y, si quieres, llevamos tu coche a la ITV de Alcalá. Te ahorramos el tiempo y la incertidumbre de no saber si la pasarás a la primera."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No tenemos clientes, tenemos vecinos. Estas son algunas opiniones que reflejan el tipo de servicio que nos esforzamos por dar cada día.",
-  "testimonials": [
-    {
-      "name": "Javier",
-      "neighborhood": "La Garena",
-      "car": "Volkswagen Golf TDI 2016",
-      "body": "Hago todos los días Alcalá-Madrid por la A-2 y no puedo permitirme fallos. Les traje el coche para la revisión de los 120.000 km. Me dieron el presupuesto al momento, cumplieron el plazo y el coche va finísimo. Muy profesionales, saben lo que es depender del coche para trabajar.",
-      "rating": 5
-    },
-    {
-      "name": "Laura",
-      "neighborhood": "Reyes Católicos",
-      "car": "Peugeot 208 2014",
-      "body": "Mi coche empezó a hacer un ruido metálico horrible. Estaba preocupada por si era una avería muy cara. Aquí me explicaron que era una rótula de la suspensión. Me enseñaron la pieza dañada y el presupuesto fue muy razonable. Ahora va perfecto y sin ruidos. Un alivio.",
-      "rating": 5
-    },
-    {
-      "name": "David",
-      "neighborhood": "El Val",
-      "car": "Citroën Berlingo 2018",
-      "body": "Soy autónomo y la furgoneta es mi oficina. Se me encendió el testigo de fallo motor. Los llamé, me dieron cita para esa misma tarde y al día siguiente ya estaba reparada. Era un problema con la válvula EGR por tanto callejeo. Eficaces y entienden que tu tiempo es oro.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "El Ensanche",
-      "car": "SEAT Ateca 2019",
-      "body": "Llevé el coche para la revisión anual y para que le echaran un ojo antes de la ITV. Lo revisaron todo, me cambiaron aceite y filtros y me dijeron que los neumáticos traseros estaban al límite. Me dieron varias opciones de ruedas sin compromiso. Buen trato y honestos.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Damos servicio a toda Alcalá de Henares y sus alrededores. Tanto si vives en el centro histórico como en los barrios más nuevos como Espartales Norte o La Garena, estamos a tu disposición. Nuestra ubicación nos permite un acceso rápido y cómodo para clientes de toda la ciudad, desde El Val y el Chorrillo hasta el Ensanche y Reyes Católicos. Además, muchos de nuestros clientes vienen de municipios cercanos del Corredor del Henares como Meco, Camarma de Esteruelas, Villalbilla, Daganzo de Arriba e incluso Torrejón de Ardoz, aprovechando la buena comunicación por la A-2 y la M-300. Si buscas un taller de confianza en la zona, aquí nos tienes.",
-  "zoneNeighborhoods": [
-    "La Garena",
-    "El Ensanche",
-    "Espartales",
-    "El Val",
-    "Reyes Católicos",
-    "Chorrillo",
-    "Casco Histórico",
-    "Meco",
-    "Camarma de Esteruelas",
-    "Villalbilla"
-  ],
-  "zoneAccessRoutes": [
-    "A-2 (Autovía del Nordeste)",
-    "R-2 (Radial 2)",
-    "M-300",
-    "M-100",
-    "Vía Complutense"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Alcalá de Henares y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Revisáis el coche para la ITV de Alcalá de Henares?",
-      "a": "Sí, por supuesto. Ofrecemos un servicio de Pre-ITV muy completo. Revisamos los puntos que suelen dar problemas en la inspección: luces, frenos, neumáticos, suspensión y emisiones de gases. Conocemos los criterios de la estación de la carretera de Daganzo y nos aseguramos de que tu coche vaya preparado para pasarla a la primera. Si quieres, podemos incluso llevarlo nosotros por ti."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Alcalá de Henares?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche diésel hace mucho humo, ¿es por conducir solo por la ciudad?",
-      "a": "Es muy probable. Conducir a bajas revoluciones y en trayectos cortos por Alcalá, como ir de un barrio a otro, impide que el filtro de partículas (FAP) se regenere correctamente, acumulando carbonilla. Esto provoca humos, pérdida de potencia y averías caras a largo plazo. Podemos hacer una descarbonización o una regeneración forzada para limpiar el sistema y que vuelva a funcionar bien."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en Meco, ¿tenéis coche de cortesía?",
-      "a": "Sí, disponemos de coche de cortesía para nuestros clientes (sujeto a disponibilidad, consúltanos al pedir cita). Entendemos que muchos venís de pueblos cercanos como Meco, Villalbilla o Camarma y necesitáis seguir moviéndoos mientras reparamos vuestro vehículo. Nuestro objetivo es que la visita al taller te cause las menores molestias posibles."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "El aire acondicionado no enfría nada. ¿La reparación es muy cara?",
-      "a": "No tiene por qué. La causa más común es una simple falta de gas por pequeñas fugas naturales en el circuito, y la recarga es económica. Si la fuga es mayor o el compresor está dañado, el coste sube. Lo primero que hacemos es un diagnóstico completo con un detector de fugas para darte un presupuesto exacto y que decidas sin compromiso."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "Hago la A-2 a diario. ¿Qué mantenimiento especial necesita mi coche?",
-      "a": "Un uso intensivo en autovía como la A-2 exige prestar especial atención a los neumáticos (presión y desgaste), los frenos y el nivel de aceite y refrigerante. También es crucial respetar los intervalos de cambio del kit de distribución. En nuestras revisiones, nos fijamos en estos puntos para garantizar que tu coche sea seguro para los trayectos largos y los posibles frenazos en atascos."
-    },
-    {
-      "q": "¿Qué garantía tienen las reparaciones que hacéis en el taller?",
-      "a": "Todas nuestras reparaciones están garantizadas por ley. La garantía cubre tanto las piezas nuevas que instalamos como la mano de obra. Queremos que te vayas tranquilo y con la seguridad de que el trabajo está bien hecho. Si surgiera cualquier problema relacionado con la reparación, solo tienes que decírnoslo y lo solucionaremos."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Cuida tu coche en Alcalá de Henares",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos un WhatsApp y te daremos cita en nuestro taller de Alcalá para revisar tu coche.",
-  "tenant": {
-    "active": true,
-    "businessName": "Red de Talleres Mecánicos · Alcalá de Henares",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@taller-madrid.es",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu BMW y MINI en Alcalá de Henares, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Alcalá de Henares y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
