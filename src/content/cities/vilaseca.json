@@ -6,178 +6,124 @@
   "population": 17305,
   "lat": 42.06174,
   "lng": 2.25528,
-  "metaTitle": "Taller mecánico en Vilaseca — Multimarca y honesto",
-  "metaDescription": "Tu taller de confianza en Vilaseca para revisión, mecánica y neumáticos. Presupuesto cerrado y sin sorpresas. Pide tu cita online y cuida tu coche.",
-  "heroSubtitle": "Tu coche te lleva cada día a Tarragona o Reus por la A-7. ¿Le das el mantenimiento que necesita para no dejarte tirado?",
+  "metaTitle": "Taller BMW y MINI en Vilaseca · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Vilaseca. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Vilaseca y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si conduces por Vilaseca, sabes que tu coche no es solo un medio de transporte, es una herramienta esencial. Ya sea para el trayecto diario hacia el polígono químico, para llevar a los niños al colegio, para bajar a la playa de La Pineda en verano o para hacer el trayecto a Tarragona o Reus por la A-7 o la T-11, necesitas un vehículo fiable. En nuestro taller, entendemos perfectamente la realidad de los conductores del Camp de Tarragona. No ofrecemos soluciones genéricas, sino un servicio de mecánica adaptado a las condiciones de nuestra zona: el calor intenso, la humedad del mar y un tráfico que mezcla trayectos cortos urbanos con autovía.\n\nEl parque automovilístico de Vilaseca es un reflejo de su gente: práctico y trabajador. Vemos a diario los SEAT León, Renault Clio, Peugeot 308 y Ford Focus que forman el grueso de los coches que circulan por nuestras calles. La mayoría son diésel y gasolina con unos cuantos años a sus espaldas, vehículos que necesitan un mantenimiento preventivo riguroso para seguir funcionando como el primer día. Conocemos sus puntos débiles y las averías más comunes que sufren por el tipo de uso local, desde el desgaste prematuro del embrague por las rotondas de Salou hasta los problemas en el sistema de climatización que afloran con los primeros calores de junio.\n\nEl clima mediterráneo de la costa tarraconense, aunque agradable, es exigente con la mecánica. El sol intenso del verano no solo castiga la pintura, sino que reseca y cristaliza los neumáticos, reduciendo su agarre y seguridad. Por otro lado, la brisa marina, cargada de salitre, es un enemigo silencioso que acelera la corrosión de los bajos, el sistema de escape y otros componentes metálicos. Estos factores, combinados con el polvo y el calor, obligan a prestar especial atención a los filtros, al sistema de refrigeración y a la calidad del aceite para evitar averías graves y costosas.\n\nNuestro cliente tipo es como tú: un residente de Vilaseca, La Pineda, o incluso de localidades cercanas como Reus o Cambrils, que valora la honestidad y la profesionalidad. Eres un profesional autónomo que depende de su furgoneta, una familia que usa el coche para todo o un trabajador que necesita llegar a su puesto sin contratiempos. Por eso, nuestra filosofía se basa en la transparencia total. Te damos un presupuesto cerrado antes de tocar un solo tornillo y te explicamos cada paso de la reparación. Queremos ser tu taller de confianza en Vilaseca, ese al que acudes sabiendo que cuidarán de tu coche como si fuera nuestro.",
-  "servicesIntro": "Desde la revisión oficial para tu diésel hasta la diagnosis de ese testigo en tu coche de gasolina, cubrimos toda la mecánica que necesitas en Vilaseca.",
-  "processIntro": "No empezamos ninguna reparación sin tu visto bueno. Te damos un presupuesto cerrado, claro y te explicamos cada paso del proceso.",
+  "introLocal": "Los BMW de gasolina turbo que más vemos en Vilaseca — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Vilaseca, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vilaseca te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Vilaseca, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Traes tu coche a nuestro taller en Vilaseca. Un técnico cualificado lo revisa a fondo con equipos de diagnosis modernos para identificar el origen exacto de la avería o el mantenimiento necesario."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Con el diagnóstico claro, te preparamos un presupuesto detallado y sin sorpresas. Te lo enviamos por WhatsApp o email, explicando qué piezas y mano de obra incluye, para que sepas exactamente cuánto vas a pagar."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "Nunca tocamos tu coche sin tu confirmación explícita. Revisa el presupuesto con calma, y si tienes cualquier duda, nos llamas. Solo cuando nos das el 'vale', nos ponemos manos a la obra."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Usamos recambios de primeras marcas o equivalentes, siempre con garantía. Nuestros mecánicos realizan la reparación siguiendo las especificaciones del fabricante para asegurar un trabajo bien hecho y duradero. Te mantenemos informado."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos la reparación realizada. Unos días después, te contactamos para asegurarnos de que todo funciona perfectamente y estás satisfecho con el servicio."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El calor del verano, la sal del mar y los atascos en la A-7 hacia la costa pasan factura. Estos son los problemas que más vemos en los coches de Vilaseca y la Pineda.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Vilaseca.",
   "commonIssues": [
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso en la T-11 para ir a Reus o los trayectos cortos y con rotondas por Vilaseca y Salou castigan mucho el embrague y los frenos. Si notas que el pedal del embrague está duro o que el coche tarda en frenar, pásate. Revisamos el sistema y te damos un diagnóstico honesto para que conduzcas seguro."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Problemas con el aire acondicionado",
-      "body": "En julio y agosto, con temperaturas que superan los 30ºC, el aire acondicionado no es un lujo, es una necesidad. Si el tuyo no enfría como antes, puede ser una fuga o falta de gas. Lo revisamos, detectamos el problema y lo recargamos para que los viajes a la playa de la Pineda no sean una tortura."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Corrosión en bajos y escape",
-      "body": "Vivir cerca del mar es genial, pero la brisa marina cargada de salitre acelera la oxidación de los componentes metálicos del coche, especialmente en los bajos y el sistema de escape. En la pre-ITV revisamos a fondo estos puntos críticos para evitarte un desfavorable en la inspección de Reus y alargar la vida de tu vehículo."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Filtros de partículas (FAP) obstruidos",
-      "body": "Muchos coches diésel en Vilaseca hacen trayectos cortos al trabajo o para hacer la compra. Este uso no permite que el filtro de partículas se regenere correctamente, provocando obstrucciones y averías costosas. Realizamos limpiezas forzadas y diagnósticos para mantener a raya este problema tan común en los TDI y HDi de la zona."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Neumáticos cristalizados por el sol",
-      "body": "El sol intenso del Camp de Tarragona durante gran parte del año no solo calienta el asfalto, sino que degrada la goma de los neumáticos, aunque tengan dibujo. Se cristalizan, pierden agarre y son un peligro, sobre todo con las primeras lluvias. Revisamos su estado y te asesoramos sobre cuándo es el momento de cambiarlos."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos tu coche y tu zona",
-      "body": "Sabemos que no es lo mismo un coche que solo se mueve por Vilaseca que uno que hace la A-7 a diario. Adaptamos el mantenimiento al uso real que le das, porque conocemos las carreteras y el clima del Camp de Tarragona."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Presupuestos que se cumplen",
-      "body": "El precio que te damos es el que pagas. Sin extras de última hora ni letra pequeña. Creemos que la confianza empieza por la transparencia total en la factura, para que no te lleves sorpresas desagradables."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Da igual si conduces un SEAT, un BMW, un Peugeot o un Dacia. Tenemos la tecnología y la formación para trabajar con la mayoría de marcas del parque automovilístico de Vilaseca, siempre siguiendo las indicaciones del fabricante."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "La ITV, sin dramas",
-      "body": "Pasar la ITV en Reus o Tarragona puede ser un dolor de cabeza. Ofrecemos una revisión pre-ITV exhaustiva, comprobando los mismos puntos que el inspector para que vayas sobre seguro y la pases a la primera."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Comunicación clara y directa",
-      "body": "Te explicamos las averías en un lenguaje que entiendes, sin tecnicismos innecesarios. Si surge algo nuevo durante la reparación, te llamamos, te lo explicamos y te damos un presupuesto antes de continuar. Tú siempre tienes el control."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No nos creas a nosotros, mira lo que podrían decir tus vecinos de Vilaseca. Estos son ejemplos de clientes y situaciones que atendemos cada día.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "La Formiga",
-      "car": "SEAT León 1.6 TDI 2016",
-      "body": "Uso el coche todos los días para ir a trabajar al polígono químico y notaba que el embrague patinaba. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial. Me explicaron el porqué de la avería por el tipo de trayecto que hago. Ahora el coche va perfecto. Muy profesionales.",
-      "rating": 5
-    },
-    {
-      "name": "Marta",
-      "neighborhood": "Centre",
-      "car": "Peugeot 2008 1.2 PureTech 2018",
-      "body": "El aire acondicionado dejó de enfriar justo al empezar el verano. Con dos niños pequeños, era imposible ir a la playa de La Pineda. Me lo solucionaron en el mismo día. Me enseñaron dónde estaba la pequeña fuga y me explicaron la reparación. Un trato muy cercano y eficaz.",
-      "rating": 5
-    },
-    {
-      "name": "Carlos",
-      "neighborhood": "Les Planes",
-      "car": "Ford Transit Connect 2015",
-      "body": "Soy autónomo y la furgoneta es mi herramienta. Me tocaba la revisión y la pre-ITV. Me lo hicieron todo muy rápido para que no perdiera días de trabajo. Me avisaron de que las pastillas de freno estaban al límite y me las cambiaron con mi permiso. Pasé la ITV en Reus sin problemas.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Vilafortuny (Cambrils)",
-      "car": "Renault Clio 1.5 dCi 2013",
-      "body": "Tenía un ruido raro en la suspensión delantera al pasar por los badenes. En otro sitio me querían cambiar medio coche. Aquí encontraron que era solo una rótula. Me sentí escuchada y no me intentaron vender nada que no necesitara. El precio fue muy razonable. Volveré seguro.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Vilaseca da servicio a toda la zona del Camp de Tarragona. Si vives en barrios como el Barri del Castell, el Nucli Antic, La Formiga o Les Planes, estamos a un paso. También somos el taller de confianza para muchos conductores de municipios cercanos como Salou, La Pineda, Reus y Cambrils, que valoran un servicio honesto y profesional. Gracias a nuestra ubicación, es muy fácil llegar desde la autovía A-7, la T-11 que conecta con Reus y Tarragona, o la C-14, la carretera principal de la costa. Si trabajas en el polígono petroquímico o en PortAventura, somos tu mejor opción para el mantenimiento de tu coche.",
-  "zoneNeighborhoods": [
-    "Centre",
-    "Barri del Castell",
-    "La Formiga",
-    "Les Planes",
-    "Miramar",
-    "La Pineda",
-    "Salou",
-    "Reus",
-    "Cambrils",
-    "Tarragona"
-  ],
-  "zoneAccessRoutes": [
-    "A-7 (Autovía del Mediterráneo)",
-    "AP-7 (Autopista del Mediterráneo)",
-    "T-11 (Autovía de Reus a Tarragona)",
-    "C-14",
-    "T-315"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Vilaseca y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Hacéis la revisión oficial manteniendo la garantía del fabricante?",
-      "a": "Sí. Realizamos la revisión siguiendo exactamente el plan de mantenimiento de la marca de tu coche. Usamos recambios de calidad equivalente a los originales y sellamos el libro de mantenimiento. De esta forma, conservas la garantía oficial del fabricante, pero con un precio más ajustado que en el concesionario de Tarragona o Reus."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vilaseca?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Tengo un diésel y hago muchos trayectos cortos por Vilaseca y Salou. ¿Qué mantenimiento especial necesita?",
-      "a": "Es una situación muy común aquí. Los trayectos cortos son perjudiciales para los diésel modernos, sobre todo para el filtro de partículas (FAP) y la válvula EGR, que tienden a obstruirse. Te recomendamos usar un aditivo de calidad de vez en cuando y, al menos una vez por semana, salir a la autovía A-7 y conducir unos 15-20 minutos a revoluciones más altas para forzar la regeneración del filtro. En el taller podemos hacer una limpieza si es necesario."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Vivo en La Pineda, ¿la sal del mar realmente daña el coche?",
-      "a": "Totalmente. La brisa marina contiene salitre que es muy corrosivo para la chapa, los bajos del coche, el sistema de escape y los componentes de la suspensión. Aunque los coches modernos vienen mejor protegidos, es recomendable lavar los bajos con frecuencia, especialmente en invierno. En nuestras revisiones prestamos especial atención a estos puntos para detectar la corrosión a tiempo."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Me toca pasar la ITV en Reus, ¿qué miráis en la pre-ITV?",
-      "a": "Nuestra pre-ITV es un calco de la inspección oficial. Revisamos todos los puntos críticos: frenos, suspensión, dirección, neumáticos, luces, emisiones de gases, posibles fugas de líquidos y el estado general de los bajos y la carrocería. El objetivo es que vayas a la estación de Reus o la de Tarragona con la total tranquilidad de que vas a pasarla a la primera, ahorrándote tiempo y dinero."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "¿Tenéis experiencia con coches de más de 10 años?",
-      "a": "Por supuesto. Una gran parte del parque móvil de Vilaseca y alrededores tiene más de una década. Estamos muy acostumbrados a trabajar con modelos como los SEAT Ibiza, Renault Mégane o Citroën C4 de esas generaciones. Conocemos sus averías típicas y sabemos cómo repararlos de forma fiable y económica, buscando siempre la mejor solución para alargar su vida útil."
-    },
-    {
-      "q": "Si tengo una avería, ¿cuánto tardáis en darme cita?",
-      "a": "Intentamos ser lo más ágiles posible, porque sabemos que quedarse sin coche es un problema, especialmente si lo necesitas para ir a trabajar a Tarragona o llevar a los niños. Llámanos y te daremos la cita más próxima disponible. Para urgencias, siempre intentamos hacer un hueco para al menos hacer un diagnóstico rápido y que sepas qué le pasa."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche a punto en Vilaseca",
-  "closingCta": "No dejes que una pequeña avería se convierta en un problema grande. Pide tu presupuesto cerrado para tu coche en Vilaseca. Llámanos o escríbenos por WhatsApp y te atenderemos sin compromiso."
+  "closingHeadline": "Tu BMW y MINI en Vilaseca, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Vilaseca y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
