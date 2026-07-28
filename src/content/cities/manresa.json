@@ -6,177 +6,124 @@
   "population": 76250,
   "lat": 41.72815,
   "lng": 1.82399,
-  "metaTitle": "Taller mecánico en Manresa — Multimarca y de confianza",
-  "metaDescription": "Tu taller mecánico en Manresa para revisiones, averías y neumáticos. Presupuesto cerrado, sin sorpresas. Pide tu cita y conduce tranquilo por el Bages.",
-  "heroSubtitle": "¿Cansado de talleres que no entienden el trote diario de tu coche por la C-55 o el frío del Bages? Aquí te damos un diagnóstico claro y un precio final.",
+  "metaTitle": "Taller BMW y MINI en Manresa · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista en BMW y MINI en Manresa. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Manresa y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
     },
     {
       "icon": "🔧",
-      "text": "Multimarca"
+      "text": "Especialistas BMW y MINI"
     },
     {
-      "icon": "💬",
-      "text": "Te llamamos antes de tocar nada"
-    },
-    {
-      "icon": "🚗",
-      "text": "Coche de cortesía*"
+      "icon": "💰",
+      "text": "Precios de taller independiente"
     },
     {
       "icon": "✅",
-      "text": "Pre-ITV incluida"
+      "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Si vives o trabajas en Manresa, sabes que tu coche no es un lujo, es una necesidad. Ya sea para bajar cada día por la C-55 hacia la órbita de Barcelona, cruzar Cataluña por el Eix Transversal (C-25) o simplemente para moverte por los polígonos como Bufalvent, necesitas un coche que responda. En nuestro taller de Manresa entendemos perfectamente el día a día de un conductor del Bages: atascos a primera hora, trayectos largos y un clima que no perdona. Por eso, nos centramos en ofrecerte un servicio de mecánica honesto, con un presupuesto cerrado para que sepas desde el primer minuto cuánto te va a costar la reparación, sin sorpresas de última hora.\n\nEl clima del Pla de Bages es de extremos y tu coche lo nota. Los inviernos son fríos y húmedos, con esa niebla (la *boira*) tan característica que se come las baterías y puede provocar fallos eléctricos inesperados. ¿A quién no le ha costado arrancar el coche en una mañana helada en barrios como la Balconada o el Poble Nou? Luego llega el verano, con un calor seco y asfixiante que pone a prueba el sistema de refrigeración y el aire acondicionado. Un mantenimiento preventivo adaptado a este clima no es una opción, es la clave para evitar quedarte tirado de camino a Cardona o volviendo del trabajo.\n\nEl parque móvil de Manresa y comarca es variado, pero muy representativo de la clase trabajadora: vemos a diario muchos SEAT León, Renault Clio, Peugeot 308, Ford Focus y furgonetas como la Citroën Berlingo o la Peugeot Partner. Son coches fiables, la mayoría diésel o gasolina con unos cuantos años encima, que acumulan kilómetros en trayectos interurbanos. Conocemos al dedillo los puntos débiles y las virtudes de estos motores. Sabemos qué pieza tiende a fallar en ese motor TDI que sube cada día a Montserrat o qué hay que revisar en ese motor de gasolina que hace trayectos cortos por el centro.\n\nPor eso, cuando traes tu coche a nuestro taller en Manresa, no solo vemos un vehículo; vemos a un vecino de Sant Joan de Vilatorrada que necesita su furgoneta para trabajar, a una familia de la Sagrada Familia que prepara su coche para las vacaciones o a un estudiante que usa su utilitario para ir a la universidad. Hablamos tu mismo idioma. Entendemos la importancia de tener el coche listo para pasar la ITV en la estación de Manresa y la frustración que genera una avería imprevista. Nuestro compromiso es darte una solución clara, profesional y a un precio justo, para que puedas seguir con tu vida con total tranquilidad.",
-  "servicesIntro": "Desde la revisión para aguantar el trote diario por la C-25 hasta el cambio de neumáticos para el invierno del Bages, cubrimos todo lo que tu coche necesita.",
-  "processIntro": "Sabemos que necesitas tu coche para moverte por Manresa y el Bages. Por eso trabajamos con un presupuesto cerrado y te lo explicamos todo con claridad.",
+  "introLocal": "En Manresa vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEn los MINI que vemos en Manresa, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Manresa te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Manresa, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
   "processSteps": [
     {
-      "title": "Diagnóstico",
-      "body": "Cuando traes tu coche, escuchamos lo que te preocupa y nuestros técnicos realizan una inspección completa para identificar el origen del problema con precisión. No dejamos nada al azar."
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te entregamos un presupuesto detallado, explicando cada punto. El precio que ves es el precio final que pagarás, sin costes ocultos ni sorpresas. La transparencia es nuestra prioridad."
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
     },
     {
       "title": "Tu autorización",
-      "body": "No empezamos ninguna reparación ni cambiamos ninguna pieza sin tu aprobación explícita. Tienes el control total y solo procederemos cuando nos des luz verde."
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
     },
     {
-      "title": "Reparación",
-      "body": "Utilizamos recambios de primeras marcas y te informamos del tiempo estimado de la reparación. Todas nuestras intervenciones están garantizadas para tu tranquilidad."
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Te avisamos en cuanto tu coche está listo. Al recogerlo, te explicamos el trabajo realizado. Unos días después, contactamos contigo para asegurarnos de que todo funciona perfectamente."
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
     }
   ],
-  "commonIssuesIntro": "El clima del Pla de Bages, con su niebla invernal y calor de verano, y el uso intensivo del coche para ir a trabajar, provocan averías muy concretas que conocemos bien.",
+  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Manresa.",
   "commonIssues": [
     {
-      "title": "Baterías y alternadores en invierno",
-      "body": "La combinación de frío y humedad de los inviernos en Manresa es letal para las baterías. Si notas que a tu coche le cuesta arrancar por la mañana, es un aviso. Comprobamos el estado de tu batería y el alternador para que la *boira* no te deje tirado."
+      "title": "DPF saturado por trayectos cortos",
+      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
     },
     {
-      "title": "Desgaste de embrague y frenos",
-      "body": "El tráfico denso para entrar y salir de Manresa por la C-55 o los recorridos urbanos por el centro con sus semáforos y rotondas castigan mucho el embrague y los frenos. Si el pedal del embrague va duro o el coche frena peor, es hora de una revisión."
+      "title": "Carbonilla en válvulas de admisión",
+      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
     },
     {
-      "title": "Fallos en el aire acondicionado",
-      "body": "En julio y agosto, conducir por el Bages sin aire acondicionado es una tortura. El calor extremo fuerza el sistema al máximo. Revisamos el circuito, detectamos fugas y recargamos el gas para que solo te preocupes de la carretera, no del calor."
+      "title": "Desgaste de cadena de distribución y guías",
+      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
     },
     {
-      "title": "Mantenimiento de la distribución",
-      "body": "Muchos de nuestros clientes hacen más de 20.000 km al año por el Eix Transversal (C-25) o autovías. Esto exige un control estricto de la correa de distribución. Un cambio a tiempo evita una avería de motor muy costosa. Lo revisamos según las indicaciones del fabricante."
+      "title": "Fallos en bomba de agua eléctrica y termostato",
+      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
     },
     {
-      "title": "Suspensión y silentblocks",
-      "body": "Las carreteras secundarias que conectan Manresa con pueblos como Fonollosa o Aguilar de Segarra, junto a los badenes de la ciudad, pasan factura a la suspensión. Ruidos raros al pasar por un bache o inestabilidad en curva son síntomas claros. Revisamos amortiguadores y silentblocks."
+      "title": "Avisos de servicio (CBS) sin resolver",
+      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Te damos un precio cerrado antes de empezar. Lo que presupuestamos es lo que pagas. Ni un céntimo más. Así de simple y honesto."
+      "title": "Diagnóstico de nivel de concesionario",
+      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
     },
     {
-      "title": "Conocemos tu coche y tu zona",
-      "body": "Sabemos cómo afecta el clima del Bages a tu vehículo y qué desgaste provocan las carreteras de aquí. No somos un taller genérico, somos tu taller local."
+      "title": "Ahorro real sin perder garantía",
+      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
     },
     {
-      "title": "Para todas las marcas",
-      "body": "Reparamos y mantenemos coches de todas las marcas, desde un Dacia hasta un Mercedes. Tenemos el equipo de diagnosis y la experiencia para cuidar de tu vehículo, sea cual sea."
+      "title": "Presupuestos cerrados y honestos",
+      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
     },
     {
-      "title": "Diagnóstico honesto",
-      "body": "Solo reparamos lo que es necesario. Si una pieza puede aguantar, te lo diremos. Nuestro objetivo es que confíes en nosotros a largo plazo, no una reparación rápida."
+      "title": "Especialización real, no genérica",
+      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
     },
     {
-      "title": "Pasamos la ITV por ti",
-      "body": "Ahorra tiempo y nervios. Hacemos una revisión pre-ITV completa, corregimos los posibles fallos y, si quieres, llevamos tu coche a la estación de Manresa por ti."
+      "title": "Transparencia en cada reparación",
+      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
     }
   ],
-  "testimonialsIntro": "No nos creas sin más. Aquí tienes algunos ejemplos de situaciones reales que solucionamos cada día para conductores de Manresa y alrededores.",
-  "testimonials": [
-    {
-      "name": "Jordi",
-      "neighborhood": "Passeig i Rodalies",
-      "car": "SEAT León ST 2016",
-      "body": "Hago el trayecto Manresa-Terrassa cada día por la C-55 y el embrague empezó a patinar. Me dieron un presupuesto cerrado, más bajo que en el concesionario oficial, y en dos días tenía el coche listo. El trato fue muy claro y profesional, sin rodeos. Muy recomendables.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat",
-      "neighborhood": "Valldaura",
-      "car": "Peugeot 3008 2018",
-      "body": "El aire acondicionado dejó de enfriar justo antes de irnos de vacaciones en agosto. Fue un drama. Los llamé, me dieron cita para el día siguiente y encontraron una pequeña fuga. Lo solucionaron en unas horas. Nos salvaron el viaje. ¡Un servicio de 10!",
-      "rating": 5
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Sant Fruitós de Bages",
-      "car": "Renault Kangoo 2014",
-      "body": "Uso la furgoneta para trabajar y no puedo permitirme tenerla parada. Tocaba hacer la distribución y me preocupaba el coste. Me explicaron todo el proceso, el precio fue el acordado y cumplieron el plazo. Se nota que saben lo que hacen. Volveré seguro.",
-      "rating": 5
-    },
-    {
-      "name": "Laia",
-      "neighborhood": "La Balconada",
-      "car": "Ford Fiesta 2015",
-      "body": "Tenía que pasar la ITV y siempre me pongo nerviosa. Les pedí una revisión pre-ITV. Me cambiaron una bombilla fundida y ajustaron los frenos. El coche pasó a la primera sin problemas. Me ahorraron un viaje y muchos nervios. El trato fue muy amable.",
-      "rating": 4
-    }
-  ],
-  "zoneText": "Nuestro taller en Manresa da servicio a toda la ciudad y a la comarca del Bages. Si vives en barrios como el Centre Històric, Vic-Remei, la Sagrada Família, Poble Nou o las Escodines, estamos a tu lado para cualquier necesidad de tu coche. También somos el taller de confianza para muchos conductores de municipios cercanos que vienen a Manresa a trabajar o a comprar, como Sant Joan de Vilatorrada, Sant Fruitós de Bages, El Pont de Vilomara i Rocafort o Sant Salvador de Guardiola. Gracias a nuestra ubicación, es fácil llegar a través de las principales vías de acceso como la C-25 (Eix Transversal), la C-55 o la C-37z, arterias que conectan toda la Cataluña central y que sabemos que usas a diario.",
-  "zoneNeighborhoods": [
-    "Manresa Centre",
-    "Passeig i Rodalies",
-    "Valldaura",
-    "Poble Nou",
-    "La Balconada",
-    "Sagrada Família",
-    "Sant Joan de Vilatorrada",
-    "Sant Fruitós de Bages",
-    "El Pont de Vilomara",
-    "Sant Salvador de Guardiola"
-  ],
-  "zoneAccessRoutes": [
-    "C-25 (Eix Transversal)",
-    "C-55 (Eix del Llobregat)",
-    "C-37z",
-    "Antiga carretera N-141c"
-  ],
+  "zoneText": "Atendemos BMW y MINI en Manresa y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
   "faqLocal": [
     {
-      "q": "¿Es necesario pedir cita para la revisión si vengo de Sant Fruitós de Bages?",
-      "a": "Sí, siempre recomendamos pedir cita previa. Así podemos garantizar que te atenderemos nada más llegar y que tendremos el elevador y al técnico listos para tu coche. Entendemos que vienes de fuera y tu tiempo es oro. Llámanos o escríbenos y te daremos la primera hora disponible que te vaya bien."
+      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Manresa?",
+      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
     },
     {
-      "q": "Mi coche sufre mucho en invierno con la niebla de Manresa, ¿qué revisión recomendáis?",
-      "a": "Es una consulta muy habitual. Para el invierno del Bages, recomendamos una revisión de los 'puntos críticos': estado de la batería y del alternador, nivel y calidad del líquido anticongelante, estado de las escobillas del limpiaparabrisas y, sobre todo, el funcionamiento de todas las luces, incluidas las antiniebla. Es una revisión rápida y económica que te dará mucha seguridad."
+      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
     },
     {
-      "q": "Hago muchos kilómetros por el Eix Transversal (C-25), ¿cada cuánto debo revisar los neumáticos?",
-      "a": "El Eix es una vía rápida que provoca un desgaste regular pero constante. Además de revisar las presiones cada mes, te aconsejamos hacer una inspección visual de la banda de rodadura y los flancos cada 5.000 km. Si notas vibraciones o que el coche se va hacia un lado, ven a vernos para hacer un equilibrado y una alineación. La seguridad es lo primero."
+      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
     },
     {
-      "q": "Tengo que pasar la ITV en Manresa, ¿ofrecéis servicio de Pre-ITV?",
-      "a": "Por supuesto. Es uno de nuestros servicios más demandados. Hacemos una revisión exhaustiva de los mismos puntos que miran en la estación de ITV de Manresa: luces, frenos, suspensión, neumáticos y emisiones. Si detectamos algo, te damos presupuesto para solucionarlo y, si quieres, nos encargamos de llevar el coche a la inspección por ti."
+      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
+      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
     },
     {
-      "q": "El aire acondicionado no enfría para el calor de verano del Bages, ¿lo podéis arreglar?",
-      "a": "Sí, claro. Sabemos que en verano el aire acondicionado es vital aquí. Realizamos el diagnóstico completo del sistema: comprobamos si hay fugas en el circuito, el estado del compresor y hacemos la recarga de gas si es necesario. En la mayoría de los casos es una reparación rápida para que vuelvas a conducir fresco."
-    },
-    {
-      "q": "Mi coche es diésel y ya tiene unos años, ¿qué puedo hacer para que no contamine tanto?",
-      "a": "Es una preocupación lógica. Un buen mantenimiento es clave. Te recomendamos hacer una limpieza del sistema de inyección y del filtro de partículas (FAP) o la válvula EGR. Esto no solo reduce las emisiones para pasar la ITV, sino que también mejora el rendimiento y el consumo del coche. Pregúntanos y te asesoraremos sobre la mejor opción para tu motor."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
+      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu coche, a punto en Manresa",
-  "closingCta": "Si tu coche necesita una revisión o notas algo raro, no esperes a que se convierta en una avería seria. Pide tu presupuesto cerrado para nuestro taller de Manresa por teléfono, WhatsApp o email. Conducirás más tranquilo."
+  "closingHeadline": "Tu BMW y MINI en Manresa, en buenas manos",
+  "closingCta": "Si tienes un BMW y MINI en Manresa y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
 }
