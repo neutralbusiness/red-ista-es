@@ -7,8 +7,8 @@
   "lat": 40.48205,
   "lng": -3.35996,
   "metaTitle": "Taller BMW y MINI en Alcalá de Henares · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Alcalá de Henares. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Alcalá de Henares y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Alcalá de Henares. Diagnóstico oficial ISTA, precio de taller independiente y presupuesto cerrado. Mantén tu garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI hace a diario el Corredor del Henares y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Alcalá de Henares, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Alcalá de Henares, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Alcalá de Henares te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Alcalá de Henares, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Alcalá de Henares tiene un perfil de conductor de BMW y MINI muy marcado por el Corredor del Henares: mucho profesional que se desplaza a diario hacia los polígonos industriales y tecnológicos de la zona, y hacia Madrid capital por la A-2, en Serie 3 y Serie 5 diésel con kilometrajes anuales altos. A esto se suma un parque universitario notable, con MINI y Serie 1 de estudiantes y profesores que se mueven en el entorno del campus y del casco histórico, y una zona residencial de mayor poder adquisitivo en Espartales y El Val donde el X3 y el X5 son cada vez más habituales.\n\nEl patrón de uso mixto de Alcalá es distinto al de otras ciudades del sur de Madrid: aquí se combinan trayectos largos y rápidos por la A-2 y la R-2 hacia Madrid o hacia Guadalajara, con trayectos cortos y densos dentro del propio casco urbano y el Corredor del Henares. Esta combinación es precisamente la que más beneficia a la salud del DPF (las regeneraciones se completan mejor con los tramos rápidos), pero castiga más las suspensiones y los amortiguadores, por el firme irregular de varias zonas del polígono industrial y las incorporaciones frecuentes en la A-2, que generan microimpactos constantes en la suspensión EDC.\n\nTambién es muy característico de Alcalá el desgaste de la caja automática ZF por el patrón de conducción en autovía a velocidad de crucero constante hacia Madrid, alternado con paradas bruscas en los accesos y rotondas del Corredor del Henares: esta alternancia de régimen constante y frenada brusca es la que más rápido degrada el aceite de la caja en los coches que hacen el trayecto diario. En los motores de gasolina de inyección directa (N20, B48), el propio uso mixto retrasa algo la aparición de carbonilla en válvulas respecto a ciudades de tráfico puramente urbano, pero no la evita, y sigue siendo una de las averías que más solucionamos en el taller.\n\nPor último, la proximidad del polígono industrial y del aeropuerto de Barajas hace que muchos propietarios de Alcalá busquen un taller de confianza cerca de casa que les permita evitar el desplazamiento hasta Madrid capital para un mantenimiento oficial. Con diagnóstico ISTA/Rheingold ofrecemos ese mismo nivel de precisión, ajustado al patrón real de kilometraje alto y uso mixto tan propio del Corredor del Henares.",
+  "servicesIntro": "En Alcalá de Henares ofrecemos diagnóstico ISTA, revisión de suspensión y caja automática ZF para BMW y MINI, con presupuesto cerrado adaptado al kilometraje alto del Corredor del Henares.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Alcalá de Henares.",
+  "commonIssuesIntro": "Estas son las averías más habituales en BMW y MINI de Alcalá de Henares, marcadas por el uso mixto entre la A-2 y el tráfico urbano del Corredor del Henares.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Desgaste de suspensión EDC por firme irregular",
+      "body": "Las incorporaciones frecuentes en la A-2 y el firme irregular de varias zonas del polígono industrial generan microimpactos constantes que adelantan el desgaste de la suspensión adaptativa."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Caja automática ZF exigida por autovía y frenadas bruscas",
+      "body": "La alternancia entre velocidad de crucero en la A-2 y paradas bruscas en rotondas del Corredor del Henares degrada el aceite de la caja ZF más rápido que un uso homogéneo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Carbonilla en válvulas de admisión en gasolina de inyección directa",
+      "body": "Pese al uso mixto, los motores N20 y B48 siguen acumulando carbonilla por los tramos urbanos del casco histórico y el campus universitario, con tirones y pérdida de ralentí."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Kilometraje alto y desgaste acelerado de embrague de doble masa",
+      "body": "Los desplazamientos diarios de larga distancia hacia Madrid o Guadalajara adelantan el desgaste del embrague de doble masa en las versiones manuales."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Fugas de sellos VANOS en motores con alto kilometraje",
+      "body": "El uso constante en autovía a régimen sostenido, combinado con paradas en tráfico urbano, favorece la aparición de fugas en los sellos VANOS de motores con varios años de uso intensivo."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold sin desplazarte a Madrid",
+      "body": "Mismo nivel de diagnóstico oficial que el concesionario, sin tener que cruzar la A-2 para tu mantenimiento."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialistas en coches de kilometraje alto",
+      "body": "Sabemos qué revisar en un BMW que hace a diario el Corredor del Henares con kilometrajes anuales muy por encima de la media."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Sin sorpresas al recoger el coche, el precio del diagnóstico es el precio final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Reparamos conforme al derecho europeo a mantener la garantía oficial en taller independiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cerca del Corredor del Henares",
+      "body": "Evitas el desplazamiento hasta Madrid capital para un mantenimiento con el mismo rigor que un concesionario oficial."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Alcalá de Henares y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Alcalá de Henares y su entorno: Torrejón de Ardoz, Meco, Azuqueca de Henares, Camarma de Esteruelas y Coslada, con recogida concertada en Espartales, El Val y el casco histórico.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Alcalá de Henares?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Es normal que mi caja automática ZF vaya más brusca haciendo el Corredor del Henares a diario?",
+      "a": "Puede indicar que el aceite de la caja se ha degradado antes de lo previsto por la alternancia entre autovía y frenadas en rotondas. Lo comprobamos con diagnóstico ISTA y valoramos un cambio de aceite específico."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo reparar mi BMW en un taller independiente de Alcalá sin perder la garantía?",
+      "a": "Sí, el derecho europeo lo permite siempre que usemos recambios homologados y quede registrado el mantenimiento, tal y como lo hacemos con diagnóstico ISTA."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Por qué noto vibraciones en la suspensión si hago la A-2 a diario?",
+      "a": "El firme irregular de algunos tramos del Corredor del Henares y las incorporaciones frecuentes desgastan antes los amortiguadores adaptativos EDC. Lo revisamos con diagnóstico ISTA para confirmar el estado real."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Alcalá de Henares, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Alcalá de Henares y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el kilometraje del Corredor del Henares",
+  "closingCta": "Pide tu diagnóstico ISTA en Alcalá de Henares y recibe presupuesto cerrado antes de tocar el coche."
 }

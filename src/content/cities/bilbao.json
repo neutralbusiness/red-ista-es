@@ -7,8 +7,8 @@
   "lat": 43.26271,
   "lng": -2.92528,
   "metaTitle": "Taller BMW y MINI en Bilbao · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Bilbao. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Bilbao y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Bilbao con diagnóstico oficial ISTA y presupuesto cerrado. Precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "Humedad atlántica, cuestas constantes y las curvas de la Supersur: tu BMW o MINI en Bilbao necesita un especialista que conozca bien el terreno. Diagnóstico ISTA, precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Bilbao, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Bilbao, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Bilbao te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Bilbao, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Bilbao tiene una topografía que condiciona la mecánica de un BMW de una forma muy distinta a las ciudades llanas del sur o el Levante: las cuestas de Deusto, Artxanda, Begoña o los accesos hacia Getxo y Neguri exigen al motor y a la caja de cambios ZF automática un esfuerzo constante de par que en ciudades planas simplemente no existe. En esos trayectos con pendiente sostenida, sobre todo en Serie 5 y X3 usados a diario para subir y bajar entre el centro y las zonas altas, el aceite de la caja de cambios y los frenos trabajan más de lo habitual, y conviene revisarlos con algo más de frecuencia que en una ciudad llana como Zaragoza o Murcia.\n\nEl clima atlántico de Bilbao, con humedad constante durante buena parte del año y lluvia frecuente, tiene un efecto muy distinto al de la sal marina mediterránea pero igual de relevante: la humedad ambiental favorece la corrosión en componentes eléctricos y en las zonas del bajo chasis que no se secan nunca del todo, especialmente en los coches que se guardan en garajes poco ventilados del Casco Viejo o Indautxu. Es habitual encontrar en revisión terminales de sensores con oxidación por humedad, algo distinto de la corrosión por sal pero con síntomas parecidos: fallos intermitentes de testigos y avisos electrónicos sin patrón claro.\n\nEl parque de BMW y MINI en Bilbao se concentra en Neguri, Getxo, el Ensanche y el entorno de Indautxu, con desplazamientos habituales por la A-8 hacia Santander o Behobia y por la Supersur para conectar con Barakaldo y el Txorierri. Ese uso mixto de autovía y cuestas urbanas favorece, en principio, a los diésel frente a otras ciudades con más atascos puros, pero el propio relieve introduce otra variable: las rampas prolongadas de la Supersur y los accesos al puerto exigen más del turbo y de la caja ZF de lo que exigiría un trayecto llano equivalente, y ahí es donde antes se detectan fallos de sobrealimentación en 320d o X3 xDrive20d con muchos kilómetros.\n\nEn los diésel más veteranos, sobre todo los N47 con más de 150.000 kilómetros que siguen circulando por Bilbao en un parque relativamente longevo por el buen cuidado que suele dar el propietario vasco a su coche, el problema típico de cadena de distribución sigue siendo una de las averías que más vigilamos, porque el estirado de la cadena en motores con ese kilometraje, combinado con las exigencias de par de las cuestas bilbaínas, puede adelantar los síntomas de ruido y pérdida de sincronismo. En los motores de gasolina de inyección directa, la carbonilla en válvulas de admisión aparece con el patrón habitual, sin agravantes climáticos especiales más allá de la humedad sobre los sistemas eléctricos asociados.\n\nCon diagnóstico ISTA/Rheingold de fábrica identificamos estos patrones propios de Bilbao —cuestas, humedad atlántica, uso mixto de autovía y ciudad— con la misma precisión que el concesionario oficial, a precio de taller independiente y sin comprometer tu garantía de fábrica.",
+  "servicesIntro": "En Bilbao trabajamos especialmente el desgaste por cuestas en caja ZF y frenos, la corrosión por humedad atlántica y el mantenimiento CBS completo.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Bilbao.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Bilbao y su relieve tan particular.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Desgaste acelerado de caja ZF y frenos por las cuestas",
+      "body": "Las pendientes de Artxanda, Deusto y Getxo exigen un esfuerzo de par constante que desgasta antes el aceite de caja y las pastillas de freno."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Corrosión eléctrica por humedad atlántica constante",
+      "body": "La lluvia y la humedad ambiental de Bilbao favorecen la oxidación de conectores y terminales, con testigos intermitentes sin patrón claro."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Fallos de turbo en rampas prolongadas de la Supersur",
+      "body": "Las subidas sostenidas hacia el Txorierri y Barakaldo exigen más del turbo de lo que exigiría un trayecto llano equivalente."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Cadena de distribución estirada en diésel N47 veteranos",
+      "body": "El kilometraje alto combinado con las exigencias de par de las cuestas bilbaínas puede adelantar el ruido y la pérdida de sincronismo típicos de este motor."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Humedad en garajes poco ventilados del Casco Viejo",
+      "body": "Los coches guardados en garajes con poca ventilación en el centro sufren más corrosión en bajos que los que se guardan en zonas más secas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en el relieve de Bilbao",
+      "body": "Sabemos qué componentes sufren más por las cuestas constantes de la ciudad, algo que talleres de ciudades llanas no anticipan igual."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA idéntico al oficial",
+      "body": "El mismo nivel técnico que el concesionario de Bilbao, a precio de taller independiente."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Lo presupuestado es lo que se paga, sin extras de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Recambios homologados y mantenimiento registrado conforme al derecho europeo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en Neguri, Getxo e Indautxu",
+      "body": "Coordinamos recogida y entrega en las zonas de mayor concentración de la marca en Bilbao."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Bilbao y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Bilbao y su área metropolitana: Getxo, Barakaldo, Leioa, Sondika, Erandio y el Txorierri. Si tu BMW o MINI circula por la A-8 o la Supersur, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Bilbao?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué se desgastan más rápido los frenos de mi BMW en Bilbao?",
+      "a": "Las cuestas constantes de Artxanda, Deusto y Getxo exigen mucho más de los frenos que una ciudad llana. Lo tenemos en cuenta en cada revisión."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿La humedad de Bilbao afecta tanto como la sal marina de otras ciudades?",
+      "a": "De forma distinta pero igual de relevante: favorece la corrosión de conectores eléctricos, sobre todo en coches guardados en garajes poco ventilados."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Pierdo la garantía si no llevo mi BMW al concesionario de Bilbao?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente si usamos recambios homologados y seguimos el plan oficial, como hacemos con ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Bilbao, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Bilbao y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, a la altura de las cuestas de Bilbao",
+  "closingCta": "Pide presupuesto cerrado con diagnóstico ISTA y mantén la garantía de fábrica intacta."
 }

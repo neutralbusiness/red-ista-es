@@ -1,14 +1,14 @@
 {
   "slug": "gasteiz-vitoria",
-  "name": "Vitoria-Gasteiz",
+  "name": "Gasteiz / Vitoria",
   "province": "Álava",
   "ccaa": "País Vasco",
   "population": 257407,
   "lat": 42.84998,
   "lng": -2.67268,
   "metaTitle": "Taller BMW y MINI en Vitoria-Gasteiz · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Vitoria-Gasteiz. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Vitoria-Gasteiz y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Vitoria-Gasteiz. Diagnóstico ISTA oficial, presupuesto cerrado y precio de taller independiente. Garantía intacta.",
+  "heroSubtitle": "Con los inviernos de nieve y hielo de la llanada alavesa, tu BMW o MINI en Vitoria-Gasteiz necesita un especialista que sepa lo que ese frío le hace al coche, no un multimarca cualquiera.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Vitoria-Gasteiz, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Vitoria-Gasteiz sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vitoria-Gasteiz te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Vitoria-Gasteiz, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Vitoria-Gasteiz tiene un parque de BMW y MINI muy asentado, con mucha presencia de Serie 3 y X1 con tracción xDrive entre clientes del Ensanche y Lakua, y una comunidad fiel de MINI en zonas como el Casco Medieval y Zabalgana, donde el tamaño compacto facilita moverse por un entramado urbano con muchas calles estrechas y carriles bici. También hay bastante demanda de X3 y Serie 5 entre profesionales que trabajan en el polígono de Júndiz o en Gamarra, dos zonas industriales de referencia en la ciudad.\n\nEl factor mecánico más determinante en Vitoria-Gasteiz es, sin duda, el frío de la llanada alavesa. La ciudad tiene una de las medias térmicas invernales más bajas de las capitales españolas, con heladas frecuentes entre noviembre y marzo y nevadas que, aunque no todos los años son intensas, sí son recurrentes. Ese frío sostenido exige un sistema de tracción xDrive en perfecto estado, un anticongelante correctamente formulado y una batería en buen estado de salud, porque el arranque en frío extremo es donde más sufren los BMW diésel de la ciudad. También vemos con frecuencia problemas de cadena de distribución en los motores diésel N47 y N57 de la generación anterior, que en climas fríos como el de Vitoria tienden a manifestar el característico ruido metálico en frío antes que en zonas más templadas, por la mayor viscosidad del aceite en el arranque.\n\nEl termostato electrónico es otro de los componentes que más avería en la ciudad: con temperaturas que pueden pasar de -5°C de madrugada a 15-18°C al mediodía en pleno invierno, el sistema de gestión térmica del motor trabaja en un rango muy amplio a diario, y no es raro que el termostato empiece a dar lecturas erráticas antes de fallar. En los amortiguadores EDC adaptativos observamos el mismo patrón que en otras ciudades de clima frío: el aceite interno responde peor en las heladas matutinas, ofreciendo una conducción más dura hasta que el coche entra en su rango térmico normal.\n\nEn cuanto al DPF, Vitoria-Gasteiz tiene una particularidad favorable: al ser una ciudad relativamente compacta pero con buena conexión a la A-1 y a la N-1, muchos diésel consiguen regenerar el filtro con cierta regularidad en los trayectos hacia Bilbao o hacia el polígono de Júndiz. Aun así, seguimos viendo saturaciones en vehículos de uso exclusivamente urbano dentro del anillo del Ensanche y Lakua, sobre todo en invierno, cuando los trayectos cortos con motor frío son menos eficientes para la regeneración.\n\nAtendemos clientes de toda la ciudad y de la llanada alavesa, incluyendo Salvatierra, Laguardia y la Rioja Alavesa, así como profesionales que se desplazan a diario desde Bilbao por la A-1 y que prefieren mantener su BMW en Vitoria-Gasteiz por precio y confianza.",
+  "servicesIntro": "En Vitoria-Gasteiz adaptamos el mantenimiento de BMW y MINI al frío sostenido de la llanada alavesa, con el mismo diagnóstico ISTA que emplea la red oficial.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Vitoria-Gasteiz.",
+  "commonIssuesIntro": "Las averías más habituales en BMW y MINI de clientes de Vitoria-Gasteiz son estas:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Ruido de cadena de distribución en frío en diésel N47/N57",
+      "body": "Las heladas frecuentes de la llanada alavesa aumentan la viscosidad del aceite en el arranque, adelantando el característico traqueteo de cadena en motores diésel de la generación anterior."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Fallos de termostato electrónico por el amplio rango térmico diario",
+      "body": "El salto entre las heladas de madrugada y las temperaturas más suaves del mediodía exige mucho al sistema de gestión térmica, provocando lecturas erráticas antes del fallo definitivo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Sistema xDrive con mayor exigencia por nieve y hielo",
+      "body": "Los inviernos con nieve puntual en Vitoria-Gasteiz someten al sistema de tracción total a un desgaste añadido que revisamos de forma preventiva antes de cada temporada fría."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Amortiguadores EDC más rígidos en las heladas matutinas",
+      "body": "El aceite interno de los amortiguadores adaptativos responde peor en los arranques con hielo, dando una sensación de conducción más dura hasta que el motor alcanza temperatura."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "DPF saturado en uso exclusivamente urbano invernal",
+      "body": "Los diésel que solo circulan por el Ensanche y Lakua sin salir a la A-1 acumulan hollín con más facilidad en invierno, cuando el motor frío regenera peor el filtro de partículas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA real adaptado al frío alavés",
+      "body": "Usamos el mismo sistema que la red oficial de BMW y MINI y sabemos interpretar los códigos de avería típicos de un clima con heladas frecuentes."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Revisión preventiva antes de cada invierno",
+      "body": "Conocemos el impacto real del frío de Vitoria-Gasteiz en la cadena de distribución, el sistema xDrive y la batería, y ajustamos el mantenimiento antes de que llegue el frío fuerte."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Tras el diagnóstico recibes un presupuesto cerrado que no cambia sin tu autorización expresa."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes la garantía europea de fábrica",
+      "body": "Reparar en nuestro taller independiente especializado no anula tu garantía, siempre con recambios homologados y el plan de mantenimiento oficial."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Precio de taller independiente en Vitoria-Gasteiz",
+      "body": "Mismo nivel de diagnóstico que el concesionario oficial, con un precio más ajustado por no tener la estructura de costes de una gran red."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Vitoria-Gasteiz y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Vitoria-Gasteiz y toda la llanada alavesa: Salvatierra, Laguardia, Rioja Alavesa, Amurrio y Llodio. También recibimos clientes que se desplazan a diario desde Bilbao por la A-1 y prefieren mantener su vehículo en Vitoria-Gasteiz.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vitoria-Gasteiz?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Es normal que mi BMW diésel haga ruido de cadena al arrancar en las mañanas de helada?",
+      "a": "No debería ser normal ni ignorarse: en climas fríos como el de Vitoria-Gasteiz este síntoma en motores N47 y N57 suele indicar desgaste de cadena de distribución y conviene revisarlo cuanto antes con diagnóstico ISTA."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Necesita mi BMW xDrive algo especial de mantenimiento por la nieve de Vitoria?",
+      "a": "Sí, recomendamos revisar el sistema de tracción total y los amortiguadores antes de cada temporada invernal, cuando la nieve y el hielo son más frecuentes en la llanada alavesa."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de fábrica de mi BMW comprado en Vitoria si vengo a este taller?",
+      "a": "Sí, el derecho europeo lo garantiza siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial con diagnóstico ISTA, tal y como hacemos aquí."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Vitoria-Gasteiz, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Vitoria-Gasteiz y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW y MINI que conoce el frío de la llanada alavesa",
+  "closingCta": "Pide diagnóstico ISTA y presupuesto cerrado para tu BMW o MINI en Vitoria-Gasteiz."
 }

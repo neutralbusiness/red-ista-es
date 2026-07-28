@@ -1,0 +1,121 @@
+{
+  "slug": "ourense",
+  "name": "Ourense",
+  "province": "Ourense",
+  "ccaa": "Galicia",
+  "population": 105233,
+  "lat": 42.33669,
+  "lng": -7.86407,
+  "metaTitle": "Taller BMW y MINI en Ourense · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Ourense. Diagnóstico oficial ISTA, mecánicos formados en la marca, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI nota la humedad del Miño más de lo que debería? Diagnóstico oficial ISTA con precio de taller independiente en Ourense, sin perder la garantía de fábrica.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Ourense tiene un clima curioso que sorprende a quien no es de aquí: en verano es de las ciudades más calurosas del interior de Galicia, con julios y agostos secos que superan los 35 grados en el valle del Miño, mientras que el resto del año la humedad es constante, con nieblas espesas que suben del río casi todas las mañanas, especialmente en zonas como A Ponte o el entorno de Mariñamansa. Para un BMW o un MINI esa combinación de calor seco estival y humedad persistente el resto del año es más agresiva de lo que parece.\n\nLo primero que notamos en los coches que llegan de Ourense es corrosión prematura en los bajos y en los pasos de rueda, algo que en ciudades más secas de España tardaría el doble en aparecer. La humedad constante también se cuela en conectores eléctricos y en el filtro de habitáculo, provocando fallos intermitentes de sensores que en un diagnóstico superficial parecen aleatorios pero que con ISTA identificamos enseguida como corrosión en el conector, no como fallo del componente.\n\nEl parque de BMW en Ourense está muy marcado por profesionales liberales y comerciantes de la zona del Barrio do Couto y la avenida de Zamora, que suelen tener Serie 3 y Serie 5 diésel de gama media-alta, junto con un número creciente de X1 y X3 entre familias de As Lagoas. El uso típico combina trayectos urbanos cortos por el centro histórico, con sus calles estrechas y el tráfico denso alrededor del Puente Romano y el Puente Novísimo, con salidas frecuentes por la A-52 hacia Vigo o Santiago.\n\nEsa mezcla de ciudad-autovía provoca dos averías muy repetidas: DPF saturado en quienes apenas hacen trayecto largo entre semana, y carbonilla en las válvulas de admisión en los motores de gasolina N20 y B48 que alternan atascos en el centro con tramos rápidos de autovía. A eso se suma el desgaste típico de la caja ZF automática en los coches que suben con frecuencia hacia el Cañón del Sil o las carreteras de montaña de la provincia, donde la caja trabaja mucho en retenciones para frenar en las bajadas.\n\nDiagnosticamos con ISTA/Rheingold oficial y tratamos cada síntoma teniendo en cuenta la humedad real de Ourense, no una ficha genérica de mantenimiento.",
+  "servicesIntro": "En Ourense cubrimos el mantenimiento CBS y las averías más propias de la ciudad: corrosión por humedad, fallos eléctricos intermitentes y el desgaste de la caja ZF en las carreteras de montaña de la provincia.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Ourense y su provincia:",
+  "commonIssues": [
+    {
+      "title": "Corrosión prematura en bajos por la humedad del Miño",
+      "body": "La niebla constante que sube del río y la humedad ambiental de Ourense aceleran la oxidación en los bajos y pasos de rueda. Revisamos y tratamos los puntos críticos antes de que la corrosión afecte a componentes mecánicos."
+    },
+    {
+      "title": "Fallos eléctricos intermitentes por conectores húmedos",
+      "body": "La humedad se cuela en los conectores y provoca errores de sensores que parecen aleatorios. Con diagnóstico ISTA distinguimos entre un fallo real del componente y un simple problema de corrosión en el conector."
+    },
+    {
+      "title": "DPF saturado en trayectos cortos por el centro histórico",
+      "body": "Quienes se mueven sobre todo por el casco antiguo de Ourense, entre el Puente Romano y el Barrio do Couto, sin coger la A-52 con frecuencia, acumulan hollín en el filtro de partículas. Forzamos la regeneración con protocolo oficial cuando es posible."
+    },
+    {
+      "title": "Carbonilla en admisión por el tráfico del centro y As Lagoas",
+      "body": "Los motores de gasolina N20 y B48 que alternan atascos urbanos con tramos de autovía pierden potencia por acumulación de carbonilla en las válvulas de admisión. La limpiamos sin desmontar la culata."
+    },
+    {
+      "title": "Desgaste de caja ZF por las carreteras de montaña",
+      "body": "Los trayectos frecuentes hacia el Cañón del Sil o las zonas de montaña de la provincia exigen mucho freno motor y trabajo de la caja automática ZF en las retenciones. Revisamos el aceite y la programación de la caja con software oficial."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Mismo software oficial BMW/MINI, sin desplazarte fuera de Ourense para tener un diagnóstico fiable."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio que te damos antes de empezar es el que pagas al final, sin sorpresas por avería añadida."
+    },
+    {
+      "title": "Entendemos el efecto real de la humedad gallega",
+      "body": "Tratamos la corrosión y los fallos eléctricos con el conocimiento de cómo afecta específicamente el clima de Ourense a un BMW."
+    },
+    {
+      "title": "Especialistas en la marca, no un taller multimarca más",
+      "body": "Formación específica en BMW y MINI que se traduce en diagnósticos más rápidos y precisos que en un taller generalista."
+    },
+    {
+      "title": "Garantía de fábrica intacta",
+      "body": "El reglamento europeo te permite mantener el coche en garantía en un taller independiente en Ourense, y lo documentamos correctamente."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Ourense capital y de toda la provincia: Barbadás, O Carballiño, Allariz y Verín, con acceso directo por la A-52 y la N-525.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW se oxida más en Ourense que en otras ciudades?",
+      "a": "La humedad constante que sube del río Miño, sumada a las nieblas frecuentes, acelera la corrosión en los bajos y en los pasos de rueda mucho más que en zonas de clima seco. Revisamos y tratamos estos puntos en cada mantenimiento preventivo."
+    },
+    {
+      "q": "¿Los fallos eléctricos de mi MINI tienen que ver con la humedad de Ourense?",
+      "a": "Es muy probable. La humedad se cuela en conectores y sensores provocando errores intermitentes que un diagnóstico superficial puede confundir con una avería mayor. Con ISTA identificamos si el problema es corrosión en el conector."
+    },
+    {
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente de Ourense?",
+      "a": "Sí, el reglamento europeo lo permite si usamos piezas homologadas y seguimos el plan de mantenimiento oficial, algo que documentamos con el mismo software ISTA del concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, protegido de la humedad del Miño",
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Ourense sin perder la garantía de fábrica."
+}

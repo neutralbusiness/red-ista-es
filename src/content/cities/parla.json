@@ -1,0 +1,121 @@
+{
+  "slug": "parla",
+  "name": "Parla",
+  "province": "Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "population": 115611,
+  "lat": 40.23604,
+  "lng": -3.76752,
+  "metaTitle": "Taller BMW y MINI en Parla · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Parla. Diagnóstico oficial ISTA, mecánicos formados en la marca y Presupuesto cerrado antes de tocar el coche. Sin perder garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI vive entre la A-42 y las calles de Parla y notas que en el taller de turno nunca tienen ni idea de qué hacer con la centralita? Diagnóstico oficial ISTA, precio de taller independiente, garantía intacta.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "En Parla el parque de BMW y MINI ha crecido muchísimo en la última década, empujado por familias que se han instalado en Parla Este y en las promociones nuevas de El Ferial buscando vivienda más asequible que en Madrid capital sin renunciar a según qué coche. El resultado, para nosotros, es un perfil de cliente muy concreto: Serie 1 y Serie 3 diésel comprados de segunda mano en Madrid y traídos aquí, y cada vez más MINI Cooper y Countryman en manos de gente joven que se mueve a diario hacia la capital.\n\nEse movimiento diario es la clave de las averías que vemos. Parla vive pegada a la A-42 y a la M-506, con trayectos largos y a velocidad sostenida hacia Madrid que en teoría cuidan el motor, pero que se combinan con un tráfico urbano denso en horas punta por la avenida de Pablo Iglesias y la zona de San Blas de Parla, con arrancadas y paradas constantes. Esa mezcla de autovía rápida y stop-and-go urbano es exactamente lo que más desgasta la carbonilla en las válvulas de admisión de los motores de inyección directa N20 y B48, porque el motor nunca tiene un régimen estable el tiempo suficiente para autolimpiarse.\n\nEl otro gran protagonista es el clima continental de Parla: veranos que superan con facilidad los 38-40 grados en julio y agosto, e inviernos con heladas nocturnas frecuentes. Ese contraste térmico tan marcado es letal para los sellos de VANOS, que se resecan y agrietan antes de tiempo, y para el termostato electrónico, que en los Serie 3 y X1 con motor N47 empieza a dar errores de temperatura justo cuando el coche pasa de estar aparcado al sol en la M-408 a rodar por autovía a 120 km/h.\n\nTambién vemos mucho diésel con el DPF saturado, sobre todo en coches que hacen trayecto corto dentro del propio Parla —llevar a los niños al colegio, ir al Parque Europa o al centro comercial H2Ocio— sin encadenar nunca un tramo largo de autovía que permita la regeneración del filtro de partículas. Es de los motivos de avería más repetidos que atendemos en la zona, junto con problemas de bomba de agua eléctrica en los B48 y B58 más recientes.\n\nTrabajamos con diagnóstico ISTA/Rheingold igual que el concesionario oficial, pero con el trato y el precio de un taller independiente de Parla, respetando el derecho europeo del propietario a mantener la garantía de fábrica aunque no pases por el concesionario.",
+  "servicesIntro": "En Parla cubrimos todo lo que necesita un BMW o un MINI real: desde el servicio CBS programado hasta las averías de VANOS, DPF o caja ZF que vemos cada semana en la comarca.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más repetimos en los BMW y MINI que llegan desde Parla, Pinto y Fuenlabrada:",
+  "commonIssues": [
+    {
+      "title": "DPF saturado por trayectos cortos dentro de Parla",
+      "body": "Los diésel que solo se mueven por el casco urbano de Parla, sin subir a la A-42, acumulan hollín en el filtro de partículas hasta que el testigo se enciende en pleno semáforo de la avenida de Pablo Iglesias. Regeneramos el DPF con protocolo ISTA y, si hace falta, lo sustituimos sin tocar la garantía."
+    },
+    {
+      "title": "Sellos VANOS resecos por el contraste térmico",
+      "body": "El salto entre las heladas de enero y los 40 grados de agosto reseca las juntas del VANOS en los motores de gasolina N20 y N52. El síntoma típico es un tableteo metálico al ralentí que muchos talleres confunden con la cadena de distribución."
+    },
+    {
+      "title": "Carbonilla en válvulas de admisión por el tráfico de San Blas de Parla",
+      "body": "Los motores N20 y B48 que combinan atascos urbanos con tramos de autovía acumulan carbonilla en la admisión y pierden tiro progresivamente. Lo solucionamos con limpieza por proyección de nuez sin desmontar la culata."
+    },
+    {
+      "title": "Termostato electrónico errático en la A-42",
+      "body": "Pasar del sol directo aparcado en la calle a 120 km/h de autovía hace que el termostato electrónico de los Serie 3 y X1 con motor N47 marque temperaturas fantasma. Lo diagnosticamos con ISTA para diferenciar sensor, termostato o bomba de agua."
+    },
+    {
+      "title": "Bomba de agua eléctrica en B48 y B58",
+      "body": "En los motores más recientes de Serie 1, Serie 3 y X1 la bomba de agua eléctrica falla antes de lo que debería con el uso de autovía sostenido propio de quien va y vuelve cada día a Madrid. La cambiamos con pieza homologada y sin perder el CBS."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Usamos el mismo software oficial BMW/MINI que el concesionario de Madrid, pero sin los desplazamientos ni los tiempos de espera que implica salir de Parla."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "En Parla sabemos que muchos clientes vienen de experiencias con talleres multimarca que inflan la factura sobre la marcha. Aquí el presupuesto se cierra antes de tocar el coche."
+    },
+    {
+      "title": "Especialistas, no un taller más de la zona industrial",
+      "body": "No somos un taller generalista que también toca BMW. Nos formamos específicamente en la marca y en MINI, y se nota en la rapidez con la que identificamos una avería de VANOS o de DPF."
+    },
+    {
+      "title": "Garantía de fábrica intacta",
+      "body": "El reglamento europeo te permite mantener el mantenimiento en un taller independiente sin perder la garantía del fabricante. Te explicamos exactamente cómo se documenta cada intervención."
+    },
+    {
+      "title": "Conocemos el uso real del BMW en Parla",
+      "body": "Entre la autovía A-42 diaria y el tráfico urbano de San Blas de Parla sabemos qué piezas fallan antes en esta zona, y revisamos esos puntos de forma preventiva aunque no sea el motivo de tu visita."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Parla y de toda la comarca suroeste de Madrid: Fuenlabrada, Pinto, Getafe, Torrejón de la Calzada y Torrejón de Velasco, con fácil acceso desde la A-42 y la M-506.",
+  "faqLocal": [
+    {
+      "q": "¿Puedo llevar mi BMW a un taller independiente en Parla sin perder la garantía del concesionario?",
+      "a": "Sí. El reglamento europeo de exención por categorías protege tu derecho a mantener el coche en garantía en un taller independiente, siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial, algo que documentamos en cada servicio."
+    },
+    {
+      "q": "¿Por qué mi BMW diésel enciende el testigo del DPF si casi siempre lo uso dentro de Parla?",
+      "a": "Porque el filtro de partículas necesita tramos largos a régimen alto para regenerarse, algo que no ocurre en trayectos cortos por el casco urbano. Con diagnóstico ISTA comprobamos el estado real del filtro y forzamos la regeneración si aún es posible antes de plantear la sustitución."
+    },
+    {
+      "q": "¿Hacéis el servicio CBS igual que en el concesionario de Madrid?",
+      "a": "Sí, reseteamos el Condition Based Service con el mismo protocolo oficial ISTA, así que el ordenador de a bordo refleja el mantenimiento real sin necesidad de desplazarte a la capital."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, cuidado en Parla con diagnóstico oficial",
+  "closingCta": "Pide tu presupuesto cerrado y llévanos tu BMW o MINI a Parla sin salir de la comarca ni perder la garantía de fábrica."
+}

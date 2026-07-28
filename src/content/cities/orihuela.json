@@ -1,0 +1,121 @@
+{
+  "slug": "orihuela",
+  "name": "Orihuela",
+  "province": "Alicante",
+  "ccaa": "Comunidad Valenciana",
+  "population": 101321,
+  "lat": 38.08483,
+  "lng": -0.94401,
+  "metaTitle": "Taller BMW y MINI en Orihuela · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Orihuela y Orihuela Costa. Diagnóstico oficial ISTA, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI se mueve entre el interior de la Vega Baja y la sal de Orihuela Costa? Diagnóstico oficial ISTA con precio de taller independiente, sin perder la garantía de fábrica.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Orihuela es, en realidad, dos ciudades mecánicamente muy distintas dentro del mismo municipio. Por un lado está el casco histórico y la Vega Baja del interior, con un clima seco y muy caluroso en verano, típico del sureste alicantino, donde el termómetro roza con facilidad los 38-40 grados entre julio y agosto. Por otro está Orihuela Costa, con urbanizaciones como Playa Flamenca, Los Dólses, La Zenia y Campoamor, una zona con una concentración altísima de residentes británicos, alemanes y escandinavos de alto poder adquisitivo, donde el parque de BMW y MINI —incluidos bastantes modelos matriculados en otros países europeos— es de los más densos de toda la provincia.\n\nEsa doble realidad nos obliga a diagnosticar de forma distinta según de dónde venga el coche. En el interior, en zonas como el centro histórico o las urbanizaciones cercanas a la N-340 y la CV-95, el problema dominante es el calor seco: sellos de VANOS resecos, aire acondicionado exigido al máximo y carbonilla en admisión por el uso combinado de ciudad y carretera hacia Murcia. En Orihuela Costa, en cambio, el gran enemigo es la sal del mar: los BMW y MINI que circulan a diario cerca del litoral, desde La Zenia hasta Cabo Roig, sufren una corrosión en los bajos, en las líneas de freno y en los conectores eléctricos que en el interior tardaría años en aparecer.\n\nEl tráfico también cambia radicalmente entre temporada baja y temporada alta. En verano, la AP-7 y la N-332 que conectan Orihuela Costa con Torrevieja y Alicante se saturan de tráfico turístico, y muchos residentes fijos de la costa acaban haciendo trayectos cortos y lentos que antes eran fluidos, lo que favorece el DPF saturado en los diésel y la carbonilla en los motores de gasolina de inyección directa. En el interior, en cambio, los trayectos suelen ser más largos y a velocidad constante hacia Murcia o Elche, lo que cuida más el motor pero exige más a la caja ZF automática por el calor sostenido del asfalto.\n\nPor eso en Orihuela trabajamos con un protocolo doble: revisión anticorrosión reforzada para los coches de la costa, y control térmico reforzado para los del interior, siempre con diagnóstico ISTA/Rheingold oficial y respetando la garantía de fábrica, algo que valoran especialmente los propietarios extranjeros de Orihuela Costa acostumbrados a la exigencia de los concesionarios de su país de origen.",
+  "servicesIntro": "En Orihuela y Orihuela Costa adaptamos el mantenimiento según el origen del coche: protección anticorrosión reforzada para los vehículos de costa y control térmico para los del interior de la Vega Baja.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más vemos según si el BMW o MINI se mueve por el interior o por Orihuela Costa:",
+  "commonIssues": [
+    {
+      "title": "Corrosión por sal en los bajos de coches de Orihuela Costa",
+      "body": "Los vehículos que circulan a diario cerca de La Zenia, Playa Flamenca o Cabo Roig sufren oxidación acelerada en bajos, líneas de freno y conectores por la exposición constante a la brisa marina. Aplicamos protección anticorrosión específica."
+    },
+    {
+      "title": "Sellos VANOS resecos por el calor seco del interior",
+      "body": "En el casco histórico y la Vega Baja, el calor seco del verano acelera el resecamiento de las juntas del VANOS en los motores de gasolina. Lo detectamos por el tableteo característico al ralentí en frío."
+    },
+    {
+      "title": "DPF saturado por el tráfico turístico de temporada alta",
+      "body": "En verano, los trayectos cortos y lentos hacia Torrevieja o Alicante por la saturación turística de la N-332 favorecen la acumulación de hollín en el filtro de partículas de los diésel de la costa. Forzamos la regeneración con protocolo oficial."
+    },
+    {
+      "title": "Aire acondicionado forzado al máximo por el calor del sureste",
+      "body": "Los veranos largos y secos de la Vega Baja exigen al límite el climatizador automático de los BMW. Revisamos compresor, gas y sensores antes de que el sistema falle en plena ola de calor."
+    },
+    {
+      "title": "Conectores eléctricos dañados por humedad salina en la costa",
+      "body": "En Orihuela Costa, la combinación de sal y humedad marina provoca fallos intermitentes de sensores y luces testigo que un diagnóstico superficial confunde con averías mayores. Con ISTA localizamos el conector afectado con precisión."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Mismo software oficial BMW/MINI, atendiendo tanto vehículos matriculados en España como en otros países europeos, muy habituales en Orihuela Costa."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio que te damos antes de empezar es el que pagas al final, con la transparencia que esperan tanto los residentes locales como los extranjeros."
+    },
+    {
+      "title": "Protocolo distinto según interior o costa",
+      "body": "No tratamos igual un BMW que solo pisa el centro histórico que uno que respira sal todos los días en La Zenia. Ajustamos la revisión a la realidad de cada coche."
+    },
+    {
+      "title": "Especialistas en la marca, no un taller multimarca más",
+      "body": "Formación específica en BMW y MINI que se nota en la rapidez con la que identificamos averías propias de la marca."
+    },
+    {
+      "title": "Garantía de fábrica protegida",
+      "body": "El reglamento europeo te permite mantener el coche en garantía en un taller independiente en Orihuela, y lo documentamos correctamente sea cual sea el país de matriculación."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Orihuela ciudad y de toda la Vega Baja y Orihuela Costa: Torrevieja, Los Montesinos, San Miguel de Salinas y Pilar de la Horadada, con acceso por la AP-7 y la N-332.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW se oxida más viviendo en Orihuela Costa que en el interior?",
+      "a": "La exposición diaria a la brisa marina salina en zonas como La Zenia o Playa Flamenca acelera la corrosión en bajos, líneas de freno y conectores eléctricos mucho más rápido que en el interior de la Vega Baja. Aplicamos un protocolo anticorrosión reforzado para estos vehículos."
+    },
+    {
+      "q": "¿Atendéis BMW matriculados en otros países europeos en Orihuela Costa?",
+      "a": "Sí, es habitual dado el alto número de residentes extranjeros en la zona. Trabajamos con el mismo diagnóstico ISTA oficial independientemente del país de matriculación, y documentamos el mantenimiento para que sea válido de cara a la garantía."
+    },
+    {
+      "q": "¿Es distinto el mantenimiento si mi BMW se mueve solo por el interior de Orihuela?",
+      "a": "Sí, en el interior el desgaste dominante viene del calor seco del verano, que afecta más a VANOS y al climatizador, mientras que en la costa el problema principal es la corrosión por sal. Ajustamos la revisión según el uso real de tu coche."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, protegido tanto en la Vega Baja como en Orihuela Costa",
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Orihuela sin perder la garantía de fábrica."
+}

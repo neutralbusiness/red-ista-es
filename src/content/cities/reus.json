@@ -1,0 +1,121 @@
+{
+  "slug": "reus",
+  "name": "Reus",
+  "province": "Tarragona",
+  "ccaa": "Cataluña",
+  "population": 103477,
+  "lat": 41.15612,
+  "lng": 1.10687,
+  "metaTitle": "Taller BMW y MINI en Reus · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Reus. Diagnóstico oficial ISTA, mecánicos formados en la marca, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI se mueve entre Reus, Salou y Cambrils y notas que ningún taller de la zona se aclara con la electrónica alemana? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Reus tiene una relación especial con el motor: es la ciudad donde nació una de las primeras marcas de automóviles de España, y esa cultura mecánica sigue notándose en el perfil de sus propietarios de BMW y MINI, gente exigente que cuida el coche y espera un trato de especialista, no de taller de barrio. Vemos mucho Serie 3 y Serie 5 diésel entre profesionales de Bellissens y Fortuna Park, y un número muy alto de MINI, tanto Cooper como Countryman, entre familias jóvenes de Camp Clar y Mas Iglesias.\n\nEl clima mediterráneo de interior de Reus es más seco y caluroso que el de la costa cercana, con veranos que aprietan de verdad entre junio y septiembre, agravados por la proximidad del aeropuerto y la llanura del Camp de Tarragona, donde el aire caliente se estanca sin apenas brisa marina que lo mitigue como sí ocurre en Salou o Cambrils. Ese calor seco y sostenido es determinante en el desgaste de los sellos de VANOS y en el rendimiento del aire acondicionado, que en los BMW con climatizador automático trabaja al límite durante meses.\n\nEl otro factor que marca la mecánica en Reus es el tráfico estacional: en temporada alta, entre julio y agosto, las carreteras hacia Salou, Cambrils y La Pineda —N-340 y T-11— se saturan de tráfico turístico, y muchos residentes de Reus acaban haciendo trayectos cortos y lentos a la costa que antes hacían en quince minutos fluidos. Ese stop-and-go veraniego, sumado al calor, es la combinación perfecta para que se dispare la carbonilla en las válvulas de admisión de los motores N20 y B48, y para que el DPF de los diésel que solo se mueven por el centro de Reus se sature antes de lo esperado.\n\nTambién es habitual el desgaste de la caja ZF automática en quienes hacen el trayecto diario al aeropuerto de Reus o a la AP-7 para ir a Barcelona o Tarragona, un uso de autovía que en teoría cuida la caja, pero que combinado con los atascos turísticos veraniegos la somete a ciclos de calor y frío repetidos. Diagnosticamos con ISTA/Rheingold oficial cada caso, con el conocimiento de cómo cambia la conducción en Reus entre temporada baja y temporada alta.",
+  "servicesIntro": "En Reus cubrimos el mantenimiento CBS y las averías más propias de la zona: desgaste por calor seco, carbonilla en admisión por el tráfico turístico estacional y DPF saturado en trayectos urbanos cortos.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más repetimos en los BMW y MINI de Reus y su comarca:",
+  "commonIssues": [
+    {
+      "title": "Sellos VANOS resecos por el calor seco del Camp de Tarragona",
+      "body": "El calor seco y sostenido del interior, sin la brisa marina que suaviza la costa cercana, reseca antes de tiempo las juntas del VANOS. El síntoma típico es un ruido metálico al arrancar en frío que va a más con los meses."
+    },
+    {
+      "title": "Carbonilla en admisión por el tráfico turístico veraniego",
+      "body": "En julio y agosto, los trayectos cortos y lentos hacia Salou y Cambrils sustituyen el tráfico fluido habitual y aceleran la acumulación de carbonilla en la admisión de los motores N20 y B48. Limpiamos sin desmontar la culata."
+    },
+    {
+      "title": "DPF saturado en diésel de uso urbano dentro de Reus",
+      "body": "Quienes se mueven sobre todo por el centro de Reus, sin salir a menudo por la AP-7, acumulan hollín en el filtro de partículas hasta que salta el testigo en pleno atasco de temporada alta. Forzamos la regeneración con protocolo oficial."
+    },
+    {
+      "title": "Aire acondicionado y climatizador exigidos al límite",
+      "body": "Los veranos secos y prolongados de Reus hacen trabajar el climatizador automático de los BMW mucho más que en zonas costeras. Revisamos compresor, gas y sensores antes de que falle en pleno agosto."
+    },
+    {
+      "title": "Caja ZF sometida a ciclos térmicos por el tráfico estacional",
+      "body": "El contraste entre el uso fluido de la AP-7 hacia Barcelona y los atascos turísticos de temporada alta somete la caja automática ZF a ciclos de calor y frío repetidos. Revisamos aceite y adaptaciones con software oficial."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Mismo software oficial BMW/MINI que el concesionario de Tarragona, sin desplazarte fuera de Reus."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio que te damos antes de tocar el coche es el que pagas al final, sin extras de última hora."
+    },
+    {
+      "title": "Entendemos la temporada alta de la costa daurada",
+      "body": "Sabemos cómo cambia el uso de tu BMW entre temporada baja y los meses de tráfico turístico, y revisamos en consecuencia."
+    },
+    {
+      "title": "Especialistas en la marca, no un taller multimarca más",
+      "body": "Formación específica en BMW y MINI, con diagnósticos mucho más rápidos que en un taller generalista de la zona."
+    },
+    {
+      "title": "Garantía de fábrica protegida",
+      "body": "El reglamento europeo te permite mantener el coche en garantía en un taller independiente en Reus, y lo documentamos correctamente."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Reus y de toda la comarca del Baix Camp: Salou, Cambrils, Vila-seca y Riudoms, con acceso directo por la AP-7 y la N-340.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW pierde potencia en verano si vivo cerca de Reus?",
+      "a": "El calor seco del interior del Camp de Tarragona, combinado con el tráfico turístico hacia la costa en temporada alta, favorece la acumulación de carbonilla en la admisión de los motores de gasolina. Con ISTA comprobamos el estado real antes de proponer una limpieza."
+    },
+    {
+      "q": "¿Es normal que el testigo del DPF se encienda si solo uso el coche dentro de Reus?",
+      "a": "Sí, es de las averías más habituales que vemos: el filtro necesita tramos largos a régimen alto para regenerarse, algo que no ocurre en trayectos cortos por el centro. Comprobamos el filtro con diagnóstico ISTA antes de plantear su sustitución."
+    },
+    {
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente en Reus?",
+      "a": "Sí, el reglamento europeo lo permite siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial, algo que documentamos con el mismo software ISTA del concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, listo para la Costa Daurada",
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Reus sin perder la garantía de fábrica."
+}

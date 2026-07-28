@@ -7,8 +7,8 @@
   "lat": 37.89155,
   "lng": -4.77275,
   "metaTitle": "Taller BMW y MINI en Córdoba · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Córdoba. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Córdoba y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Córdoba con diagnóstico oficial ISTA y presupuesto cerrado. Precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "El calor del Guadalquivir en Córdoba es de los más extremos de Europa. Tu BMW o MINI necesita un especialista que lo sepa. Diagnóstico ISTA, precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Córdoba — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Córdoba sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Córdoba te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Córdoba, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Si Sevilla ya es exigente con la refrigeración de un BMW, Córdoba lo es todavía más: la capital cordobesa registra sistemáticamente algunas de las temperaturas más altas de toda Europa en verano, con jornadas que superan los 44-45 grados y noches que apenas bajan de 25. En ese contexto, el sistema de refrigeración de cualquier BMW trabaja en el límite absoluto de su diseño durante semanas seguidas, no solo en picos puntuales, y la bomba de agua eléctrica y el termostato electrónico —ya de por sí puntos débiles conocidos de la marca— fallan en Córdoba con una frecuencia que no tiene comparación con casi ninguna otra ciudad de esta red. No es raro que un propietario de Serie 3 o X3 que circula por la Ronda de Poniente o la Avenida del Aeropuerto en pleno julio note el ventilador funcionando a máxima potencia incluso parado en un semáforo.\n\nEl parque de BMW y MINI en Córdoba se concentra en Ciudad Jardín, El Brillante, la zona de la Fuensanta y las urbanizaciones cercanas a la Sierra, además de los desplazamientos por la N-IV y la autovía hacia Sevilla o Madrid. La combinación de calor extremo y trayectos con algo de autovía es, paradójicamente, menos dañina para el DPF diésel que el patrón puramente urbano de otras ciudades, porque los viajes hacia Sevilla o Madrid sí dan temperatura de regeneración suficiente. El problema en Córdoba se traslada más bien a los sellos VANOS: el calor extremo y sostenido reseca las juntas de goma del variador de válvulas con una rapidez notable, y en Serie 3 y Serie 5 de gasolina con cierto kilometraje vemos fugas de aceite en la zona de la culata antes de lo que marcaría el manual en climas templados.\n\nLa conducción por el centro histórico, con calles estrechas cerca de la Mezquita y tráfico de arranque y parada en la zona de Las Tendillas, penaliza igualmente a los diésel de uso más urbano, sumando el patrón de trayectos cortos al de calor extremo: en esos coches vemos DPF saturados con avisos de motor que en talleres sin ISTA se diagnostican mal, atribuyendo el problema a otras causas cuando en realidad es la combinación de hollín acumulado y sensores de temperatura de escape que trabajan al límite térmico.\n\nEl aire acondicionado en Córdoba no es un lujo sino una necesidad casi permanente durante media parte del año, lo que añade una carga constante sobre el motor y el alternador incluso en trayectos cortos, acelerando el desgaste de correas, poleas tensoras y del propio compresor de clima, un componente que en Córdoba sustituimos con más frecuencia que en ciudades de clima moderado. En motores de inyección directa N20 y B48, la carbonilla en válvulas de admisión también aparece antes de lo habitual por el estrés térmico general al que se somete el motor durante los meses de más calor.\n\nCon diagnóstico ISTA/Rheingold de fábrica anticipamos estos fallos propios del calor extremo cordobés antes de que se conviertan en una avería grave en pleno verano, a precio de taller independiente y sin comprometer tu garantía de fábrica.",
+  "servicesIntro": "En Córdoba priorizamos la refrigeración frente al calor más extremo de la red, la revisión de sellos VANOS y el mantenimiento CBS completo.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Córdoba.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Córdoba, una de las ciudades más calurosas de Europa.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Fallo de bomba de agua y termostato por calor extremo sostenido",
+      "body": "Con temperaturas que superan los 44-45 grados en verano, el sistema de refrigeración trabaja al límite durante semanas, no solo en picos puntuales."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sellos VANOS resecados por el calor más intenso de la red",
+      "body": "Las juntas de goma del variador de válvulas se agrietan antes en Córdoba que en casi cualquier otra ciudad, con fugas de aceite en la culata."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado en el centro histórico cerca de la Mezquita",
+      "body": "El tráfico de arranque y parada en Las Tendillas y el casco antiguo, sumado al calor extremo, acelera la saturación del filtro de partículas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Desgaste del compresor de aire acondicionado por uso casi permanente",
+      "body": "El clima cordobés obliga a un uso del aire acondicionado más intenso que en cualquier otra ciudad de la red, acortando la vida del compresor y las correas."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión por estrés térmico general",
+      "body": "El calor extremo sostenido acelera la formación de carbonilla en motores de inyección directa más que en climas templados."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en el calor más extremo de la red",
+      "body": "Córdoba exige más a la refrigeración que casi cualquier otra ciudad de España, y lo sabemos bien."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA idéntico al oficial",
+      "body": "El mismo nivel técnico que el concesionario de Córdoba, a precio de taller independiente."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Lo presupuestado es lo que se paga, sin extras de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Recambios homologados y mantenimiento registrado conforme al derecho europeo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en Ciudad Jardín, El Brillante y la Fuensanta",
+      "body": "Coordinamos recogida y entrega en las zonas de mayor concentración de la marca en la ciudad."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Córdoba y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Córdoba capital y su entorno: Villafranca de Córdoba, Villarrubia, Almodóvar del Río y Guadalcázar. Si tu BMW o MINI circula por la N-IV o la autovía hacia Sevilla o Madrid, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Córdoba?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi BMW se recalienta tanto en verano en Córdoba?",
+      "a": "Córdoba registra algunas de las temperaturas más altas de Europa, y eso exige al límite la bomba de agua eléctrica y el termostato electrónico. Lo diagnosticamos con ISTA antes de que sea una avería grave."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Debo revisar los sellos VANOS aunque mi coche no haga ruido?",
+      "a": "En Córdoba es especialmente recomendable revisarlos de forma preventiva a partir de cierto kilometraje, porque el calor extremo reseca las juntas antes de que aparezcan síntomas evidentes."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Pierdo la garantía si no llevo mi BMW al concesionario de Córdoba?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente si usamos recambios homologados y seguimos el plan oficial, como hacemos con ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Córdoba, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Córdoba y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el calor más extremo de España",
+  "closingCta": "Pide presupuesto cerrado con diagnóstico ISTA antes de que llegue el próximo verano cordobés."
 }

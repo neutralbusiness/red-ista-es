@@ -7,8 +7,8 @@
   "lat": 37.18817,
   "lng": -3.60667,
   "metaTitle": "Taller BMW y MINI en Granada · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Granada. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Granada y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Granada. Diagnóstico oficial ISTA, presupuesto cerrado y precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "Entre el frío de Sierra Nevada y el calor de la Vega, tu BMW o MINI en Granada necesita un especialista que entienda ese contraste extremo, no un multimarca cualquiera.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Granada, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Granada, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Granada te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Granada, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Granada tiene una geografía mecánica muy particular: en pocos kilómetros se pasa de la Vega, con clima suave y húmedo, a la Sierra, donde las temperaturas invernales caen con fuerza. Eso se refleja en el parque de BMW y MINI de la ciudad, con mucho Serie 3 y X1 con xDrive entre clientes del Realejo alto, la Zubia y Cájar que suben con frecuencia hacia el Trevenque o hacia las estaciones de esquí en invierno, y una presencia notable de MINI en el centro y Pedro Antonio de Alarcón, donde el tamaño compacto es casi obligado por el trazado histórico de calles estrechas.\n\nEl contraste climático es, sin duda, el rasgo mecánico más determinante de Granada. La capital tiene veranos secos y muy calurosos, con temperaturas que superan con frecuencia los 38-40°C en julio y agosto por el efecto de cubeta de la Vega, y a la vez inviernos con heladas nocturnas frecuentes, especialmente en los barrios más elevados como el Albaicín o el Sacromonte. Ese salto extremo entre un verano casi desértico y un invierno con hielo real es muy duro para los sellos de VANOS de los motores N20 y B48, que se resecan antes con los cambios bruscos de temperatura, y para el termostato electrónico, que tiene que gestionar un rango de trabajo mucho más amplio que en ciudades de clima más estable.\n\nLa proximidad a Sierra Nevada añade otro factor único en Granada: muchos propietarios de X1, X3 y X5 con tracción xDrive suben con regularidad a la estación de esquí por la carretera de Sierra Nevada, un trayecto de fuerte desnivel y curvas continuas que exige mucho de los frenos y de los amortiguadores EDC adaptativos. Vemos con frecuencia un desgaste de pastillas más rápido en vehículos que hacen ese recorrido habitualmente, así como amortiguadores que necesitan revisión antes de lo esperado por el uso combinado de montaña y ciudad.\n\nEn el tráfico urbano, la Vega también genera un fenómeno propio: la calima y el polvo en suspensión procedente de los cultivos cercanos, junto con episodios de contaminación atmosférica retenida por la orografía de cubeta que rodea la ciudad, obligan a revisar con más frecuencia el filtro de habitáculo y el filtro de aire. En los diésel de trayecto corto urbano, típico de quien solo se mueve entre el centro, el Zaidín y Pedro Antonio de Alarcón sin salir a la A-44 o a la Ronda Sur, la saturación de DPF es una de las averías que más tratamos, especialmente marcada en los meses de más tráfico retenido en la ciudad.\n\nRecibimos clientes de toda la ciudad y del área metropolitana: Armilla, Maracena, Las Gabias, la Zubia y Ogíjares, así como propietarios de segunda residencia en la zona de Sierra Nevada que mantienen su BMW o MINI en Granada capital.",
+  "servicesIntro": "En Granada adaptamos el mantenimiento de BMW y MINI al contraste extremo entre el calor de la Vega y el frío de Sierra Nevada, con el mismo protocolo ISTA que la red oficial.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Granada.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en BMW y MINI de clientes de Granada:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Sellos VANOS resecados por el contraste Vega-Sierra",
+      "body": "El salto entre veranos que superan los 38-40°C e inviernos con heladas frecuentes acelera el deterioro de las juntas de VANOS en motores N20 y B48."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Desgaste de frenos por las subidas a Sierra Nevada",
+      "body": "Los propietarios de X1, X3 y X5 que suben con regularidad a la estación de esquí exigen mucho más al sistema de frenado que en un uso puramente urbano."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado por tráfico retenido en la cubeta granadina",
+      "body": "La orografía de Granada retiene el tráfico en el centro y el Zaidín, y los diésel que no salen a la A-44 acumulan hollín en el filtro de partículas con facilidad."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Filtro de habitáculo colmatado por calima y polvo de la Vega",
+      "body": "El polvo en suspensión procedente de los cultivos cercanos y los episodios de calima obligan a revisar el filtro de habitáculo con más frecuencia de lo habitual."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Termostato electrónico exigido por el rango térmico extremo",
+      "body": "El amplio contraste de temperaturas entre el día y la noche, y entre la Vega y la Sierra, somete al termostato electrónico a un desgaste mayor que en climas estables."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA real adaptado al contraste granadino",
+      "body": "Usamos el mismo sistema que la red oficial de BMW y MINI y sabemos interpretar los códigos de avería típicos de un clima tan extremo como el de Granada."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos el desgaste de las subidas a Sierra Nevada",
+      "body": "Revisamos frenos y amortiguadores con criterios específicos para vehículos que combinan uso urbano y trayectos de montaña habituales."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Tras el diagnóstico recibes un presupuesto cerrado que no cambia sin tu autorización expresa."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes la garantía europea de fábrica",
+      "body": "Reparar en nuestro taller independiente especializado no anula tu garantía, siempre con recambios homologados y el plan de mantenimiento oficial."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Precio de taller independiente en Granada",
+      "body": "Mismo nivel de diagnóstico que el concesionario oficial, con un precio más ajustado por no tener la estructura de costes de una gran red."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Granada y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Granada capital y su área metropolitana: Armilla, Maracena, Las Gabias, la Zubia, Ogíjares, Cájar y Peligros. También recibimos clientes desplazados desde Sierra Nevada y la zona de la Vega.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Granada?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Es normal que mi BMW sufra más desgaste de frenos si subo con frecuencia a Sierra Nevada?",
+      "a": "Sí, el desnivel continuo y las curvas de la carretera de Sierra Nevada exigen mucho más al sistema de frenado que un uso puramente urbano, así que conviene revisarlo con más frecuencia si haces ese trayecto a menudo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿La calima de la Vega puede afectar al aire acondicionado o al filtro de mi BMW?",
+      "a": "Sí, el polvo en suspensión de los cultivos cercanos colmata el filtro de habitáculo antes de lo esperado; recomendamos revisarlo en cada mantenimiento, especialmente en primavera y verano."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo mantener la garantía de fábrica de mi BMW comprado en Granada si vengo a este taller?",
+      "a": "Sí, el derecho europeo lo garantiza siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial con diagnóstico ISTA, tal y como hacemos aquí."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Granada, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Granada y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW y MINI que entiende el contraste de Granada",
+  "closingCta": "Solicita diagnóstico ISTA y presupuesto cerrado para tu BMW o MINI en Granada."
 }

@@ -7,7 +7,7 @@
   "lat": 40.32718,
   "lng": -3.7635,
   "metaTitle": "Taller BMW y MINI en Leganés · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Leganés. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
+  "metaDescription": "Taller especialista BMW y MINI en Leganés. Diagnóstico oficial ISTA, precio de taller independiente y presupuesto cerrado. Mantén tu garantía de fábrica.",
   "heroSubtitle": "¿Tienes un BMW o un MINI en Leganés y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Leganés: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Leganés, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Leganés te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Leganés, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Leganés tiene un perfil de propietario de BMW y MINI muy marcado por la Universidad Carlos III y por su condición de ciudad dormitorio bien comunicada con Madrid: vemos mucho Serie 1 y MINI entre profesores, investigadores y jóvenes profesionales del entorno del campus de Leganés Tecnológico, junto con Serie 3 y X1 diésel de quienes hacen el trayecto diario hacia Madrid por la A-42 o la M-40. Barrios como Solagua, San Nicasio y el desarrollo más reciente de Arroyo Culebro concentran el perfil de mayor poder adquisitivo de la ciudad, con más presencia de X3 y Serie 5.\n\nEl patrón de uso en Leganés combina trayectos cortos dentro del núcleo urbano de Zarzaquemada y El Carrascal con salidas rápidas y frecuentes hacia Madrid por la M-40 y la A-42, una autovía que en hora punta se convierte en una sucesión de retenciones que somete a los turbos y a las cajas ZF a un uso muy exigente. Es habitual que lleguen a nuestro taller diésel con síntomas de fallo de turbo por el uso repetido en régimen bajo seguido de aceleraciones bruscas para incorporarse al tráfico, un patrón muy característico de quien conduce cada día entre Leganés y Madrid.\n\nLa proximidad del campus universitario también deja huella en el tipo de averías: muchos MINI y Serie 1 de compra reciente por gente joven llegan con carbonilla en válvulas de admisión por uso casi exclusivamente urbano, trayectos cortos entre el campus, el centro y las zonas de ocio, sin apenas kilometraje de carretera que ayude a la autolimpieza del motor. Es una de las averías que más solucionamos en coches con pocos años y kilometrajes moderados, precisamente porque el patrón de conducción, no el estado del motor, es el origen del problema.\n\nPor último, el tráfico denso en los accesos a la M-40 y la cercanía de zonas industriales compartidas con Fuenlabrada y Alcorcón generan el mismo desgaste de suspensión y frenos que vemos en el resto del sur de Madrid, aunque en Leganés se combina con un parque de coches algo más joven gracias a la población universitaria y profesional. Con diagnóstico ISTA/Rheingold ajustamos cada revisión al patrón de uso real de cada propietario, en lugar de aplicar una tabla de mantenimiento genérica.",
+  "servicesIntro": "En Leganés ofrecemos diagnóstico ISTA, revisión de turbo y limpieza de válvulas de admisión para BMW y MINI, con presupuesto cerrado adaptado al trayecto diario hacia Madrid.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Leganés.",
+  "commonIssuesIntro": "Estas son las averías más habituales en BMW y MINI de Leganés, marcadas por el trayecto diario a Madrid y el uso universitario del casco urbano.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Desgaste de turbo por retenciones en la A-42 y la M-40",
+      "body": "El uso repetido en régimen bajo seguido de aceleraciones bruscas para incorporarse al tráfico de la M-40 adelanta el desgaste del turbo en diésel que hacen el trayecto diario a Madrid."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Carbonilla en válvulas de admisión en coches jóvenes de uso universitario",
+      "body": "Los MINI y Serie 1 de compra reciente con uso casi exclusivamente urbano entre el campus y el centro acumulan carbonilla en las válvulas de admisión antes de lo esperado para su kilometraje."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja automática ZF exigida por retenciones diarias",
+      "body": "El tráfico denso y repetido en los accesos a la M-40 somete a la caja ZF a un desgaste mayor del previsto para su kilometraje real."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Desgaste de suspensión y frenos por tráfico compartido industrial",
+      "body": "La proximidad a zonas industriales de Fuenlabrada y Alcorcón genera un patrón de desgaste de suspensión y frenos similar al del resto del sur de Madrid."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "DPF con regeneraciones incompletas en uso mixto campus-Madrid",
+      "body": "La combinación de trayectos cortos dentro de Leganés con salidas puntuales a Madrid genera regeneraciones incompletas del filtro de partículas en varios diésel que revisamos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold sin desplazarte a Madrid capital",
+      "body": "Mismo nivel de diagnóstico oficial que un concesionario, sin salir de Leganés."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialistas en coches de uso universitario y de trayecto diario",
+      "body": "Sabemos ajustar el mantenimiento al patrón real de uso, tanto de estudiantes como de quienes viajan cada día a Madrid."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Sin sorpresas al recoger el coche, el precio del diagnóstico es el precio final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Reparamos conforme al derecho europeo a mantener la garantía oficial en taller independiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cerca del campus y bien comunicado con toda la ciudad",
+      "body": "Fácil acceso desde Zarzaquemada, San Nicasio y Arroyo Culebro sin cruzar Madrid."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Leganés y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Leganés y su entorno: Getafe, Fuenlabrada, Alcorcón y Madrid capital (zona sur), con recogida concertada en Zarzaquemada, San Nicasio y Arroyo Culebro.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Leganés?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi MINI casi nuevo tiene tirones si solo lo uso para moverme por Leganés?",
+      "a": "Es un síntoma típico de carbonilla en válvulas de admisión por uso exclusivamente urbano, muy habitual en coches jóvenes que apenas hacen carretera. Lo confirmamos con diagnóstico ISTA."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo reparar mi BMW en un taller independiente de Leganés sin perder la garantía?",
+      "a": "Sí, el derecho europeo lo permite siempre que usemos recambios homologados y quede registrado el mantenimiento, tal y como lo hacemos con diagnóstico ISTA."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿El tráfico diario por la M-40 puede dañar el turbo de mi BMW?",
+      "a": "Sí, las retenciones frecuentes con aceleraciones bruscas para incorporarse al tráfico son más agresivas para el turbo que un uso de carretera fluido, y adelantan su desgaste."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Leganés, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Leganés y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado por especialistas cerca del campus de Leganés",
+  "closingCta": "Pide tu diagnóstico ISTA en Leganés y recibe presupuesto cerrado antes de tocar el coche."
 }

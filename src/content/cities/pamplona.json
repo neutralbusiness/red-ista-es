@@ -7,8 +7,8 @@
   "lat": 42.81687,
   "lng": -1.64323,
   "metaTitle": "Taller BMW y MINI en Pamplona · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Pamplona. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Pamplona y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Pamplona. Diagnóstico oficial ISTA, precio de taller independiente y presupuesto cerrado. Mantén tu garantía de fábrica.",
+  "heroSubtitle": "¿Tienes un BMW o un MINI en Pamplona y quieres un especialista que entienda el frío navarro, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Pamplona — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Pamplona, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Pamplona te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Pamplona, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Pamplona tiene uno de los parques de BMW por habitante más altos del norte de España, y se nota en el tipo de coche que recibimos: muchas Serie 3 y Serie 5 diésel bien equipadas, X3 y X5 en zonas como Iturrama, el Ensanche y la urbanización de Sarriguren, y un número creciente de MINI Clubman y Countryman entre profesionales de Zizur Mayor y Barañáin. El poder adquisitivo medio-alto de buena parte de estos barrios se traduce en coches mejor mantenidos, pero también en equipamiento más sofisticado (suspensión adaptativa, caja ZF, sistemas de asistencia) que exige un diagnóstico fino cuando falla, no una revisión genérica.\n\nEl clima de Pamplona es el gran protagonista de las averías que vemos aquí, y es radicalmente distinto al de una ciudad del sur: inviernos largos y húmedos, con heladas frecuentes entre noviembre y marzo, cambios bruscos de temperatura y la humedad atlántica constante que llega desde el norte de Navarra. Esto castiga especialmente el sistema de refrigeración y las baterías: termostatos electrónicos que se quedan abiertos por el frío sostenido, bombas de agua eléctricas que dan problemas tras varios inviernos, y baterías de 12V que fallan antes de lo esperado en las heladas de enero y febrero, con el consiguiente aviso de fallos eléctricos en cascada tan típico de un BMW moderno.\n\nLa combinación de trayectos cortos dentro del Segundo Ensanche o Rotxapea con salidas rápidas por la Ronda de Pamplona (PA-30) o la Autovía del Camino (A-12) hacia Barañáin o Villava genera un patrón mixto que favorece dos averías muy concretas: carbonilla en válvulas de admisión en los gasolina de inyección directa (B48, B58) por el uso urbano constante, y fugas en los sellos VANOS por los ciclos térmicos bruscos entre el frío de la mañana y el motor caliente tras una hora conduciendo por carretera, algo habitual en quienes se desplazan a diario hacia Sarriguren o el polígono de Landaben.\n\nAdemás, la sal y los fundentes que se usan en las calzadas durante las nevadas ocasionales de Pamplona aceleran la corrosión de los bajos y de las líneas de freno en los coches que no reciben un lavado de bajos regular en invierno. Con diagnóstico ISTA/Rheingold detectamos estos patrones con la misma precisión que el concesionario oficial de la zona, pero con la cercanía y el precio de un taller pamplonés.",
+  "servicesIntro": "En Pamplona ofrecemos diagnóstico ISTA, revisión del sistema de refrigeración y VANOS, y mantenimiento CBS para BMW y MINI, con presupuesto cerrado adaptado al frío navarro.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Pamplona.",
+  "commonIssuesIntro": "Estas son las averías más habituales en BMW y MINI de Pamplona, marcadas por los inviernos largos y la humedad atlántica.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Fallo de batería 12V en las heladas de invierno",
+      "body": "Los inviernos largos y húmedos de Pamplona, con heladas frecuentes de noviembre a marzo, adelantan el fallo de la batería auxiliar y provocan avisos eléctricos en cascada típicos de BMW modernos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Termostato electrónico y bomba de agua por frío sostenido",
+      "body": "El frío constante y los cambios bruscos de temperatura fuerzan al sistema de refrigeración, con termostatos que se quedan abiertos y bombas de agua eléctricas que fallan antes de lo esperado."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Sellos VANOS con fugas por ciclos térmicos bruscos",
+      "body": "El paso de arranques en frío intenso a conducción sostenida por la A-12 o la Ronda de Pamplona somete al VANOS a ciclos térmicos exigentes, con las clásicas fugas de aceite en los sellos."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Carbonilla en válvulas de admisión por uso urbano",
+      "body": "El tráfico del Ensanche y Rotxapea con trayectos cortos favorece la acumulación de carbonilla en motores de inyección directa B48 y B58, con pérdida de ralentí y tirones."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Corrosión de bajos y líneas de freno por sal de deshielo",
+      "body": "La sal y los fundentes usados en las calzadas durante las nevadas ocasionales aceleran la corrosión de bajos y líneas de freno si no se hace lavado de bajos regular en invierno."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold igual que en concesionario",
+      "body": "Mismo nivel de diagnóstico oficial que un concesionario de Navarra, con precio de taller independiente pamplonés."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialistas en el clima atlántico navarro",
+      "body": "Sabemos cómo se comporta un BMW o MINI tras varios inviernos húmedos y heladas seguidas, y lo revisamos con ese criterio."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Sin sorpresas al recoger el coche: el precio del diagnóstico es el precio final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Reparamos conforme al derecho europeo a mantener la garantía oficial reparando en taller independiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato cercano para un parque de coches exigente",
+      "body": "Conocemos bien el nivel de equipamiento de los BMW y MINI de Iturrama, Ensanche y Sarriguren, y diagnosticamos con la precisión que ese equipamiento merece."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Pamplona y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Pamplona y a toda la Cuenca: Barañáin, Zizur Mayor, Villava, Burlada, Berriozar y Sarriguren, con recogida concertada en el Ensanche, Iturrama y Rotxapea.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Pamplona?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo llevar mi BMW a un taller independiente en Pamplona sin perder la garantía?",
+      "a": "Sí. El derecho europeo permite mantener la garantía de fábrica reparando en un taller independiente siempre que se usen recambios homologados y quede registrado el mantenimiento, que es lo que hacemos con diagnóstico ISTA."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué falla la batería de mi BMW en invierno en Pamplona?",
+      "a": "El frío intenso reduce la capacidad de la batería y aumenta la demanda eléctrica en el arranque, un patrón muy marcado en los inviernos largos de la Cuenca de Pamplona que adelanta el fallo respecto a climas más suaves."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Es normal el olor a aceite quemado bajo el capó en invierno?",
+      "a": "Puede indicar una fuga en los sellos VANOS, más habitual tras ciclos de frío intenso seguidos de conducción sostenida. Lo comprobamos con diagnóstico ISTA antes de que derive en una avería mayor."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Pamplona, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Pamplona y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el invierno navarro por especialistas",
+  "closingCta": "Pide tu diagnóstico ISTA en Pamplona y recibe presupuesto cerrado antes de tocar el coche."
 }

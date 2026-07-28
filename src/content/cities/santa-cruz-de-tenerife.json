@@ -7,8 +7,8 @@
   "lat": 28.46824,
   "lng": -16.25462,
   "metaTitle": "Taller BMW y MINI en Santa Cruz de Tenerife · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Santa Cruz de Tenerife. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Santa Cruz de Tenerife y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Santa Cruz de Tenerife. Diagnóstico ISTA, protección contra la corrosión salina y presupuesto cerrado. Sin perder garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI vive todo el año con humedad salina y cuestas y necesitas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Santa Cruz de Tenerife — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Santa Cruz de Tenerife sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima suave de las islas, sin apenas variación estacional, hace que el coche esté en uso constante durante todo el año, sin la pausa invernal que reduce el desgaste en otras zonas de España. La proximidad al mar y la calima ocasional aceleran además la corrosión de elementos metálicos, un punto que revisamos con atención en cada visita.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Santa Cruz de Tenerife te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Santa Cruz de Tenerife, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Santa Cruz de Tenerife tiene un parque de BMW y MINI muy singular dentro de la Red ISTA: aquí el clima subtropical hace que casi no exista lo que en la Península llamamos 'invierno duro', pero a cambio la humedad constante y la cercanía al mar todo el año generan un desgaste distinto y más silencioso. Vemos muchos X1, X3 y Serie 3 que suben a diario desde el centro hacia zonas como Ofra, Taco, Barranco Grande o La Laguna por la Autopista del Norte (TF-5), y bastante MINI Countryman y Serie 1 en manos de profesionales liberales que se mueven entre Santa Cruz y La Laguna, dos municipios que en la práctica funcionan como uno solo en cuanto a tráfico diario.\n\nEl factor más determinante en Tenerife, y el que más nos diferencia de un taller peninsular, es la corrosión por salinidad. El aire cargado de sal marina, unido a la calima que llega desde el Sahara varias veces al año, ataca de forma silenciosa los bajos, los conectores eléctricos y las pinzas de freno de cualquier coche que no reciba un tratamiento preventivo. En un BMW con amortiguadores EDC o suspensión adaptativa esto se traduce en sensores de altura y conectores que empiezan a dar fallos intermitentes antes de lo esperado, algo que en un taller sin experiencia insular se diagnostica mal porque no está acostumbrado a ver ese patrón de corrosión eléctrica.\n\nLas cuestas constantes de la ciudad, desde el puerto hasta barrios como Ofra o el entorno de la Rambla de Santa Cruz, exigen mucho de los frenos y de las cajas automáticas ZF: en tráfico lento y con pendiente, la caja trabaja más de la cuenta en modo retención, y es habitual que lleguen vehículos con el aceite de la ZF degradado antes del intervalo teórico. También vemos con frecuencia problemas de carbonilla en válvulas de admisión en motores de inyección directa (N20, B48, B58) por el patrón de conducción urbana-cuesta que apenas deja que el motor respire a régimen alto.\n\nPor último, la combinación de calor húmedo casi constante y trayectos cortos entre Santa Cruz y La Laguna hace que el aire acondicionado esté prácticamente siempre encendido, lo que adelanta fugas de gas en el circuito y desgaste del compresor. Con diagnóstico ISTA/Rheingold localizamos estas fugas y el estado real de la instalación eléctrica antes de que la corrosión salina las convierta en un problema mayor, algo especialmente importante en una isla donde traer una pieza puede tardar más que en la Península y conviene anticiparse.",
+  "servicesIntro": "En Santa Cruz de Tenerife somos especialistas en diagnóstico ISTA, protección anticorrosión y mantenimiento CBS para BMW y MINI, con presupuesto cerrado adaptado a la logística insular.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Santa Cruz de Tenerife.",
+  "commonIssuesIntro": "Estas son las averías más habituales en BMW y MINI de Santa Cruz de Tenerife, marcadas por la salinidad, la humedad y las cuestas de la ciudad.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión salina en bajos y conectores eléctricos",
+      "body": "La humedad marina constante ataca los bajos, las pinzas de freno y los conectores eléctricos antes de lo habitual en la Península, provocando fallos intermitentes difíciles de diagnosticar sin experiencia insular."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sensores de suspensión EDC afectados por la sal",
+      "body": "En modelos con amortiguación adaptativa, la corrosión en los conectores de los sensores de altura genera testigos de suspensión encendidos de forma intermitente, típico de vehículos que llevan años cerca del puerto."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja automática ZF exigida por las cuestas constantes",
+      "body": "El tráfico lento en pendiente entre el puerto, el centro y La Laguna somete a la caja ZF a un trabajo de retención constante que degrada el aceite antes del intervalo teórico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Carbonilla en válvulas de admisión por conducción urbana en cuesta",
+      "body": "El patrón de conducción a bajo régimen en las subidas de la ciudad favorece la acumulación de carbonilla en motores de inyección directa N20, B48 y B58, con tirones y pérdida de ralentí."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Fugas de A/C por uso casi permanente",
+      "body": "Con el aire acondicionado encendido prácticamente todo el año por la humedad subtropical, el circuito sufre fugas de gas y desgaste de compresor antes que en climas más secos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en corrosión salina insular",
+      "body": "Sabemos identificar y tratar el desgaste específico que provoca el aire marino de Santa Cruz, algo que un taller peninsular no está entrenado para ver a tiempo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA/Rheingold sin cruzar a la Península",
+      "body": "Tienes el mismo nivel de diagnóstico oficial que en un concesionario, sin depender de envíos ni esperas de la Península para el software."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado pensado para la logística insular",
+      "body": "Anticipamos la disponibilidad de piezas para no dejarte el coche parado más de lo necesario."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Reparamos conforme al derecho europeo a mantener la garantía oficial en taller independiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Conocemos el día a día entre Santa Cruz y La Laguna",
+      "body": "Entendemos el patrón real de conducción de la isla, cuestas, tráfico y trayectos cortos, para diagnosticar con criterio y no por libro genérico."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Santa Cruz de Tenerife y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Santa Cruz de Tenerife y su área metropolitana: La Laguna, El Rosario, Tegueste, Candelaria y Tacoronte, con recogida concertada en el centro, Ofra, Taco y Barranco Grande.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Santa Cruz de Tenerife?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La sal del mar daña realmente mi BMW en Santa Cruz de Tenerife?",
+      "a": "Sí, de forma más agresiva que en una ciudad de interior. Recomendamos revisión anual de bajos y conectores eléctricos, especialmente en vehículos con suspensión adaptativa EDC."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo reparar mi BMW o MINI en un taller independiente sin perder la garantía en Tenerife?",
+      "a": "Sí, el derecho europeo lo permite en toda España, incluidas las islas, siempre que usemos recambios homologados y quede registrado el mantenimiento, como hacemos con diagnóstico ISTA."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Por qué mi caja automática ZF va más brusca en las cuestas de Santa Cruz?",
+      "a": "El tráfico lento en pendiente constante degrada el aceite de la caja antes de lo previsto. Con diagnóstico ISTA comprobamos el estado real de la transmisión y anticipamos el cambio de aceite."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Santa Cruz de Tenerife, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Santa Cruz de Tenerife y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, protegido del clima insular por especialistas",
+  "closingCta": "Pide tu diagnóstico ISTA en Santa Cruz de Tenerife y recibe presupuesto cerrado antes de intervenir."
 }

@@ -7,8 +7,8 @@
   "lat": 36.72016,
   "lng": -4.42034,
   "metaTitle": "Taller BMW y MINI en Málaga · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Málaga. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Málaga y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Málaga con diagnóstico oficial ISTA y presupuesto cerrado. Precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "Sol, sal marina y la Costa del Sol todo el año: tu BMW o MINI en Málaga necesita un especialista que entienda ese desgaste. Diagnóstico ISTA, precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Málaga — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Málaga, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Málaga te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Málaga, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Málaga combina dos factores que rara vez se dan juntos con esta intensidad: sol prácticamente todo el año y una costa muy presente en el día a día del propietario de BMW. En barrios como El Limonar, Pedregalejo, Cerrado de Calderón o las urbanizaciones de El Candado, el coche vive a pocos metros del mar de forma permanente, y eso significa salitre constante sobre la carrocería, los bajos y sobre todo los conectores eléctricos y las líneas de freno. Es habitual encontrar en revisión discos de freno con corrosión superficial antes de lo esperado y sensores de aparcamiento con fallos intermitentes por oxidación en el conector, algo que en talleres genéricos de interior directamente no se busca porque no es su patrón habitual.\n\nEl sol intenso y sostenido, con muchísimas más horas de insolación directa que la media española, tiene un efecto claro sobre el sistema de refrigeración: el habitáculo del motor alcanza temperaturas muy altas en poco tiempo, y en trayectos por la Costa del Sol hacia Marbella o Fuengirola por la A-7, con tráfico denso en temporada alta, la bomba de agua eléctrica y el termostato electrónico trabajan al límite de forma constante, no solo en los picos de agosto. Málaga capital, además, tiene un parque muy activo de X3, X5 y Serie 5 que se usan para trayectos largos hacia la Costa, y es en esos viajes con calor sostenido y velocidad de crucero donde antes se manifiesta un fallo de refrigeración incipiente.\n\nEl tráfico del centro y del Soho, unido a los desplazamientos cortos y frecuentes entre el Puerto, El Palo y el centro, penaliza especialmente a los diésel con DPF, que en Málaga capital acumulan hollín más rápido de lo que muchos propietarios esperan porque asumen que, al vivir en una ciudad soleada y sin atascos gigantes como Madrid, su coche está a salvo de ese problema. No es así: el patrón de arranque y parada en el centro histórico y la Alameda es suficiente para que un 320d o un X1 diésel no alcance temperatura de regeneración en el día a día.\n\nEn los motores de gasolina de inyección directa tan presentes en MINI y en la gama BMW más orientada al ocio de la Costa del Sol, la carbonilla en válvulas de admisión aparece con la misma lógica que en cualquier ciudad de uso urbano mixto, pero aquí se suma un matiz propio: el uso intensivo del aire acondicionado durante buena parte del año añade carga constante al motor incluso en trayectos cortos hacia el centro o Teatinos, acelerando el desgaste de correas, poleas y del propio compresor de clima.\n\nCon diagnóstico ISTA/Rheingold identificamos estos patrones específicos de la costa malagueña —salitre, sol constante, tráfico turístico— con la misma precisión que el concesionario oficial, a precio de taller independiente y sin poner en riesgo tu garantía de fábrica.",
+  "servicesIntro": "En Málaga trabajamos especialmente la protección anticorrosión por salitre, la refrigeración frente al sol constante y el mantenimiento CBS completo.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Málaga.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Málaga capital y la Costa del Sol.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión por salitre en frenos y conectores",
+      "body": "Los coches que viven cerca de El Limonar, Pedregalejo o El Candado sufren oxidación prematura en discos de freno y sensores de aparcamiento por la cercanía constante al mar."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sobrecarga de refrigeración por sol intenso todo el año",
+      "body": "La bomba de agua eléctrica y el termostato electrónico trabajan al límite de forma casi constante, no solo en agosto, por las muchas horas de insolación directa de Málaga."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado por tráfico urbano en el centro y el Soho",
+      "body": "El patrón de arranque y parada en el centro histórico impide que los diésel alcancen temperatura de regeneración con la frecuencia necesaria."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Desgaste de correas por uso intensivo del aire acondicionado",
+      "body": "El clima cálido casi todo el año obliga a un uso constante del clima, con la carga extra que eso supone para correas y poleas tensoras."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Fallos de refrigeración en trayectos largos hacia la Costa del Sol",
+      "body": "Los viajes por la A-7 hacia Marbella o Fuengirola en temporada alta, con calor y tráfico denso, revelan antes cualquier debilidad del sistema de refrigeración."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en el desgaste por salitre",
+      "body": "Sabemos exactamente qué revisar en un coche que vive cerca del mar en Málaga, algo que no todos los talleres tienen en cuenta."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA idéntico al oficial",
+      "body": "El mismo nivel técnico que el concesionario de Málaga, a precio de taller independiente."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Lo presupuestado es lo que se paga, sin añadidos de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Recambios homologados y mantenimiento registrado conforme al derecho europeo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en El Limonar, Pedregalejo y Teatinos",
+      "body": "Coordinamos recogida y entrega en las zonas de mayor concentración de la marca en la ciudad."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Málaga y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Málaga capital y la Costa del Sol: Marbella, Fuengirola, Torremolinos, Benalmádena, Mijas y Rincón de la Victoria. Si tu BMW o MINI circula habitualmente por la A-7, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Málaga?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Vivir cerca del mar en Málaga daña realmente a mi BMW?",
+      "a": "Sí, la exposición constante al salitre acelera la corrosión en bajos, frenos y conectores eléctricos. Lo revisamos específicamente en cada mantenimiento."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi diésel entra en modo protegido si no vivo en el centro con atascos?",
+      "a": "Málaga tiene menos atascos masivos que otras capitales, pero el patrón de arranque y parada del centro y el Soho basta para que el DPF no se regenere solo."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Pierdo la garantía si no llevo mi BMW al concesionario de Málaga?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente si usamos recambios homologados y seguimos el plan oficial, como hacemos con ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Málaga, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Málaga y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, protegido del sol y la sal de Málaga",
+  "closingCta": "Solicita presupuesto cerrado con diagnóstico ISTA y mantén la garantía de fábrica intacta."
 }

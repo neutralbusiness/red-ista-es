@@ -7,8 +7,8 @@
   "lat": 39.47391,
   "lng": -0.37966,
   "metaTitle": "Taller BMW y MINI en Valencia · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Valencia. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Valencia y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Valencia con diagnóstico oficial ISTA y presupuesto cerrado. Mantén tu garantía de fábrica pagando precio de taller independiente.",
+  "heroSubtitle": "¿Tu BMW o MINI se mueve cada día entre la V-30 y el centro de Valencia? Diagnóstico oficial ISTA, precio de taller independiente, garantía de fábrica intacta.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Valencia, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Valencia, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Valencia te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Valencia, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "En Valencia el parque de BMW y MINI se concentra en dos perfiles muy distintos que acaban en el mismo elevador: el propietario de Serie 3 o X3 que hace vida entre Pio XII, el entorno de la Ciudad de las Ciencias y las urbanizaciones de El Saler, y el que vive en Godella, Rocafort o Bétera y cada mañana se traga la V-21 o la CV-35 para entrar a trabajar. Son perfiles de uso muy distinto pero con las mismas averías de fondo, porque el denominador común es el tráfico de la ciudad: Avenida del Cid, Gran Vía y la Pista de Silla en hora punta convierten cualquier trayecto de quince minutos en un festival de arranques y paradas que castiga especialmente a los diésel.\n\nEsa conducción urbana fragmentada es la causa número uno de los DPF saturados que vemos entrar al taller, sobre todo en 320d y X1 xDrive20d que apenas hacen autovía entre semana y solo respiran de verdad los fines de semana camino de la Albufera o la Costa Blanca. El filtro de partículas necesita temperatura de escape sostenida para regenerarse solo, y un coche que va del garaje al parking del trabajo por calles con semáforos cada cien metros no se la da nunca. El resultado es el testigo de motor encendido, pérdida de potencia en modo protegido y, si se ignora, una regeneración forzada en cabina que puede acabar en sustitución de filtro.\n\nEl otro gran protagonista en Valencia es la sal. La proximidad al mar, la humedad de la Albufera y el uso habitual de la costa —Patacona, la Malvarrosa, El Saler, Cullera los fines de semana— aceleran la corrosión en bajos, discos de freno y conectores eléctricos de una forma que no se ve igual en un BMW que solo circula por el interior. Vemos con más frecuencia de la normal líneas de freno oxidadas antes de tiempo y sensores de ABS que empiezan a dar problemas intermitentes por corrosión en el conector, algo que en talleres genéricos se diagnostica mal porque no conocen el patrón.\n\nEn motores de gasolina de inyección directa, N20 y B48 sobre todo en Serie 1, Serie 3 y X1, la carbonilla en las válvulas de admisión es otro clásico que en Valencia se agrava por el mismo patrón de trayectos cortos urbanos combinado con el calor húmedo del verano, que hace que el aceite se degrade algo más rápido si no se respetan los intervalos. Y en el apartado de refrigeración, los veranos valencianos con humedad alta exigen que la bomba de agua eléctrica y el termostato electrónico estén en perfecto estado; un fallo que en climas secos tarda meses en notarse aquí se manifiesta en semanas, con sobrecalentamientos en atascos de la Gran Vía o la Ronda Norte en pleno agosto.\n\nTrabajamos con diagnóstico ISTA/Rheingold de fábrica, así que detectamos exactamente lo que detectaría el concesionario oficial de Valencia, pero facturamos precio de taller independiente y sin tocar tu derecho a mantener la garantía de fábrica mientras dure el mantenimiento programado con recambios homologados.",
+  "servicesIntro": "Desde el mantenimiento CBS hasta reparaciones de VANOS, turbo o caja ZF, en Valencia cubrimos todo lo que necesita un BMW o MINI con las mismas herramientas que usa la marca.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Valencia.",
+  "commonIssuesIntro": "Estas son las averías que más vemos entrar por la puerta según el modelo y la zona de Valencia donde se mueve el coche.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "DPF saturado por trayectos cortos urbanos",
+      "body": "Los diésel que hacen ciudad entre Pio XII, Blasco Ibáñez y el centro sin salir a autovía a menudo no alcanzan la temperatura de regeneración. Detectamos el patrón con ISTA antes de que derive en sustitución del filtro."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Corrosión por cercanía al mar y a la Albufera",
+      "body": "Bajos, líneas de freno y conectores de sensores ABS sufren más en los coches que frecuentan Malvarrosa, El Saler y la costa de Cullera. Revisamos estos puntos en cada CBS."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Sellos VANOS con fugas en motores de gasolina veteranos",
+      "body": "En Serie 3 y Serie 1 con más de 120.000 km es habitual el ruido metálico en frío y la fuga de aceite en la zona del variador de válvulas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sobrecalentamiento en atascos veraniegos",
+      "body": "La bomba de agua eléctrica y el termostato electrónico sufren especialmente en los atascos de la Gran Vía y la Ronda Norte en los meses de más calor y humedad."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión (N20/B48)",
+      "body": "El uso urbano fragmentado favorece la acumulación de carbonilla en motores de inyección directa, con pérdida de suavidad de ralentí y tirones en frío."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA real, no genérico",
+      "body": "El mismo software que usa el concesionario oficial de Valencia, para que ninguna avería quede a medio diagnosticar por falta de herramienta."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos el patrón de la sal",
+      "body": "Sabemos qué buscar en un coche que vive cerca de la costa valenciana, algo que un taller multimarca del interior no revisa por sistema."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "Sin sorpresas al recoger las llaves: lo que se presupuesta es lo que se paga."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Usamos recambios homologados y registramos el mantenimiento conforme al derecho europeo, así que tu garantía sigue viva aunque no pises el concesionario."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en las zonas de más movimiento",
+      "body": "Facilitamos recogida y entrega en Godella, Rocafort, Bétera y el centro de Valencia para que no pierdas un día de trabajo."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Valencia y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Valencia capital y su área metropolitana: Godella, Rocafort, Bétera, Paterna, Alboraya, Burjassot, Mislata, Torrent y las urbanizaciones de El Saler y la Costa de Cullera. Si tu BMW o MINI vive en cualquiera de estas zonas, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Valencia?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Mi BMW pierde la garantía si no lo llevo al concesionario de Valencia?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente siempre que se usen recambios homologados y se respete el plan de mantenimiento, tal y como hacemos nosotros con ISTA."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi diésel se pone en modo protegido si solo hago ciudad por Valencia?",
+      "a": "Es el clásico caso de DPF que no llega a temperatura de regeneración por trayectos cortos entre semáforos. Lo diagnosticamos con ISTA y valoramos si basta con una regeneración forzada o hace falta más."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Afecta la cercanía al mar a mi MINI aunque no viva en primera línea de playa?",
+      "a": "Sí, la humedad salina de la Albufera y la costa se nota en toda el área metropolitana, especialmente en bajos y frenos. Lo revisamos en cada revisión CBS."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Valencia, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Valencia y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado como en Valencia se merece",
+  "closingCta": "Pide tu presupuesto cerrado con diagnóstico ISTA y mantén la garantía de fábrica intacta."
 }

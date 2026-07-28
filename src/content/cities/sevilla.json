@@ -7,8 +7,8 @@
   "lat": 37.38283,
   "lng": -5.97317,
   "metaTitle": "Taller BMW y MINI en Sevilla · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Sevilla. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Sevilla y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Sevilla con diagnóstico oficial ISTA y presupuesto cerrado. Precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "El calor del Guadalquivir no perdona a la refrigeración de tu BMW o MINI. Diagnóstico oficial ISTA en Sevilla, precio de taller independiente, garantía de fábrica intacta.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Sevilla: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Sevilla, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sevilla te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Sevilla, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "En Sevilla el enemigo número uno de un BMW no es el tráfico ni el salitre: es el calor. Con veranos que superan con facilidad los 42-44 grados en la capital y un asfalto que en Nervión o el centro puede acumular temperaturas de radiador brutales en un atasco de la SE-30, el sistema de refrigeración de estos coches se somete a un estrés que en el norte de España ni se plantea. La bomba de agua eléctrica y el termostato electrónico, dos de los puntos débiles conocidos de BMW en motores de las últimas dos generaciones, fallan en Sevilla con una frecuencia notablemente mayor que en ciudades de clima templado, y cuando lo hacen en pleno julio o agosto el margen antes de un sobrecalentamiento serio es mínimo.\n\nEl parque de la marca en Sevilla se concentra en zonas como Nervión, Los Remedios, Santa Clara, Bami y el entorno de Camas y Tomares, así como en las urbanizaciones de Castilleja y La Algaba para quienes prefieren vivir fuera del centro histórico y entrar cada día por la SE-30 o la A-4. Son trayectos que combinan ciudad con algo de autovía, y ese patrón mixto es precisamente el que revela antes los fallos de sellos VANOS con fuga de aceite en los Serie 3 y Serie 5 de gasolina con más kilometraje: el calor extremo reblandece las juntas de goma más rápido que en climas suaves, y no es raro ver manchas de aceite en la zona de la culata en coches que en otra ciudad aguantarían un par de años más sin síntomas.\n\nEl tráfico del centro histórico, con calles estrechas, cortes frecuentes y el eterno cuello de botella de los puentes sobre el Guadalquivir en hora punta, también castiga a los diésel con trayectos cortos: el DPF de un 320d o un X1 xDrive20d que hace la ruta Los Remedios-centro cada día sin salir nunca a la SE-30 rara vez llega a temperatura de regeneración, y acumula hollín hasta que el testigo de motor obliga a parar. A esto se suma un factor propio de Sevilla: el aire acondicionado funciona prácticamente todo el año a máxima exigencia, lo que añade carga constante al motor y al alternador incluso en trayectos cortos, acelerando el desgaste de correas y poleas tensoras.\n\nEn los MINI y BMW de inyección directa, N20, B48 y B58, la combinación de calor extremo y uso urbano intenso también acelera la carbonilla en válvulas de admisión, con síntomas de ralentí inestable y pérdida de suavidad que en Sevilla aparecen antes que en ciudades de clima moderado si no se hace una limpieza preventiva. Y en los pocos días de lluvia intensa que caen sobre la ciudad, tras meses de sequía, la mezcla de polvo acumulado y agua en las calzadas del Aljarafe deja depósitos que afectan a sensores de aparcamiento y frenos si no se revisan con regularidad.\n\nCon diagnóstico ISTA/Rheingold de fábrica anticipamos estos fallos típicos del calor sevillano antes de que se conviertan en una avería mayor en pleno agosto, a precio de taller independiente y sin comprometer tu garantía de fábrica.",
+  "servicesIntro": "En Sevilla ponemos el foco en refrigeración, VANOS y DPF, los tres puntos que más sufren con el calor extremo y el tráfico del centro, además del mantenimiento CBS completo.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Sevilla.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI de Sevilla, marcadas por el calor extremo del valle del Guadalquivir.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Fallo de bomba de agua eléctrica por calor extremo",
+      "body": "Las temperaturas de más de 40 grados en verano y los atascos de la SE-30 exigen al máximo la bomba de agua, uno de los puntos débiles conocidos de BMW que en Sevilla falla antes."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Termostato electrónico con lecturas erráticas",
+      "body": "El calor sostenido acelera el desgaste del termostato electrónico, con avisos de temperatura irregulares que conviene diagnosticar antes del verano."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Sellos VANOS con fuga de aceite acelerada por el calor",
+      "body": "Las juntas de goma del variador de válvulas se reblandecen antes en climas tan calurosos como el sevillano, sobre todo en Serie 3 y Serie 5 con kilometraje alto."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "DPF saturado en trayectos cortos por el centro histórico",
+      "body": "Los diésel que cruzan a diario Los Remedios, Nervión o el centro sin salir a la SE-30 acumulan hollín en el filtro de partículas por falta de temperatura de regeneración."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Desgaste de correas y poleas por uso constante del aire acondicionado",
+      "body": "El clima obliga a usar el aire acondicionado casi todo el año, lo que añade carga extra al motor incluso en trayectos cortos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en el calor del Guadalquivir",
+      "body": "Sabemos qué componentes de refrigeración revisar antes del verano sevillano para evitar averías en pleno agosto."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA idéntico al oficial",
+      "body": "El mismo nivel de detalle que el concesionario de Sevilla, a precio de taller independiente."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Sin sustos al recoger el coche: lo presupuestado es lo que se paga."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Recambios homologados y mantenimiento registrado según el derecho europeo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en Nervión, Los Remedios y Tomares",
+      "body": "Coordinamos recogida y entrega en las zonas de mayor concentración de BMW y MINI de la ciudad."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Sevilla y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Sevilla capital y su área metropolitana: Tomares, Camas, Castilleja de la Cuesta, La Algaba, Mairena del Aljarafe, Dos Hermanas y Alcalá de Guadaíra. Si tu BMW o MINI circula por la SE-30 o la A-4, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sevilla?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi BMW se recalienta en los atascos de la SE-30 en verano?",
+      "a": "Es un patrón habitual en Sevilla: la combinación de calor extremo y tráfico detenido exige al máximo la bomba de agua y el termostato electrónico. Lo diagnosticamos con ISTA antes de que sea un problema grave."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Debo revisar la refrigeración antes del verano aunque el coche no dé síntomas?",
+      "a": "Es muy recomendable en Sevilla. Muchas averías de bomba de agua o termostato aparecen justo en los picos de calor de julio y agosto, cuando ya es tarde para prevenir."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Pierdo la garantía si no llevo mi BMW al concesionario de Sevilla?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente si se usan recambios homologados y se respeta el plan de mantenimiento, como hacemos con ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Sevilla, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Sevilla y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, preparado para el calor de Sevilla",
+  "closingCta": "Pide presupuesto cerrado con diagnóstico ISTA antes de que llegue el próximo pico de calor."
 }

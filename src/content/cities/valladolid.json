@@ -7,8 +7,8 @@
   "lat": 41.65541,
   "lng": -4.72353,
   "metaTitle": "Taller BMW y MINI en Valladolid · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Valladolid. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Valladolid y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Valladolid. Diagnóstico oficial ISTA, precio de taller independiente y Presupuesto cerrado sin sorpresas. Mantén tu garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI empieza a notar los veranos de 40°C y las heladas de la meseta? En Valladolid necesitas un especialista que conozca ese castigo térmico, no un multimarca que improvisa.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En Valladolid vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Valladolid sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Valladolid te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Valladolid, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Valladolid tiene uno de los parques de BMW y MINI más consolidados de Castilla y León, con una presencia muy fuerte de Serie 3 y Serie 1 diésel entre profesionales que se mueven a diario hacia el polígono de San Cristóbal o hacia Boecillo y el Parque Tecnológico, y una cuota creciente de X1 y X3 en zonas como Parquesol, el Barrio de las Delicias o el eje de la avenida de Salamanca, donde vive buena parte de la clientela con poder adquisitivo alto de la ciudad. También vemos bastantes MINI Countryman y Clubman comprados en los concesionarios de la almendra urbana y usados sobre todo para trayectos cortos entre el centro histórico y la Universidad, un patrón de uso que, como explicamos más abajo, tiene consecuencias muy concretas en los motores diésel.\n\nEl clima de meseta de Valladolid es probablemente el factor mecánico más determinante que vemos en el taller: inviernos con heladas por debajo de cero casi cada noche entre diciembre y febrero, y veranos secos que superan con facilidad los 35-38°C en julio y agosto. Ese salto térmico brutal es especialmente duro con los sellos de VANOS en los motores de gasolina de la familia N20 y B48, que se resecan antes con los ciclos de frío extremo seguido de calor extremo, y con los amortiguadores EDC adaptativos, cuya electrónica sufre más cuando pasa de -5°C en la carretera de Madrid a un guardabajos con más de 40°C. También es muy habitual el termostato electrónico que empieza a dar avisos falsos de temperatura en los primeros fríos del otoño, justo cuando el motor todavía no ha entrado en su ciclo térmico normal.\n\nEl otro gran protagonista en Valladolid es el DPF. Con una ciudad relativamente pequeña, muchos BMW diésel —sobre todo Serie 1 y Serie 3 118d/120d y 316d/318d de la generación anterior— se usan para trayectos urbanos cortos entre Parquesol, el centro y las Delicias, sin llegar nunca a la regeneración completa del filtro de partículas en la variante de circunvalación (VA-30) o en la A-62 hacia Segovia. El resultado son avisos de saturación de DPF recurrentes y, si no se trata a tiempo, obturaciones que acaban costando mucho más que un mantenimiento preventivo bien planificado.\n\nEn los gasolina de inyección directa más recientes, N20, B48 y B58 que ya circulan con normalidad por Valladolid en Serie 3, Serie 5 y X3, empezamos a ver de forma habitual carbonilla acumulada en las válvulas de admisión en vehículos con más de 80.000-100.000 km, especialmente en coches que hacen mucho trayecto corto de ciudad y poca carretera larga tipo A-6 o A-62. Es una avería silenciosa que se traduce en tirones al acelerar y un ralentí más basto, y que solo se diagnostica bien con el sistema ISTA conectado.\n\nTrabajamos con clientes de toda la ciudad y del área metropolitana —Laguna de Duero, Arroyo de la Encomienda, Zaratán y Simancas— y muchos llegan derivados de un concesionario oficial de Valladolid tras terminar el periodo de garantía de fábrica, buscando mantener el historial de mantenimiento ISTA sin pagar precio de concesionario. Es exactamente el hueco legal que ocupamos: diagnóstico oficial, factura detallada y garantía europea intacta.",
+  "servicesIntro": "En nuestro taller de Valladolid cubrimos todo el mantenimiento y reparación de BMW y MINI con el mismo protocolo de diagnóstico que usa la red oficial, adaptado al castigo térmico real de la meseta.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Valladolid.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en BMW y MINI de clientes de Valladolid y su área metropolitana:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Sellos VANOS resecados por el salto térmico",
+      "body": "El contraste entre heladas invernales bajo cero y veranos de más de 38°C acelera el envejecimiento de las juntas de VANOS en motores N20 y B48, provocando fugas de aceite y un ruido metálico característico al arrancar en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "DPF saturado por trayecto corto urbano",
+      "body": "Los diésel 116d, 118d y 320d que solo se mueven entre Parquesol, Delicias y el centro sin salir a la VA-30 o a la A-62 acumulan hollín en el filtro de partículas y acaban con el testigo de avería encendido."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Carbonilla en válvulas de admisión N20/B48",
+      "body": "En Serie 3 y X3 con más de 80.000 km y uso predominantemente urbano detectamos con ISTA pérdida de potencia y ralentí irregular por acumulación de carbonilla en la inyección directa."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Falsos avisos de termostato en cambios bruscos de temperatura",
+      "body": "Con la llegada de las primeras heladas de otoño, el termostato electrónico de muchos modelos empieza a dar lecturas erráticas de temperatura de motor antes de fallar por completo."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Amortiguadores EDC más rígidos en frío extremo",
+      "body": "El aceite de los amortiguadores adaptativos EDC responde peor en las mañanas de helada típicas de diciembre y enero en Valladolid, generando una conducción más dura hasta que el sistema se estabiliza."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA real, no genérico",
+      "body": "Usamos el mismo software de diagnóstico que la red oficial de BMW y MINI, no un lector OBD multimarca, así que detectamos averías específicas de la marca que un taller generalista no ve."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos el castigo térmico de la meseta",
+      "body": "Sabemos qué componentes fallan antes en Valladolid por el contraste entre heladas de meseta y veranos extremos, y ajustamos el mantenimiento preventivo a esa realidad concreta."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "No hay sorpresas en la factura: te damos un presupuesto cerrado tras el diagnóstico y no se amplía sin tu autorización expresa."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes la garantía europea de fábrica",
+      "body": "El derecho europeo te permite mantener tu garantía de fábrica reparando en un taller independiente especializado como el nuestro, siempre que usemos recambios homologados y sigamos el plan de mantenimiento oficial."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Precio de taller independiente en Valladolid",
+      "body": "El mismo diagnóstico y la misma calidad que en el concesionario, pero sin la estructura de costes de una gran red, lo que se traduce en un ahorro real para el propietario."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Valladolid y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a BMW y MINI en toda la ciudad de Valladolid y su área metropolitana: Laguna de Duero, Arroyo de la Encomienda, Zaratán, Simancas, Boecillo, La Cistérniga y Santovenia de Pisuerga. También atendemos clientes que se desplazan desde Medina del Campo y Tordesillas.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Valladolid?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo llevar mi BMW a este taller aunque lo compré en el concesionario de Valladolid y sigue en garantía?",
+      "a": "Sí. El derecho europeo protege tu garantía de fábrica aunque mantengas el coche en un taller independiente especializado, siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial con diagnóstico ISTA, exactamente lo que hacemos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "Mi diésel enciende el testigo de DPF constantemente en trayectos por Parquesol y Delicias, ¿tiene solución?",
+      "a": "En la mayoría de casos sí, con una regeneración forzada asistida por ISTA y ajustando tus hábitos de conducción; solo en casos de obturación avanzada es necesario sustituir el filtro."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Las heladas de Valladolid pueden dañar la batería de mi híbrido enchufable BMW o MINI?",
+      "a": "Sí, el frío intenso reduce el rendimiento de la batería de alto voltaje y puede acelerar su degradación si el coche pasa muchas noches a la intemperie; recomendamos revisar el sistema de gestión térmica en cada mantenimiento."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Valladolid, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Valladolid y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI merece un especialista que entienda la meseta",
+  "closingCta": "Pide diagnóstico ISTA y presupuesto cerrado para tu BMW o MINI en Valladolid, sin perder tu garantía de fábrica."
 }

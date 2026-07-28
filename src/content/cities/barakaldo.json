@@ -1,0 +1,121 @@
+{
+  "slug": "barakaldo",
+  "name": "Barakaldo",
+  "province": "Bizkaia",
+  "ccaa": "País Vasco",
+  "population": 100435,
+  "lat": 43.29639,
+  "lng": -2.98813,
+  "metaTitle": "Taller BMW y MINI en Barakaldo · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Barakaldo. Diagnóstico oficial ISTA, mecánicos formados en la marca, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI nota la humedad constante de la ría más de lo que debería? Diagnóstico oficial ISTA con precio de taller independiente en Barakaldo, sin perder la garantía de fábrica.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Barakaldo tiene una identidad mecánica muy particular dentro del área metropolitana de Bilbao: es una ciudad forjada en la industria pesada, heredera de Altos Hornos de Vizcaya y de la Babcock Wilcox, y esa cultura de precisión industrial se traslada hoy a un parque de BMW y MINI muy cuidado entre profesionales de Retuxa, Zubieta y El Regato, que valoran que el mantenimiento se haga con el mismo rigor con el que se hacían las cosas en la vieja siderurgia.\n\nEl factor que más condiciona la mecánica aquí es el clima atlántico vasco: humedad muy alta durante todo el año, lluvia frecuente y persistente, y una amplitud térmica pequeña pero con una sensación de humedad fría en invierno que obliga a usar la calefacción y el desempañado casi a diario. Para un BMW, esa humedad constante —mucho más sostenida que la lluvia puntual de otras ciudades— es la principal responsable de la corrosión prematura en los bajos, en las líneas de freno y en los tubos de escape, un desgaste que en Barakaldo aparece antes que en ciudades de clima mediterráneo con el mismo kilometraje.\n\nTambién es muy habitual el filtro de habitáculo con moho y malos olores por la humedad constante, algo que muchos propietarios confunden con un problema del climatizador cuando en realidad es simple acumulación de humedad en un filtro que en Barakaldo hay que cambiar con más frecuencia que en el estándar del manual. A esto se suma el uso intensivo de la calefacción y la luna térmica durante buena parte del año, que en los MINI y Serie 1 más antiguos acaba pasando factura a la resistencia eléctrica del sistema.\n\nEn cuanto al tráfico, Barakaldo vive muy pegada a la A-8 y al corredor del Txorierri, con muchos residentes que cruzan a diario el puente de Rontegi hacia Bilbao o Sestao, combinando tramos de autovía con el tráfico denso del propio casco urbano cerca del BEC y Lutxana. Esa mezcla, junto con la humedad ambiental, favorece tanto la carbonilla en admisión de los motores de gasolina como el DPF saturado en los diésel que apenas encadenan un tramo largo entre semana. Diagnosticamos cada caso con ISTA/Rheingold oficial, con la experiencia de tratar cada semana la corrosión propia del clima vasco.",
+  "servicesIntro": "En Barakaldo cubrimos el mantenimiento CBS y las averías más propias de la zona: corrosión acelerada por la humedad atlántica, filtros de habitáculo con moho y desgaste eléctrico por el uso intensivo de calefacción.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más repetimos en los BMW y MINI que circulan por Barakaldo y la ría de Bilbao:",
+  "commonIssues": [
+    {
+      "title": "Corrosión prematura en bajos y líneas de freno",
+      "body": "La humedad atlántica constante, mucho más sostenida que en otras zonas de España, acelera la oxidación de bajos, tubos de escape y líneas de freno. Revisamos y tratamos los puntos críticos en cada mantenimiento preventivo."
+    },
+    {
+      "title": "Filtro de habitáculo con moho por humedad persistente",
+      "body": "El clima húmedo de Barakaldo favorece la aparición de moho en el filtro de habitáculo, provocando malos olores que muchos confunden con una avería del climatizador. Lo cambiamos con más frecuencia de la estándar por el clima local."
+    },
+    {
+      "title": "Resistencia eléctrica de calefacción exigida al máximo",
+      "body": "El uso intensivo de calefacción y luna térmica durante buena parte del año desgasta antes de tiempo la resistencia eléctrica en MINI y Serie 1 de más kilometraje. Lo diagnosticamos con ISTA antes de que falle en pleno invierno."
+    },
+    {
+      "title": "Carbonilla en admisión por el tráfico del corredor del Txorierri",
+      "body": "Los motores de gasolina N20 y B48 que cruzan a diario el puente de Rontegi combinando autovía y tráfico urbano acumulan carbonilla en la admisión. La limpiamos sin desmontar la culata."
+    },
+    {
+      "title": "DPF saturado por trayectos cortos dentro del casco urbano",
+      "body": "Los diésel que se mueven sobre todo por el propio Barakaldo, sin salir a menudo a la A-8, acumulan hollín en el filtro de partículas. Forzamos la regeneración con protocolo oficial cuando aún es posible."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Mismo software oficial BMW/MINI que el concesionario de Bilbao, sin salir de Barakaldo."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio que te damos antes de tocar el coche es el que pagas al final, con la seriedad que se espera en una ciudad de tradición industrial."
+    },
+    {
+      "title": "Entendemos el efecto real de la humedad atlántica",
+      "body": "Tratamos la corrosión y los problemas eléctricos con el conocimiento de cómo afecta específicamente el clima vasco a un BMW."
+    },
+    {
+      "title": "Especialistas en la marca, no un taller multimarca más",
+      "body": "Formación específica en BMW y MINI que se traduce en diagnósticos mucho más rápidos que en un taller generalista de la zona."
+    },
+    {
+      "title": "Garantía de fábrica protegida",
+      "body": "El reglamento europeo te permite mantener el coche en garantía en un taller independiente en Barakaldo, y lo documentamos correctamente."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Barakaldo y de toda la margen izquierda de la ría: Sestao, Portugalete, Santurtzi y Erandio, con acceso directo por la A-8 y el corredor del Txorierri.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW se oxida más en Barakaldo que en otras ciudades?",
+      "a": "La humedad atlántica constante, muy superior a la de zonas de clima mediterráneo, acelera la corrosión en bajos, tubos de escape y líneas de freno. Revisamos y tratamos estos puntos en cada mantenimiento preventivo."
+    },
+    {
+      "q": "¿Es normal que mi MINI huela a humedad al encender el climatizador en invierno?",
+      "a": "Es muy habitual en Barakaldo: el filtro de habitáculo acumula moho por la humedad persistente del clima vasco. Lo sustituimos con más frecuencia de la estándar recomendada por el fabricante para evitar el mal olor."
+    },
+    {
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente de Barakaldo?",
+      "a": "Sí, el reglamento europeo lo permite siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial, algo que documentamos con el mismo software ISTA del concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, protegido de la humedad de la ría",
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Barakaldo sin perder la garantía de fábrica."
+}

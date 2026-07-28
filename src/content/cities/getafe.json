@@ -7,8 +7,8 @@
   "lat": 40.30571,
   "lng": -3.73295,
   "metaTitle": "Taller BMW y MINI en Getafe · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Getafe. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Getafe y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Getafe. Diagnóstico oficial ISTA, precio de taller independiente y presupuesto cerrado. Mantén tu garantía de fábrica.",
+  "heroSubtitle": "¿Tu BMW o MINI se mueve a diario entre Getafe y la base aérea o el polígono industrial y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Getafe, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Getafe, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Getafe te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Getafe, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Getafe tiene una identidad muy propia dentro del sur de Madrid gracias a la presencia de Airbus y la base aérea, lo que genera un perfil de propietario de BMW y MINI con ingenieros y técnicos aeronáuticos que se mueven a diario entre el polígono de Los Ángeles, la zona de Juan de la Cierva y Madrid capital por la A-42. Junto a ellos, el barrio de El Bercial y las zonas más nuevas de Getafe Norte concentran un parque creciente de X1 y X3, mientras que en Sector III y Los Molinos vemos más Serie 1 y MINI de uso familiar y urbano.\n\nEl tráfico de Getafe combina tres realidades distintas que pocas ciudades del sur de Madrid tienen a la vez: el tráfico industrial y logístico del polígono, el tráfico técnico y regular en torno a la base aérea y Airbus, y el tráfico residencial denso del núcleo urbano. Esta combinación genera un desgaste de embrague y de caja automática ZF muy particular en los coches que cruzan la ciudad de punta a punta a diario, alternando tramos de velocidad de crucero en la M-45 y la A-42 con paradas frecuentes en los accesos a las instalaciones industriales y aeronáuticas.\n\nTambién es muy habitual en Getafe el problema de carbonilla en válvulas de admisión en los motores de gasolina de inyección directa (N20, B48), por el patrón de trayectos cortos y repetidos entre el centro histórico, Sector III y Los Molinos, sin apenas tramos de carretera a régimen alto entre semana. Y en los diésel de uso profesional que hacen el trayecto diario hacia Madrid, vemos con frecuencia fallos de válvula EGR y pérdida de potencia asociados al uso mixto de autovía y tráfico urbano denso, un patrón muy propio de quien vive en Getafe y trabaja en el centro de Madrid.\n\nPor último, la cercanía del Río Guadarrama y las zonas verdes de Perales del Río, unida a episodios de humedad en las mañanas de invierno, favorece la aparición de corrosión superficial en los bajos de coches que no reciben mantenimiento regular, algo que revisamos de forma sistemática en cada diagnóstico ISTA/Rheingold, junto con el estado real del embrague y la caja ZF en los coches de uso diario más intensivo.",
+  "servicesIntro": "En Getafe somos especialistas en diagnóstico ISTA, embrague y caja automática ZF para BMW y MINI, con presupuesto cerrado adaptado al tráfico mixto industrial y residencial de la ciudad.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Getafe.",
+  "commonIssuesIntro": "Estas son las averías más habituales en BMW y MINI de Getafe, marcadas por el tráfico mixto entre el polígono industrial, la base aérea y el núcleo urbano.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Desgaste de embrague y caja ZF por tráfico mixto",
+      "body": "Cruzar Getafe de punta a punta a diario, alternando autovía en la M-45 y la A-42 con paradas en accesos industriales, adelanta el desgaste del embrague y degrada el aceite de la caja ZF."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Carbonilla en válvulas de admisión por trayectos cortos urbanos",
+      "body": "Los desplazamientos repetidos entre el centro, Sector III y Los Molinos, sin apenas tramos de carretera entre semana, favorecen la acumulación de carbonilla en motores N20 y B48."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Fallo de válvula EGR y pérdida de potencia en uso mixto",
+      "body": "Los diésel que combinan a diario autovía hacia Madrid con tráfico urbano denso presentan con frecuencia fallos de válvula EGR y pérdida de potencia."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Corrosión superficial en bajos por humedad matinal",
+      "body": "La humedad de las mañanas de invierno cerca del Río Guadarrama y Perales del Río favorece la corrosión superficial en bajos de coches sin mantenimiento regular."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "DPF exigido por el patrón de trayecto diario a Madrid",
+      "body": "El uso diario combinando autovía y tráfico denso en los accesos genera regeneraciones irregulares del filtro de partículas en varios diésel de la ciudad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold sin desplazarte a Madrid",
+      "body": "Mismo nivel de diagnóstico oficial que un concesionario, sin salir de Getafe."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialistas en el tráfico mixto industrial y residencial",
+      "body": "Entendemos el desgaste particular que genera cruzar Getafe a diario entre el polígono, la base aérea y el centro."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio del diagnóstico es el precio final, sin extras de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Reparamos conforme al derecho europeo a mantener la garantía oficial en taller independiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato técnico para un perfil de cliente exigente",
+      "body": "Muchos de nuestros clientes en Getafe son ingenieros y técnicos que valoran una explicación clara y precisa del diagnóstico, no solo la reparación."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Getafe y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Getafe y su entorno: Leganés, Fuenlabrada, Pinto, Parla y Madrid capital (zona sur), con recogida concertada en Sector III, El Bercial, Los Molinos y Juan de la Cierva.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Getafe?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi caja ZF va más brusca haciendo el trayecto diario entre Getafe y Madrid?",
+      "a": "La alternancia entre autovía y tráfico denso en los accesos industriales degrada el aceite de la caja antes de lo previsto. Lo comprobamos con diagnóstico ISTA y valoramos un cambio de aceite específico."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo reparar mi BMW en un taller independiente de Getafe sin perder la garantía?",
+      "a": "Sí, el derecho europeo lo permite siempre que usemos recambios homologados y quede registrado el mantenimiento, tal y como lo hacemos con diagnóstico ISTA."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Por qué aparece óxido en los bajos de mi BMW si no vivo cerca del mar?",
+      "a": "La humedad matinal habitual cerca del Río Guadarrama y Perales del Río puede favorecer corrosión superficial si el coche no recibe mantenimiento regular de bajos, algo que revisamos en cada diagnóstico ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Getafe, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Getafe y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado por especialistas que conocen Getafe de punta a punta",
+  "closingCta": "Pide tu diagnóstico ISTA en Getafe y recibe presupuesto cerrado antes de tocar el coche."
 }

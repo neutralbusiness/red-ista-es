@@ -1,0 +1,121 @@
+{
+  "slug": "girona",
+  "name": "Girona",
+  "province": "Girona",
+  "ccaa": "Cataluña",
+  "population": 100266,
+  "lat": 41.98311,
+  "lng": 2.82493,
+  "metaTitle": "Taller BMW y MINI en Girona · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Girona. Diagnóstico oficial ISTA, mecánicos formados en la marca, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI se mueve entre la Tramontana de Girona y el tráfico turístico de la Costa Brava? Diagnóstico oficial ISTA con precio de taller independiente, sin perder la garantía de fábrica.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Girona tiene un clima mediterráneo de interior con un matiz que la distingue de casi cualquier otra ciudad de la Red: la Tramontana, ese viento fuerte y seco del norte que baja de los Pirineos varias veces al año y que puede soplar con fuerza durante días seguidos. Ese viento no solo golpea la carrocería y castiga los limpiaparabrisas y los sensores de lluvia y luz, sino que además provoca un frío mucho más intenso de lo que correspondería a la latitud de Girona, con inviernos que en barrios como Domeny o Palau se sienten bastante más duros que en la costa cercana.\n\nGirona es también, no por casualidad, uno de los grandes centros mundiales del ciclismo profesional, con decenas de corredores de máximo nivel viviendo en la ciudad y entrenando por sus carreteras. Eso ha traído un perfil de propietario de BMW muy concreto: profesionales del deporte y del sector relacionado que valoran un coche fiable y bien cuidado, y que suelen tener Serie 3, Serie 5 y X3 con mantenimiento muy exigente. A la vez, el centro histórico de Girona, con sus calles estrechas junto al río Onyar y el barrio de Sant Narcís, obliga a maniobrar constantemente en espacios reducidos, lo que desgasta antes la dirección asistida eléctrica y los sensores de aparcamiento.\n\nEl otro gran factor es la estacionalidad turística de la Costa Brava. En verano, la AP-7 y la C-25 (Eix Transversal) que conectan Girona con Figueres, Palafrugell y la costa se llenan de tráfico, y el aeropuerto de Girona-Costa Brava multiplica los desplazamientos cortos por la ciudad. Ese tráfico de temporada alta, sumado al calor mediterráneo del verano, favorece la carbonilla en las válvulas de admisión de los motores N20 y B58, y provoca DPF saturado en los diésel de quienes solo se mueven por el centro sin salir a la autovía.\n\nEn invierno, en cambio, la Tramontana y el frío seco resecan antes de tiempo los sellos de VANOS y exigen mucho a la batería y al sistema de arranque en frío, algo que revisamos de forma preventiva en cada BMW que llega de Pedret o de las zonas más expuestas al viento del norte. Diagnosticamos con ISTA/Rheingold oficial, entendiendo cómo cambia la exigencia mecánica de un BMW en Girona entre la Tramontana de enero y el tráfico turístico de agosto.",
+  "servicesIntro": "En Girona cubrimos el mantenimiento CBS y las averías más propias de la ciudad: desgaste por Tramontana, dirección exigida por el centro histórico y carbonilla por el tráfico turístico de la Costa Brava en verano.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Girona y su comarca:",
+  "commonIssues": [
+    {
+      "title": "Sellos VANOS resecos por el frío seco de la Tramontana",
+      "body": "El viento de la Tramontana trae un frío más intenso y seco de lo habitual en la zona, lo que acelera el resecamiento de las juntas del VANOS en los motores de gasolina. El síntoma típico es un tableteo al arrancar en frío."
+    },
+    {
+      "title": "Dirección asistida y sensores de aparcamiento exigidos por el centro",
+      "body": "Maniobrar a diario por las calles estrechas junto al río Onyar y el casco antiguo desgasta antes la dirección asistida eléctrica y los sensores de aparcamiento. Los revisamos con diagnóstico ISTA antes de que fallen del todo."
+    },
+    {
+      "title": "Carbonilla en admisión por el tráfico turístico de verano",
+      "body": "En temporada alta, el tráfico hacia la Costa Brava por la AP-7 y la C-25 combinado con desplazamientos cortos al aeropuerto favorece la acumulación de carbonilla en los motores N20 y B58. La limpiamos sin desmontar la culata."
+    },
+    {
+      "title": "DPF saturado en diésel de uso urbano por el centro",
+      "body": "Los diésel que se mueven sobre todo por el centro de Girona, sin salir con frecuencia a la AP-7, acumulan hollín en el filtro de partículas. Forzamos la regeneración con protocolo oficial cuando aún es posible."
+    },
+    {
+      "title": "Batería y arranque en frío exigidos por el viento del norte",
+      "body": "Los días de Tramontana fuerte, con temperaturas percibidas muy bajas, exigen al máximo la batería y el sistema de arranque en frío. Comprobamos su estado antes de que el propietario se quede tirado en pleno episodio de viento."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA como en el concesionario",
+      "body": "Mismo software oficial BMW/MINI que el concesionario de Girona o Barcelona, sin necesidad de desplazarte."
+    },
+    {
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "El precio que te damos antes de tocar el coche es el que pagas al final, sin extras de última hora."
+    },
+    {
+      "title": "Entendemos el efecto de la Tramontana",
+      "body": "Revisamos de forma preventiva los puntos que más sufren con el viento del norte y el frío seco propio de Girona."
+    },
+    {
+      "title": "Especialistas en la marca, no un taller multimarca más",
+      "body": "Formación específica en BMW y MINI, con diagnósticos mucho más rápidos que en un taller generalista de la comarca."
+    },
+    {
+      "title": "Garantía de fábrica protegida",
+      "body": "El reglamento europeo te permite mantener el coche en garantía en un taller independiente en Girona, y lo documentamos correctamente."
+    }
+  ],
+  "zoneText": "Damos servicio a propietarios de BMW y MINI de Girona y de toda la comarca del Gironès: Salt, Sarrià de Ter, Fornells de la Selva y Vilablareix, con acceso directo por la AP-7 y la C-25.",
+  "faqLocal": [
+    {
+      "q": "¿La Tramontana puede dañar mi BMW en Girona?",
+      "a": "El viento en sí no daña el coche, pero el frío seco intenso que trae acelera el resecamiento de los sellos de VANOS y exige más a la batería en el arranque en frío. Lo revisamos de forma preventiva en cada mantenimiento durante el invierno."
+    },
+    {
+      "q": "¿Por qué mi BMW pierde potencia en verano si vivo en Girona?",
+      "a": "El tráfico turístico hacia la Costa Brava en temporada alta, combinado con el calor mediterráneo, favorece la acumulación de carbonilla en la admisión de los motores de gasolina. Con ISTA comprobamos el estado real antes de proponer una limpieza."
+    },
+    {
+      "q": "¿Puedo mantener la garantía de mi BMW en un taller independiente en Girona?",
+      "a": "Sí, el reglamento europeo lo permite siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial, algo que documentamos con el mismo software ISTA del concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, listo tanto para la Tramontana como para la Costa Brava",
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Girona sin perder la garantía de fábrica."
+}

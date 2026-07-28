@@ -7,8 +7,8 @@
   "lat": 36.68645,
   "lng": -6.13606,
   "metaTitle": "Taller BMW y MINI en Jerez de la Frontera · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Jerez de la Frontera. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Jerez de la Frontera y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Jerez de la Frontera. Diagnóstico oficial ISTA, precio de taller independiente y presupuesto cerrado. Mantén tu garantía.",
+  "heroSubtitle": "¿Tu BMW o MINI sufre el calor de Jerez cada verano y quieres un especialista que lo trate como merece, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Jerez de la Frontera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEn los MINI que vemos en Jerez de la Frontera, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Jerez de la Frontera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Jerez de la Frontera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "En Jerez de la Frontera el parque de BMW y MINI tiene un perfil muy particular: mucha berlina de gama media (Serie 3 y Serie 1 diésel) comprada por profesionales del sector del vino y del caballo que se mueven a diario entre la ciudad, El Puerto de Santa María y Cádiz capital, y un número creciente de MINI y X1 en zonas como Nueva Jerez, San Telmo o las urbanizaciones de El Altillo y Chapín, donde el nivel adquisitivo por proximidad a las bodegas y al negocio hípico es notablemente más alto que la media de la provincia. También vemos bastantes X3 y X5 diésel que hacen kilómetros largos hacia Sevilla por la A-4, coches que llegan a nuestro taller con síntomas muy reconocibles de motor N47 y N57: ruido de cadena de distribución a bajas revoluciones en frío y pérdidas de potencia por fallo de válvula EGR, agravadas por el uso urbano-interurbano mixto tan típico de la ciudad.\n\nEl calor jerezano, con veranos que superan con facilidad los 38-40 grados durante semanas seguidas entre junio y septiembre, es el gran protagonista de las averías que tratamos aquí. El sistema de refrigeración sufre de forma especial: bombas de agua eléctricas que fallan antes de lo previsto por el estrés térmico constante, termostatos electrónicos que se quedan pegados y disparan el testigo de temperatura en plena Circunvalación (CA-33) o en los atascos de la Avenida Álvaro Domecq en hora punta. A esto se suma el aire acondicionado: compresores que se resienten de trabajar a máxima exigencia media España durante cuatro meses seguidos, algo que en Jerez no es una molestia estival, es una avería recurrente de junio a septiembre.\n\nEl otro factor determinante es el trayecto corto y repetido dentro del casco urbano, muy propio de quienes viven en el centro histórico o en barrios como Santiago y San Mateo y solo usan el coche para desplazamientos cortos hacia el trabajo o las bodegas del entorno de González Byass y Tío Pepe. En los diésel esto se traduce en DPF saturados que fuerzan regeneraciones forzadas constantes, y en los gasolina de inyección directa (N20, B48) en carbonilla acumulada en las válvulas de admisión que provoca tirones y pérdida de ralentí, algo que solo se resuelve bien con una limpieza por media walnut blasting hecha con criterio, no con aditivos milagro.\n\nPor último, el polvo fino de los caminos de albero de las fincas ganaderas y los cascos urbanos cercanos a las instalaciones ecuestres (Real Escuela Andaluza, hipódromo) castiga los filtros de habitáculo y las gomas de suspensión de forma más agresiva que en una ciudad estándar, y las suspensiones EDC de las berlinas más equipadas empiezan a dar avisos de fallo de amortiguador adaptativo antes de lo que marca el libro. En Jerez trabajamos con diagnóstico ISTA/Rheingold original, así que detectamos estos patrones con la misma precisión que un concesionario oficial de Sevilla o Cádiz, pero con el trato y el precio de un taller de la ciudad.",
+  "servicesIntro": "En Jerez de la Frontera ofrecemos diagnóstico ISTA, mantenimiento CBS y reparación de motor, climatización y suspensión para BMW y MINI, con presupuesto cerrado antes de tocar el coche.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Jerez de la Frontera.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en BMW y MINI de Jerez, marcadas por el calor extremo y los trayectos cortos del casco urbano.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Bomba de agua eléctrica y termostato electrónico",
+      "body": "El calor sostenido de junio a septiembre acelera el desgaste de la bomba de agua eléctrica y provoca que el termostato electrónico se quede abierto o cerrado, disparando el testigo de temperatura en atascos de la Avenida Álvaro Domecq o la Circunvalación."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Compresor de aire acondicionado sobreexigido",
+      "body": "Con temperaturas por encima de 38 grados durante semanas, el compresor de A/C trabaja al límite y llega a nuestro taller con fugas de gas o ruido de rodamiento antes de lo habitual en otras zonas de España."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado por trayectos cortos en el centro",
+      "body": "Los desplazamientos cortos entre el centro histórico, San Telmo y las bodegas impiden que el filtro de partículas alcance temperatura de regeneración, provocando testigos de DPF y pérdida de potencia en diésel N47 y N57."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Carbonilla en válvulas de admisión (N20, B48)",
+      "body": "El uso urbano constante en gasolina de inyección directa deja carbonilla en las válvulas de admisión, con tirones al acelerar y ralentí inestable, muy habitual en Serie 1 y Serie 3 que solo hacen ciudad."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Ruido de cadena de distribución en frío (N47/N57)",
+      "body": "Los diésel con kilometraje alto que combinan ciudad y viajes por la A-4 hacia Sevilla presentan el clásico repiqueteo de cadena en arranque en frío, síntoma que conviene revisar antes de que derive en un fallo mayor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA/Rheingold igual que en concesionario",
+      "body": "Usamos el mismo software de diagnóstico oficial que los concesionarios de Sevilla y Cádiz, pero con precios de taller independiente de Jerez."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Experiencia real con el calor extremo jerezano",
+      "body": "Conocemos de primera mano cómo se comportan la refrigeración y el A/C de un BMW o MINI tras varios veranos seguidos por encima de 38 grados."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Ningún extra de última hora: el precio que te damos tras el diagnóstico es el que pagas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes tu garantía de fábrica",
+      "body": "Trabajamos conforme al derecho europeo a reparar en taller independiente sin perder la garantía oficial de tu BMW o MINI."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cita rápida sin la agenda saturada del concesionario",
+      "body": "En temporada de Feria y vendimia sabemos que necesitas el coche disponible cuanto antes, y organizamos el taller para no hacerte esperar semanas."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Jerez de la Frontera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Jerez de la Frontera y a toda su área de influencia: El Puerto de Santa María, Sanlúcar de Barrameda, Arcos de la Frontera, Chiclana de la Frontera y Cádiz capital, con recogida del vehículo concertada en la zona centro, San Telmo, Nueva Jerez y las urbanizaciones de Chapín y El Altillo.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Jerez de la Frontera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo llevar mi BMW a un taller independiente en Jerez sin perder la garantía?",
+      "a": "Sí. El derecho europeo permite mantener la garantía de fábrica reparando en un taller independiente siempre que se usen recambios homologados y se registre el mantenimiento, que es exactamente lo que hacemos con diagnóstico ISTA."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Por qué mi BMW pierde potencia cuando hago trayectos cortos por el centro de Jerez?",
+      "a": "Es un síntoma clásico de DPF saturado en diésel: al no alcanzar temperatura de regeneración en trayectos cortos, el filtro de partículas se satura y el motor entra en modo de protección. Lo revisamos con diagnóstico ISTA y limpiamos o regeneramos el filtro."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿El calor de Jerez daña realmente el aire acondicionado de mi BMW o MINI?",
+      "a": "Sí, de forma medible: con más de cuatro meses de temperaturas extremas al año, el compresor y el circuito de A/C trabajan muy por encima de la media nacional, lo que adelanta fugas de gas y averías de compresor."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Jerez de la Frontera, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Jerez de la Frontera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, cuidado por especialistas en Jerez",
+  "closingCta": "Pide tu diagnóstico ISTA y recibe un presupuesto cerrado antes de tocar el coche."
 }

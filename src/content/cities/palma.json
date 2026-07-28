@@ -7,8 +7,8 @@
   "lat": 39.56939,
   "lng": 2.65024,
   "metaTitle": "Taller BMW y MINI en Palma · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Palma. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Palma y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Especialistas BMW y MINI en Palma con diagnóstico oficial ISTA y presupuesto cerrado. Precio de taller independiente sin perder la garantía de fábrica.",
+  "heroSubtitle": "Vivir en una isla con tanta sal marina y humedad exige un especialista que conozca bien tu BMW o MINI. Diagnóstico ISTA en Palma, precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Palma — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Palma sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Palma te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Palma, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Palma es, de todas las capitales de esta red, la que vive de forma más literal rodeada de mar, y eso se nota en cada BMW que entra al taller. La combinación de humedad marina constante y salitre en el ambiente, especialmente marcada en barrios como Portixol, Es Molinar, la zona de Son Vida o la Bonanova, acelera la corrosión de una forma que no tiene comparación con ciudades de interior: discos de freno con óxido superficial en pocos meses, conectores eléctricos de sensores de aparcamiento y ABS que fallan de forma intermitente, y bajos de carrocería que necesitan una protección más cuidadosa de lo habitual. En un mercado como el de Palma, con un parque muy alto de X5, X6 y Serie 5 de gama alta, esa corrosión prematura en componentes de un coche caro es motivo de disgusto frecuente si no se anticipa.\n\nLa condición de isla también condiciona el uso del coche de una forma particular: muchos propietarios de BMW en Palma hacen trayectos relativamente cortos dentro del propio término municipal, entre el centro, el Paseo Marítimo y las urbanizaciones de Son Vida o Génova, con salidas más largas hacia Andratx, Sóller o Manacor solo los fines de semana. Ese patrón de trayectos cortos entre semana es exactamente el que hace que los diésel, sobre todo 320d y X3 xDrive20d, no alcancen temperatura suficiente para regenerar el DPF, con la particularidad añadida de que en una isla el propietario no siempre tiene la opción de salir a una autovía larga entre semana para forzar esa regeneración de forma natural, como sí puede hacer alguien en la península.\n\nEl calor húmedo del verano balear, con temperaturas altas combinadas con humedad ambiental elevada, es especialmente duro con el sistema de refrigeración: la sensación térmica y la carga real sobre el motor en un atasco de la Vía de Cintura en agosto, con la humedad típica de la isla, se parecen más a un clima tropical que al de otras ciudades españolas de temperatura similar pero más secas. Bomba de agua eléctrica y termostato electrónico vuelven a ser los componentes que primero acusan ese estrés combinado de calor y humedad, con avisos de temperatura que conviene no ignorar en plena temporada alta cuando el tráfico turístico satura el Ma-20 y los accesos al centro.\n\nEn los MINI, muy presentes en Palma como segundo coche o vehículo de uso urbano dentro de la ciudad amurallada y el centro histórico, la carbonilla en válvulas de admisión de los motores de inyección directa aparece con el patrón típico de uso urbano, pero agravada aquí por la humedad ambiental, que también afecta a componentes eléctricos y de sensores si no se protegen adecuadamente durante las revisiones. Y en los coches que se guardan en garajes comunitarios cerca del mar sin usarse a diario, propio de segundas residencias en la isla, es habitual encontrar baterías descargadas y frenos agarrotados por la combinación de inactividad y humedad salina.\n\nCon diagnóstico ISTA/Rheingold de fábrica anticipamos estos problemas propios de la vida en una isla —salitre, humedad, trayectos cortos entre semana— con la misma precisión que el concesionario oficial, a precio de taller independiente y sin comprometer tu garantía de fábrica.",
+  "servicesIntro": "En Palma trabajamos especialmente la protección anticorrosión por humedad marina, la revisión de DPF en coches de uso insular y el mantenimiento CBS completo.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Palma.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI que circulan por Palma y el resto de la isla.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Corrosión acelerada por humedad marina constante",
+      "body": "Discos de freno, bajos y conectores eléctricos se oxidan antes en Palma que en ciudades de interior por la combinación de humedad y salitre permanente."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "DPF saturado por trayectos cortos sin salida a autovía larga",
+      "body": "El uso insular entre semana, con trayectos cortos dentro del término municipal, dificulta que el filtro de partículas alcance temperatura de regeneración."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Sobrecalentamiento en atascos de la Vía de Cintura en verano",
+      "body": "La combinación de calor y humedad balear en temporada alta exige al máximo la bomba de agua eléctrica y el termostato electrónico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Baterías descargadas en coches de segunda residencia",
+      "body": "Los BMW que se usan solo algunos fines de semana en la isla sufren descargas de batería y frenos agarrotados por la inactividad combinada con humedad."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión agravada por humedad",
+      "body": "En MINI y BMW de uso urbano dentro del centro histórico, la humedad ambiental agrava el efecto de la carbonilla en motores de inyección directa."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en el desgaste insular por humedad marina",
+      "body": "Sabemos exactamente qué revisar en un coche que vive rodeado de mar todo el año en Mallorca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico ISTA idéntico al oficial",
+      "body": "El mismo nivel técnico que el concesionario de Palma, a precio de taller independiente."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado sin sorpresas",
+      "body": "Lo presupuestado es lo que se paga, sin añadidos de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía de fábrica intacta",
+      "body": "Recambios homologados y mantenimiento registrado conforme al derecho europeo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Servicio pensado para segundas residencias",
+      "body": "Revisamos también coches de uso esporádico, con atención especial a batería y frenos tras periodos sin circular."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Palma y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Palma y el resto de Mallorca: Calvià, Andratx, Sóller, Manacor, Marratxí y Llucmajor. Si tu BMW o MINI se mueve por la Vía de Cintura o la Ma-20, podemos coordinar recogida.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Palma?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué se oxidan tan rápido los frenos de mi BMW en Palma?",
+      "a": "La humedad marina constante de la isla acelera la corrosión de discos y conectores mucho más que en ciudades de interior. Lo revisamos específicamente en cada mantenimiento."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué hago si mi diésel se enciende en modo protegido y en la isla no tengo autovías largas?",
+      "a": "Diagnosticamos con ISTA el estado real del DPF y valoramos una regeneración forzada en taller, ya que no siempre es posible resolverlo solo con conducción en carretera dentro de la isla."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Pierdo la garantía si no llevo mi BMW al concesionario de Palma?",
+      "a": "No. El derecho europeo te permite mantener la garantía de fábrica en un taller independiente si usamos recambios homologados y seguimos el plan oficial, como hacemos con ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Palma, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Palma y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW o MINI, protegido de la humedad marina de Palma",
+  "closingCta": "Solicita presupuesto cerrado con diagnóstico ISTA y mantén la garantía de fábrica intacta."
 }

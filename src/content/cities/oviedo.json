@@ -7,8 +7,8 @@
   "lat": 43.36029,
   "lng": -5.84476,
   "metaTitle": "Taller BMW y MINI en Oviedo · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Oviedo. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Oviedo y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaDescription": "Taller especialista BMW y MINI en Oviedo. Diagnóstico ISTA oficial, presupuesto cerrado y precio de taller independiente. Mantén tu garantía de fábrica.",
+  "heroSubtitle": "Con la humedad constante y las cuestas del valle ovetense, tu BMW o MINI necesita un especialista que conozca ese desgaste real, no un taller multimarca genérico.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,91 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Oviedo — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Oviedo sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Oviedo te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Oviedo, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Oviedo, a diferencia de las ciudades costeras asturianas, es una ciudad de interior rodeada de montañas, y eso marca un perfil mecánico propio en el parque de BMW y MINI que vemos en el taller: mucho Serie 3 y X1 con xDrive entre clientes de la zona de El Naranco y Ventanielles alto, y una presencia importante de Serie 5 y X3 entre profesionales que se mueven a diario hacia los polígonos de Olloniego o Silvota, dos de los principales núcleos industriales del área metropolitana. El MINI tiene buena aceptación en el centro histórico y en Uría, donde las calles estrechas premian el tamaño compacto.\n\nEl clima de Oviedo combina una humedad muy persistente durante todo el año, propia de un valle rodeado de montañas que retiene la niebla y la lluvia con más facilidad que las zonas costeras cercanas, con temperaturas suaves pero rara vez extremas. Esa humedad casi constante, junto con la niebla frecuente en las primeras horas del día, es especialmente dura con los sistemas eléctricos expuestos y con los sellos de VANOS de los motores N20 y B48, que se deterioran antes en un ambiente con humedad sostenida que en un clima seco de interior. También es habitual encontrar corrosión incipiente en los bajos de vehículos que no reciben mantenimiento preventivo con la frecuencia adecuada.\n\nEl relieve del valle ovetense es otro factor clave: subir a diario hacia El Naranco o moverse por las cuestas del centro histórico hacia Uría y la estación exige mucho de los amortiguadores EDC y del sistema de frenos, y vemos con frecuencia un desgaste de pastillas más rápido en vehículos que hacen ese recorrido cada jornada. En los diésel de uso urbano, el patrón de trayecto corto entre el centro y Ventanielles sin salir a la A-66 o a la Y hacia Gijón y Avilés provoca saturaciones de DPF recurrentes, agravadas por la humedad ambiental que ralentiza los ciclos de regeneración.\n\nEn los gasolina de inyección directa, cada vez más presentes en Oviedo en forma de Serie 3, X1 y X3 con motores B48 y B38, la carbonilla en válvulas de admisión aparece con cierta frecuencia en vehículos con más de 80.000 km de uso predominantemente urbano, generando tirones al acelerar que muchos propietarios confunden con un problema de caja de cambios cuando en realidad es un problema de admisión que solo se diagnostica correctamente con ISTA.\n\nRecibimos clientes de toda la ciudad y del área metropolitana ovetense: Siero, Llanera, Las Regueras y Grado, muchos de ellos derivados del concesionario oficial de la zona una vez termina la garantía de fábrica y buscando mantener el mismo nivel de diagnóstico sin el coste de la red oficial.",
+  "servicesIntro": "En Oviedo adaptamos el mantenimiento de BMW y MINI a la humedad constante del valle y a las cuestas de la ciudad, con el mismo protocolo ISTA que usa la red oficial.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
     },
     {
       "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
     },
     {
       "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Oviedo.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en BMW y MINI de clientes de Oviedo:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Sellos VANOS con fugas de aceite por humedad sostenida del valle",
+      "body": "La humedad casi constante propia de un valle rodeado de montañas acelera el deterioro de las juntas de VANOS en motores N20 y B48."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Corrosión incipiente en bajos por niebla y humedad frecuentes",
+      "body": "Los vehículos sin mantenimiento preventivo regular muestran signos de corrosión antes de lo esperado por la humedad sostenida característica del clima ovetense."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "DPF saturado en trayecto corto entre el centro y Ventanielles",
+      "body": "Los diésel que no salen a la A-66 con regularidad acumulan hollín con más facilidad, agravado por una humedad ambiental que ralentiza la regeneración del filtro."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Desgaste de frenos por las cuestas hacia El Naranco",
+      "body": "El uso diario en pendiente hacia esta zona residencial exige más al sistema de frenado, con un desgaste de pastillas más rápido que en trayectos llanos."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Carbonilla en válvulas de admisión en motores B48/B38",
+      "body": "En Serie 3, X1 y X3 de uso urbano detectamos con frecuencia tirones al acelerar por acumulación de carbonilla, confundidos a veces con un problema de caja de cambios."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico ISTA real, no un lector genérico",
+      "body": "Usamos el mismo sistema que la red oficial de BMW y MINI, capaz de leer códigos específicos de la marca que un multimarca no interpreta con la misma precisión."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos el efecto de la humedad del valle ovetense",
+      "body": "Sabemos qué componentes se deterioran antes en un entorno de humedad sostenida como el de Oviedo y ajustamos el mantenimiento preventivo a esa realidad."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado antes de intervenir",
+      "body": "Tras el diagnóstico te damos un presupuesto cerrado que no se modifica sin tu autorización."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Mantienes la garantía europea de fábrica",
+      "body": "El derecho europeo protege tu garantía si reparas en un taller independiente especializado con recambios homologados y el plan de mantenimiento oficial, como hacemos nosotros."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Precio de taller independiente en Oviedo",
+      "body": "El mismo rigor técnico que el concesionario oficial, sin su estructura de costes, lo que se traduce en un ahorro real para el propietario."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Oviedo y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a BMW y MINI en Oviedo y su área metropolitana: Siero, Llanera, Las Regueras, Grado y Ribera de Arriba. También atendemos clientes que se desplazan desde Gijón y Avilés a través de la Y asturiana.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Oviedo?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Por qué mi BMW tiene fugas de aceite en VANOS viviendo en Oviedo?",
+      "a": "La humedad casi constante propia del valle ovetense reseca antes las juntas de VANOS que en climas más secos; con diagnóstico ISTA confirmamos el origen exacto de la fuga."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Es normal que mi BMW diésel acumule hollín en el DPF haciendo solo trayectos por el centro?",
+      "a": "Sí, si no sales con regularidad a la A-66 el filtro no llega a regenerar bien, especialmente con la humedad ambiental de Oviedo; recomendamos una regeneración forzada asistida por ISTA."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
-    },
-    {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo reparar mi BMW aquí sin perder la garantía del concesionario de Oviedo?",
+      "a": "Sí, el derecho europeo lo permite siempre que usemos piezas homologadas y sigamos el plan de mantenimiento oficial con diagnóstico ISTA, exactamente lo que hacemos en este taller."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Oviedo, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Oviedo y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW y MINI que conoce el valle de Oviedo",
+  "closingCta": "Pide diagnóstico ISTA y presupuesto cerrado para tu BMW o MINI en Oviedo."
 }

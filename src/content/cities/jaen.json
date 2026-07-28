@@ -1,0 +1,121 @@
+{
+  "slug": "jaen",
+  "name": "Jaén",
+  "province": "Jaén",
+  "ccaa": "Andalucía",
+  "population": 113457,
+  "lat": 37.76922,
+  "lng": -3.79028,
+  "metaTitle": "Taller BMW y MINI en Jaén · Red ISTA · Especialistas",
+  "metaDescription": "Taller especialista BMW y MINI en Jaén. Diagnóstico oficial ISTA, mecánicos formados en la marca, Presupuesto cerrado y garantía de fábrica intacta.",
+  "heroSubtitle": "¿Tu BMW o MINI sufre con las cuestas de Jaén y los cambios bruscos de temperatura del valle del Guadalquivir? Diagnóstico oficial ISTA con precio de taller independiente, sin salir de la provincia.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Homologados por Red ISTA"
+    },
+    {
+      "icon": "💻",
+      "text": "Equipo oficial ISTA/Rheingold"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW y MINI"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios de taller independiente"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin perder la garantía BMW"
+    }
+  ],
+  "introLocal": "Jaén es una ciudad que se vive en cuesta. Entre el centro histórico junto al Castillo de Santa Catalina, la zona alta de Peñamefécit y el Bulevar, cualquier trayecto cotidiano implica rampas pronunciadas y cambios constantes de marcha. En un BMW con caja automática ZF eso normalmente no da ningún problema, pero en las unidades con cambio manual que aún abundan en la ciudad —muchos Serie 1 y Serie 3 diésel comprados por profesionales que se mueven por la provincia— el embrague y los sincronizados sufren un desgaste muy superior al de una ciudad llana.\n\nEl clima de Jaén es, para un mecánico especialista BMW, uno de los más exigentes de Andalucía: en verano el valle del Guadalquivir empuja las temperaturas por encima de los 40 grados con facilidad, y en invierno Jaén es tradicionalmente una de las capitales de provincia más frías de España, con heladas frecuentes y hasta nevadas puntuales en la sierra cercana. Ese contraste extremo entre el calor abrasador de julio y agosto y el frío seco de enero es lo que más acelera el deterioro de los sellos de VANOS por resecamiento, y lo que provoca más avisos de termostato electrónico errático que en casi cualquier otra ciudad de la Red.\n\nEn cuanto a modelos, en Jaén capital y su corona —Ciudad Jardín, la zona de la Estación, y las urbanizaciones camino de Torre del Vinagre— predominan los Serie 3 y X3 diésel, muy usados por quienes trabajan en el sector agroalimentario del aceite y se desplazan a diario a los pueblos del entorno olivarero por la A-44 y las carreteras hacia Sierra Mágina, Cazorla y Úbeda. Ese uso combina asfalto de autovía en buen estado con tramos rurales llenos de curvas y polvo, algo que exige revisar con más frecuencia la suspensión adaptativa EDC y los amortiguadores.\n\nTambién es habitual el diésel con cadena de distribución dando problemas en los motores N47 y N57 de los Serie 3 y Serie 5 de más kilometraje, un fallo típico de la marca que en Jaén se agrava por el uso mixto ciudad-carretera de olivares. Diagnosticamos cada caso con ISTA/Rheingold oficial, con la tranquilidad de un taller que entiende cómo se conduce realmente un BMW en esta provincia.",
+  "servicesIntro": "En Jaén atendemos desde el mantenimiento CBS programado hasta las averías más propias de la ciudad: embragues castigados por las cuestas, VANOS resecos por el clima extremo y cadenas de distribución en diésel de alto kilometraje.",
+  "processIntro": "Trabajamos con el mismo rigor técnico que un concesionario oficial, pero con la flexibilidad y el trato de un taller especializado independiente.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW o MINI al sistema oficial ISTA/Rheingold para leer el histórico completo de averías, igual que en el concesionario."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Con el diagnóstico claro, te damos un precio final por escrito. Sin sorpresas ni ampliaciones de última hora."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No tocamos el coche hasta que apruebas el presupuesto. Tú decides qué se repara y cuándo."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Trabajamos exclusivamente con recambios de calidad adecuada y procedimientos oficiales BMW, para no comprometer tu garantía de fábrica."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te entregamos el coche con el informe ISTA actualizado y seguimiento post-reparación si lo necesitas."
+    }
+  ],
+  "commonIssuesIntro": "Estas son las averías más frecuentes que vemos en los BMW y MINI que circulan por Jaén capital y su provincia:",
+  "commonIssues": [
+    {
+      "title": "Embrague y sincronizados castigados por las cuestas del centro",
+      "body": "Subir y bajar a diario entre el centro histórico y la zona alta de Peñamefécit desgasta el embrague de los BMW manuales mucho antes de lo habitual. Revisamos el punto de fricción y anticipamos el cambio antes de que falle en plena cuesta."
+    },
+    {
+      "title": "Sellos VANOS resecos por el contraste térmico extremo",
+      "body": "El salto entre los más de 40 grados de agosto y las heladas de enero, tan característico de Jaén, agrieta las juntas del VANOS antes de tiempo. El aviso suele ser un tableteo al ralentí en frío que desaparece al calentar el motor."
+    },
+    {
+      "title": "Cadena de distribución en diésel N47 y N57 de alto kilometraje",
+      "body": "Muchos Serie 3 y Serie 5 diésel que se mueven a diario por los pueblos olivareros acumulan kilómetros por carretera y sufren el estiramiento típico de la cadena en estos motores. Lo detectamos con ISTA antes de que provoque una avería mayor."
+    },
+    {
+      "title": "Amortiguadores EDC exigidos por carreteras de sierra",
+      "body": "Los trayectos hacia Sierra Mágina, Cazorla o Úbeda por carreteras secundarias con curvas y firme irregular fuerzan la suspensión adaptativa de los X3 y Serie 5. Diagnosticamos y calibramos el sistema EDC con el software oficial."
+    },
+    {
+      "title": "Termostato electrónico errático por el calor del valle",
+      "body": "El calor extremo del valle del Guadalquivir en verano hace que el termostato electrónico de los motores N47 y N20 marque temperaturas inconsistentes. Diferenciamos sensor, termostato o bomba de agua antes de cambiar nada de más."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnóstico ISTA sin salir de Jaén",
+      "body": "Mismo software oficial BMW/MINI que el concesionario más cercano, sin necesidad de desplazarte a Córdoba o Granada."
+    },
+    {
+      "title": "Presupuesto cerrado antes de tocar el coche",
+      "body": "Sabemos que en Jaén se valora la palabra dada: el precio que te damos antes de empezar es el que pagas al terminar."
+    },
+    {
+      "title": "Entendemos el desgaste propio de la ciudad",
+      "body": "Cuestas, cambios de temperatura extremos y carreteras de olivar: revisamos de forma preventiva los puntos que más sufren con este tipo de conducción."
+    },
+    {
+      "title": "Especialistas en BMW y MINI, no un taller multimarca más",
+      "body": "Nuestros mecánicos están formados específicamente en la marca, por eso identificamos en minutos averías que en un taller generalista tardan días."
+    },
+    {
+      "title": "Garantía de fábrica protegida",
+      "body": "El derecho europeo te permite mantener el coche en garantía en un taller independiente en Jaén, y documentamos cada intervención para que quede constancia."
+    }
+  ],
+  "zoneText": "Atendemos a propietarios de BMW y MINI de Jaén capital y de toda la provincia: Torredonjimeno, Mancha Real, Martos, La Guardia de Jaén y Bailén, con acceso directo por la A-44 y la A-316.",
+  "faqLocal": [
+    {
+      "q": "¿Por qué mi BMW consume más embrague en Jaén que en una ciudad llana?",
+      "a": "Porque el trazado de Jaén, con cuestas pronunciadas entre el centro y zonas como Peñamefécit, obliga a usar el embrague con mucha más frecuencia que en una ciudad plana. Es normal que se desgaste antes; lo revisamos en cada mantenimiento para anticipar el cambio."
+    },
+    {
+      "q": "¿El frío de Jaén en invierno puede dañar mi BMW?",
+      "a": "Sí, el contraste entre las heladas invernales y el calor extremo del verano es especialmente duro para los sellos de VANOS y para el termostato electrónico. Con diagnóstico ISTA detectamos el desgaste antes de que se convierta en avería grave."
+    },
+    {
+      "q": "¿Puedo mantener mi BMW en garantía en un taller independiente de Jaén?",
+      "a": "Sí, el reglamento europeo lo permite siempre que uses piezas homologadas y sigas el plan de mantenimiento oficial, algo que documentamos con el mismo software ISTA que usa el concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW o MINI, entendido por quien conoce las cuestas de Jaén",
+  "closingCta": "Pide presupuesto cerrado y déjanos tu BMW o MINI en Jaén sin perder la garantía de fábrica."
+}
