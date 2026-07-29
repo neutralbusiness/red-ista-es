@@ -6,9 +6,9 @@
   "population": 15509,
   "lat": 41.54206,
   "lng": 2.26748,
-  "metaTitle": "Taller BMW y MINI en Montornès del Vallès · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Montornès del Vallès. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Montornès del Vallès y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Montornès del Vallès · Red ISTA",
+  "metaDescription": "Especialistas en BMW y MINI en Montornès del Vallès. Diagnóstico oficial ISTA, revisiones CBS y reparaciones con presupuesto cerrado, sin sorpresas.",
+  "heroSubtitle": "En Montornès del Vallès, entre polígonos y la AP-7, tu BMW o MINI merece un diagnóstico de nivel oficial sin pasar por caja del concesionario.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Montornès del Vallès — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Montornès del Vallès sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Montornès del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Montornès del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Montornès del Vallès concentra buena parte de su actividad en torno a los polígonos industriales y la AP-7, y eso se nota en el parque de BMW y MINI que vemos a diario: muchos son coches de empresa o de profesionales que hacen trayecto diario hacia Barcelona o el aeropuerto. Cada vez llegan más híbridos enchufables, como el 330e o el X5 45e, además de eléctricos como el i4. En estos casos revisamos el estado de salud de la batería de alto voltaje y el sistema de refrigeración específico de la unidad de tracción, algo que un taller multimarca corriente no está equipado para hacer con precisión.\n\nEn los motores de gasolina turbo con inyección directa, como el B48 de cuatro cilindros, es habitual que aparezca carbonilla acumulada en las válvulas de admisión tras varios años de uso, sobre todo en trayectos cortos entre polígonos. También vigilamos la cadena de distribución en las unidades N20, un punto que conviene comprobar con ISTA antes de que dé síntomas audibles, porque cuando se nota por el ruido el desgaste ya está avanzado.\n\nEl Vallès Oriental tiene veranos calurosos y secos, con puntas de tráfico en la AP-7 que someten al sistema de refrigeración a un estrés constante en trayectos con muchas paradas y arranques. Revisamos el estado de la bomba de agua eléctrica y del termostato en cada puesta a punto, porque un fallo aquí en pleno julio puede dejarte tirado camino del trabajo.\n\nEntendemos que muchos propietarios de BMW en Montornès buscan mantener la garantía de fábrica sin pagar los precios del concesionario oficial: con Red ISTA tienes el mismo nivel de diagnóstico electrónico, pero con la cercanía y el trato de un taller independiente especializado.",
+  "servicesIntro": "En Montornès del Vallès cubrimos todo lo que necesita tu BMW o MINI, desde el mantenimiento programado hasta el diagnóstico de averías complejas.",
+  "processIntro": "Así trabajamos en cada vehículo que entra al taller, para que sepas en todo momento qué se hace y por qué.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Lectura completa con ISTA",
+      "body": "Conectamos el equipo oficial ISTA/Rheingold para leer todos los módulos electrónicos de tu BMW o MINI y detectar averías reales, incluso las que aún no han disparado el testigo en el cuadro."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto detallado y cerrado",
+      "body": "Te entregamos un presupuesto por escrito con cada partida desglosada, piezas y mano de obra, antes de tocar el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Confirmación previa a actuar",
+      "body": "No avanzamos con ninguna reparación sin tu visto bueno. Si aparece algo nuevo durante el proceso, te lo consultamos primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Montaje según especificación BMW",
+      "body": "Aplicamos los pares de apriete y procedimientos que marca el fabricante, con recambios de calidad homologada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con verificación final",
+      "body": "Reseteamos los avisos de servicio CBS, comprobamos el resultado con una prueba dinámica y te llamamos días después para confirmar que todo va bien."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Montornès del Vallès.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW y MINI de Montornès del Vallès.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Carbonilla en el colector de admisión",
+      "body": "Frecuente en motores B48 y N20 tras varios años de trayectos cortos. Provoca tirones en frío y pérdida de respuesta. Se resuelve con una limpieza específica del colector."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Ruido en la cadena de distribución",
+      "body": "Un desgaste prematuro de cadena y tensor en algunos motores N20 puede derivar en avería grave si no se detecta a tiempo. Lo comprobamos con ISTA en cada revisión."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Fallo de la bomba de agua eléctrica",
+      "body": "Componente crítico de refrigeración que suele fallar sin previo aviso tras años de uso. Lo revisamos siempre en la puesta a punto."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Testigo de servicio CBS activo",
+      "body": "El sistema Condition Based Service avisa de mantenimientos pendientes. Lo reseteamos correctamente tras la intervención, igual que en el oficial."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Salud de la batería en híbridos enchufables",
+      "body": "En modelos como el 330e comprobamos el estado de carga y descarga de la batería de alto voltaje, clave si el coche se ha comprado de segunda mano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Mismo software que el concesionario",
+      "body": "Trabajamos con ISTA/Rheingold, la herramienta oficial de diagnóstico BMW, conectada a los servidores del fabricante."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Sin renunciar a la garantía",
+      "body": "La normativa europea permite mantener la garantía de fábrica en un taller independiente si se siguen los procedimientos correctos, y así lo hacemos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos claros desde el primer momento",
+      "body": "Sabrás qué se va a reparar y cuánto cuesta antes de que empecemos, sin cambios de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo trabajamos BMW y MINI, lo que nos permite reconocer sus averías típicas con rapidez."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Comunicación constante",
+      "body": "Te mantenemos informado durante toda la reparación, sin decisiones tomadas a tus espaldas."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Montornès del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a los propietarios de BMW y MINI de Montornès del Vallès y de los municipios cercanos del Vallès Oriental, atendiendo tanto revisiones programadas como averías urgentes con cita previa.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Montornès del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo llevar mi BMW a un taller independiente en Montornès sin perder la garantía?",
+      "a": "Sí. La normativa europea protege ese derecho siempre que se utilicen recambios de calidad adecuada y se respeten los procedimientos del fabricante, como hacemos nosotros."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué diferencia hay con un taller multimarca de la zona?",
+      "a": "Nosotros usamos ISTA/Rheingold, el software específico de BMW, que accede a información y funciones que un equipo de diagnóstico genérico no puede leer."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Podéis resetear el aviso de mantenimiento CBS de mi BMW?",
+      "a": "Sí, una vez realizado el servicio correspondiente, reseteamos el sistema CBS con el mismo procedimiento que emplea el concesionario oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "Tengo un MINI Clubman, ¿trabajáis también con esta marca?",
+      "a": "Sí, somos especialistas tanto en BMW como en MINI, ya que comparten buena parte de la plataforma técnica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial en Montornès?",
+      "a": "Habitualmente entre un 30% y un 50% en mano de obra y recambios, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Montornès del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Montornès del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW y MINI de Montornès del Vallès",
+  "closingCta": "Si tu BMW o MINI necesita revisión o reparación en Montornès del Vallès, pide cita y te damos un presupuesto cerrado antes de empezar."
 }

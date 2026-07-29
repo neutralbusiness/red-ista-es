@@ -6,9 +6,9 @@
   "population": 17632,
   "lat": 41.57481,
   "lng": 2.23306,
-  "metaTitle": "Taller BMW y MINI en Parets del Vallès · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Parets del Vallès. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Parets del Vallès y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Parets del Vallès · Red ISTA",
+  "metaDescription": "Especialistas en BMW y MINI en Parets del Vallès. Diagnóstico con equipo oficial ISTA, revisiones CBS y presupuesto cerrado desde el primer momento.",
+  "heroSubtitle": "En Parets del Vallès, junto a la AP-7 y el Congost, tu BMW o MINI puede tener el diagnóstico de un concesionario sin el precio de uno.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Parets del Vallès: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEn los MINI que vemos en Parets del Vallès, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Parets del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Parets del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Parets del Vallès, con su fuerte tejido de polígonos industriales entre la AP-7 y el río Congost, reúne un parque de BMW y MINI vinculado en buena parte a trayectos diarios de trabajo y logística. Cada vez es más habitual encontrarnos con híbridos enchufables como el 225xe o el 330e, y también con eléctricos como el iX, en los que el diagnóstico pasa por comprobar la salud de la batería de alto voltaje y el sistema de gestión térmica, algo que un taller genérico no puede evaluar con la misma profundidad.\n\nEn los motores de gasolina turbo, como el B48 de cuatro cilindros presente en buena parte de la gama, la carbonilla en las válvulas de admisión es una de las consultas más frecuentes tras varios años circulando por polígonos con trayectos cortos y muchas paradas. También prestamos atención a la cadena de distribución en unidades N20, que conviene revisar antes de que el desgaste se traduzca en un ruido metálico evidente.\n\nEl clima del Vallès Oriental, con veranos calurosos y tráfico denso en los accesos a la AP-7, somete al sistema de refrigeración a un desgaste constante por los arranques y paradas continuos. Comprobamos siempre el estado de la bomba de agua eléctrica y del termostato, dos componentes que suelen fallar sin previo aviso cuando llevan varios años de uso.\n\nEntendemos que muchos conductores de Parets buscan un punto intermedio entre el concesionario oficial y el taller multimarca de confianza: en Red ISTA ofrecemos el mismo nivel de diagnóstico que el oficial, con la cercanía y flexibilidad de un especialista independiente.",
+  "servicesIntro": "En Parets del Vallès cubrimos el mantenimiento y las reparaciones de BMW y MINI con el mismo rigor técnico que un concesionario oficial.",
+  "processIntro": "Este es el proceso que seguimos con cada vehículo, para que el diagnóstico y el presupuesto sean siempre claros.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Escaneo completo con ISTA/Rheingold",
+      "body": "Leemos todos los módulos electrónicos de tu BMW o MINI con el equipo oficial para identificar averías con precisión, incluidas las que aún no han generado testigo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Detallamos cada pieza y cada hora de mano de obra antes de comenzar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu autorización antes de actuar",
+      "body": "No avanzamos sin tu conformidad. Si surge algo nuevo durante la reparación, te lo comunicamos primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación según procedimiento BMW",
+      "body": "Aplicamos los pares de apriete y protocolos oficiales del fabricante, con recambios de calidad adecuada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega verificada",
+      "body": "Reseteamos los avisos CBS, realizamos una prueba dinámica del vehículo y te contactamos días después para confirmar que todo está en orden."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Parets del Vallès.",
+  "commonIssuesIntro": "Estas son las averías que más diagnosticamos en los BMW y MINI de Parets del Vallès.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Acumulación de carbonilla en admisión",
+      "body": "Muy presente en motores B48 tras años de trayectos cortos por polígonos. Provoca ralentí basto y pérdida de respuesta al acelerar."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Desgaste de la cadena de distribución",
+      "body": "En motores N20 la cadena y sus guías pueden desgastarse antes de lo esperado. Lo revisamos con ISTA para anticiparnos a una avería mayor."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "Componente crítico del sistema de refrigeración que puede fallar de golpe tras varios años de uso. Se comprueba en cada puesta a punto."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Testigo CBS de mantenimiento activo",
+      "body": "El sistema Condition Based Service avisa de revisiones pendientes. Lo reseteamos correctamente tras el servicio, como en el oficial."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Estado de la batería en híbridos enchufables",
+      "body": "En modelos como el 225xe o el 330e comprobamos la salud de la batería de alto voltaje, clave en compras de segunda mano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico de nivel oficial",
+      "body": "Empleamos ISTA/Rheingold, la misma herramienta que utiliza la red BMW, conectada a los servidores del fabricante."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Ahorro sin comprometer la garantía",
+      "body": "Respetamos los procedimientos de fábrica y usamos recambios adecuados, por lo que tu garantía se mantiene intacta."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos honestos",
+      "body": "Te explicamos cada avería con detalle y te damos un precio cerrado antes de empezar a trabajar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialistas dedicados a BMW y MINI",
+      "body": "No somos un taller multimarca más: nos dedicamos en exclusiva a conocer estas dos marcas a fondo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Comunicación en cada paso",
+      "body": "No tomamos decisiones por ti. Si aparece algo imprevisto, te lo explicamos y esperamos tu respuesta."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Parets del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a los propietarios de BMW y MINI de Parets del Vallès y de los municipios próximos del Vallès Oriental, con cita previa para diagnósticos y reparaciones.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Parets del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Se pierde la garantía de fábrica al reparar mi BMW en Parets fuera del oficial?",
+      "a": "No, la normativa europea garantiza ese derecho siempre que se empleen recambios de calidad adecuada y se sigan los procedimientos del fabricante."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué os diferencia de un taller multimarca en Parets del Vallès?",
+      "a": "Trabajamos con ISTA/Rheingold, el software oficial de BMW, que ofrece un nivel de diagnóstico que un equipo genérico no alcanza."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reseteáis el aviso de servicio CBS?",
+      "a": "Sí, una vez hecho el mantenimiento correspondiente, reseteamos el sistema CBS con el mismo procedimiento que el concesionario oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "Tengo un MINI Clubman, ¿también sois especialistas en esta marca?",
+      "a": "Sí, trabajamos BMW y MINI por igual, ya que comparten buena parte de su tecnología y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario en Parets?",
+      "a": "Entre un 30% y un 50% de media en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Parets del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Parets del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller especialista BMW y MINI de Parets del Vallès",
+  "closingCta": "Si tu BMW o MINI necesita una revisión o reparación en Parets del Vallès, pide cita y recibirás un presupuesto cerrado antes de empezar."
 }

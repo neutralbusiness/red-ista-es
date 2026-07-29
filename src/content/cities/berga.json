@@ -6,9 +6,9 @@
   "population": 17160,
   "lat": 42.10429,
   "lng": 1.84628,
-  "metaTitle": "Taller BMW y MINI en Berga · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Berga. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Berga y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW en Berga · Diagnóstico ISTA · Red ISTA",
+  "metaDescription": "Taller especialista BMW y MINI en Berga. Diagnóstico oficial ISTA, revisión de motores diésel y sistema de refrigeración con presupuesto cerrado.",
+  "heroSubtitle": "En Berga, tu BMW o MINI tiene acceso a diagnóstico de nivel oficial sin desplazarte hasta Barcelona.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Berga — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Berga sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Berga te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Berga, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Berga, capital del Berguedà, tiene un clima de interior mucho más exigente que el litoral: inviernos fríos con heladas frecuentes y veranos con fuertes contrastes térmicos, algo que pone a prueba el sistema de refrigeración y la batería de cualquier BMW o MINI. En los pocos híbridos enchufables que llegan a la comarca, como el 330e o el X1 xDrive25e, el frío intenso afecta directamente al rendimiento de la batería de alto voltaje, por lo que su diagnóstico incluye siempre una revisión del sistema de gestión térmica del pack.\n\nEntre los propietarios de la zona predominan los BMW y MINI diésel, muy adecuados para las distancias que exige moverse entre Berga y Barcelona por la C-16. En motores B47 y N47, revisamos con frecuencia el sistema EGR y el filtro de partículas, que en trayectos de montaña con rampas continuas trabaja de forma distinta a como lo haría en llano. También es habitual encontrar acumulación de carbonilla en la admisión de los motores de gasolina B48, que se traduce en pérdida de tirón en las cuestas del Berguedà.\n\nEl frío del interior también afecta a componentes como la bomba de agua eléctrica y el termostato electrónico, que pueden dar problemas de arranque en frío si no se revisan a tiempo. Las heladas invernales, además, exigen comprobar el anticongelante y el estado de las líneas de refrigeración antes de cada temporada fría.\n\nFrente a la distancia hasta el concesionario oficial más cercano, en Berga ofrecemos diagnóstico ISTA de nivel oficial sin necesidad de bajar a Barcelona: mismo software, mismos datos técnicos, y un presupuesto cerrado antes de tocar el coche.",
+  "servicesIntro": "En Berga realizamos mantenimiento, diagnóstico avanzado y reparación de BMW y MINI adaptados al clima de interior.",
+  "processIntro": "Así trabajamos en Berga, con un proceso pensado para que no tengas que bajar a Barcelona para un buen diagnóstico.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico completo con ISTA",
+      "body": "Conectamos el coche al software oficial BMW para revisar cada módulo, incluidas averías que aún no muestran testigo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Recibes el desglose de piezas y mano de obra antes de aprobar nada."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu conformidad, siempre",
+      "body": "No avanzamos sin tu aprobación si aparece algo nuevo durante la reparación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con estándar de fábrica",
+      "body": "Seguimos los procedimientos de BMW, con especial atención al sistema de refrigeración por el clima de la zona."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y prueba en carretera",
+      "body": "Reseteamos el CBS y probamos el coche antes de devolverlo, con seguimiento posterior."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Berga.",
+  "commonIssuesIntro": "Estas son las averías más habituales en los BMW y MINI que llegan al taller desde Berga y el Berguedà.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "EGR y DPF exigidos por el perfil de montaña",
+      "body": "Las rampas continuas de la comarca aumentan el trabajo del sistema de recirculación de gases; revisamos su estado en cada mantenimiento."
+    },
+    {
+      "title": "Problemas de arranque en frío por bomba de agua o termostato",
+      "body": "El frío del interior acelera el desgaste de estos componentes; los comprobamos antes de cada invierno."
     },
     {
       "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "body": "Habitual en motores B48; provoca pérdida de tirón en pendientes pronunciadas."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Testigo de servicio CBS pendiente",
+      "body": "Lo reseteamos tras el mantenimiento correspondiente, con el mismo procedimiento que el oficial."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
-    },
-    {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Desgaste de embrague por conducción en pendiente",
+      "body": "El uso continuo en cuestas acelera el desgaste del embrague en versiones manuales; lo revisamos en cada puesta a punto."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico oficial sin bajar a Barcelona",
+      "body": "Tenemos el mismo equipo ISTA/Rheingold que usa la red oficial BMW, disponible en Berga."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Ahorro real, garantía intacta",
+      "body": "Seguimos los procedimientos que exige la normativa europea para no comprometer tu garantía de fábrica."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos claros desde el primer momento",
+      "body": "Sin sorpresas ni cargos añadidos a mitad de reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialización adaptada al clima de interior",
+      "body": "Conocemos las exigencias específicas que el frío y la montaña imponen a estos vehículos."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo y cercano",
+      "body": "Te explicamos cada avería sin rodeos y con la información que necesitas para decidir."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Berga y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Berga y en todo el Berguedà, evitando desplazamientos innecesarios hasta Barcelona para el mantenimiento habitual.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Berga?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Mantengo la garantía de fábrica si reparo en Berga en vez del oficial?",
+      "a": "Sí, la normativa europea lo permite si se usan recambios de calidad adecuada y se siguen los procedimientos del fabricante."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Tenéis el mismo diagnóstico que el concesionario en Berga?",
+      "a": "Sí, trabajamos con ISTA/Rheingold, el software oficial de BMW, sin necesidad de desplazarte a Barcelona."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reseteáis el aviso CBS?",
+      "a": "Sí, tras el mantenimiento correspondiente, igual que en la red oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "¿Trabajáis también con MINI?",
+      "a": "Sí, ambas marcas comparten gran parte de su mecánica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto se ahorra frente a bajar al concesionario oficial?",
+      "a": "Además del ahorro en mano de obra, entre un 30 % y un 50 %, te ahorras el desplazamiento hasta Barcelona."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Berga, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Berga y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "BMW y MINI en Berga, sin bajar a Barcelona",
+  "closingCta": "Si tu BMW o MINI necesita revisión en Berga, pide presupuesto cerrado sin desplazamientos innecesarios."
 }

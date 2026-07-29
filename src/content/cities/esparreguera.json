@@ -6,9 +6,9 @@
   "population": 21855,
   "lat": 41.53809,
   "lng": 1.87025,
-  "metaTitle": "Taller BMW y MINI en Esparreguera · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Esparreguera. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Esparreguera y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW en Esparreguera · Diagnóstico ISTA",
+  "metaDescription": "Especialistas BMW y MINI en Esparreguera. Diagnóstico oficial ISTA/Rheingold, revisión de motores turbo y CBS con presupuesto cerrado.",
+  "heroSubtitle": "En Esparreguera, diagnostica tu BMW o MINI con equipo oficial y precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Esparreguera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Esparreguera sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Esparreguera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Esparreguera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Esparreguera, a los pies de Montserrat, en el Baix Llobregat, tiene un perfil de propietario de BMW y MINI muy ligado a profesionales que se desplazan a diario hacia Martorell y Barcelona por la autovía A-2 y la C-15. Entre los modelos que revisamos con más frecuencia están los híbridos enchufables como el X5 45e o el 225xe Active Tourer, cuyo diagnóstico exige comprobar el estado de salud de la batería de alto voltaje y el funcionamiento del cargador embarcado.\n\nEn los MINI y BMW de gasolina con motor B38 y B48, la carbonilla en las válvulas de admisión es una de las averías más recurrentes, con síntomas de ralentí inestable y pérdida de fuerza. En modelos diésel con motor N47, revisamos con frecuencia el sistema EGR y el filtro de partículas, sobre todo en coches que combinan trayectos cortos urbanos con desplazamientos largos por autovía.\n\nEl entorno de Esparreguera, con el macizo de Montserrat como telón de fondo y veranos calurosos y secos, exige un sistema de refrigeración en buen estado: comprobamos la bomba de agua eléctrica y el termostato en cada puesta a punto para evitar sobrecalentamientos, especialmente en trayectos con desnivel hacia la sierra.\n\nFrente al concesionario oficial de Martorell o Barcelona, con tarifas elevadas, y el taller multimarca sin equipo específico, en Esparreguera ofrecemos diagnóstico ISTA de nivel oficial, recambios de calidad y presupuesto cerrado desde el primer contacto.",
+  "servicesIntro": "En Esparreguera realizamos mantenimiento, diagnóstico avanzado y reparación de BMW y MINI de todas las generaciones.",
+  "processIntro": "Este es nuestro proceso en Esparreguera, claro desde el primer diagnóstico hasta la entrega.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico con ISTA/Rheingold",
+      "body": "Leemos todos los módulos electrónicos con el software oficial de BMW."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y desglosado",
+      "body": "Detallamos piezas y mano de obra antes de empezar."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu conformidad antes de actuar",
+      "body": "Si surge algo nuevo, te lo comunicamos y esperamos tu aprobación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con procedimiento de fábrica",
+      "body": "Seguimos los pares de apriete y procesos oficiales de BMW."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con avisos resueltos",
+      "body": "Reseteamos el CBS y probamos el coche en carretera antes de devolverlo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Esparreguera.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes en los BMW y MINI que llegan al taller desde Esparreguera.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Carbonilla en admisión con ralentí inestable",
+      "body": "Habitual en motores B38 y B48; se resuelve con limpieza específica del colector y las válvulas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "EGR y DPF por uso mixto",
+      "body": "El combinar trayectos urbanos con autovía afecta a la regeneración del filtro de partículas en diésel."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Fallo de bomba de agua eléctrica",
+      "body": "Especialmente exigida en trayectos con desnivel; la revisamos en cada diagnóstico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Testigo CBS pendiente",
+      "body": "Reseteamos el sistema Condition Based Service tras el mantenimiento correspondiente."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Desgaste de cadena de distribución",
+      "body": "En motores N20 y N53 detectamos el estiramiento antes de que dé síntomas graves."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico igual al de concesionario",
+      "body": "Contamos con ISTA/Rheingold, el software oficial de BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Garantía de fábrica intacta",
+      "body": "Seguimos los procedimientos exigidos por la normativa europea."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos honestos y cerrados",
+      "body": "Todo queda por escrito antes de empezar a trabajar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialistas dedicados a BMW y MINI",
+      "body": "No somos un taller multimarca genérico."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Comunicación transparente",
+      "body": "Te informamos en cada fase del proceso, sin sorpresas."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Esparreguera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Esparreguera y en el Baix Llobregat, con cita previa para cada diagnóstico.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Esparreguera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Pierdo la garantía si reparo en un independiente en Esparreguera?",
+      "a": "No, la normativa europea protege ese derecho si se usan recambios de calidad adecuada y se siguen los procedimientos correctos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué diferencia hay con un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el software oficial de BMW, con mucho más detalle que un lector genérico."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reseteáis el aviso CBS?",
+      "a": "Sí, tras el mantenimiento correspondiente, igual que en el concesionario oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "¿Trabajáis también con MINI?",
+      "a": "Sí, ambas marcas comparten buena parte de su mecánica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar frente al oficial?",
+      "a": "Habitualmente entre un 30 % y un 50 % en mano de obra y recambios."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Esparreguera, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Esparreguera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "BMW y MINI en Esparreguera, diagnóstico oficial",
+  "closingCta": "Si tu BMW o MINI necesita revisión en Esparreguera, pide presupuesto cerrado sin compromiso."
 }

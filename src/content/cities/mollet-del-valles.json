@@ -6,9 +6,9 @@
   "population": 52484,
   "lat": 41.54026,
   "lng": 2.21306,
-  "metaTitle": "Taller BMW y MINI en Mollet del Vallès · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Mollet del Vallès. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Mollet del Vallès y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW en Mollet del Vallès · ISTA",
+  "metaDescription": "Especialistas BMW y MINI en Mollet del Vallès. Diagnóstico oficial ISTA/Rheingold, revisión de motores turbo y CBS con presupuesto cerrado.",
+  "heroSubtitle": "En Mollet del Vallès, diagnostica tu BMW o MINI con equipo oficial y precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En Mollet del Vallès vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Mollet del Vallès sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Mollet del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Mollet del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Mollet del Vallès, nudo de comunicaciones del Vallès Oriental junto a la AP-7 y la C-33, concentra un parque móvil amplio con presencia notable de BMW y MINI entre profesionales que se desplazan a diario hacia Barcelona por la línia de Rodalies o por carretera. Entre los modelos que llegan al taller cada vez con más frecuencia están los híbridos enchufables como el 330e y el X1 xDrive25e, cuyo diagnóstico exige comprobar el estado de salud de la batería de alto voltaje, el cargador embarcado y la gestión térmica del pack.\n\nEn los MINI y BMW de gasolina con motores B38 y B48, la carbonilla en las válvulas de admisión es una de las averías más consultadas, con síntomas de pérdida de potencia y ralentí basto. En unidades diésel con motor N47, revisamos con frecuencia el sistema EGR y el filtro de partículas, especialmente en coches que hacen un uso intensivo por el tráfico denso de la zona.\n\nEl clima del Vallès Oriental, con veranos calurosos, exige un sistema de refrigeración en buen estado: comprobamos la bomba de agua eléctrica y el termostato en cada puesta a punto, un punto especialmente relevante en coches que hacen muchos kilómetros diarios por la AP-7.\n\nFrente al concesionario oficial, con tarifas elevadas, y el taller multimarca sin equipo específico para BMW, en Mollet del Vallès ofrecemos diagnóstico ISTA de nivel oficial, recambios de calidad contrastada y presupuesto cerrado desde el primer contacto.",
+  "servicesIntro": "En Mollet del Vallès cubrimos mantenimiento, diagnóstico avanzado y reparación de BMW y MINI de todas las generaciones.",
+  "processIntro": "Este es nuestro proceso en Mollet del Vallès, transparente de principio a fin.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico con ISTA/Rheingold",
+      "body": "Leemos todos los módulos electrónicos del coche con el software oficial de BMW."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y desglosado",
+      "body": "Detallamos piezas y mano de obra antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu conformidad antes de actuar",
+      "body": "Si aparece algo nuevo, te lo comunicamos y esperamos tu aprobación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con procedimiento de fábrica",
+      "body": "Seguimos los pares de apriete y procesos oficiales que marca BMW."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con avisos reseteados",
+      "body": "Borramos el testigo CBS y probamos el coche antes de devolverlo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Mollet del Vallès.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes en los BMW y MINI que llegan al taller desde Mollet del Vallès.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Carbonilla en admisión con pérdida de potencia",
+      "body": "Habitual en motores B38 y B48; se resuelve con limpieza específica de válvulas y colector."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "EGR y DPF exigidos por el tráfico denso",
+      "body": "El uso intensivo en la zona afecta a la regeneración del filtro de partículas en diésel."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Fallo de bomba de agua eléctrica",
+      "body": "Especialmente relevante en coches que hacen muchos kilómetros de autovía; la revisamos siempre."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Testigo CBS pendiente",
+      "body": "Reseteamos el sistema Condition Based Service tras el mantenimiento correspondiente."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Desgaste de cadena de distribución",
+      "body": "En motores N20 y N53 detectamos el estiramiento antes de que dé síntomas graves."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico igual al de concesionario",
+      "body": "Contamos con ISTA/Rheingold, el software oficial de BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Garantía de fábrica intacta",
+      "body": "Seguimos los procedimientos exigidos por la normativa europea."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos honestos y cerrados",
+      "body": "Todo queda por escrito antes de empezar a trabajar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialistas dedicados a BMW y MINI",
+      "body": "No somos un taller multimarca genérico."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Comunicación transparente",
+      "body": "Te informamos en cada fase del proceso, sin sorpresas."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Mollet del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Mollet del Vallès y en todo el Vallès Oriental, con cita previa para cada diagnóstico.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Mollet del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Pierdo la garantía si reparo en un independiente en Mollet del Vallès?",
+      "a": "No, la normativa europea protege ese derecho si se usan recambios de calidad adecuada y se siguen los procedimientos correctos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué diferencia hay con un taller multimarca?",
+      "a": "Usamos ISTA/Rheingold, el software oficial de BMW, con mucho más detalle que un lector genérico."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reseteáis el aviso CBS?",
+      "a": "Sí, tras el mantenimiento correspondiente, igual que en el concesionario oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "¿Trabajáis también con MINI?",
+      "a": "Sí, ambas marcas comparten buena parte de su mecánica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar frente al oficial?",
+      "a": "Habitualmente entre un 30 % y un 50 % en mano de obra y recambios."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Mollet del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Mollet del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "BMW y MINI en Mollet del Vallès, diagnóstico de nivel oficial",
+  "closingCta": "Si tu BMW o MINI necesita revisión en Mollet del Vallès, pide presupuesto cerrado sin compromiso."
 }

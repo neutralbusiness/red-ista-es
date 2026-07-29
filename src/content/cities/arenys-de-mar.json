@@ -6,9 +6,9 @@
   "population": 15307,
   "lat": 41.5819,
   "lng": 2.54936,
-  "metaTitle": "Taller BMW y MINI en Arenys de Mar · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Arenys de Mar. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Arenys de Mar y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW en Arenys de Mar · ISTA · Red ISTA",
+  "metaDescription": "Taller especialista BMW y MINI en Arenys de Mar. Diagnóstico ISTA/Rheingold, revisiones CBS y reparaciones de motores turbo con presupuesto cerrado.",
+  "heroSubtitle": "En Arenys de Mar, diagnostica tu BMW o MINI con el mismo equipo que usa el oficial, a precio de taller independiente.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Arenys de Mar, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nLos MINI más recientes con motor B38 y B48 que circulan por Arenys de Mar sufren, como buena parte de los motores turbo de inyección directa actuales, acumulación de carbonilla en las válvulas de admisión y fallos ocasionales en la bomba de agua eléctrica. Revisamos ambos puntos en cada diagnóstico completo, junto con el estado del embrague en las versiones manuales, que en un MINI conducido con ganas se desgasta antes de lo que marca el libro.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Arenys de Mar te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Arenys de Mar, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Arenys de Mar es uno de los municipios de referencia del Maresme, con un puerto y un paseo marítimo que conviven con un parque móvil donde el BMW y el MINI tienen un peso notable entre profesionales que viajan a diario hacia Barcelona por la C-32. Cada vez vemos más híbridos enchufables como el 225xe Active Tourer o el X5 45e, cuyo diagnóstico exige revisar el estado de la batería de alto voltaje y el sistema de refrigeración específico que la protege, algo que solo un equipo con software oficial puede verificar con precisión.\n\nEn los MINI y BMW de gasolina turboalimentados que circulan por la zona, el motor B48 de cuatro cilindros presenta con cierta frecuencia acumulación de carbonilla en las válvulas de admisión, un problema típico de la inyección directa que se nota en pérdidas de potencia a bajas revoluciones. En los modelos algo más antiguos con motor N53, prestamos especial atención a la cadena de distribución y sus guías, un punto que conviene revisar antes de que aparezca un ruido metálico en frío.\n\nLa cercanía al mar y la humedad salina propia de Arenys de Mar aceleran la corrosión en líneas de freno, tornillería de los bajos y conexiones eléctricas, un factor que muchos propietarios no tienen en cuenta hasta que aparece un problema eléctrico intermitente. Por eso incluimos una revisión específica de corrosión en cada puesta a punto de vehículos que pasan buena parte del año cerca de la costa.\n\nFrente a la opción del concesionario, con sus tarifas elevadas, y la del taller multimarca, que no siempre domina la electrónica alemana, en Arenys de Mar ofrecemos diagnóstico de nivel oficial con ISTA y presupuestos cerrados, sin renunciar al trato de un taller de proximidad.",
+  "servicesIntro": "En Arenys de Mar realizamos mantenimiento, diagnóstico avanzado y reparación de BMW y MINI de todas las generaciones.",
+  "processIntro": "Así trabajamos en Arenys de Mar para que tengas siempre control sobre lo que se hace en tu coche y lo que cuesta.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Lectura completa con ISTA",
+      "body": "Conectamos el coche al sistema oficial de diagnóstico BMW para revisar todos los módulos electrónicos, no solo el motor."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto claro antes de empezar",
+      "body": "Recibes el desglose de piezas y mano de obra, con opción de recambio original o equivalente de calidad OE."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu visto bueno, siempre",
+      "body": "Ninguna reparación arranca sin tu confirmación. Si aparece algo nuevo, te avisamos antes de seguir adelante."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Montaje según normativa BMW",
+      "body": "Seguimos los procedimientos y pares de apriete del fabricante para que la reparación no se quede a medias."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con testigos resueltos",
+      "body": "Borramos avisos de servicio pendientes (CBS), probamos el vehículo y hacemos seguimiento post-entrega."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Arenys de Mar.",
+  "commonIssuesIntro": "Estas son las averías que diagnosticamos con más frecuencia en los BMW y MINI de Arenys de Mar.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Pérdida de potencia por carbonilla en admisión",
+      "body": "Habitual en motores B48 y N20 de inyección directa; limpiamos el colector y las válvulas para recuperar la respuesta original."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Desgaste de cadena de distribución",
+      "body": "En motores N53 y N20 detectamos el estiramiento de la cadena antes de que provoque un salto de tiempos y daños mayores."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Corrosión en líneas de freno por el ambiente marino",
+      "body": "El aire salino de la costa acelera el deterioro de conducciones metálicas; las inspeccionamos en cada revisión."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Fallo de bomba de agua eléctrica",
+      "body": "Componente crítico que puede fallar de forma repentina; lo comprobamos en cada diagnóstico completo."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "CBS con avisos acumulados",
+      "body": "Reseteamos el sistema Condition Based Service tras el mantenimiento, igual que en la red oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Equipo de diagnóstico oficial",
+      "body": "Trabajamos con ISTA/Rheingold, el mismo sistema que usa BMW en su red de concesionarios."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Garantía de fábrica intacta",
+      "body": "Seguimos los procedimientos que exige la normativa europea para que mantengas la garantía aunque no vayas al oficial."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuestos honestos",
+      "body": "Nada de cargos ocultos: todo queda por escrito antes de tocar el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialistas en BMW y MINI",
+      "body": "No trabajamos con todas las marcas: nos hemos especializado para conocer sus averías por dentro."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato cercano y directo",
+      "body": "Te explicamos cada avería en términos claros, sin tecnicismos innecesarios."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Arenys de Mar y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a propietarios de BMW y MINI de Arenys de Mar y del resto del Maresme, con cita previa para garantizar el tiempo de diagnóstico adecuado.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Arenys de Mar?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Un taller independiente en Arenys de Mar puede mantener mi garantía BMW?",
+      "a": "Sí, la ley europea lo permite si se usan recambios de calidad equivalente y se siguen los procedimientos del fabricante, que es justo lo que hacemos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿En qué se diferencia vuestro diagnóstico del de un taller genérico?",
+      "a": "Usamos ISTA/Rheingold, el software oficial BMW, que accede a todos los módulos del coche con mucho más detalle que un lector genérico."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Podéis resetear el aviso de servicio de mi BMW?",
+      "a": "Sí, tras el mantenimiento correspondiente reseteamos el CBS con el mismo procedimiento que el concesionario."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "¿Trabajáis también con MINI o solo BMW?",
+      "a": "Trabajamos con ambas marcas, que comparten buena parte de su mecánica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto se ahorra frente al oficial en Arenys de Mar?",
+      "a": "De media entre un 30 % y un 50 %, sin perder nivel de diagnóstico."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Arenys de Mar, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Arenys de Mar y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "BMW y MINI en Arenys de Mar, con diagnóstico oficial",
+  "closingCta": "Si necesitas revisar o reparar tu BMW o MINI en Arenys de Mar, pide presupuesto cerrado sin compromiso."
 }

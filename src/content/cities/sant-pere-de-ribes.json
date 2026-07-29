@@ -6,9 +6,9 @@
   "population": 28353,
   "lat": 41.26045,
   "lng": 1.77391,
-  "metaTitle": "Taller BMW y MINI en Sant Pere de Ribes · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Sant Pere de Ribes. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Sant Pere de Ribes y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Sant Pere de Ribes · Red ISTA",
+  "metaDescription": "Taller especialista en BMW y MINI en Sant Pere de Ribes. Diagnóstico oficial ISTA, mecánica avanzada y presupuesto cerrado, cerca del Garraf.",
+  "heroSubtitle": "En Sant Pere de Ribes, entre Sitges y Vilanova, tu BMW o MINI merece un diagnóstico de nivel oficial sin salir de la comarca del Garraf.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Sant Pere de Ribes — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEn los MINI que vemos en Sant Pere de Ribes, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sant Pere de Ribes te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Sant Pere de Ribes, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Sant Pere de Ribes, con un crecimiento residencial constante en las últimas décadas y su cercanía tanto a Sitges como a Vilanova i la Geltrú, reúne un parque de BMW y MINI ligado a familias y profesionales que se desplazan a diario por la C-32 hacia Barcelona o el Baix Penedès. Entre los modelos electrificados que ya vemos con frecuencia están el 330e y el X5 45e, en los que comprobamos la salud de la batería de alto voltaje y el sistema de gestión térmica como parte del diagnóstico completo.\n\nEn los motores B48 y N20, muy extendidos en la gama compacta y media de BMW, la carbonilla en las válvulas de admisión sigue siendo una de las consultas más habituales tras varios años de uso, con síntomas de ralentí basto y pérdida de tirón. También vigilamos la cadena de distribución en unidades N20, un punto que conviene comprobar con diagnóstico electrónico antes de que el desgaste se traduzca en ruido.\n\nAunque Sant Pere de Ribes no está en primera línea de mar, su proximidad a la costa del Garraf hace que la humedad y cierto grado de salitre sigan afectando a la corrosión de líneas de freno y tornillería de los bajos, algo que revisamos en cada puesta a punto. El calor de los veranos de la comarca, combinado con trayectos de más tráfico en verano por la afluencia turística de Sitges, exige también un sistema de refrigeración fiable.\n\nSi en Sant Pere de Ribes buscas un especialista real en BMW y MINI sin desplazarte hasta el concesionario oficial de Barcelona, en Red ISTA tienes el mismo nivel de diagnóstico con la cercanía de un taller de la comarca.",
+  "servicesIntro": "En Sant Pere de Ribes ofrecemos mantenimiento, diagnóstico y reparación completa para BMW y MINI.",
+  "processIntro": "Este es el proceso que seguimos en cada vehículo, para que sepas siempre qué le pasa a tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico con ISTA/Rheingold",
+      "body": "Conectamos tu BMW o MINI al equipo oficial para leer todos los módulos electrónicos y detectar averías con precisión."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y desglosado",
+      "body": "Te presentamos cada partida, piezas y mano de obra, antes de iniciar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Tu conformidad antes de actuar",
+      "body": "No hacemos nada sin tu aprobación. Si surge un imprevisto, te lo consultamos primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación según protocolo de fábrica",
+      "body": "Aplicamos los pares de apriete y procedimientos que marca BMW, con recambios de calidad adecuada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con verificación",
+      "body": "Reseteamos los avisos CBS, probamos el vehículo en carretera y te contactamos días después para confirmar el resultado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Sant Pere de Ribes.",
+  "commonIssuesIntro": "Estas son las averías más frecuentes que vemos en los BMW y MINI de Sant Pere de Ribes.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
-    },
-    {
       "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "body": "Habitual en motores B48 y N20 tras años de uso urbano. Genera ralentí basto y pérdida de tirón."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Corrosión moderada por cercanía a la costa",
+      "body": "La humedad del Garraf, aunque no esté en primera línea de mar, sigue favoreciendo el óxido en tuberías y tornillería."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Fallo de la bomba de agua eléctrica",
+      "body": "Un componente crítico que puede fallar sin previo aviso tras varios años de uso."
+    },
+    {
+      "title": "Ruido en la cadena de distribución",
+      "body": "En algunos motores N20 la cadena y las guías se desgastan antes de tiempo; lo comprobamos con ISTA."
     },
     {
       "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "body": "Reseteamos correctamente el sistema Condition Based Service tras el mantenimiento correspondiente."
     }
   ],
   "whyUs": [
     {
       "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "body": "Usamos ISTA/Rheingold, la misma herramienta que emplea la red oficial BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Sin desplazarte hasta Barcelona",
+      "body": "Ofrecemos el mismo nivel de diagnóstico dentro de la comarca del Garraf."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Garantía de fábrica sin riesgo",
+      "body": "Seguimos los procedimientos oficiales, por lo que tu garantía se mantiene intacta."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuestos claros y cerrados",
+      "body": "Sabrás el coste exacto antes de que empecemos a trabajar."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Especialistas dedicados a BMW y MINI",
+      "body": "Nos centramos en exclusiva en estas dos marcas para conocerlas a fondo."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Sant Pere de Ribes y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Sant Pere de Ribes y en los municipios cercanos del Garraf, con cita previa para diagnósticos y reparaciones sin prisas.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sant Pere de Ribes?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Pierdo la garantía de mi BMW si lo reparo en Sant Pere de Ribes fuera del oficial?",
+      "a": "No, la normativa europea protege ese derecho siempre que se usen recambios de calidad adecuada y se sigan los procedimientos del fabricante."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué diferencia hay con un taller multimarca del Garraf?",
+      "a": "Trabajamos con ISTA/Rheingold, el software oficial de BMW, con un nivel de diagnóstico superior al de un equipo genérico."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reseteáis el aviso de servicio CBS?",
+      "a": "Sí, tras completar el mantenimiento correspondiente reseteamos el sistema CBS con el mismo procedimiento que el oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "Tengo un MINI Cooper S, ¿también lo revisáis?",
+      "a": "Sí, somos especialistas en toda la gama MINI y BMW, incluidas las versiones deportivas."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario en Sant Pere de Ribes?",
+      "a": "De media entre un 30% y un 50% en mano de obra y recambios equivalentes, sin perder nivel de diagnóstico."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Sant Pere de Ribes, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Sant Pere de Ribes y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW y MINI de Sant Pere de Ribes",
+  "closingCta": "Si tu BMW o MINI necesita revisión o reparación en Sant Pere de Ribes, contacta con nosotros y te preparamos un presupuesto cerrado."
 }

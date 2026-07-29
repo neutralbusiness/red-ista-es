@@ -6,9 +6,9 @@
   "population": 15345,
   "lat": 41.69914,
   "lng": 2.71888,
-  "metaTitle": "Taller BMW y MINI en Tordera · Red ISTA · Especialistas",
-  "metaDescription": "Taller especialista en BMW y MINI en Tordera. Diagnóstico oficial ISTA, mecánica BMW y MINI, revisiones CBS. Presupuesto cerrado.",
-  "heroSubtitle": "¿Tienes un BMW o un MINI en Tordera y buscas un especialista de verdad, no un taller multimarca más? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "metaTitle": "Taller BMW y MINI en Tordera · Especialistas Red ISTA",
+  "metaDescription": "Taller especialista en BMW y MINI en Tordera. Diagnóstico oficial ISTA, mecánica avanzada y presupuesto cerrado, entre el Maresme y la Selva.",
+  "heroSubtitle": "En Tordera, entre el Maresme y la Selva, tu BMW o MINI necesita un diagnóstico serio, sin depender del concesionario más lejano.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,99 @@
       "text": "Sin perder la garantía BMW"
     }
   ],
-  "introLocal": "En Tordera vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEn los MINI que vemos en Tordera, sobre todo Cooper S y JCW con el motor turbo N14 (generación 2007-2010), el problema más conocido es el desgaste de la cadena de distribución y sus guías, que si no se detecta a tiempo puede acabar en una rotura grave del motor. Con ISTA comprobamos el estado real de la cadena antes de que dé síntomas audibles.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Tordera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW y MINI necesita en Tordera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Tordera, situada en el límite entre el Maresme y la Selva y atravesada por el río del mismo nombre, tiene un parque de BMW y MINI que combina propietarios del núcleo urbano con residentes de las zonas más agrícolas y dispersas del municipio. Entre los modelos electrificados que ya vemos con cierta frecuencia están el 330e y el X5 45e, en los que comprobamos el estado de salud de la batería de alto voltaje y el sistema de gestión térmica como parte del diagnóstico completo.\n\nEn los motores B48 y N20, presentes en buena parte de la gama BMW que circula por la zona, la carbonilla en las válvulas de admisión sigue siendo una de las averías más consultadas tras varios años de uso, con síntomas de ralentí basto y pérdida de tirón. También revisamos la cadena de distribución en unidades N20, un punto que conviene anticipar antes de que el desgaste se manifieste con ruido evidente.\n\nEl clima de Tordera, con veranos calurosos y cierta humedad por la cercanía tanto al mar como al curso del río, exige un sistema de refrigeración fiable: comprobamos siempre la bomba de agua eléctrica y el termostato en cada puesta a punto, porque un fallo repentino en pleno verano puede convertirse en un problema serio en pocos minutos.\n\nSi en Tordera prefieres no desplazarte hasta Barcelona o Girona para las revisiones de tu BMW, en Red ISTA tienes el mismo nivel de diagnóstico electrónico que el concesionario oficial, con la cercanía de un taller especializado de la zona.",
+  "servicesIntro": "En Tordera ofrecemos mantenimiento, diagnóstico y reparación completa para BMW y MINI, con diagnóstico de nivel oficial.",
+  "processIntro": "Este es el proceso que seguimos en cada intervención, para que sepas siempre qué le pasa a tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico con ISTA/Rheingold",
+      "body": "Conectamos tu BMW o MINI al equipo oficial para leer todos los módulos electrónicos y detectar averías con precisión."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Te presentamos cada partida, piezas y mano de obra, antes de iniciar cualquier trabajo en el vehículo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Confirmación antes de reparar",
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto, te lo consultamos primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación según especificación de fábrica",
+      "body": "Aplicamos los procedimientos y pares de apriete que marca BMW, con recambios de calidad contrastada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y comprobación final",
+      "body": "Reseteamos los avisos CBS, realizamos una prueba en carretera y te llamamos días después para confirmar que todo funciona bien."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW y MINI que circulan por Tordera.",
+  "commonIssuesIntro": "Estas son las averías que más diagnosticamos en los BMW y MINI de Tordera.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
-    },
-    {
       "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "body": "Habitual en motores B48 y N20 tras años de uso. Genera ralentí basto y pérdida de tirón; se corrige con limpieza del colector."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Desgaste de la cadena de distribución",
+      "body": "En motores N20 la cadena y sus guías pueden desgastarse antes de tiempo. Lo comprobamos con ISTA para anticiparnos."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Fallo en la bomba de agua eléctrica",
+      "body": "Componente crítico que puede fallar sin previo aviso tras varios años de uso, sobre todo en verano."
+    },
+    {
+      "title": "Humedad y corrosión en componentes bajos",
+      "body": "La cercanía al río y al mar favorece cierta corrosión en tornillería y líneas de freno, un punto que revisamos siempre."
     },
     {
       "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "body": "Reseteamos correctamente el sistema Condition Based Service tras el mantenimiento correspondiente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnóstico de nivel oficial",
+      "body": "Trabajamos con ISTA/Rheingold, la misma herramienta que usa la red BMW en sus concesionarios."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Sin desplazamientos innecesarios",
+      "body": "Ofrecemos el mismo nivel de diagnóstico sin tener que salir de la zona hacia Barcelona o Girona."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Garantía de fábrica sin riesgo",
+      "body": "Seguimos los procedimientos del fabricante y usamos recambios adecuados, por lo que tu garantía se mantiene."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuestos honestos y cerrados",
+      "body": "Conocerás el coste exacto antes de empezar, sin cambios posteriores."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Especialistas en BMW y MINI, no en todo",
+      "body": "Nos dedicamos exclusivamente a estas dos marcas, lo que nos permite conocer sus averías de memoria."
     }
   ],
-  "zoneText": "Atendemos BMW y MINI en Tordera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos BMW y MINI en Tordera y en los municipios cercanos del Maresme y la Selva, con cita previa para dedicar a cada vehículo el tiempo de diagnóstico necesario.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Tordera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Pierdo la garantía si reparo mi BMW en Tordera fuera del oficial?",
+      "a": "No, la normativa europea protege ese derecho siempre que se usen recambios de calidad adecuada y se sigan los procedimientos del fabricante."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Qué diferencia hay con un taller multimarca de la zona?",
+      "a": "Usamos ISTA/Rheingold, el software oficial de BMW, con un nivel de acceso a la electrónica del coche muy superior al de un equipo genérico."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Podéis resetear el aviso de servicio CBS de mi BMW?",
+      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema CBS con el mismo procedimiento que el oficial."
     },
     {
-      "q": "Tengo un MINI, ¿también sois especialistas o solo trabajáis BMW?",
-      "a": "Somos especialistas en BMW y MINI por igual — ambas marcas comparten buena parte de la mecánica y electrónica desde hace años, y Red ISTA está homologada para las dos."
+      "q": "Tengo un MINI Countryman, ¿también sois especialistas en él?",
+      "a": "Sí, trabajamos toda la gama BMW y MINI, incluidos los modelos más grandes como el Countryman."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puedo ahorrar frente al concesionario en Tordera?",
+      "a": "De media entre un 30% y un 50% en mano de obra y recambios equivalentes, con el mismo nivel de diagnóstico."
     }
   ],
-  "closingHeadline": "Tu BMW y MINI en Tordera, en buenas manos",
-  "closingCta": "Si tienes un BMW y MINI en Tordera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW y MINI en Tordera, en manos expertas",
+  "closingCta": "Si tu BMW o MINI necesita revisión o reparación en Tordera, pide cita y te preparamos un presupuesto cerrado antes de empezar."
 }
