@@ -117,5 +117,14 @@
     }
   ],
   "closingHeadline": "Tu BMW o MINI, listo para la Costa Daurada",
-  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Reus sin perder la garantía de fábrica."
+  "closingCta": "Pide presupuesto cerrado y trae tu BMW o MINI a Reus sin perder la garantía de fábrica.",
+  "tenant": {
+    "active": true,
+    "businessName": "Red ISTA",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@red-ista.es",
+    "addressStreet": ""
+  }
 }
