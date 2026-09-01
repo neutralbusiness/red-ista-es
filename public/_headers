@@ -12,7 +12,10 @@
 /img/*
   Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
 
-/favicon.svg
+/favicon.ico
+  Cache-Control: public, max-age=604800
+
+/favicon-*.png
   Cache-Control: public, max-age=2592000
 
 /blog/posts.json

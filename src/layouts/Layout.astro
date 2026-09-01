@@ -30,7 +30,12 @@ const { title, description, canonical, schema, ogImage = `https://${NETWORK.doma
 
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#252254" />
     <link rel="preload" as="image" href={NETWORK.heroImage} fetchpriority="high" />
     {NETWORK.gtmId && <link rel="dns-prefetch" href="https://www.googletagmanager.com" />}
 
