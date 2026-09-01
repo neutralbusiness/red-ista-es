@@ -1,0 +1,31 @@
+RED ISTA · web estática para Cloudflare Pages
+=============================================
+
+Despliegue: sube el contenido de esta carpeta como raíz del proyecto de Pages
+(o conecta el repo). Sin build. _redirects y _headers ya están incluidos.
+
+Imágenes que debes aportar en /img/ (WebP, proporciones indicadas):
+  hero.webp                 1200x900   Portada home (técnico con ICOM en un BMW)
+  ista-pantalla.webp        1200x900   Portada "Qué es ISTA"
+  servicios-hero.webp       1200x900   Portada Servicios
+  dasercars-hero.webp       1200x900   Portada Talleres Dasercars
+  dasercars-madrid.webp     1200x750   Fachada / nave Alcobendas
+  dasercars-barcelona.webp  1200x750   Fachada / nave Sant Joan Despí
+  sobre-red-ista.webp       1200x900   Portada Sobre nosotros
+  unete-hero.webp           1200x900   Portada Únete a la red
+  tile-ista.webp            1200x600   Tarjeta grande home
+  tile-dasercars.webp        800x600   Tarjeta home
+  tile-unete.webp            800x600   Tarjeta home
+  equipo-red-ista.webp       960x1200  Sección Sobre la red (home)
+  og-red-ista.jpg           1200x630   Imagen Open Graph / Twitter
+  logo-red-ista.png          512x512   Logo para Schema.org
+  apple-touch-icon.png       180x180
+
+Blog: /blog/posts.json se entrega vacío ([]). La página lo carga dinámicamente.
+
+Pendiente antes de publicar: razón social, NIF y domicilio en
+/aviso-legal/ y /politica-de-privacidad/ (marcado entre corchetes).
+
+IndexNow: la clave está en /a7f3c9e1b2d84f60a7f3c9e1b2d84f60.txt. Tras cada despliegue, notifica a Bing/Yandex con:
+  https://api.indexnow.org/indexnow?url=https://www.red-ista.es/&key=a7f3c9e1b2d84f60a7f3c9e1b2d84f60
+(o envía la lista de URLs del sitemap por POST). Google: enviar sitemap_index.xml en Search Console.

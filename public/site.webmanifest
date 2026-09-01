@@ -1,0 +1,21 @@
+{
+ "name": "Red ISTA · Talleres BMW y MINI",
+ "short_name": "Red ISTA",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#ffffff",
+ "theme_color": "#252254",
+ "lang": "es-ES",
+ "icons": [
+  {
+   "src": "/img/mark-red-ista.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/img/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
