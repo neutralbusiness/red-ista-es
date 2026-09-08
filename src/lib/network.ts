@@ -14,9 +14,9 @@ export const NETWORK = {
   sector: "ista",
   tagline:
     "Talleres autorizados BMW y MINI con equipo de diagnóstico oficial conectado a los servidores centrales de BMW AG en Alemania. Más de 100 centros en toda España.",
-  phone: "+34641161771",
-  phoneDisplay: "641 161 771",
-  whatsapp: "34641161771",
+  phone: "+34622552992",
+  phoneDisplay: "622 552 992",
+  whatsapp: "34622552992",
   email: "info@red-ista.es",
   heroImage: "/img/hero.webp", // se sube vía panel /webs/redes/red-ista
 } as const;
