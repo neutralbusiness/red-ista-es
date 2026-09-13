@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "slug": "mensajes-check-control-bmw-mini",
+    "title": "Mensajes Check Control en BMW y MINI: qué significa cada color y cuáles no esperan",
+    "excerpt": "Rojo es parar en cuanto sea seguro; amarillo, revisar pronto. Los mensajes que más vemos, dónde consultarlos en el coche y qué no hacer antes del diagnóstico.",
+    "category": "Diagnóstico",
+    "publishDate": "2026-09-12",
+    "readTime": 4,
+    "image": "/img/blog/mensajes-check-control-bmw-mini.webp",
+    "author": "Red ISTA"
+  },
+  {
+    "slug": "bmw-suspension-neumatica-trasera-baja",
+    "title": "BMW que amanece bajo de atrás: suspensión neumática, fugas y compresor",
+    "excerpt": "Si baja un lado, fuelle; si bajan los dos, válvula, líneas o compresor. Síntomas, por qué se agrietan los fuelles con el frío y el error más caro al repararla.",
+    "category": "Mecánica",
+    "publishDate": "2026-09-08",
+    "readTime": 5,
+    "image": "/img/blog/bmw-suspension-neumatica-trasera-baja.webp",
+    "author": "Red ISTA"
+  },
+  {
+    "slug": "actualizar-software-i-level-bmw-mini",
+    "title": "Actualizar el software (I-Level) de un BMW o MINI: cuándo compensa y qué riesgos tiene",
+    "excerpt": "Actualizar es la reparación cuando hay una medida técnica o una centralita nueva; no lo es en un coche que va bien. Qué se lee antes, qué se puede perder y cómo se hace.",
+    "category": "Electrónica",
+    "publishDate": "2026-09-04",
+    "readTime": 5,
+    "image": "/img/blog/actualizar-software-i-level-bmw-mini.webp",
+    "author": "Red ISTA"
+  }
+]

@@ -73,6 +73,15 @@ export const GET: APIRoute = async () => {
   }
   lines.push("");
 
+  // ───── Blog (artículos publicados una sola vez en la raíz) ─────
+  lines.push("## Blog");
+  lines.push("");
+  lines.push(`- [Blog de Red ISTA](${base}/blog/)`);
+  lines.push(`- [Actualizar el software (I-Level) de un BMW o MINI: cuándo compensa y qué riesgos tiene](${base}/blog/actualizar-software-i-level-bmw-mini/)`);
+  lines.push(`- [BMW que amanece bajo de atrás: suspensión neumática, fugas y compresor](${base}/blog/bmw-suspension-neumatica-trasera-baja/)`);
+  lines.push(`- [Mensajes Check Control en BMW y MINI: qué significa cada color y cuáles no esperan](${base}/blog/mensajes-check-control-bmw-mini/)`);
+  lines.push("");
+
   // ───── FAQ genérica ─────
   if (FAQ_BASE.length > 0) {
     lines.push("## Preguntas frecuentes");
