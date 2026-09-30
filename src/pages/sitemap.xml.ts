@@ -6,7 +6,6 @@ export const GET: APIRoute = () => {
   const urls = [
     { loc: `${base}/`, changefreq: "weekly", priority: "1.0" },
     { loc: `${base}/averias-bmw-por-motor/`, changefreq: "monthly", priority: "0.6" },
-    { loc: `${base}/aviso-legal/`, changefreq: "yearly", priority: "0.3" },
     { loc: `${base}/blog/`, changefreq: "weekly", priority: "0.7" },
     { loc: `${base}/blog/actualizar-software-i-level-bmw-mini/`, changefreq: "monthly", priority: "0.6" },
     { loc: `${base}/blog/bmw-suspension-neumatica-trasera-baja/`, changefreq: "monthly", priority: "0.6" },
@@ -14,8 +13,6 @@ export const GET: APIRoute = () => {
     { loc: `${base}/contacto/`, changefreq: "monthly", priority: "0.6" },
     { loc: `${base}/glosario/`, changefreq: "monthly", priority: "0.6" },
     { loc: `${base}/guia-comprar-bmw-segunda-mano/`, changefreq: "monthly", priority: "0.6" },
-    { loc: `${base}/politica-de-cookies/`, changefreq: "yearly", priority: "0.3" },
-    { loc: `${base}/politica-de-privacidad/`, changefreq: "yearly", priority: "0.3" },
     { loc: `${base}/que-es-ista/`, changefreq: "monthly", priority: "0.6" },
     { loc: `${base}/servicios/`, changefreq: "weekly", priority: "0.9" },
     { loc: `${base}/sobre-nosotros/`, changefreq: "monthly", priority: "0.6" },
