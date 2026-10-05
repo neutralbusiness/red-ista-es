@@ -300,9 +300,9 @@ body.nav-locked{overflow:hidden}}
 .social a:hover{border-color:var(--primary);color:var(--primary)}
 .social svg{width:18px;height:18px}
 /* reveal */
-.reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
+.js .reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
 .reveal.is-in{opacity:1;transform:none}
-@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.reveal{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.reveal,.js .reveal{opacity:1;transform:none}}
 
 
 /* nb-ancho-pantalla */
