@@ -107,12 +107,18 @@ export const PHONE_LANDLINE: Record<string, { phone: string; phoneDisplay: strin
 };
 
 /**
- * El 622 552 992 es el teléfono de Barcelona y no se usa como LLAMADA fuera de
- * Cataluña. En la Comunidad de Madrid se llama al de Madrid. El WhatsApp no se toca.
+ * El 622 552 992 (Barcelona) solo se usa en Cataluña. Cuando es el teléfono que
+ * tiene la ficha (el general de la red), se sustituye según la comunidad:
+ *   · Cataluña            → 622 552 992 (llamada 930 454 510 - 622 552 992)
+ *   · Comunidad de Madrid → 665 245 143 (llamada 919 583 601 - 665 245 143)
+ *   · resto de España     → 641 161 771 (llamada y WhatsApp, sin fijo)
+ * Los teléfonos propios de un taller asociado (cualquier otro número) no se tocan.
  */
-const CALL_PHONE_BY_CCAA: Record<string, Record<string, string>> = {
-  "Comunidad de Madrid": { "+34622552992": "+34665245143" },
-};
+const PHONE_622 = "+34622552992";
+function phoneForCcaa(phone: string, ccaa?: string): string | undefined {
+  if (!ccaa || phone !== PHONE_622 || ccaa === "Cataluña") return undefined;
+  return ccaa === "Comunidad de Madrid" ? "+34665245143" : "+34641161771";
+}
 
 /** Misma agrupación que `display` ("622 552 992" / "622 55 29 92") con los dígitos de `e164`. */
 function sameFormat(display: string, e164: string): string {
@@ -127,7 +133,7 @@ function sameFormat(display: string, e164: string): string {
 export function callPhones(phone: string, phoneDisplay: string, ccaa?: string) {
   let mobile = { phone, phoneDisplay };
   const norm = (phone || "").replace(/[^\d+]/g, "");
-  const otro = ccaa ? CALL_PHONE_BY_CCAA[ccaa]?.[norm] : undefined;
+  const otro = phoneForCcaa(norm, ccaa);
   if (otro) mobile = { phone: otro, phoneDisplay: sameFormat(phoneDisplay, otro) };
   const fijo = PHONE_LANDLINE[mobile.phone.replace(/[^\d+]/g, "")];
   if (!fijo) {
@@ -141,4 +147,14 @@ export function callPhones(phone: string, phoneDisplay: string, ccaa?: string) {
     landline,
     telephone: [fijo.phone, mobile.phone] as string | string[],
   };
+}
+
+
+/**
+ * WhatsApp por comunidad, con la misma regla que la llamada (ver phoneForCcaa).
+ */
+export function waFor(whatsapp: string, ccaa?: string): string {
+  const n = (whatsapp || "").replace(/\D/g, "");
+  const otro = phoneForCcaa(n.length === 9 ? "+34" + n : "+" + n, ccaa);
+  return otro ? otro.replace(/\D/g, "") : whatsapp;
 }

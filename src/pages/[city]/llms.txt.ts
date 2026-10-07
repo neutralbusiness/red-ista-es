@@ -8,7 +8,7 @@
  * parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, callPhones } from "../../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, callPhones, waFor } from "../../lib/network.ts";
 
 interface CityContent {
   slug: string;
@@ -106,7 +106,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(`- Email: ${NETWORK.email}`);
   lines.push(`- Teléfono: ${callC.display} (${[callC.landline?.phone, callC.mobile.phone].filter(Boolean).join(" - ")})`);
-  lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
+  lines.push(`- WhatsApp: +${waFor(NETWORK.whatsapp, city.ccaa)}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
   lines.push(
     `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando modelo BMW/MINI, año, kilometraje y descripción del problema o servicio buscado.`,

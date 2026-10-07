@@ -1,6 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { NETWORK, SERVICES, FAQ_BASE, callPhones } from "../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, callPhones, waFor } from "../lib/network.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -110,7 +110,7 @@ const phone = t?.phone ?? NETWORK.phone;
 const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
 // Llamada: fijo + móvil cuando el móvil tiene fijo asociado (el WhatsApp sigue siendo el móvil).
 const call = callPhones(phone, phoneDisplay, city.ccaa);
-const whatsapp = t?.whatsapp ?? NETWORK.whatsapp;
+const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa);
 const email = t?.email ?? NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
 const hours = t?.hours ?? "Lunes a Sábado · 08:00–20:00";
