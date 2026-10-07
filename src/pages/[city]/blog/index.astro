@@ -1,6 +1,8 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import { NETWORK } from "../../../lib/network.ts";
+import { NETWORK, callPhones } from "../../../lib/network.ts";
+// Llamada: fijo + móvil (el WhatsApp sigue siendo el móvil).
+const callN = callPhones(NETWORK.phone, NETWORK.phoneDisplay);
 import { getCollection, type CollectionEntry } from "astro:content";
 
 interface CityRef {
@@ -55,7 +57,7 @@ function postUrl(id: string): string {
       <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
       <div class="nav-links">
         <a href={`/`}>Inicio</a>
-        <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
+        {callN.landline ? (<><a href={`tel:${callN.landline.phone}`}>{callN.landline.phoneDisplay}</a> - <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a></>) : (<a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>)}
       </div>
     </div>
   </nav>

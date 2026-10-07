@@ -94,3 +94,33 @@ export const FAQ_BASE = [
     a: "Sí, disponemos de vehículos de cortesía cuando la reparación se prolonga más de un día. Sujeto a disponibilidad — consúltanos al pedir cita y lo reservamos para ti.",
   },
 ] as const;
+
+
+/**
+ * Fijo de LLAMADA que acompaña a un móvil (07-oct-2026). El WhatsApp sigue siendo
+ * el móvil: aquí solo se decide qué se marca y qué se muestra al llamar.
+ * Clave = móvil en E.164. Vale para el NETWORK y para cualquier tenant de ciudad.
+ */
+export const PHONE_LANDLINE: Record<string, { phone: string; phoneDisplay: string }> = {
+  "+34622552992": { phone: "+34930454510", phoneDisplay: "930 454 510" },
+};
+
+/** Datos de llamada: fijo + móvil si el móvil tiene fijo asociado; si no, el móvil tal cual. */
+export function callPhones(phone: string, phoneDisplay: string) {
+  const fijo = PHONE_LANDLINE[(phone || "").replace(/[^\d+]/g, "")];
+  if (!fijo) {
+    return { tel: phone, display: phoneDisplay, landline: null as null | { phone: string; phoneDisplay: string }, telephone: phone as string | string[] };
+  }
+  // El fijo se muestra con la misma agrupación que el móvil ("622 552 992" / "622 55 29 92").
+  const dd = phoneDisplay.replace(/\D/g, "");
+  const ld = fijo.phone.replace(/\D/g, "");
+  const src = ld.slice(Math.max(0, ld.length - dd.length));
+  let i = 0;
+  const landDisplay = phoneDisplay.replace(/\d/g, () => src[i++] ?? "");
+  return {
+    tel: fijo.phone,
+    display: `${landDisplay} - ${phoneDisplay}`,
+    landline: { phone: fijo.phone, phoneDisplay: landDisplay },
+    telephone: [fijo.phone, phone] as string | string[],
+  };
+}

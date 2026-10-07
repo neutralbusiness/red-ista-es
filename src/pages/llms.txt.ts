@@ -8,7 +8,9 @@
  * ciudad tiene su propio /llms.txt en src/pages/[city]/llms.txt.ts.
  */
 import type { APIRoute } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE } from "../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, callPhones } from "../lib/network.ts";
+// Llamada: fijo + móvil (el WhatsApp sigue siendo el móvil).
+const callN = callPhones(NETWORK.phone, NETWORK.phoneDisplay);
 
 interface CityRef {
   slug: string;
@@ -48,7 +50,7 @@ export const GET: APIRoute = async () => {
   lines.push("## Contacto");
   lines.push("");
   lines.push(`- Email: ${NETWORK.email}`);
-  lines.push(`- Teléfono: ${NETWORK.phoneDisplay} (${NETWORK.phone})`);
+  lines.push(`- Teléfono: ${callN.display} (${[callN.landline?.phone, NETWORK.phone].filter(Boolean).join(" - ")})`);
   lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
   lines.push("");
 
