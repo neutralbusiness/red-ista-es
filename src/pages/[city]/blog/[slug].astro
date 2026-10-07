@@ -1,8 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import { NETWORK, callPhones } from "../../../lib/network.ts";
-// Llamada: fijo + móvil (el WhatsApp sigue siendo el móvil).
-const callN = callPhones(NETWORK.phone, NETWORK.phoneDisplay);
 import ContactForm from "../../../components/ContactForm.astro";
 import { getCollection, render } from "astro:content";
 
@@ -40,6 +38,8 @@ export async function getStaticPaths() {
 }
 
 const { city, post } = Astro.props;
+// Llamada según la comunidad de la ciudad (el 622 no se usa como llamada fuera de Cataluña).
+const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa);
 const { Content } = await render(post);
 
 const slug = post.id.split("/").pop()!;
@@ -87,7 +87,7 @@ function formatDate(d: Date): string {
       <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
       <div class="nav-links">
         <a href={`/blog/`}>Blog</a>
-        {callN.landline ? (<><a href={`tel:${callN.landline.phone}`}>{callN.landline.phoneDisplay}</a> - <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a></>) : (<a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>)}
+        {callC.landline ? (<><a href={`tel:${callC.landline.phone}`}>{callC.landline.phoneDisplay}</a> - <a href={`tel:${callC.mobile.phone}`}>{callC.mobile.phoneDisplay}</a></>) : (<a href={`tel:${callC.mobile.phone}`}>{callC.mobile.phoneDisplay}</a>)}
       </div>
     </div>
   </nav>

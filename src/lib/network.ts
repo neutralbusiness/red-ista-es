@@ -102,25 +102,43 @@ export const FAQ_BASE = [
  * Clave = móvil en E.164. Vale para el NETWORK y para cualquier tenant de ciudad.
  */
 export const PHONE_LANDLINE: Record<string, { phone: string; phoneDisplay: string }> = {
-  "+34622552992": { phone: "+34930454510", phoneDisplay: "930 454 510" },
+  "+34622552992": { phone: "+34930454510", phoneDisplay: "930 454 510" }, // Barcelona
+  "+34665245143": { phone: "+34919583601", phoneDisplay: "919 583 601" }, // Madrid
 };
 
-/** Datos de llamada: fijo + móvil si el móvil tiene fijo asociado; si no, el móvil tal cual. */
-export function callPhones(phone: string, phoneDisplay: string) {
-  const fijo = PHONE_LANDLINE[(phone || "").replace(/[^\d+]/g, "")];
-  if (!fijo) {
-    return { tel: phone, display: phoneDisplay, landline: null as null | { phone: string; phoneDisplay: string }, telephone: phone as string | string[] };
-  }
-  // El fijo se muestra con la misma agrupación que el móvil ("622 552 992" / "622 55 29 92").
-  const dd = phoneDisplay.replace(/\D/g, "");
-  const ld = fijo.phone.replace(/\D/g, "");
-  const src = ld.slice(Math.max(0, ld.length - dd.length));
+/**
+ * El 622 552 992 es el teléfono de Barcelona y no se usa como LLAMADA fuera de
+ * Cataluña. En la Comunidad de Madrid se llama al de Madrid. El WhatsApp no se toca.
+ */
+const CALL_PHONE_BY_CCAA: Record<string, Record<string, string>> = {
+  "Comunidad de Madrid": { "+34622552992": "+34665245143" },
+};
+
+/** Misma agrupación que `display` ("622 552 992" / "622 55 29 92") con los dígitos de `e164`. */
+function sameFormat(display: string, e164: string): string {
+  const dd = display.replace(/\D/g, "");
+  const nd = e164.replace(/\D/g, "");
+  const src = nd.slice(Math.max(0, nd.length - dd.length));
   let i = 0;
-  const landDisplay = phoneDisplay.replace(/\d/g, () => src[i++] ?? "");
+  return display.replace(/\d/g, () => src[i++] ?? "");
+}
+
+/** Datos de llamada: fijo + móvil si el móvil tiene fijo asociado; si no, el móvil tal cual. */
+export function callPhones(phone: string, phoneDisplay: string, ccaa?: string) {
+  let mobile = { phone, phoneDisplay };
+  const norm = (phone || "").replace(/[^\d+]/g, "");
+  const otro = ccaa ? CALL_PHONE_BY_CCAA[ccaa]?.[norm] : undefined;
+  if (otro) mobile = { phone: otro, phoneDisplay: sameFormat(phoneDisplay, otro) };
+  const fijo = PHONE_LANDLINE[mobile.phone.replace(/[^\d+]/g, "")];
+  if (!fijo) {
+    return { tel: mobile.phone, display: mobile.phoneDisplay, mobile, landline: null as null | { phone: string; phoneDisplay: string }, telephone: mobile.phone as string | string[] };
+  }
+  const landline = { phone: fijo.phone, phoneDisplay: sameFormat(mobile.phoneDisplay, fijo.phone) };
   return {
     tel: fijo.phone,
-    display: `${landDisplay} - ${phoneDisplay}`,
-    landline: { phone: fijo.phone, phoneDisplay: landDisplay },
-    telephone: [fijo.phone, phone] as string | string[],
+    display: `${landline.phoneDisplay} - ${mobile.phoneDisplay}`,
+    mobile,
+    landline,
+    telephone: [fijo.phone, mobile.phone] as string | string[],
   };
 }

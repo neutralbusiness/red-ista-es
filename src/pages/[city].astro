@@ -109,7 +109,7 @@ const t = city.tenant && city.tenant.active ? city.tenant : null;
 const phone = t?.phone ?? NETWORK.phone;
 const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
 // Llamada: fijo + móvil cuando el móvil tiene fijo asociado (el WhatsApp sigue siendo el móvil).
-const call = callPhones(phone, phoneDisplay);
+const call = callPhones(phone, phoneDisplay, city.ccaa);
 const whatsapp = t?.whatsapp ?? NETWORK.whatsapp;
 const email = t?.email ?? NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
@@ -380,7 +380,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       </div>
       <a href={`tel:${call.tel}`} class="nav-cta" aria-label={`Llamar a ${call.display}`}>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        {call.landline ? (<span style="display:inline-flex;flex-wrap:wrap;column-gap:.3em;line-height:1.15"><span>{call.landline.phoneDisplay} -</span><span>{phoneDisplay}</span></span>) : (<span>{phoneDisplay}</span>)}
+        {call.landline ? (<span style="display:inline-flex;flex-wrap:wrap;column-gap:.3em;line-height:1.15"><span>{call.landline.phoneDisplay} -</span><span>{call.mobile.phoneDisplay}</span></span>) : (<span>{call.mobile.phoneDisplay}</span>)}
       </a>
     </div>
   </nav>
@@ -627,7 +627,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       </div>
       <div class="contact-card">
         <p class="label">Llámanos ahora</p>
-        {call.landline ? (<><a href={`tel:${call.landline.phone}`} class="phone-big">{call.landline.phoneDisplay}</a> - <a href={`tel:${phone}`} class="phone-big">{phoneDisplay}</a></>) : (<a href={`tel:${phone}`} class="phone-big">{phoneDisplay}</a>)}
+        {call.landline ? (<><a href={`tel:${call.landline.phone}`} class="phone-big">{call.landline.phoneDisplay}</a> - <a href={`tel:${call.mobile.phone}`} class="phone-big">{call.mobile.phoneDisplay}</a></>) : (<a href={`tel:${call.mobile.phone}`} class="phone-big">{call.mobile.phoneDisplay}</a>)}
         <p class="hours">{hours}</p>
         {addrStreet && (
           <p style="margin: 0.85rem 0 0; color: rgba(255,255,255,0.85); font-size: 0.95rem;">
@@ -780,7 +780,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         <div class="footer-col">
           <h2 class="footer-col-title">Contacto</h2>
           <ul>
-            <li>{call.landline ? (<><a href={`tel:${call.landline.phone}`}>{call.landline.phoneDisplay}</a> - <a href={`tel:${phone}`}>{phoneDisplay}</a></>) : (<a href={`tel:${phone}`}>{phoneDisplay}</a>)}</li>
+            <li>{call.landline ? (<><a href={`tel:${call.landline.phone}`}>{call.landline.phoneDisplay}</a> - <a href={`tel:${call.mobile.phone}`}>{call.mobile.phoneDisplay}</a></>) : (<a href={`tel:${call.mobile.phone}`}>{call.mobile.phoneDisplay}</a>)}</li>
             <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>
             <li><a href={mailtoUrl}>Formulario de contacto</a></li>
             <li><a href={`/blog/`}>Blog</a></li>

@@ -9,8 +9,6 @@
  */
 import type { APIRoute, GetStaticPaths } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE, callPhones } from "../../lib/network.ts";
-// Llamada: fijo + móvil (el WhatsApp sigue siendo el móvil).
-const callN = callPhones(NETWORK.phone, NETWORK.phoneDisplay);
 
 interface CityContent {
   slug: string;
@@ -51,6 +49,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
+  // Llamada según la comunidad de la ciudad (el 622 no se usa como llamada fuera de Cataluña).
+  const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
 
@@ -105,7 +105,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("## Contacto");
   lines.push("");
   lines.push(`- Email: ${NETWORK.email}`);
-  lines.push(`- Teléfono: ${callN.display} (${[callN.landline?.phone, NETWORK.phone].filter(Boolean).join(" - ")})`);
+  lines.push(`- Teléfono: ${callC.display} (${[callC.landline?.phone, callC.mobile.phone].filter(Boolean).join(" - ")})`);
   lines.push(`- WhatsApp: +${NETWORK.whatsapp}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
   lines.push(
