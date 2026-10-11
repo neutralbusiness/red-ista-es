@@ -33,7 +33,7 @@ table{border-collapse:collapse;width:100%}
 .muted{color:var(--ink-3)}
 .section-header{display:grid;gap:1rem;grid-template-columns:1fr;align-items:end;margin-bottom:clamp(2rem,4vw,3.5rem)}
 .section-header .lead{margin:0;max-width:60ch}
-@media(min-width:900px){.section-header--split{grid-template-columns:1.1fr .9fr;gap:3rem}}
+@media(min-width:900px){.section-header--split{grid-template-columns:1fr;gap:3rem}}
 /* header */
 .header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.82);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid transparent;transition:border-color .25s,box-shadow .25s}
 .header.is-scrolled{border-bottom-color:var(--line);box-shadow:0 6px 24px -18px rgba(37,34,84,.35)}
@@ -311,7 +311,7 @@ body.nav-locked{overflow:hidden}}
    se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
    cambia nada. */
 @media(min-width:1280px){
-.container{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+.container{max-width:1440px;width:auto;padding-inline:clamp(1rem,4vw,5rem);margin-inline:auto}
 h1{max-width:961px}
 .container p{max-width:72ch}
 .blog-empty h1,.blog-empty p{margin-inline:auto}
