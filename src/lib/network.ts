@@ -103,21 +103,21 @@ export const FAQ_BASE = [
  */
 export const PHONE_LANDLINE: Record<string, { phone: string; phoneDisplay: string }> = {
   "+34622552992": { phone: "+34930454510", phoneDisplay: "930 454 510" }, // Barcelona
-  "+34665245143": { phone: "+34919583601", phoneDisplay: "919 583 601" }, // Madrid
+  "+34673506793": { phone: "+34919583601", phoneDisplay: "919 583 601" }, // Madrid
 };
 
 /**
  * El 622 552 992 (Barcelona) solo se usa en Cataluña. Cuando es el teléfono que
  * tiene la ficha (el general de la red), se sustituye según la comunidad:
  *   · Cataluña            → 622 552 992 (llamada 930 454 510 - 622 552 992)
- *   · Comunidad de Madrid → 665 245 143 (llamada 919 583 601 - 665 245 143)
+ *   · Comunidad de Madrid → 673 506 793 (llamada 919 583 601 - 673 506 793)
  *   · resto de España     → 641 161 771 (llamada y WhatsApp, sin fijo)
  * Los teléfonos propios de un taller asociado (cualquier otro número) no se tocan.
  */
 const PHONE_622 = "+34622552992";
 function phoneForCcaa(phone: string, ccaa?: string): string | undefined {
   if (!ccaa || phone !== PHONE_622 || ccaa === "Cataluña") return undefined;
-  return ccaa === "Comunidad de Madrid" ? "+34665245143" : "+34641161771";
+  return ccaa === "Comunidad de Madrid" ? "+34673506793" : "+34641161771";
 }
 
 /** Misma agrupación que `display` ("622 552 992" / "622 55 29 92") con los dígitos de `e164`. */
